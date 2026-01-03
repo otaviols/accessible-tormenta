@@ -4,15 +4,16 @@
 
 ## � Progresso Geral
 
-**Capítulos Completos:** 3 de 13 (23%)
+**Capítulos Completos:** 4 de 13 (31%)
 - ✅ **Capítulo 01:** Introdução (3 arquivos)
 - ✅ **Capítulo 02:** Criação de Personagens (7 arquivos, incluindo 35 origens, 20 deuses)
 - ✅ **Capítulo 03:** Perícias & Poderes (9 arquivos, 33 perícias, 168+ poderes)
-- 🔄 **Capítulo 04:** Equipamento (próximo)
-- ⏳ Capítulos 05-13: Pendentes
+- ✅ **Capítulo 04:** Equipamento (6 arquivos, todas armas/armaduras, itens gerais, superiores)
+- 🔄 **Capítulo 05:** Magia (próximo)
+- ⏳ Capítulos 06-13: Pendentes
 
-**Arquivos Criados:** 68 arquivos
-**Volume Documentado:** ~500KB de conteúdo completo sem resumos
+**Arquivos Criados:** 74 arquivos
+**Volume Documentado:** ~750KB de conteúdo completo sem resumos
 
 ---
 
@@ -136,22 +137,27 @@
 
 ---
 
-## 🗡️ 06 - Equipamento
+## 🗡️ 06 - Equipamento ✅ COMPLETO
 
-- [ ] 01-riqueza-inicial.md - Dinheiro inicial, economia
-- [ ] 02-armas.md - Lista de armas corpo a corpo
-- [ ] 03-armas-distancia.md - Lista de armas de ataque à distância
-- [ ] 04-armaduras.md - Lista de armaduras
-- [ ] 05-escudos.md - Lista de escudos
-- [ ] 06-equipamento-aventura.md - Tochas, cordas, kit de ladrão, etc
-- [ ] 07-ferramentas.md - Ferramentas de artesão
-- [ ] 08-montarias-veiculos.md - Cavalos, carroças, navios
-- [ ] 09-servicos.md - Hospedagem, mensageiros, mercenários
+- [x] README.md - Visão geral completa com resumos de categorias, tabelas rápidas
+- [x] 01-riqueza-moedas.md - Sistema de Tibar (TC/T$/TO), equipamento inicial, carga completa
+- [x] 02-armas.md - TODAS armas (simples/marciais/exóticas/fogo), descrições completas, munições (48KB)
+- [x] 03-armaduras-escudos.md - TODAS armaduras (leves/pesadas), escudos, descrições, dicas escolha (20KB)
+- [x] 04-itens-gerais.md - 9 categorias completas: aventura, ferramentas, vestuário, esotéricos, alquímicos (preparados/catalisadores/venenos), alimentação, animais, veículos, serviços (47KB)
+- [x] 05-itens-superiores.md - Sistema melhorias (1-4), TODAS melhorias detalhadas, materiais especiais (Aço-Rubi, Adamante, Gelo Eterno, Madeira Tollon, Matéria Vermelha, Mitral), fabricação, exemplos (31KB)
 
 **Elementos especiais:**
-- [ ] Tabelas de armas (dano, crítico, alcance, tipo, peso, preço)
-- [ ] Tabelas de armaduras (bônus CA, penalidade, peso, preço)
-- [ ] Ilustrações de equipamentos (com alt-text)
+- [x] Tabelas completas de armas (dano, crítico, alcance, tipo, espaços, preço)
+- [x] Tabelas de armaduras e escudos (bônus Defesa, penalidade, espaços, preço)
+- [x] Tabela passos de dano
+- [x] Tabelas de equipamento geral (todas 9 categorias)
+- [x] Tabela de melhorias por categoria
+- [x] Tabela de preços de materiais especiais
+- [x] Descrições completas de TODOS itens (dezenas por categoria)
+- [x] Regras de venenos, pratos especiais, animais como parceiros
+- [x] Sistema de carga e espaços detalhado
+- [x] Combinações populares e exemplos práticos
+- [x] Dicas de escolha por classe/papel
 
 ---
 
