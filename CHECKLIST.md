@@ -4,7 +4,7 @@
 
 ## � Progresso Geral
 
-**Capítulos Completos:** 5 de 13 (38%)
+**Capítulos Completos:** 7 de 13 (54%)
 - ✅ **Capítulo 01:** Introdução (3 arquivos)
 - ✅ **Capítulo 02:** Criação de Personagens (7 arquivos, incluindo 35 origens, 20 deuses)
 - ✅ **Capítulo 03:** Raças (18 arquivos, todas raças comuns e raras)
@@ -12,10 +12,11 @@
 - ✅ **Capítulo 05:** Perícias & Poderes (9 arquivos, 33 perícias, 168+ poderes)
 - ✅ **Capítulo 06:** Equipamento (6 arquivos, todas armas/armaduras, itens gerais, superiores)
 - ✅ **Capítulo 07:** Magia (3 arquivos, 186 magias arcanas e divinas)
+- ✅ **Capítulo 07:** Regras de Jogo/Jogando (10 arquivos - papel jogador, testes, habilidades, combate completo, mestre, aventuras)
 - ⏳ Capítulos 08-13: Pendentes
 
-**Arquivos Criados:** 77 arquivos
-**Volume Documentado:** ~780KB de conteúdo completo sem resumos
+**Arquivos Criados:** 86 arquivos
+**Volume Documentado:** ~960KB de conteúdo completo sem resumos
 
 ---
 
@@ -163,37 +164,28 @@
 
 ---
 
-## 🎲 07 - Regras de Jogo
+## 🎲 07 - Regras de Jogo (Jogando) ✅ COMPLETO
 
-- [ ] 01-conceitos-basicos.md - Dados, testes, CD, modificadores
-- [ ] 02-testes-atributos.md - Como resolver testes de atributos
-- [ ] 03-testes-pericias.md - Como resolver testes de perícias
-- [ ] 04-condicoes.md - Estados (abalado, apavorado, cego, etc)
-- [ ] 05-deslocamento.md - Movimento, terreno difícil
-- [ ] 06-exploracao.md - Regras para viagens, descanso
-- [ ] 07-interacao-social.md - Testes sociais, atitudes
-
-**Elementos especiais:**
-- [ ] Tabela de dificuldades (CD)
-- [ ] Tabela completa de condições e efeitos
-- [ ] Tabela de deslocamento
-
----
-
-## ⚔️ 08 - Combate
-
-- [ ] 01-sequencia-combate.md - Rodadas, turnos, iniciativa
-- [ ] 02-acoes-combate.md - Ação padrão, movimento, completa, livre
-- [ ] 03-ataque-defesa.md - Rolagens de ataque, CA
-- [ ] 04-dano-cura.md - Tipos de dano, resistências, cura
-- [ ] 05-combate-montado.md - Regras especiais para montaria
-- [ ] 06-manobras-combate.md - Agarrar, desarmar, empurrar, etc
-- [ ] 07-modificadores-combate.md - Cobertura, flanquear, surpresa
+- [x] README.md - Visão geral completa, tabelas de referência rápida (~12KB)
+- [x] 01-papel-jogador.md - Como jogar, declarar ações, interpretar, criar personagem, vitórias/derrotas (~26KB)
+- [x] 02-regras-testes.md - Testes atributo/perícia, comuns/opostos, tabela dificuldades, regras adicionais completas, testes estendidos (~16KB)
+- [x] 03-habilidades.md - Usando habilidades, ação necessária, custos PM, alcance, efeito, duração, testes resistência, habilidades gerais (~18KB)
+- [x] 04-tipos-efeitos-dano.md - Todos 17 tipos de efeitos (arcano→veneno) e 12 tipos de dano (ácido→trevas) (~14KB)
+- [x] 05-sistema-combate.md - Combate completo: teste ataque, dano, críticos, iniciativa, rodada, tipos ações, manobras, ferimentos/morte (~24KB)
+- [x] 06-movimentacao-situacoes.md - Deslocamento, terreno difícil, camuflagem, cobertura, flanquear, objetos, condições combate (~22KB)
+- [x] 09-papel-mestre.md - Como mestrar, preparação, descrição, reações, improvisação, tipos de jogadores (~14KB)
+- [x] 10-estrutura-aventuras.md - Sessões/aventuras/campanhas, 8 fases aventura, 3 tipos cenas, 20 aventuras campanha, arquétipos NPCs (~14KB)
 
 **Elementos especiais:**
-- [ ] Tabela de ações no combate
-- [ ] Tabela de manobras (CD, efeitos)
-- [ ] Diagramas de combate (com descrição acessível)
+- [x] Tabela de dificuldades CD (fácil 5 → quase impossível 40)
+- [x] Tabelas de testes estendidos (complexidade baixa/média/alta)
+- [x] Tabela tipos de dano (12 tipos completos)
+- [x] Tabela tipos de efeitos (17 tipos completos)
+- [x] Tabela situações especiais combate (camuflagem, cobertura, flanquear)
+- [x] Tabela estatísticas objetos (tamanho/Def/RD/PV)
+- [x] Tabela ações combate (padrão/movimento/completa/livre/reação)
+- [x] Todas condições de combate detalhadas
+- [x] Guias para mestres (tipos jogadores, tipos cenas, estruturas narrativas)
 
 ---
 
@@ -209,19 +201,7 @@
 - [x] Sistema de 8 escolas de magia completo
 - [x] Regras de aprimoramentos e truques
 - [x] Mecânicas de lançamento, alcance, duração, resistências
-- [x] Exemplos de uso táti
-- [ ] 02-escolas-magia.md - Descrição das escolas
-- [ ] 03-lista-magias-arcanista.md - Todas as magias do arcanista
-- [ ] 04-lista-magias-clerigo.md - Todas as magias do clérigo
-- [ ] 05-lista-magias-druida.md - Todas as magias do druida
-- [ ] 06-lista-magias-bardo.md - Todas as magias do bardo
-- [ ] 07-descricao-magias.md - Descrição detalhada A-Z
-- [ ] 08-itens-magicos.md - Poções, pergaminhos, varinhas
-
-**Elementos especiais:**
-- [ ] Tabelas de magias por círculo/nível
-- [ ] Tabela de características das magias (alcance, duração, resistência)
-- [ ] Tabela de itens mágicos (poder, preço)
+- [x] Exemplos de uso tático
 
 ---
 
