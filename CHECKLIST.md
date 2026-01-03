@@ -86,10 +86,10 @@
 - [x] 08-druida.md - Forma Selvagem (5 formas), aspectos sazonais, companheiros
 - [x] 09-guerreiro.md - Ataque Especial (+20), Durão, Golpe Pessoal, maior PV
 - [x] 10-inventor.md - Engenhosidade, engenhocas, alquimia, itens superiores/mágicos
-- [ ] 11-ladino.md - Progressão, habilidades, poderes
-- [ ] 12-lutador.md - Progressão, habilidades, poderes
-- [ ] 13-nobre.md - Progressão, habilidades, poderes
-- [ ] 14-paladino.md - Progressão, habilidades, poderes
+  - [x] 11-ladino.md - Ataque Furtivo (+10d6), Especialista, Evasão Aprimorada, +8 perícias
+  - [x] 12-lutador.md - Briga (2d10), Casca Grossa (+Con+4), Golpe Cruel/Violento, igual PV Guerreiro
+  - [x] 13-nobre.md - Autoconfiança (+Car), Riqueza, Gritar Ordens, Realeza, +8 perícias
+  - [x] 14-paladino.md - Golpe Divino (+5d8), Cura pelas Mãos (5d8+5), Aura, Vingador Sagrado
 - [ ] (Adicionar outras classes conforme PDF)
 
 **Elementos especiais:**
