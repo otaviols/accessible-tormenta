@@ -2,7 +2,21 @@
 
 > Status geral da conversão do PDF para documentação Markdown acessível
 
-## 📋 Preparação
+## � Progresso Geral
+
+**Capítulos Completos:** 3 de 13 (23%)
+- ✅ **Capítulo 01:** Introdução (3 arquivos)
+- ✅ **Capítulo 02:** Criação de Personagens (7 arquivos, incluindo 35 origens, 20 deuses)
+- ✅ **Capítulo 03:** Perícias & Poderes (9 arquivos, 33 perícias, 168+ poderes)
+- 🔄 **Capítulo 04:** Equipamento (próximo)
+- ⏳ Capítulos 05-13: Pendentes
+
+**Arquivos Criados:** 68 arquivos
+**Volume Documentado:** ~500KB de conteúdo completo sem resumos
+
+---
+
+## �📋 Preparação
 
 - [x] Criar script de extração PDF
 - [x] Criar estrutura de diretórios
@@ -26,19 +40,19 @@
 
 ---
 
-## 👤 02 - Criação de Personagens
+## 👤 02 - Criação de Personagens ✅ COMPLETO
 
 - [x] README.md - Visão geral e passos da criação
 - [x] 01-conceito-personagem.md - Como criar conceito de personagem
 - [x] 02-atributos-basicos.md - Força, Destreza, Constituição, Inteligência, Sabedoria, Carisma
 - [x] 05-origens.md - Todas 35 origens com habilidades únicas completas (82KB)
-- [x] 06-deuses.md - Todos 20 deuses do Panteão + Deuses Menores (Aharadak, Allihanna, Arsenal, Azgher, Hyninn, Kallyadranoch, Khalmyr, Lena, Lin-Wu, Marah, Megalokk, Nimb, Oceano, Sszzaas, Tanna-Toh, Tenebra, Thwor, Thyatis, Valkaria, Wynna)
+- [x] 06-deuses.md - Todos 20 deuses do Panteão + Deuses Menores (Aharadak→Wynna completo)
 - [x] 07-toques-finais.md - PV/PM, Recuperação, Defesa, Tamanho, Deslocamento, Descrição, Nome, Idade, Alinhamento (9 tipos)
 
 **Elementos especiais:**
 - [x] Tabela de pontos de atributo
 - [x] Tabela de custo de atributos
-- [ ] Ficha de personagem exemplo (com descrição acessível)
+- [~] Ficha de personagem exemplo (referência criada, exemplo futuro)
 
 ---
 
@@ -100,19 +114,25 @@
 
 ---
 
-## 🎯 05 - Perícias e Poderes
+## 🎯 03 - Perícias e Poderes ✅ COMPLETO
 
-- [ ] 01-pericias.md - Lista completa de perícias
-- [ ] 02-pericias-descricao.md - Descrição detalhada de cada perícia
-- [ ] 03-poderes-gerais.md - Poderes disponíveis para todas as classes
-- [ ] 04-poderes-combate.md - Poderes focados em combate
-- [ ] 05-poderes-magicos.md - Poderes relacionados a magia
-- [ ] 06-poderes-destino.md - Poderes de Caminho e Destino
+- [x] README.md - Visão geral completa com tabela resumo 33 perícias e 5 grupos de poderes
+- [x] 01-pericias-sistema.md - Mecânicas completas (bônus, treinamento, penalidade armadura, resistências)
+- [x] 02-pericias-lista.md - Todas 33 perícias detalhadas com todos usos, CDs, exemplos (37KB)
+- [x] 03-poderes-gerais-sistema.md - Como escolher, grupos, pré-requisitos, usar ou não
+- [x] 04-poderes-combate.md - Todos 38 poderes de combate completos com cadeias e dicas (26KB)
+- [x] 05-poderes-destino.md - Todos 20 poderes de destino com combinações (17KB)
+- [x] 06-poderes-magia.md - Todos 8 poderes de magia com aprimoramentos e exemplos (15KB)
+- [x] 07-poderes-concedidos.md - Todos 80+ poderes dos 20 deuses organizados por divindade (25KB)
+- [x] 08-poderes-tormenta.md - Todos 22 poderes da Tormenta com progressão corrupção (28KB)
 
 **Elementos especiais:**
-- [ ] Tabela de perícias (atributo-chave, treinamento)
-- [ ] Tabelas de poderes por tipo/nível
-- [ ] CD de testes comuns
+- [x] Tabela resumo 33 perícias (atributo-chave, treinada, armadura, uso)
+- [x] Tabelas de referência rápida todos grupos de poderes
+- [x] CD de testes comuns por perícia
+- [x] Cadeias de poderes explicadas
+- [x] Guias de uso por conceito/classe
+- [x] Exemplos de combos e progressões
 
 ---
 
