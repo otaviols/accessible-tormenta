@@ -4,16 +4,18 @@
 
 ## � Progresso Geral
 
-**Capítulos Completos:** 4 de 13 (31%)
+**Capítulos Completos:** 5 de 13 (38%)
 - ✅ **Capítulo 01:** Introdução (3 arquivos)
 - ✅ **Capítulo 02:** Criação de Personagens (7 arquivos, incluindo 35 origens, 20 deuses)
-- ✅ **Capítulo 03:** Perícias & Poderes (9 arquivos, 33 perícias, 168+ poderes)
-- ✅ **Capítulo 04:** Equipamento (6 arquivos, todas armas/armaduras, itens gerais, superiores)
-- 🔄 **Capítulo 05:** Magia (próximo)
-- ⏳ Capítulos 06-13: Pendentes
+- ✅ **Capítulo 03:** Raças (18 arquivos, todas raças comuns e raras)
+- ✅ **Capítulo 04:** Classes (15 arquivos, todas as 14 classes)
+- ✅ **Capítulo 05:** Perícias & Poderes (9 arquivos, 33 perícias, 168+ poderes)
+- ✅ **Capítulo 06:** Equipamento (6 arquivos, todas armas/armaduras, itens gerais, superiores)
+- ✅ **Capítulo 07:** Magia (3 arquivos, 186 magias arcanas e divinas)
+- ⏳ Capítulos 08-13: Pendentes
 
-**Arquivos Criados:** 74 arquivos
-**Volume Documentado:** ~750KB de conteúdo completo sem resumos
+**Arquivos Criados:** 77 arquivos
+**Volume Documentado:** ~780KB de conteúdo completo sem resumos
 
 ---
 
@@ -28,16 +30,16 @@
 
 ---
 
-## 📖 01 - Introdução
+## 📖 01 - Introdução ✅ COMPLETO
 
+- [x] README.md - Índice da seção e navegação
 - [x] 01-o-que-e-tormenta20.md - Introdução, mecânica básica, como jogar
 - [x] 02-termos-importantes.md - Glossário de termos essenciais
 - [x] 03-20-coisas-a-saber.md - Filosofia e características do jogo
-- [x] README.md - Índice da seção
 
 **Elementos especiais:**
-- [~] Imagens de capa/ilustrações iniciais (com alt-text) - Referências criadas
 - [x] Boxes/sidebars explicativos
+- [~] Imagens de capa/ilustrações iniciais (com alt-text) - Referências criadas
 
 ---
 
@@ -57,10 +59,11 @@
 
 ---
 
-## 🧙 03 - Raças
+## 🧙 03 - Raças ✅ COMPLETO
+
+- [x] README.md - Visão geral das raças e tabela resumo completa
 
 ### Raças Comuns
-- [x] README.md - Visão geral das raças e tabela resumo
 - [x] 01-humano.md - Características, habilidades, cultura
 - [x] 02-anao.md - Características, habilidades, cultura
 - [x] 03-dahllan.md - Características, habilidades, cultura
@@ -83,14 +86,13 @@
 
 **Elementos especiais:**
 - [x] Tabela resumo de todas as raças
-- [x] Ilustrações de cada raça (com alt-text descritivo)
 - [x] Boxes com características culturais
+- [~] Ilustrações de cada raça (com alt-text descritivo) - Referências criadas
 
 ---
+ ✅ COMPLETO
 
-## ⚔️ 04 - Classes
-
-- [x] README.md - Visão geral, níveis, multiclasse, tabela resumo
+- [x] README.md - Visão geral, níveis, multiclasse, tabela resumo completa
 - [x] 01-arcanista.md - 3 caminhos (Bruxo/Feiticeiro/Mago), 26 poderes, 3 linhagens, familiares
 - [x] 02-barbaro.md - Fúria, RD, 20 poderes, animais totêmicos
 - [x] 03-bardo.md - Inspiração, Eclético, magias (3 escolas), 21 poderes, músicas
@@ -101,16 +103,16 @@
 - [x] 08-druida.md - Forma Selvagem (5 formas), aspectos sazonais, companheiros
 - [x] 09-guerreiro.md - Ataque Especial (+20), Durão, Golpe Pessoal, maior PV
 - [x] 10-inventor.md - Engenhosidade, engenhocas, alquimia, itens superiores/mágicos
-  - [x] 11-ladino.md - Ataque Furtivo (+10d6), Especialista, Evasão Aprimorada, +8 perícias
-  - [x] 12-lutador.md - Briga (2d10), Casca Grossa (+Con+4), Golpe Cruel/Violento, igual PV Guerreiro
-  - [x] 13-nobre.md - Autoconfiança (+Car), Riqueza, Gritar Ordens, Realeza, +8 perícias
-  - [x] 14-paladino.md - Golpe Divino (+5d8), Cura pelas Mãos (5d8+5), Aura, Vingador Sagrado
-- [ ] (Adicionar outras classes conforme PDF)
+- [x] 11-ladino.md - Ataque Furtivo (+10d6), Especialista, Evasão Aprimorada, +8 perícias
+- [x] 12-lutador.md - Briga (2d10), Casca Grossa (+Con+4), Golpe Cruel/Violento, igual PV Guerreiro
+- [x] 13-nobre.md - Autoconfiança (+Car), Riqueza, Gritar Ordens, Realeza, +8 perícias
+- [x] 14-paladino.md - Golpe Divino (+5d8), Cura pelas Mãos (5d8+5), Aura, Vingador Sagrado
 
 **Elementos especiais:**
-- [ ] Tabelas de progressão de classe (PV, bônus, habilidades por nível)
-- [ ] Tabelas de magias conhecidas/por dia
-- [ ] Ilustrações representativas (com alt-text)
+- [x] Tabelas de progressão de classe (PV, bônus, habilidades por nível)
+- [x] Tabelas de magias conhecidas/por dia
+- [x] Boxes de arquétipos/caminhos
+- [~] Ilustrações representativas (com alt-text) - Referências criada (com alt-text)
 - [ ] Boxes de arquétipos/caminhos
 
 ---
@@ -195,9 +197,19 @@
 
 ---
 
-## ✨ 09 - Magia
+## ✨ 09 - Magia ✅ COMPLETO
 
-- [ ] 01-regras-magia.md - Conjuração, PM, CD de magia
+- [x] README.md - Visão geral completa do sistema de magia
+- [x] 01-listas-magias.md - Listas organizadas de 186 magias arcanas e divinas por círculo, escola e índice alfabético
+- [x] 02-conceitos-regras.md - Conceitos fundamentais, atributo-chave, CD, componentes, PM, aprimoramentos, truques, escolas, lançamento em combate, exemplos
+
+**Conteúdo Especial:**
+- [x] 90 magias arcanas organizadas por círculo (1º ao 5º)
+- [x] 96 magias divinas organizadas por círculo (1º ao 5º)
+- [x] Sistema de 8 escolas de magia completo
+- [x] Regras de aprimoramentos e truques
+- [x] Mecânicas de lançamento, alcance, duração, resistências
+- [x] Exemplos de uso táti
 - [ ] 02-escolas-magia.md - Descrição das escolas
 - [ ] 03-lista-magias-arcanista.md - Todas as magias do arcanista
 - [ ] 04-lista-magias-clerigo.md - Todas as magias do clérigo
