@@ -31,9 +31,9 @@
 - [x] README.md - Visão geral e passos da criação
 - [x] 01-conceito-personagem.md - Como criar conceito de personagem
 - [x] 02-atributos-basicos.md - Força, Destreza, Constituição, Inteligência, Sabedoria, Carisma
-- [ ] 07-toques-finais.md - PV, PM, Defesa, características derivadas
-- [ ] 05-origens.md - Backgrounds e origens
-- [ ] 06-deuses.md - Divindades e devoção
+- [x] 05-origens.md - Todas 35 origens com habilidades únicas completas (82KB)
+- [x] 06-deuses.md - Todos 20 deuses do Panteão + Deuses Menores (Aharadak, Allihanna, Arsenal, Azgher, Hyninn, Kallyadranoch, Khalmyr, Lena, Lin-Wu, Marah, Megalokk, Nimb, Oceano, Sszzaas, Tanna-Toh, Tenebra, Thwor, Thyatis, Valkaria, Wynna)
+- [x] 07-toques-finais.md - PV/PM, Recuperação, Defesa, Tamanho, Deslocamento, Descrição, Nome, Idade, Alinhamento (9 tipos)
 
 **Elementos especiais:**
 - [x] Tabela de pontos de atributo
