@@ -4,7 +4,7 @@
 
 ## � Progresso Geral
 
-**Capítulos Completos:** 7 de 13 (54%)
+**Capítulos Completos:** 8 de 13 (62%)
 - ✅ **Capítulo 01:** Introdução (3 arquivos)
 - ✅ **Capítulo 02:** Criação de Personagens (7 arquivos, incluindo 35 origens, 20 deuses)
 - ✅ **Capítulo 03:** Raças (18 arquivos, todas raças comuns e raras)
@@ -13,10 +13,11 @@
 - ✅ **Capítulo 06:** Equipamento (6 arquivos, todas armas/armaduras, itens gerais, superiores)
 - ✅ **Capítulo 07:** Magia (3 arquivos, 186 magias arcanas e divinas)
 - ✅ **Capítulo 07:** Regras de Jogo/Jogando (10 arquivos - papel jogador, testes, habilidades, combate completo, mestre, aventuras)
-- ⏳ Capítulos 08-13: Pendentes
+- ✅ **Capítulo 08:** Ameaças/Combate (3 arquivos - combate construction, bestiário completo masmorras/ermos/goblinoides/puristas/sszzaazitas/trolls/dragões/tormenta)
+- ⏳ Capítulos 09-13: Pendentes
 
-**Arquivos Criados:** 86 arquivos
-**Volume Documentado:** ~960KB de conteúdo completo sem resumos
+**Arquivos Criados:** 89 arquivos
+**Volume Documentado:** ~990KB de conteúdo completo sem resumos
 
 ---
 
