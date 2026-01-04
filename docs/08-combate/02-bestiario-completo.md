@@ -1,193 +1,179 @@
-# Bestiário Completo - Criaturas de Arton
+# Bestiário de Tormenta 20
 
-[◂ Voltar ao Índice](README.md)
-
----
-
-Este bestiário apresenta todas as criaturas organizadas por ambiente e grupo temático. Cada entrada inclui ficha completa com todas as estatísticas necessárias para uso em jogo.
+> **Criaturas de Arton organizadas por ambiente**
 
 ---
 
 ## 📖 Índice por Ambiente
 
-- [Masmorras](#masmorras)
-- [Ermos](#ermos)
-- [Duyshidakk - Legião de Duyshidakk](#duyshidakk)
-- [Reino dos Mortos](#reino-dos-mortos)
-- [Puristas](#puristas)
-- [Tormenta](#tormenta)
-- [Dragões](#dragões)
+- **[Masmorras](#masmorras)** - Criaturas de dungeons e subterrâneos
+- **[Ermos](#ermos)** - Criaturas de planícies, florestas e estradas
+- **[Reino dos Mortos](#reino-dos-mortos)** - Mortos-vivos de Aslothia
+- **[Os Puristas](#os-puristas)** - Forças da Supremacia Purista
+- **[Os Duyshidakk](#os-duyshidakk)** - Povos goblinoides de Lamnor
+- **[Os Sszzaazitas](#os-sszzaazitas)** - Cultistas e servos de Sszzaas
+- **[Os Trolls Nobres](#os-trolls-nobres)** - Finntroll dos subterrâneos
+- **[Os Dragões](#os-dragoes)** - Criaturas dracônicas e kobolds
+- **[A Tormenta](#a-tormenta)** - Demônios lefeu e servos de Aharadak
 
 ---
 
 ## Masmorras
 
-Criaturas que habitam dungeons, ruínas e locais subterrâneos.
+*Criaturas comuns em masmorras, dungeons, ruínas antigas e subterrâneos escuros. Estes monstros espreitam corredores úmidos e câmaras esquecidas, guardando tesouros ou simplesmente caçando presas.*
 
 ### Glop (ND 1/4)
-**Monstro Pequeno (lacaio)**
 
-Pequenas gosmas esverdeadas com formato de gota que perambulam pelos corredores de masmorras.
+**Monstro Minúsculo (lacaio)**
 
-- **Iniciativa** +0, **Percepção** +0, percepção às cegas
-- **Defesa** 10, **Fort** +0, **Ref** +2, **Von** –5, imunidade a ácido
-- **PV** 10
-- **Deslocamento** 9m (6q)
-- **Corpo a Corpo** Pancada +7 (1d4 mais 1d4 ácido)
-- **For** 0, **Des** 0, **Con** 0, **Int** —, **Sab** –5, **Car** –5
+- **Iniciativa** +3, **Percepção** +0, percepção às cegas
+- **Defesa** 13, **Fort** +2, **Ref** +3, **Von** +0, imunidade a paralisia e veneno
+- **Pontos de Vida** 8
+- **Deslocamento** 6m (4q), escalar 6m (4q)
+- **Corpo a Corpo** Pancada +3 (1d4)
+- **For** –1, **Des** 2, **Con** 1, **Int** —, **Sab** 0, **Car** –5
 - **Tesouro** Nenhum
 
 ### Rato Gigante (ND 1/4)
+
 **Animal Pequeno (lacaio)**
 
-Roedor de pelagem grossa, olhos vermelhos e presas amareladas que atinge até um metro de comprimento.
-
 - **Iniciativa** +5, **Percepção** +4, faro, visão na penumbra
-- **Defesa** 12, **Fort** +0, **Ref** +3, **Von** –2
-- **PV** 3
+- **Defesa** 13, **Fort** +3, **Ref** +5, **Von** +1
+- **Pontos de Vida** 6
 - **Deslocamento** 12m (8q), escalar 6m (4q)
-- **Corpo a Corpo** Mordida +7 (1d4+3 mais doença)
-- **Doença** Criatura mordida é exposta a infecção do esgoto
-- **For** 0, **Des** 2, **Con** 1, **Int** –4, **Sab** 1, **Car** –3
+- **Corpo a Corpo** Mordida +7 (1d4+1)
+- **Doença** Uma criatura mordida por um rato gigante é exposta a doença febre da sujeira (veja a página 318 do manual)
+- **For** 0, **Des** 3, **Con** 1, **Int** –4, **Sab** 1, **Car** –2
+- **Perícias** Atletismo +4, Furtividade +7
 - **Tesouro** Nenhum
 
 ### Orc (ND 1/3)
+
 **Humanoide (orc) Médio (lacaio)**
 
-Humanoides monstruosos selvagens e violentos que habitam subterrâneos.
-
-- **Iniciativa** +4, **Percepção** +1, visão no escuro
-- **Defesa** 14, **Fort** +5, **Ref** +3, **Von** +0
-- **PV** 8
+- **Iniciativa** +3, **Percepção** +1, visão no escuro
+- **Defesa** 16, **Fort** +5, **Ref** +3, **Von** –1
+- **Pontos de Vida** 12
 - **Deslocamento** 9m (6q)
-- **Corpo a Corpo** Maça +9 (1d8+7)
-- **Sensibilidade a Luz** Quando exposto a luz do sol, fica ofuscado
+- **Corpo a Corpo** Machado de guerra +8 (1d12+6, x3)
 - **For** 4, **Des** 1, **Con** 2, **Int** –1, **Sab** –1, **Car** –1
-- **Equipamento** Couro batido, maça
+- **Equipamento** Armadura de couro, machado de guerra
 - **Tesouro** Metade
 
 ### Orc Chefe (ND 2)
+
 **Humanoide (orc) Médio (solo)**
 
-Líder orc poderoso que comanda pela força bruta.
-
-- **Iniciativa** +5, **Percepção** +4, visão no escuro
-- **Defesa** 19, **Fort** +13, **Ref** +7, **Von** +2
-- **PV** 66
+- **Iniciativa** +4, **Percepção** +3, visão no escuro
+- **Defesa** 20, **Fort** +11, **Ref** +5, **Von** +2
+- **Pontos de Vida** 60
 - **Deslocamento** 9m (6q)
-- **Corpo a Corpo** Machado de batalha +11 (1d8+12, x3)
-- **Urro Selvagem** (Movimento) Recebe +2 em testes de ataque e rolagens de dano corpo a corpo até o final da cena
-- **Sensibilidade a Luz** Quando exposto a luz do sol, fica ofuscado
-- **For** 6, **Des** 2, **Con** 4, **Int** 0, **Sab** 1, **Car** 0
-- **Perícias** Intimidação +4, Sobrevivência +5 (+7 em subterrâneos)
-- **Equipamento** Gibão de peles, machado de batalha
+- **Corpo a Corpo** Machado de guerra +15 (1d12+12, x3)
+- **Investida Brutal** Quando faz uma investida com seu machado de guerra, o orc chefe causa +1d12 pontos de dano
+- **For** 5, **Des** 1, **Con** 4, **Int** –1, **Sab** 1, **Car** 0
+- **Perícias** Atletismo +9, Intimidação +6
+- **Equipamento** Cota de malha, escudo pesado, machado de guerra aumentado
 - **Tesouro** Padrão
 
 ### Aranha Gigante (ND 2)
+
 **Monstro Grande (solo)**
 
-Grandes como cavalos, capturam vítimas com teia e veneno.
-
-- **Iniciativa** +7, **Percepção** +3, visão no escuro
-- **Defesa** 19, **Fort** +8, **Ref** +11, **Von** +3
-- **PV** 77
+- **Iniciativa** +9, **Percepção** +7, percepção de tremor, visão no escuro
+- **Defesa** 18, **Fort** +6, **Ref** +13, **Von** +5
+- **Pontos de Vida** 60
 - **Deslocamento** 12m (8q), escalar 12m (8q)
-- **Corpo a Corpo** Mordida +12 (2d6+8 mais veneno)
-- **Teia** (padrão) Dispara teia em área de 3m em alcance curto. Criaturas ficam enredadas (Reflexos CD 18 evita)
-- **Veneno** Condição fraco (Fort CD 18 evita)
-- **For** 5, **Des** 4, **Con** 1, **Int** –5, **Sab** 0, **Car** –4
-- **Perícias** Furtividade +9
-- **Tesouro** 1d4 doses de veneno (CD 17, T$ 45 cada)
+- **Corpo a Corpo** Mordida +14 (2d6+8 mais veneno)
+- **Teia** (Padrão) A aranha cospe uma teia pegajosa. Uma criatura em alcance curto fica agarrada (Reflexos CD 18 evita)
+- **Veneno** Perde 1d12 pontos de vida durante 3 rodadas (Fortitude CD 18 reduz para uma rodada)
+- **For** 4, **Des** 4, **Con** 2, **Int** –4, **Sab** 1, **Car** –2
+- **Perícias** Atletismo +10, Furtividade +11, Percepção +7
+- **Tesouro** Metade
 
 ### Gárgula (ND 2)
-**Construto Médio (solo)**
 
-Predadores furtivos que se mantêm imóveis fingindo ser estátuas.
+**Monstro Médio (lacaio)**
 
-- **Iniciativa** +3, **Percepção** +3, visão no escuro
-- **Defesa** 19, **Fort** +13, **Ref** +7, **Von** +2, imunidade a petrificação, RD 5
-- **PV** 65
-- **Deslocamento** 12m (8q), voo 18m (12q)
-- **Corpo a Corpo** Duas garras +12 (1d6+6)
-- **Imobilidade** Pode permanecer completamente imóvel (Percepção CD 35 para perceber que é criatura)
-- **For** 6, **Des** 2, **Con** 4, **Int** –2, **Sab** 1, **Car** –2
-- **Tesouro** Padrão
+- **Iniciativa** +6, **Percepção** +7, visão no escuro
+- **Defesa** 22, **Fort** +8, **Ref** +8, **Von** +6, redução de dano 5
+- **Pontos de Vida** 45
+- **Deslocamento** 9m (6q), voo 18m (12q)
+- **Corpo a Corpo** Garra +12 (1d6+5), garra +12 (1d6+5), chifre +12 (1d4+5)
+- **For** 3, **Des** 2, **Con** 3, **Int** –2, **Sab** 1, **Car** –2
+- **Tesouro** Metade
 
 ### Guerreiro de Chifres (ND 3)
-**Espírito (demônio) Médio (solo)**
 
-Demônio com corpo humanoide e cabeça de bode.
+**Humanoide (minotauro) Grande (solo)**
 
-- **Iniciativa** +6, **Percepção** +3, faro, visão no escuro
-- **Defesa** 21, **Fort** +13, **Ref** +11, **Von** +9, imunidade a ácido e venenos, RD 5, redução de fogo e frio 10
-- **PV** 100
-- **Deslocamento** 9m (6q)
-- **Corpo a Corpo** Machado de guerra +14 (1d12+16, x3) ou chifres +14 (2d6+10 impacto)
-- **Marrada** (Completa) Faz investida e ataca com machado e chifres (ambos recebem +2)
-- **For** 5, **Des** 3, **Con** 4, **Int** –2, **Sab** 1, **Car** –1
-- **Perícias** Atletismo +8, Intimidação +4
-- **Equipamento** Machado de guerra cruel
+- **Iniciativa** +4, **Percepção** +4, faro, visão na penumbra
+- **Defesa** 24, **Fort** +13, **Ref** +6, **Von** +4
+- **Pontos de Vida** 115
+- **Deslocamento** 12m (8q)
+- **Corpo a Corpo** Machado de guerra +15 (3d6+12, x3) e chifres +15 (1d8+12)
+- **Investida Poderosa** Quando faz uma investida, o minotauro causa +2d6 pontos de dano com seu ataque de chifres
+- **For** 6, **Des** 0, **Con** 5, **Int** –2, **Sab** 0, **Car** –2
+- **Perícias** Atletismo +13, Intimidação +7, Sobrevivência +8
+- **Equipamento** Machado de guerra aumentado
 - **Tesouro** Padrão
 
 ### Mantícora (ND 6)
+
 **Monstro Grande (solo)**
 
-Corpo de leão, asas de dragão e rosto humano envelhecido.
-
-- **Iniciativa** +7, **Percepção** +8, faro, visão no escuro
-- **Defesa** 26, **Fort** +18, **Ref** +7, **Von** +12
-- **PV** 240
+- **Iniciativa** +8, **Percepção** +9, faro, visão no escuro
+- **Defesa** 26, **Fort** +13, **Ref** +14, **Von** +7
+- **Pontos de Vida** 225
 - **Deslocamento** 9m (6q), voo 15m (10q)
-- **Corpo a Corpo** Mordida +18 (1d10+12) e duas garras +18 (1d8+12)
-- **Espinhos** (Movimento) Dispara 1d4 espinhos. Cada um atinge criatura em alcance médio, causando 1d8+7 perfuração (Ref CD 22 reduz à metade). Recarga (movimento)
-- **For** 24, **Des** 15, **Con** 24, **Int** 7, **Sab** 12, **Car** 9
-- **Tesouro** Padrão mais espinhos (CD 21, T$ 150 em matéria-prima)
+- **Corpo a Corpo** Mordida +17 (2d6+8) e duas garras +17 (1d6+8)
+- **À Distância** Espinhos da cauda +16 (1d8+8, x3, alcance médio)
+- **For** 5, **Des** 3, **Con** 4, **Int** –1, **Sab** 1, **Car** 0
+- **Tesouro** Padrão
 
 ### Centopeia-Dragão (ND 7)
+
 **Monstro Enorme (solo)**
 
-Monstro incandescente de dez metros que devora tudo.
-
-- **Iniciativa** +10, **Percepção** +8, visão no escuro
-- **Defesa** 27, **Fort** +20, **Ref** +14, **Von** +9, imunidade a caído, redução de fogo 10
-- **PV** 275
-- **Deslocamento** 15m (10q), escavar 6m (4q)
-- **Corpo a Corpo** Mordida +24 (2d8+18 mais 2d6 fogo)
-- **Agarrar Aprimorado** (Livre) Quando acerta mordida, pode agarrar (teste +29)
-- **Aura de Calor** Início de seu turno, criaturas em alcance curto sofrem 4d6+9 fogo
-- **Engolir** (Padrão) Engole criatura agarrada Média ou menor. Sofre 2d6+18 impacto mais 4d6+9 fogo por turno
-- **For** 12, **Des** 3, **Con** 9, **Int** –4, **Sab** 1, **Car** 0
-- **Tesouro** 2d4 doses essência abissal (CD 22)
+- **Iniciativa** +9, **Percepção** +11, visão no escuro
+- **Defesa** 28, **Fort** +16, **Ref** +15, **Von** +9, imunidade a ácido
+- **Pontos de Vida** 315
+- **Deslocamento** 12m (8q), escalar 12m (8q)
+- **Corpo a Corpo** Mordida +21 (3d8+15 mais veneno)
+- **Agarrar Aprimorado** (Livre) Se a centopeia-dragão acerta um ataque de mordida, pode fazer a manobra agarrar (teste +23)
+- **Veneno** Perde 2d12 pontos de vida durante 3 rodadas (Fortitude CD 24 reduz para uma rodada)
+- **For** 10, **Des** 3, **Con** 7, **Int** –4, **Sab** 1, **Car** –2
+- **Perícias** Furtividade +15
+- **Tesouro** Padrão
 
 ### Golem de Ferro (ND 10)
+
 **Construto Grande (solo)**
 
-Imenso construto antigo, quase invulnerável.
-
-- **Iniciativa** +4, **Percepção** +9, visão no escuro
-- **Defesa** 36, **Fort** +24, **Ref** +14, **Von** +11, RD 10
-- **PV** 400
-- **Deslocamento** 9m (6q)
-- **Corpo a Corpo** Duas pancadas +30 (2d10+25)
-- **Imunidade a Magia** Imune a efeitos mágicos, exceto: magias de eletricidade deixam lento 1d6 rodadas; magias de fogo removem lento e curam 1 PV para cada 3 de dano
-- **Sopro** (Movimento) Nuvem venenosa em cubo de 3m. Criaturas perdem 6d12 PV e ficam enjoadas (Fort CD 30 reduz dano à metade e evita enjoado). Recarga (movimento). Veneno
-- **For** 38, **Des** 9, **Con** 30, **Int** —, **Sab** 11, **Car** 1
+- **Iniciativa** +3, **Percepção** +7, visão no escuro
+- **Defesa** 36, **Fort** +18, **Ref** +12, **Von** +12, imunidade a magia, redução de dano 15
+- **Pontos de Vida** 440
+- **Deslocamento** 6m (4q)
+- **Corpo a Corpo** Duas espadas +26 (2d10+20, 19)
+- **Sopro de Veneno** (Padrão) O golem de ferro cospe uma nuvem tóxica em um cone de 3m. Criaturas na área perdem 1d12 pontos de vida (Fortitude CD 26 evita). Recarga (movimento)
+- **For** 11, **Des** –1, **Con** —, **Int** —, **Sab** 0, **Car** –5
 - **Tesouro** Nenhum
 
 ---
 
 ## Ermos
 
-Criaturas encontradas em estradas, campos, florestas e áreas selvagens.
+*Criaturas encontradas em planícies, florestas, estradas e regiões selvagens de Arton. Bandidos, animais predadores, centauros e outros perigos espreitam viajantes desavisados.*
 
 ### Bandido (ND 1/4)
+
 **Humanoide (humano) Médio (lacaio)**
 
-Salteador que embosca viajantes em estradas desertas.
+Bandidos operam em estradas desertas, emboscando viajantes. Individualmente, não são ameaça para heróis aventureiros, mas em grande número podem ser perigosos.
 
 - **Iniciativa** +4, **Percepção** +1
 - **Defesa** 13, **Fort** +1, **Ref** +3, **Von** –1
-- **PV** 6
+- **Pontos de Vida** 6
 - **Deslocamento** 9m (6q)
 - **Corpo a Corpo** Clava +7 (1d6+3)
 - **For** 2, **Des** 2, **Con** 1, **Int** –1, **Sab** –1, **Car** –1
@@ -196,30 +182,28 @@ Salteador que embosca viajantes em estradas desertas.
 - **Tesouro** Metade
 
 ### Chefe Bandido (ND 1)
-**Humanoide (humano) Médio (solo)**
 
-Líder de grupo de salteadores, mais experiente e perigoso.
+**Humanoide (humano) Médio (solo)**
 
 - **Iniciativa** +4, **Percepção** +2
 - **Defesa** 16, **Fort** +5, **Ref** +8, **Von** +3
-- **PV** 30
+- **Pontos de Vida** 40
 - **Deslocamento** 9m (6q)
-- **Corpo a Corpo** Espada curta +9 (1d6+5, 19)
-- **À Distância** Adaga +7 (1d4+3, 19)
-- **Ataque Furtivo** Uma vez por rodada, causa +2d6 dano contra alvos desprevenidos ou flanqueados
-- **For** 3, **Des** 2, **Con** 2, **Int** –1, **Sab** 0, **Car** 1
-- **Perícias** Furtividade +7, Intimidação +6
-- **Equipamento** Adaga, espada curta
+- **Corpo a Corpo** Espada curta +11 (1d6+6, 19)
+- **For** 3, **Des** 2, **Con** 2, **Int** 0, **Sab** 0, **Car** 1
+- **Perícias** Atletismo +7, Intimidação +5
+- **Equipamento** Couro batido, espada curta
 - **Tesouro** Padrão
 
 ### Guarda de Cidade (ND 1/2)
+
 **Humanoide (humano) Médio (lacaio)**
 
-Miliciano que patrulha cidades, vilas e estradas.
+Guardas de cidades e vilas do Reinado, responsáveis por manter a ordem e proteger cidadãos. Quando em patrulha, raramente estão sozinhos.
 
-- **Iniciativa** +4, **Percepção** +3
+- **Iniciativa** +3, **Percepção** +2
 - **Defesa** 15, **Fort** +5, **Ref** +2, **Von** +1
-- **PV** 8
+- **Pontos de Vida** 8
 - **Deslocamento** 9m (6q)
 - **Corpo a Corpo** Maça +7 (1d8+5)
 - **For** 2, **Des** 1, **Con** 2, **Int** 0, **Sab** 0, **Car** 0
@@ -228,26 +212,46 @@ Miliciano que patrulha cidades, vilas e estradas.
 - **Tesouro** Nenhum
 
 ### Sargento da Guarda (ND 1)
+
 **Humanoide (humano) Médio (solo)**
 
-Líder de patrulha, veterano e experiente.
+Veteranos experientes que lideram patrulhas de guardas. São leais à sua cidade e não hesitam em combater ameaças.
 
 - **Iniciativa** +5, **Percepção** +4
 - **Defesa** 17, **Fort** +9, **Ref** +4, **Von** +3
-- **PV** 28
+- **Pontos de Vida** 28
 - **Deslocamento** 6m (4q)
 - **Corpo a Corpo** Maça +10 (1d8+10)
 - **À Distância** Besta leve +8 (1d8+5, 19)
-- **Ordens** (Movimento) Grita ordens para aliados em alcance médio. Eles recebem +1 em testes de perícia até o fim da cena
+- **Ordens** (Movimento) O sargento grita ordens para seus aliados em alcance médio. Eles recebem +1 em testes de perícia até o fim da cena
 - **For** 3, **Des** 1, **Con** 2, **Int** 0, **Sab** 0, **Car** 1
 - **Perícias** Atletismo +7, Intuição +4
 - **Equipamento** Apito, besta leve, cota de malha, maça, virotes x10
 - **Tesouro** Metade
 
-Continua no próximo arquivo devido ao tamanho...
+### Lobo (ND 1/2)
+
+**Animal Médio (lacaio)**
+
+Predadores primordiais, lobos vivem em alcateias lideradas pelo macho mais forte — o alfa, que conduz o bando nas caçadas. Podem ser encontrados em quase qualquer ambiente, especialmente planícies, florestas e regiões montanhosas.
+
+Lobos atacam mordendo as pernas da vítima para derrubá-la. Sua tática favorita é enviar alguns indivíduos para atacar pela frente, enquanto o resto circula e ataca por trás.
+
+- **Iniciativa** +5, **Percepção** +6, faro, visão na penumbra
+- **Defesa** 14, **Fort** +6, **Ref** +3, **Von** +1
+- **Pontos de Vida** 14
+- **Deslocamento** 15m (10q)
+- **Corpo a Corpo** Mordida +7 (1d6+5)
+- **Derrubar** (Livre) Se o lobo acerta um ataque de mordida, pode fazer a manobra derrubar (modificador +7)
+- **Táticas de Alcateia** Quando flanqueia um inimigo, o lobo recebe +2 no teste de ataque e na rolagem de dano (além do bônus normal por flanquear, para um total de +4 no ataque e +2 no dano)
+- **For** 3, **Des** 3, **Con** 3, **Int** –4, **Sab** 2, **Car** –2
+- **Perícias** Sobrevivência +6
+- **Tesouro** Nenhum
 
 ---
 
-[▸ Continuar: Criaturas dos Ermos (Parte 2)](02-bestiario-ermos.md)
+*Continua com as demais criaturas dos Ermos: Centauros, Gnolls, Gorlogg, Trog, Lobo-das-Cavernas, Cão do Inferno, Grifo, Basilisco, Urso-Coruja, Serpe e Ogro...*
 
-[◂ Voltar ao Índice](README.md)
+---
+
+[◂ Voltar ao Índice de Combate](README.md) | [Construindo Combates ▸](01-construindo-combates.md)
