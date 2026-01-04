@@ -12,7 +12,7 @@ Num mundo de heróis, contar histórias épicas também é um ato de heroísmo. 
 
 Bardos são contadores de histórias e músicos errantes que acompanham grupos de aventureiros em missões para depois narrar suas façanhas. Contudo, seu papel vai muito além disso. Enquanto muitos heróis se especializam em uma só área, os bardos são **versáteis**, pessoas do mundo, confortáveis ao lado de reis e de mendigos.
 
-![Descrição: Ilustração de um bardo, figura carismática com roupas coloridas e elegantes, segurando alaúde ornamentado. Usa chapéu com pena, capas esvoaçantes, e tem expressão confiante e performática. Notas musicais mágicas flutuam ao redor enquanto toca. Bardos são artistas versáteis e inspiradores](../../imagens/bardo-menestrel.png)
+![Descrição: Ilustração de um bardo, figura carismática com roupas coloridas e elegantes, segurando alaúde ornamentado. Usa chapéu com pena, capas esvoaçantes, e tem expressão confiante e performática. Notas musicais mágicas flutuam ao redor enquanto toca. Bardos são artistas versáteis e inspiradores](../imagens/bardo-menestrel.png)
 
 ---
 

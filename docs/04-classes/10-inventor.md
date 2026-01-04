@@ -12,7 +12,7 @@ Mais cedo ou mais tarde, as tradições devem dar lugar a algo novo. Enquanto se
 
 O inventor é um dos mais **raros** tipos de aventureiros. Enquanto outros se preocupam com glória, riquezas e missões divinas, o inventor almeja **testar e aprimorar suas criações mirabolantes**. Enquanto outros contam com força bruta, fé ou mistérios ancestrais, o inventor confia em **si mesmo** e olha para o **futuro**. **Criatividade**, **otimismo**, **paciência** e **trabalho duro**: estas são as armas do inventor.
 
-![Descrição: Ilustração de um inventor, engenheiro genial cercado por engenhocas mecânicas, óculos de proteção, avental de trabalho manchado, ferramentas e blueprints. Pode ter autômato ao lado. Postura curiosa e entusiasmada. Inventores são gênios científicos](../../imagens/inventor-engenheiro.png)
+![Descrição: Ilustração de um inventor, engenheiro genial cercado por engenhocas mecânicas, óculos de proteção, avental de trabalho manchado, ferramentas e blueprints. Pode ter autômato ao lado. Postura curiosa e entusiasmada. Inventores são gênios científicos](../imagens/inventor-engenheiro.png)
 
 ---
 

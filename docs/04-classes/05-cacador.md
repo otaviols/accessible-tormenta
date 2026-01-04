@@ -12,7 +12,7 @@
 
 O caçador é mais que um mateiro ou rastreador. É um **especialista em sobrevivência** nos terrenos mais selvagens e inóspitos, capaz de obter alimento e achar abrigo em qualquer lugar. É alguém que estuda, persegue e mata sua presa com **paciência** e **astúcia**. Mesmo que não pareça um sábio tradicional, o caçador é uma verdadeira **enciclopédia de conhecimentos** sobre os ermos.
 
-![Descrição: Ilustração de um caçador, figura vestida em armadura de couro reforçada com peles de criaturas, carregando arco longo nas costas e adagas no cinto. Tem olhar atento e calculista, postura alerta. Acompanhado de lobo ou falcão. Marcas de sobrevivência e cicatrizes. Caçadores são mestres da sobrevivência e rastreamento](../../imagens/cacador-rastreador.png)
+![Descrição: Ilustração de um caçador, figura vestida em armadura de couro reforçada com peles de criaturas, carregando arco longo nas costas e adagas no cinto. Tem olhar atento e calculista, postura alerta. Acompanhado de lobo ou falcão. Marcas de sobrevivência e cicatrizes. Caçadores são mestres da sobrevivência e rastreamento](../imagens/cacador-rastreador.png)
 
 ---
 

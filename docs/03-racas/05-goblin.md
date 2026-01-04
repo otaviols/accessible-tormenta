@@ -10,7 +10,7 @@
 
 Estes pequenos seres feiosos conseguiram um lugar entre os povos do Reinado. Podem ser encontrados em todas as grandes cidades, muitos vivendo na imundície, outros prosperando em carreiras que quase ninguém tentaria: **espiões**, **aeronautas**, **engenhoqueiros**. Onde o anão teimoso e o elfo empolado falham, o goblin pode dar um jeito. Porque ele não tem vergonha. Nem orgulho. Nem bom senso.
 
-![Descrição: Ilustração de Dokk e Gradda, dois goblins inventores. Dokk veste óculos de engrenagens e carrega ferramentas, enquanto Gradda pilota um pequeno balão experimental. Ambos são pequenos, de pele verde, orelhas pontiagudas e narizes proeminentes. Engenhosos e astutos, mas a seu próprio modo](../../imagens/goblins-dokk-gradda.png)
+![Descrição: Ilustração de Dokk e Gradda, dois goblins inventores. Dokk veste óculos de engrenagens e carrega ferramentas, enquanto Gradda pilota um pequeno balão experimental. Ambos são pequenos, de pele verde, orelhas pontiagudas e narizes proeminentes. Engenhosos e astutos, mas a seu próprio modo](../imagens/goblins-dokk-gradda.png)
 
 ---
 

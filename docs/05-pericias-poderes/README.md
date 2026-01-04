@@ -3,7 +3,7 @@
 > "SE NÃO EXISTE MEIO DE VENCER O INIMIGO, CRIE UM MEIO. SE NÃO HÁ CHANCE DE VITÓRIA, ENCONTRE UMA. VOCÊ DEVE LUTAR. ATÉ O FIM. ASSIM FAZEM TODOS OS SERES DA CRIAÇÃO. ELES NUNCA DESISTEM. ELES LUTAM OU MORREM."  
 > — **Mestre Arsenal**
 
-[← Capítulo Anterior: Criação de Personagens](../02-criacao-personagens/README.md) | [Próximo: Capítulo 3 - Equipamento →](../04-equipamento/README.md)
+[← Capítulo Anterior: Criação de Personagens](../02-criacao-personagens/README.md) | [Próximo: Capítulo 3 - Equipamento →](../06-equipamento/README.md)
 
 ---
 
@@ -174,9 +174,9 @@ No entanto, se você é um veterano de várias campanhas, talvez queira mais cap
 ### Capítulos Relacionados
 
 - [← Capítulo 1: Criação de Personagens](../02-criacao-personagens/README.md) - Crie seu herói
-- [→ Capítulo 3: Equipamento](../04-equipamento/README.md) - Armas, armaduras e itens
-- [→ Capítulo 4: Magia](../05-magia/README.md) - Sistema de magia e magias
+- [→ Capítulo 3: Equipamento](../06-equipamento/README.md) - Armas, armaduras e itens
+- [→ Capítulo 4: Magia](../09-magia/README.md) - Sistema de magia e magias
 
 ---
 
-[← Capítulo Anterior: Criação de Personagens](../02-criacao-personagens/README.md) | [Índice Principal](../README.md) | [Próximo: Perícias - Sistema →](01-pericias-sistema.md)
+[← Capítulo Anterior: Criação de Personagens](../02-criacao-personagens/README.md) | [Índice Principal](../../README.md) | [Próximo: Perícias - Sistema →](01-pericias-sistema.md)

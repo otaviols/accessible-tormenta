@@ -317,6 +317,6 @@ Esses macabros devotos do Deus da Tormenta promovem a insanidade, a devassidão 
 
 ## Final do Bestiário
 
-Este bestiário cobre as principais criaturas encontradas em Arton, organizadas por ambiente e facção. Para regras adicionais sobre combate, veja [Construindo Combates](01-construindo-combates.md). Para ameaças não-criatura (armadilhas, doenças, venenos), veja [Perigos](04-perigos.md).
+Este bestiário cobre as principais criaturas encontradas em Arton, organizadas por ambiente e facção. Para regras adicionais sobre combate, veja [Construindo Combates](01-construindo-combates.md). Para ameaças não-criatura (armadilhas, doenças, venenos), veja [Perigos](03-perigos.md).
 
 [◂ Voltar para Parte 2](03-bestiario-parte2.md) | [◂ Voltar para Parte 1](02-bestiario-completo.md) | [Índice de Combate](README.md)

@@ -1,6 +1,6 @@
 # Apêndices
 
-[◂ Voltar à Página Principal](../README.md)
+[◂ Voltar à Página Principal](../../README.md)
 
 ---
 
@@ -16,7 +16,7 @@ Esta seção contém materiais de referência para consulta rápida durante o jo
 Termos e conceitos importantes de A-Z com definições e links para as seções relevantes da documentação.
 
 ### 2. [Índice Remissivo](02-indice-remissivo.md)
-Índice alfabético completo convertido do PDF original, com números de página substituídos por links markdown para navegação rápida.
+Índice alfabético convertido do PDF original, com números de página substituídos por links markdown para navegação rápida (atualmente com a letra A completa).
 
 ### 3. [Tabelas de Referência Rápida](03-tabelas-referencia.md)
 Compilação das tabelas mais importantes para consulta durante o jogo:
@@ -50,8 +50,8 @@ Equipe completa de criação, desenvolvimento, arte, e todos os playtesters que 
 
 ## 📖 Navegação
 
-**Anterior:** [Capítulo 11 - Ambientação](../11-arton/README.md)
+**Anterior:** [Capítulo 11 - Ambientação](../11-ambientacao/README.md)
 
 **Próximo:** Documentação completa!
 
-[◂ Voltar à Página Principal](../README.md)
+[◂ Voltar à Página Principal](../../README.md)

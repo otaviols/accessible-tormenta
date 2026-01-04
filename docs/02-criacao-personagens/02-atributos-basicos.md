@@ -100,4 +100,4 @@ Cada classe tem um ou mais **atributos principais**, que são mais importantes p
 
 ---
 
-[← Anterior: Conceito de Personagem](01-conceito-personagem.md) | [Próximo: Raças →](03-racas/README.md)
+[← Anterior: Conceito de Personagem](01-conceito-personagem.md) | [Próximo: Raças →](../03-racas/README.md)

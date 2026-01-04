@@ -55,10 +55,10 @@ Como criar a ideia básica do seu herói antes de preencher a ficha.
 ### [02 - Atributos Básicos](02-atributos-basicos.md)
 Os seis atributos fundamentais: Força, Destreza, Constituição, Inteligência, Sabedoria e Carisma.
 
-### [03 - Raças](03-racas/)
+### [03 - Raças](../03-racas/)
 As dezessete raças jogáveis de Arton, desde humanos até criaturas mais exóticas.
 
-### [04 - Classes](04-classes/)
+### [04 - Classes](../04-classes/)
 As quatorze classes disponíveis, cada uma com habilidades e papéis únicos no grupo.
 
 ### [05 - Origens](05-origens.md)

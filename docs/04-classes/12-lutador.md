@@ -12,7 +12,7 @@ Perigo verdadeiro não é enfrentar a morte com segredos místicos, ou mesmo com
 
 Lutadores são especialistas em todas as formas de **combate desarmado**, desde simples socos e chutes até complexas chaves e técnicas de chão. Alguns estudam com mestres, seguindo disciplinas codificadas ao longo de muitas gerações. Outros são apenas desesperados que precisaram aprender a brigar para ficar vivos nos becos escuros ou nos ermos selvagens.
 
-![Descrição: Ilustração de um lutador, combatente desarmado em postura de luta, músculos definidos, pode ter bandagens nas mãos, sem armadura, expressão focada e determinada. Lutadores são mestres do combate corpo a corpo desarmado](../../imagens/lutador-pugilista.png)
+![Descrição: Ilustração de um lutador, combatente desarmado em postura de luta, músculos definidos, pode ter bandagens nas mãos, sem armadura, expressão focada e determinada. Lutadores são mestres do combate corpo a corpo desarmado](../imagens/lutador-pugilista.png)
 
 ---
 

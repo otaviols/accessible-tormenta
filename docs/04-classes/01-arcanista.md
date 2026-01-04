@@ -12,7 +12,7 @@ A **magia** é a força mais poderosa de Arton. Está presente em todas as grand
 
 O **arcanista** é o grande mestre da magia. Muitos aventureiros aprendem algum rudimento das artes místicas, mas não têm noção de seu verdadeiro potencial e do perigo inerente a usá-las sem aprofundamento. Apenas um arcanista dedicado é capaz de **dobrar a própria realidade**.
 
-![Descrição: Ilustração de uma arcanista, mulher com robes fluindo, cabelos levitando com energia mágica, segurando varinha e livro de magias. Raios de luz arcana emanam de suas mãos enquanto conjura feitiço poderoso. Runas místicas flutuam ao redor. Arcanistas dominam a realidade através da magia](../../imagens/arcanista-conjurador.png)
+![Descrição: Ilustração de uma arcanista, mulher com robes fluindo, cabelos levitando com energia mágica, segurando varinha e livro de magias. Raios de luz arcana emanam de suas mãos enquanto conjura feitiço poderoso. Runas místicas flutuam ao redor. Arcanistas dominam a realidade através da magia](../imagens/arcanista-conjurador.png)
 
 ---
 

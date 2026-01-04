@@ -56,7 +56,7 @@ Sua raça modifica seus atributos, podendo aumentá-los **acima de 4** ou diminu
 
 ### Habilidades de Raça
 
-Você possui todas as habilidades de sua raça. As regras para usar habilidades são explicadas no [Capítulo 5: Jogando](../../07-regras-jogo/).
+Você possui todas as habilidades de sua raça. As regras para usar habilidades são explicadas no [Capítulo 5: Jogando](../07-regras-jogo/README.md).
 
 ---
 
@@ -113,10 +113,9 @@ Você possui todas as habilidades de sua raça. As regras para usar habilidades 
 
 ## Navegação
 
-- [← Anterior: Atributos Básicos](../02-atributos-basicos.md)
-- [Próximo: Humano →](01-humano.md)
-- [↑ Voltar ao Capítulo](../README.md)
+- [← Anterior: Atributos Básicos](../02-criacao-personagens/02-atributos-basicos.md)
+- [↑ Voltar ao Índice Principal](../../README.md)
 
 ---
 
-![Descrição: Ilustração mostrando representantes das diversas raças de Arton lado a lado: humano, anão barbudo, elfo gracioso, goblin pequeno e esperto, minotauro imponente, qareen de pele dourada, lefou marcado pela Tormenta, e outros, demonstrando a diversidade racial do mundo](../../imagens/racas-de-arton.png)
+![Descrição: Ilustração mostrando representantes das diversas raças de Arton lado a lado: humano, anão barbudo, elfo gracioso, goblin pequeno e esperto, minotauro imponente, qareen de pele dourada, lefou marcado pela Tormenta, e outros, demonstrando a diversidade racial do mundo](../imagens/racas-de-arton.png)

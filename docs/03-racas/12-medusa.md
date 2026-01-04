@@ -12,7 +12,7 @@ Jovens medusas por vezes **rejeitam a solidão e crueldade racial**, aventurando
 
 O único povo que não teme medusas são os **anões**, que as consideram **belas musas**.
 
-![Descrição: Ilustração de uma jovem medusa, uma mulher humanoide de beleza exótica com serpentes no lugar de cabelos. As serpentes são pequenas e ativas, movendo-se constantemente. Seus olhos têm um brilho sobrenatural. Usa roupas que permitem movimento e tem postura confiante mas cautelosa. Medusas jovens não petrificam com olhar](../../imagens/medusa-serpente.png)
+![Descrição: Ilustração de uma jovem medusa, uma mulher humanoide de beleza exótica com serpentes no lugar de cabelos. As serpentes são pequenas e ativas, movendo-se constantemente. Seus olhos têm um brilho sobrenatural. Usa roupas que permitem movimento e tem postura confiante mas cautelosa. Medusas jovens não petrificam com olhar](../imagens/medusa-serpente.png)
 
 ---
 

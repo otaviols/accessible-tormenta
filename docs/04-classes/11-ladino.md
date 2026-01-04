@@ -12,7 +12,7 @@ A maior parte dos perigos pode ser evitada com um pouco de **furtividade**. A ma
 
 O ladino é o mais **esperto**, **discreto**, **silencioso** e **malandro** de todos os heróis. Um aventureiro que usa táticas que muitos consideram desleais, mas que para ele são apenas **pragmáticas** e **lógicas**. Ladinos se especializam em **arrombar portas**, **esgueirar-se pelas sombras**, **desarmar armadilhas**, **roubar itens valiosos**... Enfim, fazer tudo que "heróis de bem" nunca fariam.
 
-![Descrição: Ilustração de um ladino, especialista furtivo vestindo roupas escuras e capuz, ferramentas de ladinagem no cinto, adaga na mão, postura ágil e sorrateira. Pode estar em sombras ou escalando. Ladinos são mestres da furtividade e astúcia](../../imagens/ladino-furtivo.png)
+![Descrição: Ilustração de um ladino, especialista furtivo vestindo roupas escuras e capuz, ferramentas de ladinagem no cinto, adaga na mão, postura ágil e sorrateira. Pode estar em sombras ou escalando. Ladinos são mestres da furtividade e astúcia](../imagens/ladino-furtivo.png)
 
 ---
 

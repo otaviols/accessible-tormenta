@@ -10,7 +10,7 @@
 
 Descendentes de poderosos gênios, os **qareen** são otimistas, generosos e prestativos, sempre ansiosos por ajudar. Consideram-se abençoados pela Deusa da Magia, exibindo como evidência a **marca de Wynna** em seus corpos. Sua magia é mais poderosa quando usada para realizar desejos de outros.
 
-![Descrição: Ilustração de Kadeen e Niala, dois qareen aventureiros. Kadeen tem pele dourada, tatuagens mágicas brilhantes nos braços e veste roupas exóticas. Niala possui pele levemente azulada, olhos luminosos e tatuagens que brilham ao usar magia. Ambos demonstram carisma e elegância naturais. Meios-gênios estão sempre dispostos a ajudar](../../imagens/qareen-kadeen-niala.png)
+![Descrição: Ilustração de Kadeen e Niala, dois qareen aventureiros. Kadeen tem pele dourada, tatuagens mágicas brilhantes nos braços e veste roupas exóticas. Niala possui pele levemente azulada, olhos luminosos e tatuagens que brilham ao usar magia. Ambos demonstram carisma e elegância naturais. Meios-gênios estão sempre dispostos a ajudar](../imagens/qareen-kadeen-niala.png)
 
 ---
 

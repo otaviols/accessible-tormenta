@@ -10,7 +10,7 @@
 
 Em minhas andanças, encontrei membros das mais variadas raças. De todas, a mais misteriosa é a dos **lefou**. De forma bem pouco lisonjeira, parcelas da sociedade os definem como pouco mais que filhos rejeitados da Tormenta. São considerados **meios-demônios**, como se a tempestade aberrante pudesse atacar um corpo e deixar suas marcas como faz com a própria Arton. Corrompendo de forma irreversível o que antes era puro.
 
-![Descrição: Ilustração de Asha e Ichabod, dois lefou aventureiros. Asha tem chifres curvos e olhos vermelhos, enquanto Ichabod possui tentáculos no lugar de alguns dedos e marcas aberrantes na pele. Ambos demonstram determinação apesar de suas deformidades. Ser meio-demônio da Tormenta não significa ser maligno](../../imagens/lefou-asha-ichabod.png)
+![Descrição: Ilustração de Asha e Ichabod, dois lefou aventureiros. Asha tem chifres curvos e olhos vermelhos, enquanto Ichabod possui tentáculos no lugar de alguns dedos e marcas aberrantes na pele. Ambos demonstram determinação apesar de suas deformidades. Ser meio-demônio da Tormenta não significa ser maligno](../imagens/lefou-asha-ichabod.png)
 
 ---
 

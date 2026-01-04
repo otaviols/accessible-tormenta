@@ -10,7 +10,7 @@
 
 Alguns atribuem seu surgimento à **queda de Ragnar**, antigo Deus da Morte; outros dizem ser consequência da **ascensão de Ferren Asloth** como um poderoso lich, transformando a nação de **Aslothia** em um reino necromante.
 
-![Descrição: Ilustração de um osteon, um esqueleto humanoide completo e articulado, com ossos brancos ou levemente amarelados. Olhos vazios mas com um brilho de inteligência em suas órbitas. Veste roupas e armaduras normais, carrega armas, e tem postura digna. Esqueletos inteligentes surpreendem Arton](../../imagens/osteon-esqueleto-vivo.png)
+![Descrição: Ilustração de um osteon, um esqueleto humanoide completo e articulado, com ossos brancos ou levemente amarelados. Olhos vazios mas com um brilho de inteligência em suas órbitas. Veste roupas e armaduras normais, carrega armas, e tem postura digna. Esqueletos inteligentes surpreendem Arton](../imagens/osteon-esqueleto-vivo.png)
 
 ---
 

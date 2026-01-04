@@ -14,7 +14,7 @@ O guerreiro é o mais **simples**, **direto** e **comum** dos aventureiros. Em m
 
 Mais cedo ou mais tarde, todos os conflitos acabarão em **combate**. Então não haverá esperteza, palavras bonitas ou mesmo truques mágicos que possam funcionar sem o bom e velho **aço**.
 
-![Descrição: Ilustração de um guerreiro, combatente versátil empunhando espada longa e escudo, usando armadura de placas resistente, postura de combate experiente. Pode ter cicatrizes de batalha, olhar determinado. Guerreiros são mestres da arte marcial](../../imagens/guerreiro-combatente.png)
+![Descrição: Ilustração de um guerreiro, combatente versátil empunhando espada longa e escudo, usando armadura de placas resistente, postura de combate experiente. Pode ter cicatrizes de batalha, olhar determinado. Guerreiros são mestres da arte marcial](../imagens/guerreiro-combatente.png)
 
 ---
 

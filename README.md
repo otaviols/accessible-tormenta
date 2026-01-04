@@ -2,7 +2,7 @@
 
 > Documentação completa do sistema Tormenta 20 em formato Markdown acessível para leitores de tela
 
-![Descrição: Logo do Tormenta 20, apresentando o texto "Tormenta20" em fonte estilizada com elementos decorativos de fantasia medieval](imagens/logo-tormenta20.png)
+![Descrição: Logo do Tormenta 20, apresentando o texto "Tormenta20" em fonte estilizada com elementos decorativos de fantasia medieval](docs/imagens/logo-tormenta20.png)
 
 ---
 
@@ -20,116 +20,123 @@ Esta é uma versão acessível e organizada do livro básico de **Tormenta 20**,
 
 ## 📚 Índice Geral
 
-### [01 - Introdução](docs/01-introducao/)
+### [01 - Introdução](docs/01-introducao/README.md)
 Boas-vindas ao mundo de Tormenta, explicação sobre RPG de mesa e como usar este livro.
 
-- [01-boas-vindas.md](docs/01-introducao/01-boas-vindas.md)
-- [02-como-usar.md](docs/01-introducao/02-como-usar.md)
-- [03-o-que-e-rpg.md](docs/01-introducao/03-o-que-e-rpg.md)
-- [04-sobre-tormenta.md](docs/01-introducao/04-sobre-tormenta.md)
+- [01-o-que-e-tormenta20.md](docs/01-introducao/01-o-que-e-tormenta20.md)
+- [02-termos-importantes.md](docs/01-introducao/02-termos-importantes.md)
+- [03-20-coisas-a-saber.md](docs/01-introducao/03-20-coisas-a-saber.md)
 
 ### [02 - Criação de Personagens](docs/02-criacao-personagens/)
 Passo a passo completo para criar seu personagem, desde atributos até histórico.
 
-- [01-visao-geral.md](docs/02-criacao-personagens/01-visao-geral.md)
-- [02-atributos.md](docs/02-criacao-personagens/02-atributos.md)
-- [03-calculos-basicos.md](docs/02-criacao-personagens/03-calculos-basicos.md)
-- [04-historico.md](docs/02-criacao-personagens/04-historico.md)
-- [05-personalidade.md](docs/02-criacao-personagens/05-personalidade.md)
+- [01-conceito-personagem.md](docs/02-criacao-personagens/01-conceito-personagem.md)
+- [02-atributos-basicos.md](docs/02-criacao-personagens/02-atributos-basicos.md)
+- [05-origens.md](docs/02-criacao-personagens/05-origens.md)
+- [06-deuses.md](docs/02-criacao-personagens/06-deuses.md)
+- [07-toques-finais.md](docs/02-criacao-personagens/07-toques-finais.md)
 
 ### [03 - Raças](docs/03-racas/)
 Todas as raças jogáveis de Tormenta, suas características, habilidades e cultura.
 
-- [00-introducao-racas.md](docs/03-racas/00-introducao-racas.md)
-- [01-humano.md](docs/03-racas/01-humano.md) | [02-anao.md](docs/03-racas/02-anao.md) | [03-elfo.md](docs/03-racas/03-elfo.md)
-- [04-goblin.md](docs/03-racas/04-goblin.md) | [05-halfling.md](docs/03-racas/05-halfling.md) | [06-lefou.md](docs/03-racas/06-lefou.md)
-- [07-meio-orc.md](docs/03-racas/07-meio-orc.md) | [08-minotauro.md](docs/03-racas/08-minotauro.md)
-- E mais...
+- [01-humano.md](docs/03-racas/01-humano.md) | [02-anao.md](docs/03-racas/02-anao.md) | [03-dahllan.md](docs/03-racas/03-dahllan.md)
+- [04-elfo.md](docs/03-racas/04-elfo.md) | [05-goblin.md](docs/03-racas/05-goblin.md) | [06-lefou.md](docs/03-racas/06-lefou.md)
+- [07-minotauro.md](docs/03-racas/07-minotauro.md) | [08-qareen.md](docs/03-racas/08-qareen.md)
+- [09-golem.md](docs/03-racas/09-golem.md) | [10-hynne.md](docs/03-racas/10-hynne.md) | [11-kliren.md](docs/03-racas/11-kliren.md)
+- [12-medusa.md](docs/03-racas/12-medusa.md) | [13-osteon.md](docs/03-racas/13-osteon.md)
+- [14-sereia-tritao.md](docs/03-racas/14-sereia-tritao.md) | [15-silfide.md](docs/03-racas/15-silfide.md)
+- [16-suraggel.md](docs/03-racas/16-suraggel.md) | [17-trog.md](docs/03-racas/17-trog.md)
 
 ### [04 - Classes](docs/04-classes/)
 Todas as classes de personagem com progressão, habilidades e poderes específicos.
 
-- [00-introducao-classes.md](docs/04-classes/00-introducao-classes.md)
 - [01-arcanista.md](docs/04-classes/01-arcanista.md) | [02-barbaro.md](docs/04-classes/02-barbaro.md) | [03-bardo.md](docs/04-classes/03-bardo.md)
 - [04-bucaneiro.md](docs/04-classes/04-bucaneiro.md) | [05-cacador.md](docs/04-classes/05-cacador.md) | [06-cavaleiro.md](docs/04-classes/06-cavaleiro.md)
 - [07-clerigo.md](docs/04-classes/07-clerigo.md) | [08-druida.md](docs/04-classes/08-druida.md) | [09-guerreiro.md](docs/04-classes/09-guerreiro.md)
-- E mais...
+- [10-inventor.md](docs/04-classes/10-inventor.md) | [11-ladino.md](docs/04-classes/11-ladino.md)
+- [12-lutador.md](docs/04-classes/12-lutador.md) | [13-nobre.md](docs/04-classes/13-nobre.md) | [14-paladino.md](docs/04-classes/14-paladino.md)
 
 ### [05 - Perícias e Poderes](docs/05-pericias-poderes/)
 Sistema completo de perícias, testes e poderes disponíveis para personagens.
 
-- [01-pericias.md](docs/05-pericias-poderes/01-pericias.md)
-- [02-pericias-descricao.md](docs/05-pericias-poderes/02-pericias-descricao.md)
-- [03-poderes-gerais.md](docs/05-pericias-poderes/03-poderes-gerais.md)
+- [01-pericias-sistema.md](docs/05-pericias-poderes/01-pericias-sistema.md)
+- [02-pericias-lista.md](docs/05-pericias-poderes/02-pericias-lista.md)
+- [03-poderes-gerais-sistema.md](docs/05-pericias-poderes/03-poderes-gerais-sistema.md)
 - [04-poderes-combate.md](docs/05-pericias-poderes/04-poderes-combate.md)
-- [05-poderes-magicos.md](docs/05-pericias-poderes/05-poderes-magicos.md)
+- [05-poderes-destino.md](docs/05-pericias-poderes/05-poderes-destino.md)
+- [06-poderes-magia.md](docs/05-pericias-poderes/06-poderes-magia.md)
+- [07-poderes-concedidos.md](docs/05-pericias-poderes/07-poderes-concedidos.md)
+- [08-poderes-tormenta.md](docs/05-pericias-poderes/08-poderes-tormenta.md)
 
 ### [06 - Equipamento](docs/06-equipamento/)
 Armas, armaduras, ferramentas e todo equipamento disponível para aventureiros.
 
-- [01-riqueza-inicial.md](docs/06-equipamento/01-riqueza-inicial.md)
-- [02-armas.md](docs/06-equipamento/02-armas.md) | [03-armas-distancia.md](docs/06-equipamento/03-armas-distancia.md)
-- [04-armaduras.md](docs/06-equipamento/04-armaduras.md) | [05-escudos.md](docs/06-equipamento/05-escudos.md)
-- [06-equipamento-aventura.md](docs/06-equipamento/06-equipamento-aventura.md)
+- [01-riqueza-moedas.md](docs/06-equipamento/01-riqueza-moedas.md)
+- [02-armas.md](docs/06-equipamento/02-armas.md)
+- [03-armaduras-escudos.md](docs/06-equipamento/03-armaduras-escudos.md)
+- [04-itens-gerais.md](docs/06-equipamento/04-itens-gerais.md)
+- [05-itens-superiores.md](docs/06-equipamento/05-itens-superiores.md)
 
 ### [07 - Regras de Jogo](docs/07-regras-jogo/)
 Mecânicas fundamentais, testes, condições e regras gerais.
 
-- [01-conceitos-basicos.md](docs/07-regras-jogo/01-conceitos-basicos.md)
-- [02-testes-atributos.md](docs/07-regras-jogo/02-testes-atributos.md)
-- [03-testes-pericias.md](docs/07-regras-jogo/03-testes-pericias.md)
-- [04-condicoes.md](docs/07-regras-jogo/04-condicoes.md)
-- [05-deslocamento.md](docs/07-regras-jogo/05-deslocamento.md)
+- [01-papel-jogador.md](docs/07-regras-jogo/01-papel-jogador.md)
+- [02-regras-testes.md](docs/07-regras-jogo/02-regras-testes.md)
+- [03-habilidades.md](docs/07-regras-jogo/03-habilidades.md)
+- [04-tipos-efeitos-dano.md](docs/07-regras-jogo/04-tipos-efeitos-dano.md)
+- [05-sistema-combate.md](docs/07-regras-jogo/05-sistema-combate.md)
+- [06-movimentacao-situacoes.md](docs/07-regras-jogo/06-movimentacao-situacoes.md)
+- [09-papel-mestre.md](docs/07-regras-jogo/09-papel-mestre.md)
+- [10-estrutura-aventuras.md](docs/07-regras-jogo/10-estrutura-aventuras.md)
 
-### [08 - Combate](docs/08-combate/)
-Sistema completo de combate, ações, manobras e modificadores.
+### [08 - Ameaças e Bestiário](docs/08-combate/)
+Construção de combates, bestiário completo e perigos.
 
-- [01-sequencia-combate.md](docs/08-combate/01-sequencia-combate.md)
-- [02-acoes-combate.md](docs/08-combate/02-acoes-combate.md)
-- [03-ataque-defesa.md](docs/08-combate/03-ataque-defesa.md)
-- [04-dano-cura.md](docs/08-combate/04-dano-cura.md)
-- [06-manobras-combate.md](docs/08-combate/06-manobras-combate.md)
+- [01-construindo-combates.md](docs/08-combate/01-construindo-combates.md)
+- [02-bestiario-completo.md](docs/08-combate/02-bestiario-completo.md)
+- [03-bestiario-parte2.md](docs/08-combate/03-bestiario-parte2.md)
+- [04-bestiario-dragoes-tormenta.md](docs/08-combate/04-bestiario-dragoes-tormenta.md)
+- [03-perigos.md](docs/08-combate/03-perigos.md)
+- [04-recompensas.md](docs/08-combate/04-recompensas.md)
 
 ### [09 - Magia](docs/09-magia/)
-Sistema de magia, escolas, listas de magias por classe e descrições completas.
+Sistema de magia, listas e regras completas.
 
-- [01-regras-magia.md](docs/09-magia/01-regras-magia.md)
-- [02-escolas-magia.md](docs/09-magia/02-escolas-magia.md)
-- [03-lista-magias-arcanista.md](docs/09-magia/03-lista-magias-arcanista.md)
-- [07-descricao-magias.md](docs/09-magia/07-descricao-magias.md)
-- [08-itens-magicos.md](docs/09-magia/08-itens-magicos.md)
+- [01-listas-magias.md](docs/09-magia/01-listas-magias.md)
+- [02-conceitos-regras.md](docs/09-magia/02-conceitos-regras.md)
 
-### [10 - Mestre](docs/10-mestre/)
+### [10 - O Mestre](docs/10-mestre/)
 Guia para mestres: criando aventuras, distribuindo recompensas e gerenciando o jogo.
 
-- [01-papel-mestre.md](docs/10-mestre/01-papel-mestre.md)
-- [02-criando-aventuras.md](docs/10-mestre/02-criando-aventuras.md)
-- [03-xp-avanco.md](docs/10-mestre/03-xp-avanco.md)
-- [04-recompensas.md](docs/10-mestre/04-recompensas.md)
+- [01-preparacao-inicio.md](docs/10-mestre/01-preparacao-inicio.md)
+- [02-conducao-jogo.md](docs/10-mestre/02-conducao-jogo.md)
+- [03-estrutura-aventuras.md](docs/10-mestre/03-estrutura-aventuras.md)
+- [04-campanhas.md](docs/10-mestre/04-campanhas.md)
+- [05-tempo-entre-aventuras.md](docs/10-mestre/05-tempo-entre-aventuras.md)
+- [06-parceiros.md](docs/10-mestre/06-parceiros.md)
+- [07-ambientes-aventura.md](docs/10-mestre/07-ambientes-aventura.md)
+- [08-viagens-perseguicoes.md](docs/10-mestre/08-viagens-perseguicoes.md)
 
 ### [11 - Ambientação](docs/11-ambientacao/)
-O mundo de Arton, seus deuses, história, reinos e a ameaça da Tormenta.
+O mundo de Arton, seus reinos, história e ameaças.
 
-- [01-arton.md](docs/11-ambientacao/01-arton.md)
-- [02-pantheon.md](docs/11-ambientacao/02-pantheon.md)
-- [03-historia.md](docs/11-ambientacao/03-historia.md)
-- [04-reinos-principais.md](docs/11-ambientacao/04-reinos-principais.md)
-- [06-tormenta.md](docs/11-ambientacao/06-tormenta.md)
-
-### [12 - Bestiário](docs/12-bestiario/)
-Criaturas, monstros e NPCs com estatísticas completas.
-
-- [01-usando-monstros.md](docs/12-bestiario/01-usando-monstros.md)
-- [02-monstros-por-nd.md](docs/12-bestiario/02-monstros-por-nd.md)
-- [03-monstros-descricao.md](docs/12-bestiario/03-monstros-descricao.md)
+- [01-historia-linha-tempo.md](docs/11-ambientacao/01-historia-linha-tempo.md)
+- [02-deheon.md](docs/11-ambientacao/02-deheon.md) | [03-bielefeld.md](docs/11-ambientacao/03-bielefeld.md)
+- [04-wynlla.md](docs/11-ambientacao/04-wynlla.md) | [05-namalkah.md](docs/11-ambientacao/05-namalkah.md)
+- [06-ahlen.md](docs/11-ambientacao/06-ahlen.md) | [07-zakharov.md](docs/11-ambientacao/07-zakharov.md)
+- [09-supremacia-purista.md](docs/11-ambientacao/09-supremacia-purista.md) | [10-aslothia.md](docs/11-ambientacao/10-aslothia.md)
+- [11-republicas-livres.md](docs/11-ambientacao/11-republicas-livres.md) | [13-reino-dragao.md](docs/11-ambientacao/13-reino-dragao.md)
+- [14-imperio-tauron.md](docs/11-ambientacao/14-imperio-tauron.md)
+- [18-cidades-notaveis.md](docs/11-ambientacao/18-cidades-notaveis.md) | [19-geografia-geral.md](docs/11-ambientacao/19-geografia-geral.md)
 
 ### [13 - Apêndices](docs/13-apendices/)
-Glossário, tabelas de referência, ficha de personagem e índice remissivo.
+Glossário, tabelas de referência, índice remissivo e créditos.
 
 - [01-glossario.md](docs/13-apendices/01-glossario.md)
-- [02-tabelas-referencia.md](docs/13-apendices/02-tabelas-referencia.md)
-- [03-ficha-personagem.md](docs/13-apendices/03-ficha-personagem.md)
-- [04-indice-remissivo.md](docs/13-apendices/04-indice-remissivo.md)
+- [02-indice-remissivo.md](docs/13-apendices/02-indice-remissivo.md)
+- [03-tabelas-referencia.md](docs/13-apendices/03-tabelas-referencia.md)
+- [04-open-game-license.md](docs/13-apendices/04-open-game-license.md)
+- [05-creditos-playtesters.md](docs/13-apendices/05-creditos-playtesters.md)
 
 ---
 
@@ -176,7 +183,7 @@ Termos frequentemente usados na documentação:
 Esta documentação é uma conversão em formato acessível para fins de estudo e acessibilidade, mantendo todo o conteúdo original e créditos dos autores.
 
 ### Equipe Original
-- Veja os créditos completos em [01-boas-vindas.md](docs/01-introducao/01-boas-vindas.md)
+- Veja os créditos completos em [01-o-que-e-tormenta20.md](docs/01-introducao/01-o-que-e-tormenta20.md)
 
 ### Conversão para Markdown
 - Projeto de acessibilidade - Janeiro 2026
@@ -210,7 +217,6 @@ tormenta/
     ├── 09-magia/
     ├── 10-mestre/
     ├── 11-ambientacao/
-    ├── 12-bestiario/
     ├── 13-apendices/
     └── imagens/
 ```

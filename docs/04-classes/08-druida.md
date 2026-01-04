@@ -12,7 +12,7 @@ No coração das florestas, nas partes mais remotas dos ermos inexplorados, exis
 
 O druida é um tipo específico de sacerdote. Devotado a **Allihanna** (Deusa da Natureza), **Megalokk** (Deus dos Monstros), ou **Oceano** (Deus dos Mares), o druida é mais do que um líder religioso. É um **guardião de tudo que é selvagem**, vivo e puro, um devoto ligado a uma forma primordial de culto divino.
 
-![Descrição: Ilustração de um druida, guardião da natureza vestindo roupas rústicas de couro e folhas, cabelos longos entrelaçados com galhos e flores, cajado de madeira viva na mão, cercado por animais selvagens. Postura harmoniosa com a natureza. Druidas são protetores dos ermos](../../imagens/druida-natureza.png)
+![Descrição: Ilustração de um druida, guardião da natureza vestindo roupas rústicas de couro e folhas, cabelos longos entrelaçados com galhos e flores, cajado de madeira viva na mão, cercado por animais selvagens. Postura harmoniosa com a natureza. Druidas são protetores dos ermos](../imagens/druida-natureza.png)
 
 ---
 

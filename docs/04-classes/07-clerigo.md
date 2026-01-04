@@ -10,7 +10,7 @@
 
 Clérigos são **sacerdotes** dedicados aos deuses de Arton. São responsáveis por administrar **templos**, conduzir **cerimônias**, ensinar sobre os **mistérios da fé** e servir de **intermediários** entre os fiéis e suas divindades. Clérigos são diferentes de devotos comuns: recebem poder dos deuses para realizar milagres, curar os enfermos, proteger os fiéis e combater os inimigos da fé.
 
-![Descrição: Ilustração de um clérigo, sacerdote devoto vestindo robes cerimoniais ornados com símbolos religiosos, empunhando maça e escudo com brasão sagrado, usando mitra ou capuz, carregando símbolo sagrado brilhante. Postura de comando e fé, rodeado por luz divina. Clérigos são canalizadores da vontade dos deuses](../../imagens/clerigo-sacerdote.png)
+![Descrição: Ilustração de um clérigo, sacerdote devoto vestindo robes cerimoniais ornados com símbolos religiosos, empunhando maça e escudo com brasão sagrado, usando mitra ou capuz, carregando símbolo sagrado brilhante. Postura de comando e fé, rodeado por luz divina. Clérigos são canalizadores da vontade dos deuses](../imagens/clerigo-sacerdote.png)
 
 ---
 

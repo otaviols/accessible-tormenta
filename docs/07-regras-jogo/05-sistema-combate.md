@@ -375,7 +375,7 @@ Ataques desarmados e certas armas específicas causam dano não letal. Você pod
 
 ---
 
-[▸ Próximo: Movimentação e Situações Especiais](08-movimentacao-situacoes.md)
+[▸ Próximo: Movimentação e Situações Especiais](06-movimentacao-situacoes.md)
 
 [◂ Anterior: Tipos de Efeitos e Dano](04-tipos-efeitos-dano.md)
 

@@ -10,7 +10,7 @@
 
 Parte humanas, parte fadas, as **dahllan** são uma raça de mulheres com a seiva de árvores correndo nas veias. Falam com os animais, controlam as plantas — mas também são ferozes em batalha, retorcendo madeira para formar armaduras.
 
-![Descrição: Ilustração de Lisandra, uma dahllan druida poderosa. Ela tem cabelos verdes com folhas e flores brotando, pele levemente esverdeada com textura de casca de árvore, olhos verdes brilhantes, e veste armadura natural feita de madeira viva. As meias-dríades começam a explorar Arton](../../imagens/dahllan-lisandra.png)
+![Descrição: Ilustração de Lisandra, uma dahllan druida poderosa. Ela tem cabelos verdes com folhas e flores brotando, pele levemente esverdeada com textura de casca de árvore, olhos verdes brilhantes, e veste armadura natural feita de madeira viva. As meias-dríades começam a explorar Arton](../imagens/dahllan-lisandra.png)
 
 ---
 

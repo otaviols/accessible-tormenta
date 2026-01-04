@@ -12,7 +12,7 @@ Desde que a civilização se estabeleceu em Arton, sempre houve a necessidade de
 
 O **cavaleiro** é parte de uma longa história de heroísmo. Às vezes considerados antiquados ou até anacrônicos, estes combatentes têm os mesmos ideais e usam as mesmas táticas que seus predecessores desenvolveram séculos atrás. Muitas vezes são **formais** e **grandiosos**, até mesmo **arrogantes**, pois carregam a responsabilidade de honrar muitas gerações de cavalaria.
 
-![Descrição: Ilustração de um cavaleiro, guerreiro nobre em armadura completa de placas brilhante, usando elmo com viseira, capa com brasão heráldico, empunhando espada longa e escudo com símbolo de ordem. Montado em cavalo de guerra com armadura. Postura digna e honrada. Cavaleiros são defensores nobres e tradicionais](../../imagens/cavaleiro-nobre.png)
+![Descrição: Ilustração de um cavaleiro, guerreiro nobre em armadura completa de placas brilhante, usando elmo com viseira, capa com brasão heráldico, empunhando espada longa e escudo com símbolo de ordem. Montado em cavalo de guerra com armadura. Postura digna e honrada. Cavaleiros são defensores nobres e tradicionais](../imagens/cavaleiro-nobre.png)
 
 ---
 

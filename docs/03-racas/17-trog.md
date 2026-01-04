@@ -12,7 +12,7 @@ Suas tribos tramam **incursões** contra povoados humanos, fazem **emboscadas** 
 
 Abandonam a tribo ou são expulsos. Escolhem caminhos surpreendentes, inesperados; tornam-se **druidas**, ou **clérigos**, ou **bucaneiros**, ou sabe-se lá o que mais. Enfim, acabam aceitos como colegas por aventureiros tão estranhos e deslocados quanto eles próprios.
 
-![Descrição: Ilustração de um trog aventureiro, um humanoide reptiliano musculoso com escamas verdes ou acinzentadas, olhos reptilianos amarelos com pupila vertical, focinho com dentes afiados, garras nas mãos e pés, e cauda grossa. Veste equipamento simples mas funcional. Possui postura orgulhosa mas cautelosa. Trogloditas primitivos mas capazes](../../imagens/trog-troglodita.png)
+![Descrição: Ilustração de um trog aventureiro, um humanoide reptiliano musculoso com escamas verdes ou acinzentadas, olhos reptilianos amarelos com pupila vertical, focinho com dentes afiados, garras nas mãos e pés, e cauda grossa. Veste equipamento simples mas funcional. Possui postura orgulhosa mas cautelosa. Trogloditas primitivos mas capazes](../imagens/trog-troglodita.png)
 
 ---
 

@@ -12,7 +12,7 @@
 
 O **bárbaro** é um herói primitivo que ignora ou descarta as frivolidades da civilização. Um combatente terrível, o bárbaro luta por instinto, confiando menos em técnica e mais em puro **frenesi de batalha**. Em momentos de grande perigo, ou apenas frente a algo que desperte seu ódio, o bárbaro é tomado por uma **fúria guerreira**, ficando cego para tudo que não seja o combate e sendo imbuído de força e resistência animalescas.
 
-![Descrição: Ilustração de um bárbaro, homem musculoso com pele bronzeada coberta de tatuagens tribais, usando armadura leve de couro e peles, empunhando machado de batalha enorme. Cabelos longos esvoaçantes, expressão feroz de fúria, cicatrizes de batalhas. Postura agressiva pronta para atacar. Bárbaros são guerreiros primitivos e ferozes](../../imagens/barbaro-guerreiro-furioso.png)
+![Descrição: Ilustração de um bárbaro, homem musculoso com pele bronzeada coberta de tatuagens tribais, usando armadura leve de couro e peles, empunhando machado de batalha enorme. Cabelos longos esvoaçantes, expressão feroz de fúria, cicatrizes de batalhas. Postura agressiva pronta para atacar. Bárbaros são guerreiros primitivos e ferozes](../imagens/barbaro-guerreiro-furioso.png)
 
 ---
 

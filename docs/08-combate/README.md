@@ -1,6 +1,6 @@
 # Ameaças
 
-[◂ Voltar à Página Principal](../README.md)
+[◂ Voltar à Página Principal](../../README.md)
 
 ---
 
@@ -38,21 +38,21 @@ Este capítulo apresenta como construir combates e ameaças para suas aventuras,
 - **Tormenta (8 criaturas):** Maníaco lefou, uktril, geraktril, reishid, thuwarokk (colosso), otyugh, sacerdote de Aharadak
   - **Quadros especiais:** Habilidades lefeu
 
-### 5. [Perigos](05-perigos.md)
+### 5. [Perigos](03-perigos.md)
 
-### 5. [Trolls Nobres - Império dos Trolls](05-trolls.md)
+### 5. Trolls Nobres - Império dos Trolls
 - Finntroll caçador
 - Ganchador
 - Troll
 - Fintroll feitor
 - Troll das cavernas
 
-### 5. [Perigos](05-perigos.md)
+### 5. [Perigos](03-perigos.md)
 - Armadilhas mecânicas e mágicas
 - Doenças e venenos
 - Perigos ambientais
 
-### 6. [Recompensas](06-recompensas.md)
+### 6. [Recompensas](04-recompensas.md)
 - Tesouro por ND
 - Itens mágicos
 - Recompensas alternativas
@@ -130,4 +130,4 @@ Este capítulo apresenta como construir combates e ameaças para suas aventuras,
 
 [▸ Começar: Construindo Combates](01-construindo-combates.md)
 
-[◂ Voltar à Página Principal](../README.md)
+[◂ Voltar à Página Principal](../../README.md)

@@ -2,7 +2,7 @@
 
 > "Atributos, raça, classe, origem, perícias, equipamentos, magias. O que você tem até aqui é suficiente para jogar. Mas não é tudo que você pode ter."
 
-[← Anterior: Deuses](06-deuses.md) | [Índice](README.md) | [Próximo: Capítulo 2 - Perícias & Poderes →](../03-pericias-poderes/README.md)
+[← Anterior: Deuses](06-deuses.md) | [Índice](README.md) | [Próximo: Capítulo 2 - Perícias & Poderes →](../05-pericias-poderes/README.md)
 
 ---
 
@@ -535,4 +535,4 @@ Seu personagem está **pronto para aventuras**! Agora é hora de aprender sobre 
 
 ---
 
-[← Anterior: Deuses](06-deuses.md) | [Índice](README.md) | [Próximo: Capítulo 2 - Perícias & Poderes →](../03-pericias-poderes/README.md)
+[← Anterior: Deuses](06-deuses.md) | [Índice](README.md) | [Próximo: Capítulo 2 - Perícias & Poderes →](../05-pericias-poderes/README.md)

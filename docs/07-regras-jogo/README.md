@@ -221,11 +221,9 @@ Ordem decrescente determina turnos.
 3. [Habilidades](03-habilidades.md)
 4. [Tipos de Efeitos e Dano](04-tipos-efeitos-dano.md)
 5. [Sistema de Combate](05-sistema-combate.md)
-6. [Manobras de Combate](06-manobras-combate.md)
-7. [Ferimentos e Morte](07-ferimentos-morte.md)
-8. [Movimentação e Situações Especiais](08-movimentacao-situacoes.md)
-9. [O Papel do Mestre](09-papel-mestre.md)
-10. [Estrutura de Aventuras](10-estrutura-aventuras.md)
+6. [Movimentação e Situações Especiais](06-movimentacao-situacoes.md)
+7. [O Papel do Mestre](09-papel-mestre.md)
+8. [Estrutura de Aventuras](10-estrutura-aventuras.md)
 
 ---
 

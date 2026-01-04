@@ -12,7 +12,7 @@ Ah, os minotauros. Talvez o maior paradoxo de Arton atualmente. E talvez o maior
 
 Com suas legiões de soldados e disciplina pétrea, tomaram o que puderam com a justificativa de que **o forte deve sempre proteger o mais fraco**, preceito de Tauron, Deus da Força. Provaram-se vencedores, conquistadores. A seus próprios olhos, protetores. E acima de tudo, fortes.
 
-![Descrição: Ilustração de Artorius, um minotauro guerreiro. Ele é alto e musculoso, com cabeça de touro, chifres imponentes, pelagem marrom-escura e olhar determinado. Veste armadura de placas e empunha uma grande espada. Uma nova era aguarda o povo de Tauron](../../imagens/minotauro-artorius.png)
+![Descrição: Ilustração de Artorius, um minotauro guerreiro. Ele é alto e musculoso, com cabeça de touro, chifres imponentes, pelagem marrom-escura e olhar determinado. Veste armadura de placas e empunha uma grande espada. Uma nova era aguarda o povo de Tauron](../imagens/minotauro-artorius.png)
 
 ---
 

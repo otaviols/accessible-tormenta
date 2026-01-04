@@ -12,7 +12,7 @@ Não é minha origem que me torna especial. É o fato de que sou especial que to
 
 O nobre é um herói de **linhagem**, um descendente de casas **prestigiadas**, **ricas** e **poderosas**. Pode ser um aristocrata nato, filho de duques ou condes. Pode ser um burguês cujos pais enriqueceram com comércio ou política. Também pode ser alguém que comprou um título de nobreza, obteve reconhecimento por um grande feito ou mesmo forjou suas credenciais. De qualquer forma, tem acesso a **recursos**, **educação** e **contatos sociais** que a maioria dos aventureiros nem ousa sonhar.
 
-![Descrição: Ilustração de um nobre, aristocrata em trajes refinados e elegantes, pode ter manto ou capa ornamentada, postura orgulhosa e confiante, pode carregar espada ornamental. Nobres comandam através de prestígio e carisma](../../imagens/nobre-aristocrata.png)
+![Descrição: Ilustração de um nobre, aristocrata em trajes refinados e elegantes, pode ter manto ou capa ornamentada, postura orgulhosa e confiante, pode carregar espada ornamental. Nobres comandam através de prestígio e carisma](../imagens/nobre-aristocrata.png)
 
 ---
 

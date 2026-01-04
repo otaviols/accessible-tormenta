@@ -10,7 +10,7 @@
 
 Os elfos vieram de longe há muito tempo, em embarcações trazidas — dizem — por ventos divinos. São **belos** e **esguios**, de cabelos e olhos de cores tão variadas quanto o arco-íris. Suas vestes costumam ser intrincadas e fluidas como seus movimentos. Nada neles parece comum, rasteiro. É difícil não se sentir impressionado ou inspirado ao lado de uma presença élfica. Há sempre algo de mágico nos elfos.
 
-![Descrição: Ilustração de Gwen e Fren, dois elfos aventureiros. Gwen é uma maga élfica com vestes elegantes e cajado arcano, enquanto Fren é um espadachim com armadura leve e lâmina élfica. Ambos têm traços delicados e porte gracioso. Os elfos tentam superar um passado arrogante e trágico](../../imagens/elfos-gwen-fren.png)
+![Descrição: Ilustração de Gwen e Fren, dois elfos aventureiros. Gwen é uma maga élfica com vestes elegantes e cajado arcano, enquanto Fren é um espadachim com armadura leve e lâmina élfica. Ambos têm traços delicados e porte gracioso. Os elfos tentam superar um passado arrogante e trágico](../imagens/elfos-gwen-fren.png)
 
 ---
 

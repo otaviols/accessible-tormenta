@@ -12,7 +12,7 @@ Muitos conformam-se com seus papéis como trabalhadores e soldados, enquanto out
 
 **Será que têm alma? Será que encontrarão os deuses quando chegar sua hora?**
 
-![Descrição: Ilustração de um golem, uma criatura humanoide feita de metal e pedra, com olhos brilhantes indicando o espírito elemental preso dentro. Runas mágicas decoram seu corpo artificial. Golens podem ser o que menos se espera](../../imagens/golem-construto.png)
+![Descrição: Ilustração de um golem, uma criatura humanoide feita de metal e pedra, com olhos brilhantes indicando o espírito elemental preso dentro. Runas mágicas decoram seu corpo artificial. Golens podem ser o que menos se espera](../imagens/golem-construto.png)
 
 ---
 

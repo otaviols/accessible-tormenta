@@ -12,7 +12,7 @@ Por serem ligados às forças opostas da **luz** e **trevas**, suraggel têm tra
 
 Sua natureza em geral combina com a ascendência, lembrando habitantes dos Mundos dos Deuses, mas eles também podem ser **surpreendentes** e **contraditórios**: não se espante muito ao conhecer um **aggelus ladino** ou um **sulfure paladino**.
 
-![Descrição: Ilustração mostrando dois suraggel - um aggelus com traços celestiais (pele clara brilhante, olhos dourados, sugestão de halo ou asas luminosas) e um sulfure com traços abissais (pele avermelhada, olhos ígneos, pequenos chifres ou cauda). Ambos têm aparência humanoidepesada mas com aspectos sobrenaturais. Suraggel carregam herança divina](../../imagens/suraggel-celestial-abissal.png)
+![Descrição: Ilustração mostrando dois suraggel - um aggelus com traços celestiais (pele clara brilhante, olhos dourados, sugestão de halo ou asas luminosas) e um sulfure com traços abissais (pele avermelhada, olhos ígneos, pequenos chifres ou cauda). Ambos têm aparência humanoidepesada mas com aspectos sobrenaturais. Suraggel carregam herança divina](../imagens/suraggel-celestial-abissal.png)
 
 ---
 

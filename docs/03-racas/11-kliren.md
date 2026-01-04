@@ -10,7 +10,7 @@ Estes visitantes de **outro mundo** seriam uma combinação entre **humanos** e 
 
 Os kliren possuem uma **natureza multifacetada** e intelectual impressionante. Seriam capazes de **grandes feitos**, talvez até dominar Arton, não fossem a **impulsividade** e **imprudência** que por vezes abreviam suas vidas...
 
-![Descrição: Ilustração de um kliren, um humanoide de estatura média com traços que combinam humanos e criaturas pequenas e engenhosas. Possui olhos grandes e expressivos, orelhas pontudas, e aparência curiosa. Veste roupas práticas cheias de ferramentas e engenhocas. Meio-gnomos kliren são curiosos e inventivos](../../imagens/kliren-meio-gnomo.png)
+![Descrição: Ilustração de um kliren, um humanoide de estatura média com traços que combinam humanos e criaturas pequenas e engenhosas. Possui olhos grandes e expressivos, orelhas pontudas, e aparência curiosa. Veste roupas práticas cheias de ferramentas e engenhocas. Meio-gnomos kliren são curiosos e inventivos](../imagens/kliren-meio-gnomo.png)
 
 ---
 

@@ -10,7 +10,7 @@ Sendo chamadas **sereias** quando femininas e **tritões** quando masculinos, os
 
 Enquanto algumas sereias **temem ou desprezam os humanos**, outras enxergam Arton como um **mundo misterioso**, exótico, cheio de **oportunidades** e **aventuras**.
 
-![Descrição: Ilustração de uma sereia/tritão em forma terrestre, com traços élficos e beleza aquática. Cabelos longos com aparência úmida, olhos grandes, pele com leve brilho escamoso. Em forma aquática, possui cauda de peixe colorida. Carrega tridente e tem postura graciosa. Sereias exploram a terra firme](../../imagens/sereia-tritao-aquatico.png)
+![Descrição: Ilustração de uma sereia/tritão em forma terrestre, com traços élficos e beleza aquática. Cabelos longos com aparência úmida, olhos grandes, pele com leve brilho escamoso. Em forma aquática, possui cauda de peixe colorida. Carrega tridente e tem postura graciosa. Sereias exploram a terra firme](../imagens/sereia-tritao-aquatico.png)
 
 ---
 

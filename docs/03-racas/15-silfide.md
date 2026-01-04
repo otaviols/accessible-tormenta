@@ -12,7 +12,7 @@ As mais numerosas **fadas** em Arton são estas criaturinhas (alguns diriam **"p
 
 Pensando bem, ninguém até hoje encontrou um **bom motivo** para aceitar uma sílfide em um grupo de aventureiros...
 
-![Descrição: Ilustração de uma sílfide, uma fada minúscula com aproximadamente 30cm de altura, asas translúcidas de borboleta brilhando com cores iridescentes. Tem grandes olhos escuros expressivos, cabelos esvoaçantes, e roupas feitas de pétalas ou folhas. Expressa energia e travessura. Fadas sílfides são pequenas mas poderosas](../../imagens/silfide-fada.png)
+![Descrição: Ilustração de uma sílfide, uma fada minúscula com aproximadamente 30cm de altura, asas translúcidas de borboleta brilhando com cores iridescentes. Tem grandes olhos escuros expressivos, cabelos esvoaçantes, e roupas feitas de pétalas ou folhas. Expressa energia e travessura. Fadas sílfides são pequenas mas poderosas](../imagens/silfide-fada.png)
 
 ---
 

@@ -19,7 +19,7 @@ O paladino é um **soldado a serviço do bem e da justiça**. Não há meio-term
 
 É um caminho de muito **sacrifício** e poucas **recompensas**, mas alguém deve trilhá-lo.
 
-![Descrição: Ilustração de um paladino, guerreiro sagrado em armadura completa brilhante, empunhando espada longa radiante e escudo com símbolo divino, aura de luz dourada, postura nobre e protetora. Paladinos são campeões divinos do bem e justiça](../../imagens/paladino-justiceiro.png)
+![Descrição: Ilustração de um paladino, guerreiro sagrado em armadura completa brilhante, empunhando espada longa radiante e escudo com símbolo divino, aura de luz dourada, postura nobre e protetora. Paladinos são campeões divinos do bem e justiça](../imagens/paladino-justiceiro.png)
 
 ---
 

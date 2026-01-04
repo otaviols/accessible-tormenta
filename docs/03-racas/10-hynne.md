@@ -10,7 +10,7 @@ Também conhecidos como **halflings** ou **"pequeninos"**, os hynne são aprecia
 
 Quando decidem fazê-lo, contudo, recorrem à **agilidade** e **encanto** naturais para ludibriar os inimigos — mais de um taverneiro ou miliciano deixou-se enganar por suas mãos ligeiras e sorrisos inocentes.
 
-![Descrição: Ilustração de um hynne aventureiro, um pequeno humanoide com cerca de 1 metro de altura, cabelos cacheados, pés peludos sem sapatos, roupas confortáveis mas práticas, e expressão simpática mas esperta. Hynne são simpáticos e furtivos](../../imagens/hynne-halfling.png)
+![Descrição: Ilustração de um hynne aventureiro, um pequeno humanoide com cerca de 1 metro de altura, cabelos cacheados, pés peludos sem sapatos, roupas confortáveis mas práticas, e expressão simpática mas esperta. Hynne são simpáticos e furtivos](../imagens/hynne-halfling.png)
 
 ---
 

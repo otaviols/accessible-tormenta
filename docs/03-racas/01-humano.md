@@ -10,7 +10,7 @@
 
 O povo mais numeroso em Arton, humanos são considerados os **escolhidos dos deuses**, aqueles que governam o mundo. Em sua variedade e adaptabilidade, são encontrados em quase todos os pontos do continente — dos vales férteis do Reinado às vastidões áridas do Deserto da Perdição. São exploradores e desbravadores ambiciosos, sempre buscando algo além.
 
-![Descrição: Ilustração de Vallen e Drikka, dois guerreiros humanos explorando uma masmorra. Vallen empunha uma espada longa e escudo, enquanto Drikka segura um arco. Humanos são os escolhidos dos deuses](../../imagens/humanos-vallen-drikka.png)
+![Descrição: Ilustração de Vallen e Drikka, dois guerreiros humanos explorando uma masmorra. Vallen empunha uma espada longa e escudo, enquanto Drikka segura um arco. Humanos são os escolhidos dos deuses](../imagens/humanos-vallen-drikka.png)
 
 ---
 

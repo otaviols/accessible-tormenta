@@ -221,6 +221,6 @@ Certas criaturas são mais complexas e exigem que o mestre estude suas fichas pa
 
 ---
 
-[▸ Próximo: Criaturas de Masmorras](02-criaturas-masmorras.md)
+[▸ Próximo: Bestiário Completo - Parte 1](02-bestiario-completo.md)
 
 [◂ Voltar ao Índice](README.md)

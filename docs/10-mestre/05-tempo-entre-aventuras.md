@@ -611,4 +611,4 @@ Você pode usar ambas:
 
 ---
 
-**[« Voltar: Campanhas](04-campanhas.md)** | **[Próximo: Construindo Combates »](06-construindo-combates.md)**
+**[« Voltar: Campanhas](04-campanhas.md)** | **[Próximo: Construindo Combates »](../08-combate/01-construindo-combates.md)**

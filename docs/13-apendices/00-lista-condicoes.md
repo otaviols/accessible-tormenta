@@ -12,7 +12,7 @@ Condições representam estados temporários que afetam personagens e criaturas 
 
 **Duração:** A menos que especificado o contrário, condições terminam no fim da cena.
 
-**Tipos de Efeito:** Algumas condições possuem um tipo de efeito (veja [página de condições](../07-regras/04-condicoes.md)). Se for o caso, o tipo aparece em itálico após a descrição da condição.
+**Tipos de Efeito:** Algumas condições possuem um tipo de efeito (veja [página de condições](../07-regras-jogo/04-tipos-efeitos-dano.md)). Se for o caso, o tipo aparece em itálico após a descrição da condição.
 
 ---
 

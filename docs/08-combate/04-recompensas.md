@@ -141,6 +141,4 @@ Outra maneira de garantir que o grupo tenha riqueza apropriada é comparar seu n
 
 ---
 
-[▸ Próximo: Itens Mágicos](05-itens-magicos.md)
-
 [◂ Voltar ao Índice](README.md)

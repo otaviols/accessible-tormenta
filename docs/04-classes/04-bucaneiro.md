@@ -12,7 +12,7 @@ Os mares e rios são alguns dos terrenos mais selvagens e misteriosos de Arton. 
 
 Bucaneiros são aventureiros que singram as águas deste mundo, sempre metidos em missões, batalhas, buscas, patrulhas ou a simples luta pela sobrevivência. Muitos são verdadeiros **piratas**, fora da lei vivendo numa sociedade com suas próprias regras, em desafio aos reinos do continente.
 
-![Descrição: Ilustração de um bucaneiro, figura audaciosa com tricórnio enfeitado com penas, casaco de capitão esvoaçante sobre colete, cinto com múltiplas armas (espada, pistola, adagas). Postura confiante, sorriso malicioso, olhar astuto. Fundo sugere convés de navio. Bucaneiros são aventureiros dos mares e rios](../../imagens/bucaneiro-pirata.png)
+![Descrição: Ilustração de um bucaneiro, figura audaciosa com tricórnio enfeitado com penas, casaco de capitão esvoaçante sobre colete, cinto com múltiplas armas (espada, pistola, adagas). Postura confiante, sorriso malicioso, olhar astuto. Fundo sugere convés de navio. Bucaneiros são aventureiros dos mares e rios](../imagens/bucaneiro-pirata.png)
 
 ---
 

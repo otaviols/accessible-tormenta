@@ -1,6 +1,6 @@
 # Mundo de Arton
 
-[◂ Voltar à Página Principal](../README.md)
+[◂ Voltar à Página Principal](../../README.md)
 
 ---
 
@@ -16,28 +16,27 @@ Arton é um continente, mas também um mundo — tão vasto e inexplorado que qu
 - [Linha do Tempo Completa](01-historia-linha-tempo.md) - Da Criação aos dias atuais (1420 DA)
 
 ### O Reinado - Centro da Civilização
-- [O Reinado - Visão Geral](02-reinado-visao-geral.md) - A aliança de reinos e a Rainha-Imperatriz Shivara
-- [Deheon - O Reino Capital](03-deheon.md) - Valkaria, a Cidade Sob a Deusa
-- [Bielefeld - O Reino dos Cavaleiros](04-bielefeld.md) - Norm e a Ordem da Luz
-- [Wynlla - O Reino da Magia](05-wynlla.md) - Coridrian, lar dos golens
-- [Namalkah - O Reino dos Cavalos](06-namalkah.md) - Hippiontar e a cultura equestre
-- [Ahlen - O Reino da Intriga](07-ahlen.md) - Thartann e as três famílias
-- [Zakharov - O Reino das Armas](08-zakharov.md) - Rhond e a forja divina
+- [Deheon - O Reino Capital](02-deheon.md) - Valkaria, a Cidade Sob a Deusa
+- [Bielefeld - O Reino dos Cavaleiros](03-bielefeld.md) - Norm e a Ordem da Luz
+- [Wynlla - O Reino da Magia](04-wynlla.md) - Coridrian, lar dos golens
+- [Namalkah - O Reino dos Cavalos](05-namalkah.md) - Hippiontar e a cultura equestre
+- [Ahlen - O Reino da Intriga](06-ahlen.md) - Thartann e as três famílias
+- [Zakharov - O Reino das Armas](07-zakharov.md) - Rhond e a forja divina
 
 ### Outras Nações de Arton
 - [Supremacia Purista](09-supremacia-purista.md) - O inimigo fanático
 - [Aslothia - Reino dos Mortos](10-aslothia.md) - Domínio dos mortos-vivos
 - [Repúblicas Livres](11-republicas-livres.md) - Sambúrdia e a liga mercante
-- [Tapista](12-tapista.md) - República minotauro
-- [Império de Tauron](13-imperio-tauron.md) - O império decadente
-- [Lamnor - Continente Sul](14-lamnor.md) - Terras dos goblinoides
-- [Khubar](15-khubar.md) - A nação exótica do leste
-- [Regiões Selvagens](16-regioes-selvagens.md) - Ermos, Sanguinárias, Savana, Desertos
+- [Feudos de Trebuck](12-feudos-trebuck.md) - Fronteiras em conflito
+- [Reino do Dragão](13-reino-dragao.md) - As nações dracônicas
+- [Império de Tauron](14-imperio-tauron.md) - O império decadente
 
 ### Geografia e Locais
-- [Cidades Importantes](17-cidades.md) - Centros urbanos de Arton
-- [Pontos de Interesse](18-pontos-interesse.md) - Ruínas, templos, masmorras
-- [Geografia](19-geografia.md) - Montanhas, rios, oceanos
+- [Montanhas e Regiões Selvagens](15-montanhas-sanguinarias.md) - Cordilheiras e áreas perigosas
+- [Montanhas Uivantes](16-montanhas-uivantes.md) - Terras geladas
+- [Ermos Púrpuras](17-ermos-purpuras.md) - Florestas e ermos
+- [Cidades Importantes](18-cidades-notaveis.md) - Centros urbanos de Arton
+- [Geografia Geral](19-geografia-geral.md) - Montanhas, rios, oceanos
 
 ---
 
@@ -157,4 +156,4 @@ Rotas comerciais conectam as principais cidades, mas viagens são perigosas. Mer
 
 [▸ Começar: História e Linha do Tempo](01-historia-linha-tempo.md)
 
-[◂ Voltar à Página Principal](../README.md)
+[◂ Voltar à Página Principal](../../README.md)

@@ -1,6 +1,6 @@
 # Capítulo 10: O Mestre
 
-« [Voltar ao Índice Principal](../README.md)
+« [Voltar ao Índice Principal](../../README.md)
 
 ---
 
@@ -65,4 +65,4 @@ Este capítulo é dedicado aos mestres de jogo, fornecendo ferramentas, conselho
 
 ---
 
-« [Voltar ao Índice Principal](../README.md)
+« [Voltar ao Índice Principal](../../README.md)

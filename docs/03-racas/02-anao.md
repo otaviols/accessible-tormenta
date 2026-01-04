@@ -12,7 +12,7 @@ Não existe nada mais confiável em Arton que um anão. Cachorros também são c
 
 São **troncudos**, **maciços**, resistentes como os pedaços de minério pelos quais são apaixonados. Seus dedos curtos e grossos parecem pouco habilidosos, mas das mãos dos anões saem as armas e armaduras mais fabulosas de Arton.
 
-![Descrição: Ilustração de Golinda e Ingram, dois anões aventureiros. Golinda é uma mulher anã com armadura pesada e machado de batalha, enquanto Ingram carrega um martelo de guerra. Ambos têm longas barbas trançadas e equipamentos ricamente decorados. Nem todo anão segue tradições](../../imagens/anoes-golinda-ingram.png)
+![Descrição: Ilustração de Golinda e Ingram, dois anões aventureiros. Golinda é uma mulher anã com armadura pesada e machado de batalha, enquanto Ingram carrega um martelo de guerra. Ambos têm longas barbas trançadas e equipamentos ricamente decorados. Nem todo anão segue tradições](../imagens/anoes-golinda-ingram.png)
 
 ---
 
