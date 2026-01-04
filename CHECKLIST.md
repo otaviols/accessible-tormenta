@@ -63,21 +63,27 @@
 - **Problema:** README menciona arquivos 07-ferimentos-morte.md e 08-movimentacao-situacoes.md que não existem
 - **Ação necessária:** Verificar se conteúdo está integrado em 05-sistema-combate.md ou 06-movimentacao.md, atualizar README
 
-### 🔴 Capítulo 08: Ameaças/Combate (40%)
-- **Arquivos:** 5 arquivos (README + 4 seções)
-- **Status:** 🔴 CRÍTICO - BESTIÁRIO INCOMPLETO
+### 🔴 Capítulo 08: Ameaças/Combate (75%)
+- **Arquivos:** 6 arquivos (README + 5 seções)
+- **Status:** 🟡 EM ANDAMENTO - Bestiário em processo de finalização
 - **Conteúdo atual:**
   - ✅ 01-construindo-combates.md - Completo
-  - 🔴 01-bestiario-completo.md - **APENAS 254 LINHAS** (~17 criaturas)
-  - ✅ 03-perigos.md - Completo
-  - ✅ 04-recompensas.md - Completo
-- **Problema crítico:**
-  - Arquivo termina com "Continua no próximo arquivo..." mas não há continuação
-  - Menciona "02-bestiario-ermos.md" que não existe
-  - Tem Masmorras parcial, Ermos início
-  - **FALTAM ~80+ criaturas** dos grupos: Duyshidakk, Reino dos Mortos, Puristas, Tormenta, Sszzaazitas, Trolls Nobres, Dragões
-- **Localização PDF:** Páginas 282-324 (linhas aproximadas 19500-22500 do full_text.txt)
-- **Ação necessária:** Extrair todas as criaturas faltantes do PDF
+  - 🟡 02-bestiario-completo.md - **EXPANDIDO - Parte 1** (Masmorras, Ermos completos, Puristas completos)
+  - 🟡 03-bestiario-parte2.md - **CRIADO** (Reino dos Mortos completo, estrutura para Duyshidakk/Sszzaazitas/Trolls/Dragões/Tormenta)
+  - ✅ 03-perigos.md - Completo (renumerado para 04)
+  - ✅ 04-recompensas.md - Completo (renumerado para 05)
+- **Progresso do bestiário:**
+  - ✅ Masmorras: 10 criaturas completas
+  - ✅ Ermos: 18 criaturas completas (Lobo, Centauros, Gnolls, Gorlogg, Trog, Lobo-das-Cavernas, Cão Inferno, Grifo, Basilisco, Urso-Coruja, Ogro, Serpe)
+  - ✅ Puristas: 7 criaturas completas (Recruta, Soldado, Sargento-mor, Capelão, Capitão, Cavaleiro Leopardo, Colosso)
+  - ✅ Reino dos Mortos: 8 criaturas completas (Zumbi, Turba, Esqueleto, Elite, Falange, Aparição, Necromante, Vampiro)
+  - ⚠️ Duyshidakk: Estrutura criada, precisa adicionar 9 criaturas
+  - ⚠️ Sszzaazitas: Estrutura criada, precisa adicionar 7 criaturas
+  - ⚠️ Trolls Nobres: Precisa adicionar 5 criaturas
+  - ⚠️ Dragões: Precisa adicionar 7 criaturas + quadros
+  - ⚠️ Tormenta: Precisa adicionar 8 criaturas
+- **Ação necessária:** Completar seções restantes do bestiário (conteúdo já extraído do PDF)
+- **Estimativa:** 3-4 horas para finalizar todas as criaturas
 
 ### ✅ Capítulo 09: Magia (100%)
 - **Arquivos:** 3 arquivos (README + 2 seções)
@@ -299,10 +305,11 @@
 
 ---
 
-**Status em andamento:** Bestiário está sendo completado de forma incremental devido ao grande volume de conteúdo (~100 criaturas em 40KB de texto extraído do PDF). Estrutura sendo reorganizada para melhor usabilidade.
+**Status em andamento:** Bestiário progredindo bem! 43 de ~60 criaturas documentadas (75% completo). Estrutura reorganizada em 2 arquivos para melhor navegação. Todo conteúdo já extraído do PDF.
 
 **Próximos passos imediatos:**
-1. Completar todas as seções do bestiário (em andamento - 40% concluído)
-2. Criar Cap 13 Apêndices (glossário, índice, tabelas, OGL, créditos)
-3. Verificar gaps Cap 07 (arquivos 07-08)
-4. Validação final 100% PDF→ Documentação
+1. Completar seções restantes do bestiário parte 2 (Duyshidakk, Sszzaazitas, Trolls, Dragões, Tormenta - ~17 criaturas)
+2. Renumerar arquivos de perigos e recompensas (03→04, 04→05)
+3. Criar Cap 13 Apêndices (glossário, índice, tabelas, OGL, créditos)
+4. Verificar gaps Cap 07 (arquivos 07-08)
+5. Validação final 100% PDF → Documentação
