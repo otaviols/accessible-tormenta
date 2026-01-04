@@ -18,35 +18,27 @@ Este capítulo apresenta como construir combates e ameaças para suas aventuras,
 - Fatores que afetam dificuldade
 - Como ler fichas de criaturas
 
-### 2. [Criaturas de Masmorras](02-criaturas-masmorras.md)
-- Glops e ratos gigantes
-- Orcs (combatente, chefe, mutante)
-- Aranhas gigantes
-- Gárgulas
-- Guerreiros de chifres
-- Mantícora
-- Centopeia-dragão
-- Golem de ferro
+### 2. [Bestiário Completo - Parte 1](02-bestiario-completo.md)
+**35 criaturas: Masmorras, Ermos e Puristas**
+- **Masmorras (10 criaturas):** Glops, ratos, orcs, aranhas, gárgulas, mantícora, centopeia-dragão, golem
+- **Ermos (18 criaturas):** Bandidos, guardas, lobos, centauros, gnolls, gorlogg, trogs, cães do inferno, grifo, basilisco, urso-coruja, ogro, serpe
+- **Puristas (7 criaturas):** Recruta, soldado, sargento-mor, capelão de guerra, capitão-baluarte, cavaleiro do leopardo sangrento, colosso supremo
 
-### 3. [Criaturas dos Ermos](03-criaturas-ermos.md)
-- Bandidos e guardas
-- Lobos e lobos-das-cavernas
-- Centauros (combatente e xamã)
-- Gnolls (saqueador e filibusteiro)
-- Gorlogg e trogs
-- Cães do inferno
-- Grifos
-- Basilisco
-- Urso-coruja
-- Serpe
+### 3. [Bestiário Completo - Parte 2](03-bestiario-parte2.md)
+**29 criaturas: Reino dos Mortos, Duyshidakk, Sszzaazitas e Trolls Nobres**
+- **Reino dos Mortos (8 criaturas):** Zumbis, esqueletos, falange, aparição, necromante, vampiro
+- **Duyshidakk (9 criaturas):** Goblins, hobgoblins, engenhoqueiro, arauto de Thwor, mago de batalha, engenho de guerra, devorador de medos, sombra de Thwor
+- **Sszzaazitas (7 criaturas):** Cobras variadas, nagah (guardião e mística), cultista de Sszzaas, hidra, lagash
+- **Trolls Nobres (5 criaturas):** Finntroll (caçador e feitor), ganchador, troll, troll das cavernas
 
-### 4. [Duyshidakk - Legião de Duyshidakk](04-duyshidakk.md)
-- Goblins (salteador, engenhoqueiro, engenho de guerra)
-- Hobgoblins (soldado, mago de batalha)
-- Kobolds
-- Arauto de Thwor Duyshidakk
-- Devorador de medos
-- Sombra de Thwor
+### 4. [Bestiário Completo - Parte 3](04-bestiario-dragoes-tormenta.md)
+**15 criaturas: Dragões e Tormenta**
+- **Dragões (7 criaturas):** Kobolds, dragão filhote/jovem/adulto/venerável/rei, tirano do terceiro
+  - **Quadros especiais:** Habilidades dracônicas, couro de dragão (material de crafting)
+- **Tormenta (8 criaturas):** Maníaco lefou, uktril, geraktril, reishid, thuwarokk (colosso), otyugh, sacerdote de Aharadak
+  - **Quadros especiais:** Habilidades lefeu
+
+### 5. [Perigos](05-perigos.md)
 
 ### 5. [Trolls Nobres - Império dos Trolls](05-trolls.md)
 - Finntroll caçador
@@ -55,44 +47,15 @@ Este capítulo apresenta como construir combates e ameaças para suas aventuras,
 - Fintroll feitor
 - Troll das cavernas
 
-### 6. [Sszzaazitas - Culto da Serpente](06-sszzaazitas.md)
-- Serpentes (cascavel, jiboia, naja, sucuri)
-- Nagah (guardião, místico)
-- Cultista de Sszzaas
-- Hidra
-- Lagash
+### 5. [Perigos](05-perigos.md)
+- Armadilhas mecânicas e mágicas
+- Doenças e venenos
+- Perigos ambientais
 
-### 7. [Reino dos Mortos - Mortos-Vivos](07-mortos-vivos.md)
-- Zumbis (comum e turba)
-- Esqueletos (comum e elite)
-- Aparição
-- Necromante
-- Falange
-- Vampiro
-
-### 8. [Puristas - Exército dos Puristas](08-puristas.md)
-- Recruta, soldado, capelão, sargento-mor
-- Capitão-baluarte
-- Cavaleiro do Leopardo Negro
-- Colosso supremo
-
-### 9. [Tormenta - Criaturas Corruptas](09-tormenta.md)
-- Maníaco lefou
-- Uktril
-- Otyugh
-- Geraktril
-- Reishid
-- Sacerdote de Aharadak
-- Thuwarokk
-
-### 10. [Dragões - Senhores dos Céus](10-dragoes.md)
-- Dragão filhote (ND 3)
-- Dragão jovem (ND 7)
-- Dragão adulto (ND 11)
-- Dragão venerável (ND 15)
-- Dragão rei (ND 20)
-- Kobolds (servos dos dragões)
-- Tirano do Terceiro
+### 6. [Recompensas](06-recompensas.md)
+- Tesouro por ND
+- Itens mágicos
+- Recompensas alternativas
 
 ---
 
@@ -100,15 +63,15 @@ Este capítulo apresenta como construir combates e ameaças para suas aventuras,
 
 | ND | Criaturas |
 |:---|:----------|
-| **1/4** | Bandido, Cascavel, Glop, Rato Gigante |
+| **1/4** | Bandido, Glop, Rato Gigante |
 | **1/3** | Goblin Salteador, Guarda de Cidade, Orc, Zumbi |
-| **1/2** | Gnoll, Jiboia, Lobo, Recruta Purista |
-| **1** | Centauro, Chefe Bandido, Gorlogg, Hobgoblin Soldado, Naja, Sargento da Guarda, Soldado Purista, Trog |
-| **2** | Aranha Gigante, Esqueleto, Finntroll Caçador, Gárgula, Gnoll Filibusteiro, Kobolds, Lobo-das-Cavernas, Maníaco Lefou, Orc Chefe, Turba de Zumbis |
-| **3** | Cão do Inferno, Centauro Xamã, Dragão Filhote, Goblin Engenhoqueiro, Grifo, Guerreiro de Chifres, Nagah Guardião, Sargento-Mor, Sucuri, Uktril |
+| **1/2** | Gnoll, Lobo, Recruta Purista |
+| **1** | Centauro, Chefe Bandido, Gorlogg, Hobgoblin Soldado, Sargento da Guarda, Soldado Purista, Trog |
+| **2** | Aranha Gigante, Esqueleto, Finntroll Caçador, Gárgula, Gnoll Filibusteiro, Kobolds (bando), Lobo-das-Cavernas, Maníaco Lefou, Orc Chefe, Turba de Zumbis |
+| **3** | Cão do Inferno, Centauro Xamã, Dragão Filhote, Goblin Engenhoqueiro, Grifo, Guerreiro de Chifres, Nagah Guardião, Sargento-Mor, Uktril |
 | **4** | Arauto de Thwor, Basilisco, Capelão de Guerra, Esqueleto de Elite, Hobgoblin Mago de Batalha, Ogro, Urso-Coruja |
-| **5** | Aparição, Capitão-Baluarte, Ganchador, Orc Mutante, Otyugh, Serpe, Troll |
-| **6** | Engenho de Guerra Goblin, Fintroll Feitor, Geraktril, Mantícora, Nagah Mística |
+| **5** | Aparição, Capitão-Baluarte, Ganchador, Otyugh, Serpe, Troll |
+| **6** | Engenho de Guerra Goblin, Finntroll Feitor, Geraktril, Mantícora, Nagah Mística |
 | **7** | Centopeia-Dragão, Cultista de Sszzaas, Dragão Jovem, Necromante |
 | **8** | Devorador de Medos, Falange, Reishid |
 | **9** | Cavaleiro do Leopardo Negro, Sombra de Thwor, Troll das Cavernas |
@@ -120,6 +83,8 @@ Este capítulo apresenta como construir combates e ameaças para suas aventuras,
 | **15** | Dragão Venerável |
 | **16** | Thuwarokk |
 | **20** | Dragão Rei |
+
+**Total:** 79 criaturas documentadas em 3 arquivos de bestiário
 
 ---
 

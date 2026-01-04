@@ -63,21 +63,26 @@
 - **Problema:** README menciona arquivos 07-ferimentos-morte.md e 08-movimentacao-situacoes.md que não existem
 - **Ação necessária:** Verificar se conteúdo está integrado em 05-sistema-combate.md ou 06-movimentacao.md, atualizar README
 
-### 🔴 Capítulo 08: Ameaças/Combate (75%)
-- **Arquivos:** 6 arquivos (README + 5 seções)
-- **Status:** 🟡 EM ANDAMENTO - Bestiário em processo de finalização
+### ✅ Capítulo 08: Ameaças/Combate (100%)
+- **Arquivos:** 7 arquivos (README + 6 seções)
+- **Status:** ✅ COMPLETO
 - **Conteúdo atual:**
   - ✅ 01-construindo-combates.md - Completo
-  - 🟡 02-bestiario-completo.md - **EXPANDIDO - Parte 1** (Masmorras, Ermos completos, Puristas completos)
-  - 🟡 03-bestiario-parte2.md - **CRIADO** (Reino dos Mortos completo, estrutura para Duyshidakk/Sszzaazitas/Trolls/Dragões/Tormenta)
-  - ✅ 03-perigos.md - Completo (renumerado para 04)
-  - ✅ 04-recompensas.md - Completo (renumerado para 05)
-- **Progresso do bestiário:**
-  - ✅ Masmorras: 10 criaturas completas
-  - ✅ Ermos: 18 criaturas completas (Lobo, Centauros, Gnolls, Gorlogg, Trog, Lobo-das-Cavernas, Cão Inferno, Grifo, Basilisco, Urso-Coruja, Ogro, Serpe)
-  - ✅ Puristas: 7 criaturas completas (Recruta, Soldado, Sargento-mor, Capelão, Capitão, Cavaleiro Leopardo, Colosso)
-  - ✅ Reino dos Mortos: 8 criaturas completas (Zumbi, Turba, Esqueleto, Elite, Falange, Aparição, Necromante, Vampiro)
-  - ⚠️ Duyshidakk: Estrutura criada, precisa adicionar 9 criaturas
+  - ✅ 02-bestiario-completo.md - **Parte 1 COMPLETA** (35 criaturas: Masmorras, Ermos, Puristas)
+  - ✅ 03-bestiario-parte2.md - **Parte 2 COMPLETA** (29 criaturas: Reino dos Mortos, Duyshidakk, Sszzaazitas, Trolls Nobres)
+  - ✅ 04-bestiario-dragoes-tormenta.md - **Parte 3 COMPLETA** (15 criaturas: Dragões e Tormenta)
+  - ✅ 05-perigos.md - Completo
+  - ✅ 06-recompensas.md - Completo
+- **Progresso do bestiário: 79 criaturas documentadas** ✅
+  - ✅ Masmorras: 10 criaturas
+  - ✅ Ermos: 18 criaturas
+  - ✅ Puristas: 7 criaturas
+  - ✅ Reino dos Mortos: 8 criaturas
+  - ✅ Duyshidakk: 9 criaturas (goblinoides completos com Engenho de Guerra, Devorador de Medos, Sombra de Thwor)
+  - ✅ Sszzaazitas: 7 criaturas (cobras, nagah, cultistas, hidra, lagash)
+  - ✅ Trolls Nobres: 5 criaturas (finntroll, ganchador, trolls variados)
+  - ✅ Dragões: 7 criaturas (Kobold, 5 categorias de idade, Tirano do Terceiro) + quadros especiais (Habilidades Dracônicas, Couro de Dragão)
+  - ✅ Tormenta: 8 criaturas (Maníaco Lefou, Uktril, Geraktril, Reishid, Thuwarokk, Otyugh, Sacerdote) + quadros (Habilidades Lefeu)
   - ⚠️ Sszzaazitas: Estrutura criada, precisa adicionar 7 criaturas
   - ⚠️ Trolls Nobres: Precisa adicionar 5 criaturas
   - ⚠️ Dragões: Precisa adicionar 7 criaturas + quadros
@@ -125,24 +130,23 @@
 
 ## 🎯 Plano de Ação - Finalização
 
-### 🔴 PRIORIDADE CRÍTICA 1: Completar Bestiário (Cap 08)
-**Tempo estimado:** 10-15 horas
+### ✅ CONCLUÍDO: Bestiário Completo (Cap 08)
+**Status:** ✅ 100% COMPLETO - 79 criaturas documentadas em 3 partes
 
-**Problema:**
-- Arquivo `docs/08-combate/01-bestiario-completo.md` tem apenas 254 linhas
-- Contém ~17 criaturas (Masmorras parcial, Ermos início)
-- Termina abruptamente com "Continua no próximo arquivo..."
-- Referencia arquivo "02-bestiario-ermos.md" que não existe
+**Resultado:**
+- Arquivo Parte 1: 35 criaturas (Masmorras, Ermos, Puristas)
+- Arquivo Parte 2: 29 criaturas (Reino dos Mortos, Duyshidakk, Sszzaazitas, Trolls)
+- Arquivo Parte 3: 15 criaturas (Dragões completo, Tormenta completo)
+- Quadros especiais: Habilidades Dracônicas, Couro de Dragão, Habilidades Lefeu
+- Todos os stat blocks completos e integrais
+- Navegação entre arquivos funcional
 
-**Criaturas faltando (grupos completos):**
-1. Ermos (continuar de onde parou)
-2. Duyshidakk (facções goblinoides)
-3. Reino dos Mortos (mortos-vivos)
-4. Puristas (forças da Supremacia)
-5. Tormenta (criaturas corrompidas)
-6. Sszzaazitas (culto das serpentes)
-7. Trolls Nobres (variantes de trolls)
-8. Dragões (tipos de dragões e kobolds)
+### 🔴 PRIORIDADE CRÍTICA 1: Criar Capítulo 13 - Apêndices
+### 🔴 PRIORIDADE CRÍTICA 1: Criar Capítulo 13 - Apêndices
+**Tempo estimado:** 8-10 horas
+**Localização PDF:** Páginas 392-399 (linhas aproximadas 27100-27600 do full_text.txt)
+
+**Arquivos a criar:**
 
 **Fonte:**
 - PDF páginas 282-324
