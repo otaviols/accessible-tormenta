@@ -65,20 +65,7 @@ Este capítulo explica as regras fundamentais do jogo - como funcionam os **test
 - Ações completas
 - Ações livres
 
-#### [06. Manobras de Combate](06-manobras-combate.md)
-- Agarrar
-- Derrubar
-- Desarmar
-- Empurrar
-- Quebrar objetos
-
-#### [07. Ferimentos e Morte](07-ferimentos-morte.md)
-- Pontos de vida
-- Sangramento e estabilização
-- Morte
-- Dano não letal
-
-#### [08. Movimentação e Situações Especiais](08-movimentacao-situacoes.md)
+#### [06. Movimentação e Situações Especiais](06-movimentacao-situacoes.md)
 - Deslocamento
 - Atravessar espaços ocupados
 - Diagonais

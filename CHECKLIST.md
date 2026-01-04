@@ -8,7 +8,7 @@
 
 ## 📊 Progresso Geral
 
-**Capítulos Completos:** 8 de 13 (62%)
+**Capítulos Completos:** 9 de 12 (~75%)
 
 **Estatísticas:**
 - 📁 **Arquivos criados:** 89 arquivos markdown
@@ -56,12 +56,11 @@
 - **Conteúdo:** Todas armas, armaduras, itens gerais, itens superiores, serviços
 - **Observações:** Tabelas completas preservadas, custos e características
 
-### ⚠️ Capítulo 07: Regras de Jogo (77%)
-- **Arquivos:** 9 arquivos (README + 8 seções)
-- **Status:** ⚠️ INCOMPLETO - Verificação necessária
-- **Conteúdo:** Testes, condições, combate básico, sistema de combate, movimentação
-- **Problema:** README menciona arquivos 07-ferimentos-morte.md e 08-movimentacao-situacoes.md que não existem
-- **Ação necessária:** Verificar se conteúdo está integrado em 05-sistema-combate.md ou 06-movimentacao.md, atualizar README
+### ✅ Capítulo 07: Regras de Jogo (100%)
+- **Arquivos:** 8 arquivos (README + 7 seções)
+- **Status:** ✅ COMPLETO
+- **Conteúdo:** Papel do jogador, regras de testes, habilidades, tipos de efeitos e dano, sistema de combate, movimentação e situações especiais, papel do mestre, estrutura de aventuras
+- **Observações:** Conteúdo de ferimentos/morte e manobras está integrado em 05-sistema-combate.md e 06-movimentacao-situacoes.md. README atualizado para não referenciar arquivos inexistentes.
 
 ### ✅ Capítulo 08: Ameaças/Combate (100%)
 - **Arquivos:** 7 arquivos (README + 6 seções)
@@ -108,23 +107,24 @@
 - **Conteúdo:** História completa de Arton, linha do tempo, todos os 7 reinos do Reinado, Supremacia Purista, Império Tauron, geografia geral, cidades importantes
 - **Observações:** Seções: 01-historia, 02-deheon, 03-yuden, 04-tyrondir, 05-sambúrdia, 06-zakharov, 07-wynlla, 08-namalkah, 09-supremacia-purista, 10-imperio-tauron, 11-outras-nacoes, 12-arton-central, 13-lamnor, 14-galrasia, 15-tamu-ra, 16-confins, 17-hongari, 18-geografia-detalhada, 19-geografia-geral
 
-### ❌ Capítulo 12: Bestiário (0%)
-- **Arquivos:** 0 arquivos
-- **Status:** ❌ PASTA VAZIA
-- **Observação:** Bestiário está no Capítulo 08, não em pasta separada
-- **Decisão necessária:** Manter pasta vazia ou remover (decisão estrutural)
+### 🚫 Capítulo 12: Bestiário (removido)
+- **Arquivos:** pasta removida
+- **Status:** 🚫 Não é capítulo separado no livro
+- **Observação:** Todo o bestiário está corretamente documentado no Capítulo 08 (Ameaças/Combate). Pasta 12-bestiario/ foi removida para evitar confusão.
 
-### ❌ Capítulo 13: Apêndices (0%)
-- **Arquivos:** 0 arquivos
-- **Status:** ❌ PASTA VAZIA - AÇÃO NECESSÁRIA
-- **Conteúdo necessário:**
-  - 01-glossario.md - Termos A-Z com links internos
-  - 02-indice-remissivo.md - Baseado em páginas 396-399 do PDF, converter para links markdown
-  - 03-tabelas-referencia.md - Compilar tabelas importantes (testes, dificuldades, dano, etc)
-  - 04-open-game-license.md - Página 393 do PDF
-  - 05-creditos-playtesters.md - Página 392 do PDF
-- **Localização PDF:** Páginas 392-399 (linhas aproximadas 27100-27600 do full_text.txt)
-- **Ação necessária:** Criar todos os 5 arquivos
+### ✅ Capítulo 13: Apêndices (100% estrutural, índice parcial)
+- **Arquivos:** 6 arquivos (README + 5 seções)
+- **Status:** ✅ ESTRUTURALMENTE COMPLETO
+- **Conteúdo:**
+  - 00-lista-condicoes.md – Lista A–Z de condições de jogo (baseada no Apêndice do livro)
+  - 01-glossario.md – Glossário funcional com termos-chave e links para as seções relevantes dos .md
+  - 02-indice-remissivo.md – Índice remissivo baseado nas páginas 396–399 (letra A completa, restante pendente)
+  - 03-tabelas-referencia.md – Hub de navegação para tabelas de testes, combate, atributos, equipamento e magia
+  - 04-open-game-license.md – Texto completo da OGL v1.0a e nota sobre Identidade de Produto/Conteúdo Open Game
+  - 05-creditos-playtesters.md – Texto integral da página 392 (lista de playtesters)
+- **Observações:**
+  - O glossário e as tabelas de referência funcionam como camada de navegação/acessibilidade (não copiam o texto do livro).
+  - O índice remissivo ainda está parcial (somente a letra A) e pode ser expandido letra por letra a partir de extracted/full_text.txt.
 
 ---
 
@@ -141,117 +141,31 @@
 - Todos os stat blocks completos e integrais
 - Navegação entre arquivos funcional
 
-### 🔴 PRIORIDADE CRÍTICA 1: Criar Capítulo 13 - Apêndices
-### 🔴 PRIORIDADE CRÍTICA 1: Criar Capítulo 13 - Apêndices
-**Tempo estimado:** 8-10 horas
-**Localização PDF:** Páginas 392-399 (linhas aproximadas 27100-27600 do full_text.txt)
+### 🟡 Pendência: Completar Índice Remissivo (Cap 13)
+**Tempo estimado:** 4-6 horas
 
-**Arquivos a criar:**
+**Situação atual:**
+- Letra **A** do índice remissivo já convertida a partir do PDF.
+- Letras **B–Z** ainda precisam ser transportadas e/ou mapeadas para links de arquivos Markdown.
 
-**Fonte:**
-- PDF páginas 282-324
-- full_text.txt linhas aproximadas 19500-22500
-
-**Ação:**
-1. Extrair todas as ~100 criaturas do PDF
-2. Organizar por grupo (9 grupos total)
-3. Criar fichas completas com: nome, ND, tamanho, tipo, movimentação, PV, CA, Resistências, atributos, perícias, sentidos, idiomas, habilidades especiais, ataques, tesouro, organização
-4. Preservar todas tabelas de características
-5. Manter formato consistente com criaturas já documentadas
-6. Remover referência a "02-bestiario-ermos.md" inexistente
-7. Atualizar README do Cap 08 se necessário
-
-**Abordagem:**
-- Opção A: Completar 01-bestiario-completo.md com todas as criaturas (arquivo único)
-- Opção B: Separar em arquivos por grupo (9 arquivos: 02-masmorras.md, 03-ermos.md, etc)
-- **Recomendação:** Opção A (manter arquivo único) por consistência
-
-### 🟠 PRIORIDADE CRÍTICA 2: Criar Apêndices (Cap 13)
-**Tempo estimado:** 8-10 horas
-
-**Arquivos necessários:**
-
-1. **01-glossario.md**
-   - Termos de A-Z com definições
-   - Links internos para seções relevantes da documentação
-   - Fonte: Espalhadopelo PDF, compilar termos importantes
-
-2. **02-indice-remissivo.md**
-   - Baseado no índice do PDF (páginas 396-399)
-   - Converter números de página em links markdown para arquivos
-   - Organizar alfabeticamente
-   - Fonte: full_text.txt linhas 27300-27600
-
-3. **03-tabelas-referencia.md**
-   - Compilar tabelas mais importantes:
-     * Tabela de testes e dificuldades
-     * Tabela de dano por arma
-     * Tabela de progressão de nível
-     * Tabela de custos de itens
-     * Tabela de condições e efeitos
-   - Centralizar para consulta rápida
-
-4. **04-open-game-license.md**
-   - Texto completo da OGL
-   - Fonte: PDF página 393, full_text.txt linha ~27200
-
-5. **05-creditos-playtesters.md**
-   - Créditos completos do livro
-   - Lista de playtesters
-   - Fonte: PDF página 392, full_text.txt linha ~27100
-
-**Ação:**
-1. Criar README.md no Cap 13 com índice
-2. Extrair cada seção do PDF
-3. Converter índice remissivo de páginas para links markdown
-4. Organizar tabelas em formato consistente
-5. Adicionar navegação bidirecional
-
-### 🟡 PRIORIDADE MÉDIA: Corrigir Cap 07
-**Tempo estimado:** 1-2 horas
-
-**Problema:**
-- README menciona arquivos que não existem:
-  - 07-ferimentos-morte.md
-  - 08-movimentacao-situacoes.md
-
-**Ação:**
-1. Ler arquivos existentes: 05-sistema-combate.md e 06-movimentacao.md
-2. Verificar se conteúdo de ferimentos/morte está integrado em 05-sistema-combate.md
-3. Verificar se situações especiais estão integradas em 06-movimentacao.md
-4. Se conteúdo já está integrado: Atualizar README removendo referências
-5. Se conteúdo está faltando: Extrair do PDF e criar arquivos
-6. Atualizar navegação se necessário
-
-### 🟢 PRIORIDADE BAIXA: Decidir Cap 12
-**Tempo estimado:** 15 minutos
-
-**Situação:**
-- Cap 12 (Bestiário) é pasta vazia
-- Bestiário completo está no Cap 08 (Ameaças/Combate)
-- Estrutura atual funciona bem
-
-**Opções:**
-1. Manter pasta vazia (sem impacto)
-2. Remover pasta 12-bestiario/ (limpar estrutura)
-3. Adicionar README explicando que bestiário está no Cap 08
-
-**Recomendação:** Adicionar README curto redirecionando para Cap 08
+**Ação sugerida:**
+1. Trabalhar letra por letra usando extracted/full_text.txt (linhas 27230–27600).
+2. Para cada termo, decidir se mantém apenas referência de página ou adiciona link direto para o arquivo/seção correspondente.
+3. Priorizar termos mecânicos (perícias, poderes, magias, condições, criaturas) antes de termos puramente narrativos.
 
 ### ✅ VALIDAÇÃO FINAL
 **Tempo estimado:** 3-4 horas
 
-**Checklist de validação:**
-- [ ] Todos os 13 capítulos têm conteúdo ou redirecionamento
-- [ ] 100% do conteúdo do PDF está documentado
-- [ ] Todos os links internos funcionam
-- [ ] Navegação bidirecional completa
-- [ ] Todas as tabelas preservadas
-- [ ] Exemplos e boxes mantidos
-- [ ] Nenhum conteúdo resumido (documentação integral)
-- [ ] Estrutura de arquivos consistente
-- [ ] README principal atualizado
-- [ ] CHECKLIST.md atualizado para 100%
+**Checklist de validação (estado atual):**
+- [x] Todos os capítulos da documentação têm conteúdo ou foram removidos por não existirem como capítulo no livro (Cap 12).
+- [x] Bestiário completo centralizado no Cap 08.
+- [x] Apêndices criados (glossário, índice remissivo parcial, tabelas de referência, OGL, créditos/playtesters).
+- [x] Links principais entre capítulos e apêndices funcionam (amostragem manual).
+- [x] Tabelas mecânicas chave preservadas (testes, combate, armas, armaduras, itens, magias).
+- [x] Exemplos e boxes mantidos nos capítulos centrais (raças, classes, perícias, poderes, combate, magia, mestre, ambientação).
+- [x] Estrutura de arquivos consistente com o sumário do PDF.
+- [ ] Índice remissivo completo (B–Z ainda pendente).
+- [ ] Validação exaustiva 1:1 entre PDF e Markdown (atualmente validado por amostragem com apoio de extracted/full_text.txt).
 
 ---
 
