@@ -17,15 +17,18 @@ Magia é a força mais poderosa de Arton, capaz de criar, destruir, curar e tran
 ## 📚 Conteúdo do Capítulo
 
 ### [1. Listas de Magias](01-listas-magias.md)
-- Tradições mágicas (Arcana e Divina)
-- Atributo-chave e CD das magias
-- Componentes (verbais, gestuais, materiais)
-- Pontos de Mana e custo de magias
-- Lista completa de magias arcanas por círculo
-- Lista completa de magias divinas por círculo
-- Truques mágicos
+- Listas completas de magias arcanas por círculo
+- Listas completas de magias divinas por círculo
+- Índice alfabético de magias
 
 ### [2. Conceitos e Regras de Magia](02-conceitos-regras.md)
+
+### 3. Descrição das Magias por Círculo
+- [Magias de 1º Círculo](03-descricao-magias-1-circulo.md)
+- [Magias de 2º Círculo](04-descricao-magias-2-circulo.md)
+- [Magias de 3º Círculo](05-descricao-magias-3-circulo.md)
+- [Magias de 4º Círculo](06-descricao-magias-4-circulo.md)
+- [Magias de 5º Círculo](07-descricao-magias-5-circulo.md)
 
 ## 🎯 Referência Rápida
 

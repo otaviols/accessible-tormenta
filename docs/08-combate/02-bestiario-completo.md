@@ -26,6 +26,8 @@
 
 **Monstro Minúsculo (lacaio)**
 
+Pequenas gosmas esverdeadas com formato de gota que perambulam pelos corredores de masmorras. Irracionais, seu único propósito parece ser alimentar-se, o que fazem saltando sobre matéria orgânica e dissolvendo-a com seus corpos ácidos.
+
 - **Iniciativa** +3, **Percepção** +0, percepção às cegas
 - **Defesa** 13, **Fort** +2, **Ref** +3, **Von** +0, imunidade a paralisia e veneno
 - **Pontos de Vida** 8
@@ -37,6 +39,8 @@
 ### Rato Gigante (ND 1/4)
 
 **Animal Pequeno (lacaio)**
+
+Esse roedor de pelagem grossa, olhos vermelhos e presas amareladas atinge até um metro de comprimento. Ratos gigantes vivem em bandos e podem ser encontrados em quase qualquer lugar — pântanos ermos, esgotos de metrópoles e porões de tavernas não muito recomendadas.
 
 - **Iniciativa** +5, **Percepção** +4, faro, visão na penumbra
 - **Defesa** 13, **Fort** +3, **Ref** +5, **Von** +1
@@ -52,6 +56,8 @@
 
 **Humanoide (orc) Médio (lacaio)**
 
+Estes humanoides monstruosos podem ser encontrados em muitos pontos de Arton, em pequenos bandos ou vastas tribos. Selvagens e violentos, lutam com brutalidade e sem estratégia, obedecendo a seus líderes apenas pela força. Seu maior ponto fraco é a sensibilidade à luz, levando-os a infestar masmorras e outros lugares subterrâneos, de onde lançam ataques noturnos contra povoados civilizados.
+
 - **Iniciativa** +3, **Percepção** +1, visão no escuro
 - **Defesa** 16, **Fort** +5, **Ref** +3, **Von** –1
 - **Pontos de Vida** 12
@@ -64,6 +70,8 @@
 ### Orc Chefe (ND 2)
 
 **Humanoide (orc) Médio (solo)**
+
+Alguns orcs se destacam pela força, crueldade e resistência, ascendendo como líderes de guerra de suas tribos. O orc chefe é o mais temido entre seus iguais, capaz de reunir bando atrás de bando em hordas devastadoras que assolam fronteiras e vilas desprotegidas.
 
 - **Iniciativa** +4, **Percepção** +3, visão no escuro
 - **Defesa** 20, **Fort** +11, **Ref** +5, **Von** +2
@@ -80,6 +88,8 @@
 
 **Monstro Grande (solo)**
 
+Grandes como cavalos, estas aranhas capturam suas vítimas com teias, disparando-as à distância ou tecendo armadilhas em passagens estreitas. Depois que a presa está presa e indefesa, a criatura a paralisa com sua picada venenosa, enrola-a em mais teia e a devora com calma.
+
 - **Iniciativa** +9, **Percepção** +7, percepção de tremor, visão no escuro
 - **Defesa** 18, **Fort** +6, **Ref** +13, **Von** +5
 - **Pontos de Vida** 60
@@ -95,6 +105,8 @@
 
 **Monstro Médio (lacaio)**
 
+Esses predadores furtivos se mantêm imóveis no alto de ruínas, castelos, catedrais e outros prédios, fingindo ser estátuas ornamentais. Quando surge uma oportunidade de atacar, mergulham de surpresa sobre suas vítimas com garras e presas de pedra.
+
 - **Iniciativa** +6, **Percepção** +7, visão no escuro
 - **Defesa** 22, **Fort** +8, **Ref** +8, **Von** +6, redução de dano 5
 - **Pontos de Vida** 45
@@ -106,6 +118,8 @@
 ### Guerreiro de Chifres (ND 3)
 
 **Humanoide (minotauro) Grande (solo)**
+
+Numerosas entidades malignas invadem Arton para corromper, torturar ou destruir os mortais. De corpo humanoide e cabeça de bode, guerreiros de chifres estão entre os demônios mais fracos, mas ainda assim são inimigos perigosos. Podem ser encontrados vagando em masmorras, sozinhos ou em pequenos bandos — às vezes sob o comando de um arcanista responsável por sua convocação a este mundo.
 
 - **Iniciativa** +4, **Percepção** +4, faro, visão na penumbra
 - **Defesa** 24, **Fort** +13, **Ref** +6, **Von** +4
@@ -121,6 +135,8 @@
 ### Mantícora (ND 6)
 
 **Monstro Grande (solo)**
+
+Monstro com corpo de leão, asas de dragão e rosto humano envelhecido, a mantícora está entre as criaturas mais perigosas em uma masmorra — muitas vezes adotando tais lugares como seu covil, ou sendo encarregada de sua proteção por um mestre ainda mais poderoso.
 
 - **Iniciativa** +8, **Percepção** +9, faro, visão no escuro
 - **Defesa** 26, **Fort** +13, **Ref** +14, **Von** +7

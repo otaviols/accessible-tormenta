@@ -309,7 +309,7 @@ Queda Suave
 Raio do Enfraquecimento • Raio Polar • Raio Solar • Reanimação Impura • Refúgio • Relâmpago • Relâmpago Flamejante de Reynard • Réquiem • Resistência a Energia • Rogar Maldição • Roubar a Alma • Runa de Proteção
 
 **S**
-Salto Dimensional • Santuário • Seco de Arsenal • Segunda Chance • Selo de Mana • Semiplano • Servo Divino • Servo Morto-Vivo • Servos Invisíveis • Seta Infalível de Talude • Silêncio • Soco de Arsenal • Sombra Assassina • Sono • Sonho • Sopro da Salvação • Sopro das Uivantes • Suporte Ambiental • Sussurros Insanos
+Salto Dimensional • Santuário • Soco de Arsenal • Segunda Chance • Selo de Mana • Semiplano • Servo Divino • Servo Morto-Vivo • Servos Invisíveis • Seta Infalível de Talude • Silêncio • Soco de Arsenal • Sombra Assassina • Sono • Sonho • Sopro da Salvação • Sopro das Uivantes • Suporte Ambiental • Sussurros Insanos
 
 **T**
 Talho Invisível de Edauros • Teia • Telecinesia • Teletransporte • Tempestade Divina • Tentáculos de Trevas • Terremoto • Toque Chocante • Toque da Morte • Toque Vampírico • Tranca Arcana • Tranquilidade • Transformação de Guerra • Transmutar Objetos
