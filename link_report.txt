@@ -1,0 +1,60 @@
+RELATÓRIO DE LINKS MARKDOWN
+========================================================================
+
+RESUMO:
+- Arquivos .md analisados: 135
+- Links quebrados: 11
+- Arquivos órfãos: 1
+
+LINKS QUEBRADOS:
+------------------------------------------------------------------------
+
+Arquivo: docs\09-magia\03-descricao-magias-1-circulo-gl.md (linha 493)
+  Texto: [◄ Voltar para A-F]
+  Href:  (03-magias-1-circulo-af-NOVO.md)
+
+Arquivo: docs\09-magia\03-descricao-magias-1-circulo-mr.md (linha 3)
+  Texto: [◄ Voltar para G-L]
+  Href:  (03-magias-1-circulo-gl.md)
+
+Arquivo: docs\09-magia\03-descricao-magias-1-circulo-mr.md (linha 235)
+  Texto: [◄ Voltar para G-L]
+  Href:  (03-magias-1-circulo-gl.md)
+
+Arquivo: docs\09-magia\03-descricao-magias-1-circulo-mr.md (linha 235)
+  Texto: [Ir para S-Z ►]
+  Href:  (03-magias-1-circulo-sz-NOVO.md)
+
+Arquivo: docs\09-magia\03-descricao-magias-1-circulo-sz.md (linha 3)
+  Texto: [◄ Voltar para M-R]
+  Href:  (03-magias-1-circulo-mr-NOVO.md)
+
+Arquivo: docs\09-magia\03-descricao-magias-1-circulo-sz.md (linha 139)
+  Texto: [◄ Voltar para M-R]
+  Href:  (03-magias-1-circulo-mr-NOVO.md)
+
+Arquivo: docs\09-magia\README.md (linha 27)
+  Texto: [Magias de 1º Círculo]
+  Href:  (03-descricao-magias-1-circulo.md)
+
+Arquivo: docs\09-magia\README.md (linha 28)
+  Texto: [Magias de 2º Círculo]
+  Href:  (04-descricao-magias-2-circulo.md)
+
+Arquivo: docs\09-magia\README.md (linha 29)
+  Texto: [Magias de 3º Círculo]
+  Href:  (05-descricao-magias-3-circulo.md)
+
+Arquivo: docs\09-magia\README.md (linha 30)
+  Texto: [Magias de 4º Círculo]
+  Href:  (06-descricao-magias-4-circulo.md)
+
+Arquivo: docs\09-magia\README.md (linha 31)
+  Texto: [Magias de 5º Círculo]
+  Href:  (07-descricao-magias-5-circulo.md)
+
+
+ARQUIVOS .MD ÓRFÃOS (não referenciados por nenhum outro .md):
+------------------------------------------------------------------------
+
+- docs\09-magia\03-descricao-magias-1-circulo-sz.md
