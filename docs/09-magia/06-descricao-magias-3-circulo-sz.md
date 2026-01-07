@@ -1,6 +1,6 @@
 # Descrição das Magias – 3º Círculo (S-Z)
 
-[◄ Voltar para Magia](README.md) | [Ver Listas de Magias ►](01-listas-magias.md)
+[◄ Anterior: M-R](06-descricao-magias-3-circulo-mr.md) | [Voltar para Magia](README.md)
 
 ---
 

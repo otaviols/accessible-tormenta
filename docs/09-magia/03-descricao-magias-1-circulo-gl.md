@@ -1,6 +1,6 @@
 # Descrição das Magias – 1º Círculo (G-L)
 
-[◄ Voltar para A-F](03-descricao-magias-1-circulo-af.md) | [Ver Listas de Magias](01-listas-magias.md) | [Próximo: M-R ►](03-descricao-magias-1-circulo-mr.md)
+[◄ Anterior: A-F](03-descricao-magias-1-circulo-af.md) | [Voltar para Magia](README.md) | [Próximo: M-R ►](03-descricao-magias-1-circulo-mr.md)
 
 ---
 
@@ -490,4 +490,4 @@ Você recebe deslocamento de voo 12m. Voar por meio desta magia é simples como 
 
 ---
 
-[◄ Voltar para A-F](03-magias-1-circulo-af-NOVO.md) | [Ver Listas de Magias](01-listas-magias.md) | [Próximo: M-R ►](03-descricao-magias-1-circulo-mr.md)
+[◄ Anterior: A-F](03-descricao-magias-1-circulo-af.md) | [Voltar para Magia](README.md) | [Próximo: M-R ►](03-descricao-magias-1-circulo-mr.md)

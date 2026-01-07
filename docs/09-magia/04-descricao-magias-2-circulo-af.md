@@ -1,6 +1,6 @@
 # Descrição das Magias – 2º Círculo (A-F)
 
-[◄ Voltar para Magia](README.md) | [Ver Listas de Magias ►](01-listas-magias.md)
+[◄ Voltar para Magia](README.md) | [Ver Listas de Magias](01-listas-magias.md)
 
 ---
 

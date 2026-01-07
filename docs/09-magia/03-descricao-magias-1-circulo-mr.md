@@ -1,6 +1,6 @@
 # Descrição das Magias – 1º Círculo (M-R)
 
-[◄ Voltar para G-L](03-magias-1-circulo-gl.md) | [Ver Listas de Magias](01-listas-magias.md) | [Voltar para Magia](README.md)
+[◄ Anterior: G-L](03-descricao-magias-1-circulo-gl.md) | [Voltar para Magia](README.md) | [Próximo: S-Z ►](03-descricao-magias-1-circulo-sz.md)
 
 ---
 
@@ -232,4 +232,4 @@ Você modifica os limites físicos do alvo, que recebe deslocamento +9m e +10 em
 
 ---
 
-[◄ Voltar para G-L](03-magias-1-circulo-gl.md) | [Ir para S-Z ►](03-magias-1-circulo-sz-NOVO.md) | [Ver Listas de Magias](01-listas-magias.md) | [Voltar para Magia](README.md)
+[◄ Anterior: G-L](03-descricao-magias-1-circulo-gl.md) | [Voltar para Magia](README.md) | [Próximo: S-Z ►](03-descricao-magias-1-circulo-sz.md)

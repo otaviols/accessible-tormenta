@@ -24,11 +24,11 @@ Magia é a força mais poderosa de Arton, capaz de criar, destruir, curar e tran
 ### [2. Conceitos e Regras de Magia](02-conceitos-regras.md)
 
 ### 3. Descrição das Magias por Círculo
-- [Magias de 1º Círculo](03-descricao-magias-1-circulo.md)
-- [Magias de 2º Círculo](04-descricao-magias-2-circulo.md)
-- [Magias de 3º Círculo](05-descricao-magias-3-circulo.md)
-- [Magias de 4º Círculo](06-descricao-magias-4-circulo.md)
-- [Magias de 5º Círculo](07-descricao-magias-5-circulo.md)
+- [Magias de 1º Círculo](03-descricao-magias-1-circulo-af.md)
+- [Magias de 2º Círculo](04-descricao-magias-2-circulo-af.md)
+- [Magias de 3º Círculo](06-descricao-magias-3-circulo-af.md)
+- [Magias de 4º Círculo](08-descricao-magias-4-circulo-af.md)
+- [Magias de 5º Círculo](10-descricao-magias-5-circulo-af.md)
 
 ## 🎯 Referência Rápida
 

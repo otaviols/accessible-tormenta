@@ -1,6 +1,6 @@
 # Descrição das Magias – 1º Círculo (S-Z)
 
-[◄ Voltar para M-R](03-magias-1-circulo-mr-NOVO.md) | [Ver Listas de Magias](01-listas-magias.md) | [Voltar para Magia](README.md)
+[◄ Anterior: M-R](03-descricao-magias-1-circulo-mr.md) | [Voltar para Magia](README.md)
 
 ---
 
@@ -136,4 +136,4 @@ Você pode se comunicar com criaturas variadas (plantas, animais, objetos e até
 
 ---
 
-[◄ Voltar para M-R](03-magias-1-circulo-mr-NOVO.md) | [Ver Listas de Magias](01-listas-magias.md) | [Voltar para Magia](README.md)
+[◄ Anterior: M-R](03-descricao-magias-1-circulo-mr.md) | [Voltar para Magia](README.md)
