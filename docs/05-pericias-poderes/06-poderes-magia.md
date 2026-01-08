@@ -77,13 +77,13 @@ Escolha uma magia. Seu custo diminui em **–1 PM** (cumulativo com outras redu�
 
 Você soma seu **modificador do atributo-chave** no **limite de PM** que pode gastar numa magia.
 
-**Normalmente:** Limite de PM por magia = metade do nível (arredondado para baixo).
+**Normalmente:** Limite de PM por magia =  (arredondado para baixo).
 
-**Com este poder:** Limite = metade do nível + modificador do atributo-chave.
+**Com este poder:** Limite = nível + modificador do atributo-chave.
 
-**Exemplo:** Um arcanista de 5º nível com Int 18 (+4) pode gastar até **6 PM** em cada magia (normalmente seria 2 PM):
-- Limite normal: 5 ÷ 2 = **2 PM**
-- Com Magia Ilimitada: 2 + 4 = **6 PM**
+**Exemplo:** Um arcanista de 5º nível com Int 18 (+4) pode gastar até **9 PM** em cada magia (normalmente seria 5 PM):
+- Limite normal: 5  **5 PM**
+- Com Magia Ilimitada: 5 + 4 = **9 PM**
 
 **Uso típico:** Conjuradores poderosos que querem maximizar potência das magias.
 
