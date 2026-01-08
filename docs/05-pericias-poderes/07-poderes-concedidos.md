@@ -18,221 +18,447 @@
 
 ### Aharadak (Tormenta)
 
-| Poder | Efeito |
-|-------|--------|
-| **Afinidade com a Tormenta** | +10 resistência vs Tormenta; primeiro poder Tormenta não reduz Car |
-| **Êxtase da Loucura** | Criaturas falhando em Vontade vs suas habilidades → você ganha 1 PM temp (máx = Sab) |
-| **Percepção Temporal** | 3 PM: +Sab em ataques/Defesa/Reflexos até fim da cena (não cumulativo com efeitos que somam Sab) |
-| **Rejeição Divina** | Resistência a magia divina +5 |
+#### Afinidade com a Tormenta
+
+Você recebe +10 em testes de resistência contra efeitos da Tormenta, de suas criaturas e de devotos de Aharadak. Além disso, seu primeiro poder da Tormenta não conta para perda de Carisma.
+
+#### Êxtase da Loucura
+
+Toda vez que uma ou mais criaturas falham em um teste de Vontade contra uma de suas habilidades mágicas, você recebe 1 PM temporário cumulativo. Você pode ganhar um máximo de PM temporários por cena desta forma igual a sua Sabedoria.
+
+> _Também concedido por:_ **Nimb**
+
+#### Percepção Temporal
+
+Você pode gastar 3 PM para somar sua Sabedoria (limitado por seu nível e não cumulativo com efeitos que somam este atributo) a seus ataques, Defesa e testes de Reflexos até o fim da cena.
+
+#### Rejeição Divina
+
+Você recebe resistência a magia divina +5.
 
 ---
 
 ### Allihanna (Natureza)
 
-| Poder | Efeito |
-|-------|--------|
-| **Compreender os Ermos** | +2 Sobrevivência; pode usar Sab para Adestramento |
-| **Dedo Verde** | Aprende Controlar Plantas (–1 PM se já conhece) |
-| **Descanso Natural** | Dormir ao relento = descanso confortável |
-| **Voz da Natureza** | Fala com animais; aprende Acalmar Animal só para animais (–1 PM se já conhece) |
+#### Compreender os Ermos
+
+Você recebe +2 em Sobrevivência e pode usar Sabedoria para Adestramento (em vez de Carisma).
+
+#### Dedo Verde
+
+Você aprende e pode lançar Controlar Plantas. Caso aprenda novamente essa magia, seu custo diminui em –1 PM.
+
+#### Descanso Natural
+
+Para você, dormir ao relento conta como condição de descanso confortável.
+
+#### Voz da Natureza
+
+Você pode falar com animais (como o efeito da magia Voz Divina) e aprende e pode lançar Acalmar Animal, mas só contra animais. Caso aprenda novamente essa magia, seu custo diminui em –1 PM.
 
 ---
 
 ### Arsenal (Guerra)
 
-| Poder | Efeito |
-|-------|--------|
-| **Conjurar Arma** | 1 PM: invocar arma proficiente (+1 ataque/dano, mágica, dura cena); ou 20 munições |
-| **Coragem Total** | Imune a efeitos de medo (menos fobias raciais) |
-| **Fé Guerreira** | Usa Sab para Guerra; em combate 2 PM substitui perícia (exceto ataque) por Guerra |
-| **Sangue de Ferro** | 3 PM: +2 dano e RD 5 até fim da cena |
+#### Armas da Ambição
+
+Você recebe +1 em testes de ataque e na margem de ameaça com armas nas quais é proficiente.
+
+> _Também concedido por:_ **Valkaria**
+
+#### Conjurar Arma
+
+Você pode gastar 1 PM para invocar uma arma corpo a corpo ou de arremesso com a qual seja proficiente. A arma surge em sua mão, fornece +1 em testes de ataque e rolagens de dano, é considerada mágica e dura pela cena. Você não pode criar armas de disparo, mas pode criar 20 munições.
+
+#### Coragem Total
+
+Você é imune a efeitos de medo, mágicos ou não. Este poder não elimina fobias raciais (como o medo de altura dos minotauros).
+
+> _Também concedido por:_ **Khalmyr**, **Lin-Wu**, **Valkaria**
+
+#### Fé Guerreira
+
+Você pode usar Sabedoria para Guerra (em vez de Inteligência). Além disso, em combate, pode gastar 2 PM para substituir um teste de perícia (exceto testes de ataque) por um teste de Guerra.
+
+#### Sangue de Ferro
+
+Você pode pagar 3 PM para receber +2 em rolagens de dano e redução de dano 5 até o fim da cena.
 
 ---
 
 ### Azgher (Sol)
 
-| Poder | Efeito |
-|-------|--------|
-| **Espada Solar** | 1 PM: arma corpo a corpo de corte +1d6 fogo até fim da cena |
-| **Fulgor Solar** | RD frio e trevas 5; quando alvo de ataque 1 PM deixa atacante ofuscado 1 rodada |
-| **Habitante do Deserto** | RD fogo 10; 1 PM cria água potável para odre |
-| **Inimigo de Tenebra** | +1d6 dano vs mortos-vivos; efeitos de luz dobram alcance |
+#### Espada Solar
+
+Você pode gastar 1 PM para fazer uma arma corpo a corpo de corte que esteja empunhando causar +1d6 de dano por fogo até o fim da cena.
+
+#### Fulgor Solar
+
+Você recebe redução de frio e trevas 5. Além disso, quando é alvo de um ataque você pode gastar 1 PM para emitir um clarão solar que deixa o atacante ofuscado por uma rodada.
+
+#### Habitante do Deserto
+
+Você recebe redução de fogo 10 e pode pagar 1 PM para criar água pura e potável suficiente para um odre (ou outro recipiente pequeno).
+
+#### Inimigo de Tenebra
+
+Seus ataques e habilidades causam +1d6 pontos de dano contra mortos-vivos. Quando você usa um efeito que gera luz, o alcance da iluminação dobra.
 
 ---
 
 ### Hyninn (Trapaça)
 
-| Poder | Efeito |
-|-------|--------|
-| **Apostar com o Trapaceiro** | 1 PM: você e mestre rolam 1d20, escolhe usar seu ou dele (oculto) |
-| **Farsa do Fingidor** | Aprende Criar Ilusão (–1 PM se já conhece) |
-| **Forma de Macaco** | Ação completa + 2 PM: Minúsculo (+5 Furtividade, –5 manobra), escalar 9m; dura até atacar/magia/dano |
-| **Golpista Divino** | +2 Enganação, Jogatina, Ladinagem |
+#### Apostar com o Trapaceiro
+
+Quando faz um teste de perícia, você pode gastar 1 PM para apostar com Hyninn. Você e o mestre rolam 1d20, mas o mestre mantém o resultado dele em segredo. Você então escolhe entre usar seu próprio resultado ou o resultado oculto do mestre (neste caso, ele revela o resultado).
+
+#### Farsa do Fingidor
+
+Você aprende e pode lançar Criar Ilusão. Caso aprenda novamente essa magia, seu custo diminui em –1 PM.
+
+#### Forma de Macaco
+
+Você pode gastar uma ação completa e 2 PM para se transformar em um macaco. Você adquire tamanho Minúsculo (o que fornece +5 em Furtividade e –5 em testes de manobra) e recebe deslocamento de escalar 9m. Seu equipamento desaparece (e você perde seus benefícios) até você voltar ao normal, mas suas outras estatísticas não são alteradas. A transformação dura indefinidamente, mas termina caso você faça um ataque, lance uma magia ou sofra dano.
+
+#### Golpista Divino
+
+Você recebe +2 em Enganação, Jogatina e Ladinagem.
 
 ---
 
 ### Kallyadranoch (Dragões)
 
-| Poder | Efeito |
-|-------|--------|
-| **Aura de Medo** | 2 PM: aura curto até fim cena; entrar = Vontade CD Car ou abalado |
-| **Escamas Dracônicas** | +2 Defesa e Fortitude |
-| **Presas Primordiais** | 1 PM: dentes viram mordida 1d6 x2 perfuração até fim cena; 1x/rod agredir + 1 PM = ataque mordida extra |
-| **Servos do Dragão** | Ação completa + 2 PM: invocar 2d4+1 kobolds (For –1, Des 2, 1 PV) em curto; ação mov = andar 9m, ação padrão = 1d6–1 perfuração cada |
+#### Aura de Medo
+
+Você pode gastar 2 PM para gerar uma aura de medo com alcance curto e duração até o fim da cena. Todos os inimigos que entrem na aura devem fazer um teste de Vontade (CD Car) ou ficam abalados até o fim da cena. Uma criatura que passe no teste de Vontade fica imune a esta habilidade por um dia.
+
+#### Escamas Dracônicas
+
+Você recebe +2 na Defesa e em Fortitude.
+
+#### Presas Primordiais
+
+Você pode gastar 1 PM para transformar seus dentes em presas afiadas até o fim da cena. Você recebe uma arma natural de mordida (dano 1d6, crítico x2, perfuração). Uma vez por rodada, quando usa a ação agredir com outra arma, você pode gastar 1 PM para fazer um ataque corpo a corpo extra com a mordida. Se já possuir outro ataque natural de mordida, em vez disso, o dano desse ataque aumenta em dois passos.
+
+> _Também concedido por:_ **Megalokk**
+
+#### Servos do Dragão
+
+Você pode gastar uma ação completa e 2 PM para invocar 2d4+1 kobolds em espaços desocupados em alcance curto. Você pode gastar uma ação de movimento para fazer os kobolds andarem (eles têm deslocamento 9m) ou uma ação padrão para fazê-los causar dano a criaturas adjacentes (1d6–1 pontos de dano de perfuração cada). Os kobolds têm For –1, Des 2, 1 PV, não têm valor de Defesa ou testes de resistência e falham automaticamente em qualquer teste oposto. Eles desaparecem quando morrem ou no fim da cena. Os kobolds não agem sem receber uma ordem. Usos criativos para criaturas invocadas fora de combate ficam a critério do mestre.
 
 ---
 
 ### Khalmyr (Justiça)
 
-| Poder | Efeito |
-|-------|--------|
-| **Coragem Total** | Imune a efeitos de medo (menos fobias raciais) |
-| **Dom da Verdade** | 2 PM: +5 Intuição e Percepção vs Enganação/Furtividade até fim cena |
-| **Espada Justiceira** | 1 PM: encantar arma corpo a corpo de corte, dano +1 passo até fim cena |
-| **Reparar Injustiça** | 1x/rod oponente curto acerta você/aliado: 2 PM = ele repete ataque (pior dos 2) |
+#### Coragem Total
+
+Você é imune a efeitos de medo, mágicos ou não. Este poder não elimina fobias raciais (como o medo de altura dos minotauros).
+
+> _Também concedido por:_ **Arsenal**, **Lin-Wu**, **Valkaria**
+
+#### Dom da Verdade
+
+Você pode pagar 2 PM para receber +5 em testes de Intuição, e em testes de Percepção contra Enganação e Furtividade, até o fim da cena.
+
+#### Espada Justiceira
+
+Você pode gastar 1 PM para encantar sua espada (ou outra arma corpo a corpo de corte que esteja empunhando). Ela tem seu dano aumentado em um passo até o fim da cena.
+
+#### Reparar Injustiça
+
+Uma vez por rodada, quando um oponente em alcance curto acerta um ataque em você ou em um de seus aliados, você pode gastar 2 PM para fazer este oponente repetir o ataque, escolhendo o pior entre os dois resultados.
 
 ---
 
 ### Lena (Vida)
 
-| Poder | Efeito |
-|-------|--------|
-| **Ataque Piedoso** | Pode causar dano não letal com armas corpo a corpo sem –5 |
-| **Aura Restauradora** | Efeitos de cura você e aliados em curto recuperam +1 PV/dado |
-| **Cura Gentil** | Soma Car aos PV restaurados por habilidades mágicas de cura |
-| **Curandeira Perfeita** | Sempre escolhe 10 em Cura; sem penalidade sem maleta (+2 com maleta, +5 aprimorada) |
+#### Ataque Piedoso
+
+Você pode usar armas de corpo a corpo para causar dano não letal sem sofrer a penalidade de –5 no teste de ataque.
+
+> _Também concedido por:_ **Thyatis**
+
+#### Aura Restauradora
+
+Efeitos de cura usados por você e seus aliados em alcance curto recuperam +1 PV por dado.
+
+#### Cura Gentil
+
+Você soma seu Carisma aos PV restaurados por suas habilidades mágicas de cura.
+
+#### Curandeira Perfeita
+
+Você sempre pode escolher 10 em testes de Cura. Além disso, não sofre penalidade por usar essa perícia sem uma maleta de medicamentos. Se possuir o item, recebe +2 no teste de Cura (ou +5, se ele for aprimorado).
 
 ---
 
 ### Lin-Wu (Samurai)
 
-| Poder | Efeito |
-|-------|--------|
-| **Coragem Total** | Imune a efeitos de medo (menos fobias raciais) |
-| **Kiai Divino** | 1x/rod ataque corpo a corpo: 3 PM = dano máximo sem rolar |
-| **Mente Vazia** | +2 Iniciativa, Percepção, Vontade |
-| **Tradição de Lin-Wu** | Katana = arma simples; se proficiente marcial +1 margem ameaça com katana |
+#### Coragem Total
+
+Você é imune a efeitos de medo, mágicos ou não. Este poder não elimina fobias raciais (como o medo de altura dos minotauros).
+
+> _Também concedido por:_ **Arsenal**, **Khalmyr**, **Valkaria**
+
+#### Kiai Divino
+
+Uma vez por rodada, quando faz um ataque corpo a corpo, você pode pagar 3 PM. Se acertar o ataque, causa dano máximo, sem necessidade de rolar dados.
+
+#### Mente Vazia
+
+Você recebe +2 em Iniciativa, Percepção e Vontade.
+
+#### Tradição de Lin-Wu
+
+Você considera a katana uma arma simples e, se for proficiente em armas marciais, recebe +1 na margem de ameaça com ela.
 
 ---
 
 ### Marah (Paz)
 
-| Poder | Efeito |
-|-------|--------|
-| **Aura de Paz** | 2 PM: aura curto 1 cena; inimigo ação hostil = Vontade CD Car ou perde ação |
-| **Dom da Esperança** | Soma Sab em PV (não Con); imune alquebrado, esmorecido, frustrado |
-| **Palavras de Bondade** | Aprende Enfeitiçar (–1 PM se já conhece) |
-| **Talento Artístico** | +2 Acrobacia, Atuação, Diplomacia |
+#### Aura de Paz
+
+Você pode gastar 2 PM para gerar uma aura de paz com alcance curto e duração de uma cena. Qualquer inimigo dentro da aura que tente fazer uma ação hostil contra você deve fazer um teste de Vontade (CD Car). Se falhar, perderá sua ação. Se passar, fica imune a esta habilidade por um dia.
+
+#### Dom da Esperança
+
+Você soma sua Sabedoria em seus PV em vez de Constituição, e se torna imune às condições alquebrado, esmorecido e frustrado.
+
+#### Palavras de Bondade
+
+Você aprende e pode lançar Enfeitiçar. Caso aprenda novamente essa magia, seu custo diminui em –1 PM.
+
+#### Talento Artístico
+
+Você recebe +2 em Acrobacia, Atuação e Diplomacia.
 
 ---
 
 ### Megalokk (Monstros)
 
-| Poder | Efeito |
-|-------|--------|
-| **Olhar Amedrontador** | Aprende Amedrontar (–1 PM se já conhece) |
-| **Presas Primordiais** | (mesmo de Kallyadranoch) |
-| **Urro Divino** | 1 PM: +Con (mín +1) em dano de ataque ou magia |
-| **Voz dos Monstros** | Fala com todos monstros inteligentes; comunica com não-inteligentes (Int –4-) |
+#### Olhar Amedrontador
+
+Você aprende e pode lançar Amedrontar. Caso aprenda novamente essa magia, seu custo diminui em –1 PM.
+
+> _Também concedido por:_ **Thwor**
+
+#### Presas Primordiais
+
+Você pode gastar 1 PM para transformar seus dentes em presas afiadas até o fim da cena. Você recebe uma arma natural de mordida (dano 1d6, crítico x2, perfuração). Uma vez por rodada, quando usa a ação agredir com outra arma, você pode gastar 1 PM para fazer um ataque corpo a corpo extra com a mordida. Se já possuir outro ataque natural de mordida, em vez disso, o dano desse ataque aumenta em dois passos.
+
+> _Também concedido por:_ **Kallyadranoch**
+
+#### Urro Divino
+
+Quando faz um ataque ou lança uma magia, você pode pagar 1 PM para somar sua Constituição (mínimo +1) à rolagem de dano desse ataque ou magia.
+
+#### Voz dos Monstros
+
+Você conhece os idiomas de todos os monstros inteligentes e pode se comunicar livremente com monstros não inteligentes (Int –4 ou menor), como se estivesse sob efeito da magia Voz Divina.
 
 ---
 
 ### Nimb (Caos)
 
-| Poder | Efeito |
-|-------|--------|
-| **Êxtase da Loucura** | (mesmo de Aharadak) |
-| **Poder Oculto** | Ação mov + 2 PM: 1d6 = +2 For(1-2)/Des(3-4)/Con(5-6) até fim cena (não cumulativo mesmo atributo) |
-| **Sorte dos Loucos** | 1 PM: rolar teste novamente; se falhar mesmo assim perde 1d6 PM |
-| **Transmissão da Loucura** | Lança Sussurros Insanos CD Car (–1 PM se já conhece) |
+#### Êxtase da Loucura
+
+Toda vez que uma ou mais criaturas falham em um teste de Vontade contra uma de suas habilidades mágicas, você recebe 1 PM temporário cumulativo. Você pode ganhar um máximo de PM temporários por cena desta forma igual a sua Sabedoria.
+
+> _Também concedido por:_ **Aharadak**
+
+#### Poder Oculto
+
+Você pode gastar uma ação de movimento e 2 PM para invocar a força, a rapidez ou o vigor dos loucos. Role 1d6 para receber +2 em Força (1 ou 2), Destreza (3 ou 4) ou Constituição (5 ou 6) até o fim da cena. Você pode usar este poder várias vezes, mas bônus no mesmo atributo não são cumulativos.
+
+#### Sorte dos Loucos
+
+Você pode pagar 1 PM para rolar novamente um teste recém realizado. Se ainda assim falhar no teste, você perde 1d6 PM.
+
+#### Transmissão da Loucura
+
+Você pode lançar Sussurros Insanos (CD Car). Caso aprenda novamente essa magia, seu custo diminui em –1 PM.
 
 ---
 
 ### Oceano (Mares)
 
-| Poder | Efeito |
-|-------|--------|
-| **Anfíbio** | Respira debaixo d'água; deslocamento natação = terrestre |
-| **Arsenal das Profundezas** | +2 dano com azagaias, lanças, tridentes; +1 multiplicador crítico com elas |
-| **Mestre dos Mares** | Fala com animais aquáticos; aprende Acalmar Animal só aquáticos (–1 PM se já conhece) |
-| **Sopro do Mar** | Ação padrão + 1 PM: cone 6m, 2d6 frio (Reflexos CD Sab metade); aprende Sopro das Uivantes divina (–1 PM se já conhece) |
+#### Anfíbio
+
+Você pode respirar embaixo d'água e adquire deslocamento de natação igual a seu deslocamento terrestre.
+
+#### Arsenal das Profundezas
+
+Você recebe +2 nas rolagens de dano com azagaias, lanças e tridentes e seu multiplicador de crítico com essas armas aumenta em +1.
+
+#### Mestre dos Mares
+
+Você pode falar com animais aquáticos (como o efeito da magia Voz Divina) e aprende e pode lançar Acalmar Animal, mas só contra criaturas aquáticas. Caso aprenda novamente essa magia, seu custo diminui em –1 PM.
+
+#### Sopro do Mar
+
+Você pode gastar uma ação padrão e 1 PM para soprar vento marinho em um cone de 6m. Criaturas na área sofrem 2d6 pontos de dano de frio (Reflexos CD Sab reduz à metade). Você pode aprender Sopro das Uivantes como uma magia divina. Se fizer isso, o custo dela diminui em –1 PM.
 
 ---
 
 ### Sszzaas (Traição)
 
-| Poder | Efeito |
-|-------|--------|
-| **Astúcia da Serpente** | +2 Enganação, Furtividade, Intuição |
-| **Familiar Ofídico** | Recebe familiar cobra (não conta limite parceiros) |
-| **Presas Venenosas** | Ação mov + 1 PM: envenenar arma corpo a corpo; acerto = perda 1d12 PV; dura até acerto ou fim cena |
-| **Sangue Ofídico** | Resistência veneno +5; +2 CD seus venenos |
+#### Astúcia da Serpente
+
+Você recebe +2 em Enganação, Furtividade e Intuição.
+
+#### Familiar Ofídico
+
+Você recebe um familiar cobra (veja a página 38) que não conta em seu limite de parceiros.
+
+#### Presas Venenosas
+
+Você pode gastar uma ação de movimento e 1 PM para envenenar uma arma corpo a corpo que esteja empunhando. Em caso de acerto, a arma causa perda de 1d12 pontos de vida. A arma permanece envenenada até atingir uma criatura ou até o fim da cena, o que acontecer primeiro.
+
+#### Sangue Ofídico
+
+Você recebe resistência a veneno +5 e a CD para resistir aos seus venenos aumenta em +2.
 
 ---
 
 ### Tanna-Toh (Conhecimento)
 
-| Poder | Efeito |
-|-------|--------|
-| **Conhecimento Enciclopédico** | Treinado em 2 perícias Int à escolha |
-| **Mente Analítica** | +2 Intuição, Investigação, Vontade |
-| **Pesquisa Abençoada** | 1h pesquisando: rolar novamente perícia Int/Sab desde última cena (+2 biblioteca pequena, +5 templo/universidade) |
-| **Voz da Civilização** | Sempre sob efeito de Compreensão |
+#### Conhecimento Enciclopédico
+
+Você se torna treinado em duas perícias baseadas em Inteligência a sua escolha.
+
+#### Mente Analítica
+
+Você recebe +2 em Intuição, Investigação e Vontade.
+
+#### Pesquisa Abençoada
+
+Se passar uma hora pesquisando seus livros e anotações, você pode rolar novamente um teste de perícia baseada em Inteligência ou Sabedoria que tenha feito desde a última cena. Se tiver acesso a mais livros, você recebe um bônus no teste: +2 para uma coleção particular ou biblioteca pequena e +5 para a biblioteca de um templo ou universidade.
+
+#### Voz da Civilização
+
+Você está sempre sob efeito de Compreensão.
 
 ---
 
 ### Tenebra (Trevas)
 
-| Poder | Efeito |
-|-------|--------|
-| **Carícia Sombria** | Ação padrão + 1 PM: tocar criatura corpo a corpo, 2d6 trevas (Fort CD Sab metade), você recupera PV = metade dano; aprende Toque Vampírico divina (–1 PM se já conhece) |
-| **Manto da Penumbra** | Aprende Escuridão (–1 PM se já conhece) |
-| **Visão nas Trevas** | Enxerga perfeitamente no escuro, incluindo magias de escuridão |
-| **Zumbificar** | Ação completa + 3 PM: reanimarcadáver Peq/Méd adjacente 1 dia = aliado iniciante tipo escolha; quando sofre dano sacrifica aliado = metade dano mas aliado destruído |
+#### Carícia Sombria
 
----
+Você pode gastar 1 PM e uma ação padrão para cobrir sua mão com energia negativa e tocar uma criatura em alcance corpo a corpo. A criatura sofre 2d6 pontos de dano de trevas (Fortitude CD Sab reduz à metade) e você recupera PV iguais à metade do dano causado. Você pode aprender Toque Vampírico como uma magia divina. Se fizer isso, o custo dela diminui em –1 PM.
 
-### Thyatis (Ressurreição)
+#### Manto da Penumbra
 
-| Poder | Efeito |
-|-------|--------|
-| **Ataque Piedoso** | (mesmo de Lena) |
-| **Dom da Imortalidade** | Você é imortal; morre = volta 3d6 dias depois (só paladino; ou Imortalidade ou Ressurreição) |
-| **Dom da Profecia** | Lança Augúrio (–1 PM se já conhece); 2 PM: +2 em teste |
-| **Dom da Ressurreição** | Ação completa + todos PM (mín 1): tocar corpo morto <1 ano, ressuscita 1 PV 0 PM –1 Con permanente (1x/criatura, só clérigo; ou Imortalidade ou Ressurreição) |
+Você aprende e pode lançar Escuridão. Caso aprenda novamente essa magia, seu custo diminui em –1 PM.
+
+#### Visão nas Trevas
+
+Você enxerga perfeitamente no escuro, incluindo em magias de escuridão.
+
+#### Zumbificar
+
+Você pode gastar uma ação completa e 3 PM para reanimar o cadáver de uma criatura Pequena ou Média adjacente por um dia. O cadáver funciona como um aliado iniciante de um tipo a sua escolha entre combatente, fortão ou guardião. Além disso, quando sofre dano, você pode sacrificar esse aliado; se fizer isso, você sofre apenas metade do dano, mas o cadáver é destruído.
 
 ---
 
 ### Thwor (Goblinoides)
 
-| Poder | Efeito |
-|-------|--------|
-| **Almejar o Impossível** | Perícia resultado 19+ sempre sucesso (ignora CD) |
-| **Fúria Divina** | 2 PM: +2 ataque e dano corpo a corpo até fim cena; não pode ações paciência/concentração (Furtividade, magias); se usar com Fúria = dura cena |
-| **Olhar Amedrontador** | (mesmo de Megalokk) |
-| **Tropas Duyshidakk** | Ação completa + 2 PM: invocar 1d4+1 goblinoides (For 1, Des 2, 1 PV) curto; ação mov = andar 9m, ação padrão = 1d6+1 corte cada |
+#### Almejar o Impossível
+
+Quando faz um teste de perícia, um resultado de 19 ou mais no dado sempre é um sucesso, não importando o valor a ser alcançado.
+
+> _Também concedido por:_ **Valkaria**
+
+#### Fúria Divina
+
+Você pode gastar 2 PM para invocar uma fúria selvagem, tornando-se temível em combate. Até o fim da cena, você recebe +2 em testes de ataque e rolagens de dano corpo a corpo, mas não pode executar nenhuma ação que exija paciência ou concentração (como usar a perícia Furtividade ou lançar magias). Se usar este poder em conjunto com a habilidade Fúria, ela também dura uma cena (e não termina se você não atacar ou for alvo de uma ação hostil).
+
+#### Olhar Amedrontador
+
+Você aprende e pode lançar Amedrontar. Caso aprenda novamente essa magia, seu custo diminui em –1 PM.
+
+> _Também concedido por:_ **Megalokk**
+
+#### Tropas Duyshidakk
+
+Você pode gastar uma ação completa e 2 PM para invocar 1d4+1 goblinoides em espaços desocupados em alcance curto. Você pode gastar uma ação de movimento para fazer os goblinoides andarem (eles têm deslocamento 9m) ou uma ação padrão para fazê-los causar dano a criaturas adjacentes (1d6+1 pontos de dano de corte cada). Os goblinoides têm For 1, Des 2, 1 PV, não têm valor de Defesa ou testes de resistência e falham automaticamente em qualquer teste oposto. Eles desaparecem quando morrem ou no fim da cena. Os goblinoides não agem sem receber uma ordem. Usos criativos para criaturas invocadas fora de combate ficam a critério do mestre.
+
+---
+
+### Thyatis (Ressurreição)
+
+#### Ataque Piedoso
+
+Você pode usar armas de corpo a corpo para causar dano não letal sem sofrer a penalidade de –5 no teste de ataque.
+
+> _Também concedido por:_ **Lena**
+
+#### Dom da Imortalidade
+
+Você é imortal. Sempre que morre, não importando o motivo, volta à vida após 3d6 dias. 
+
+**Pré-requisito:** Apenas paladinos podem escolher este poder.
+
+**Restrição:** Um personagem pode ter Dom da Imortalidade ou Dom da Ressurreição, mas não ambos.
+
+#### Dom da Profecia
+
+Você pode lançar Augúrio. Caso aprenda novamente essa magia, seu custo diminui em –1 PM. Você também pode gastar 2 PM para receber +2 em um teste.
+
+#### Dom da Ressurreição
+
+Você pode gastar uma ação completa e todos os PM que possui (mínimo 1 PM) para tocar o corpo de uma criatura morta há menos de um ano e ressuscitá-la. A criatura volta à vida com 1 PV e 0 PM, e perde 1 ponto de Constituição permanentemente. Este poder só pode ser usado uma vez em cada criatura.
+
+**Pré-requisito:** Apenas clérigos podem escolher este poder.
+
+**Restrição:** Um personagem pode ter Dom da Imortalidade ou Dom da Ressurreição, mas não ambos.
 
 ---
 
 ### Valkaria (Ambição)
 
-| Poder | Efeito |
-|-------|--------|
-| **Almejar o Impossível** | (mesmo de Thwor) |
-| **Armas da Ambição** | +1 ataque e margem ameaça com armas proficiente |
-| **Coragem Total** | (mesmo de Arsenal) |
-| **Liberdade Divina** | 2 PM reação: lançar Libertação pessoal 1 rodada |
+#### Almejar o Impossível
+
+Quando faz um teste de perícia, um resultado de 19 ou mais no dado sempre é um sucesso, não importando o valor a ser alcançado.
+
+> _Também concedido por:_ **Thwor**
+
+#### Armas da Ambição
+
+Você recebe +1 em testes de ataque e na margem de ameaça com armas nas quais é proficiente.
+
+> _Também concedido por:_ **Arsenal**
+
+#### Coragem Total
+
+Você é imune a efeitos de medo, mágicos ou não. Este poder não elimina fobias raciais (como o medo de altura dos minotauros).
+
+> _Também concedido por:_ **Arsenal**, **Khalmyr**, **Lin-Wu**
+
+#### Liberdade Divina
+
+Você pode gastar 2 PM e uma reação para lançar Libertação com alcance pessoal e duração de 1 rodada.
 
 ---
 
 ### Wynna (Magia)
 
-| Poder | Efeito |
-|-------|--------|
-| **Bênção do Mana** | +1 PM a cada nível ímpar |
-| **Centelha Mágica** | Escolhe magia arcana ou divina 1º círculo, aprende (–1 PM se já conhece) |
-| **Escudo Mágico** | Lançar magia: +círculo na Defesa até início próximo turno |
-| **Teurgista Místico** | 1 magia/círculo escolhe entre divinas (se arcano) ou arcanas (se divino); requer habilidade Magias |
+#### Bênção do Mana
+
+Você recebe +1 PM a cada nível ímpar.
+
+#### Centelha Mágica
+
+Escolha uma magia arcana ou divina de 1º círculo. Você aprende e pode lançar essa magia. Caso aprenda novamente essa magia, seu custo diminui em –1 PM.
+
+#### Escudo Mágico
+
+Quando lança uma magia, você recebe um bônus na Defesa igual ao círculo da magia lançada até o início do seu próximo turno.
+
+#### Teurgista Místico
+
+Até uma magia de cada círculo que você aprender poderá ser escolhida entre magias divinas (se você for um conjurador arcano) ou entre magias arcanas (se for um conjurador divino).
+
+**Pré-requisito:** Habilidade de classe Magias.
 
 ---
 
