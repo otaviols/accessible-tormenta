@@ -129,6 +129,14 @@ O mundo de Arton, seus reinos, história e ameaças.
 - [14-imperio-tauron.md](docs/11-ambientacao/14-imperio-tauron.md)
 - [18-cidades-notaveis.md](docs/11-ambientacao/18-cidades-notaveis.md) | [19-geografia-geral.md](docs/11-ambientacao/19-geografia-geral.md)
 
+### [12 - Heróis de Arton](docs/12-herois-arton/) 🆕
+Suplemento oficial com novas raças, classes, poderes, equipamentos e regras expandidas.
+
+- [Capítulo 1: Campeões de Arton](docs/12-herois-arton/01-campeoes-arton/) - 5 raças, classe Treinador, 14 classes variantes, 30 origens, centenas de poderes
+- [Capítulo 2: Distinções](docs/12-herois-arton/02-distincoes/) - 37 distinções (títulos de prestígio)
+- [Capítulo 3: Arsenal dos Heróis](docs/12-herois-arton/03-arsenal-herois/) - Equipamentos, bases, magias e itens mágicos
+- [Capítulo 4: Regras Opcionais](docs/12-herois-arton/04-regras-opcionais/) - Sistemas avançados e domínios
+
 ### [13 - Apêndices](docs/13-apendices/)
 Glossário, tabelas de referência, índice remissivo e créditos.
 
@@ -196,15 +204,23 @@ Esta documentação é uma conversão em formato acessível para fins de estudo 
 ### Estrutura do Projeto
 
 ```
-tormenta/
+accessible-tormenta/
 ├── README.md                    # Este arquivo
 ├── CHECKLIST.md                 # Checklist de progresso da conversão
-├── extract_pdf.py              # Script de extração do PDF
-├── Tormenta 20 - Jogo do Ano (2).pdf  # PDF original
-├── extracted/                   # Conteúdo extraído do PDF
-│   ├── extracted_content.json
-│   ├── table_of_contents.txt
-│   └── full_text.txt
+├── extraction_config.json       # Configuração de PDFs para extração
+├── extract_pdf.py              # Script de extração individual de PDF
+├── extract_multiple.py         # Script de extração em lote
+├── validate_links.py           # Validador de links internos
+├── Tormenta 20 - Jogo do Ano (2).pdf  # PDF original (livro básico)
+├── Pdf files/                   # Pasta com PDFs adicionais
+│   └── Tormenta 20 Ameaças.pdf
+├── extracted/                   # Conteúdo extraído de PDFs
+│   └── tormenta-core/          # Extração do livro básico
+│       ├── extracted_content.json
+│       ├── table_of_contents.txt
+│       ├── full_text.txt
+│       ├── tables_info.txt
+│       └── images_info.txt
 └── docs/                        # Documentação em Markdown
     ├── 01-introducao/
     ├── 02-criacao-personagens/
@@ -221,15 +237,104 @@ tormenta/
     └── imagens/
 ```
 
-### Extrair Conteúdo do PDF
+### Extrair Conteúdo de PDFs
+
+#### Instalação de Dependências
 
 ```powershell
-# Instalar dependências
 pip install PyPDF2 pdfplumber
-
-# Executar extração
-python extract_pdf.py
 ```
+
+#### Extração de PDF Individual
+
+Use `extract_pdf.py` para extrair um único PDF:
+
+```powershell
+# Usar configuração padrão (Tormenta 20 core)
+python extract_pdf.py
+
+# Especificar PDF e pasta de saída
+python extract_pdf.py --pdf "Pdf files/Tormenta 20 Ameaças.pdf" --output "extracted/ameacas"
+
+# Ajuda com todas as opções
+python extract_pdf.py --help
+```
+
+**Parâmetros:**
+- `--pdf`: Caminho para o arquivo PDF a ser extraído
+- `--output`: Diretório de saída para arquivos extraídos
+
+#### Extração em Lote (Múltiplos PDFs)
+
+Use `extract_multiple.py` para processar múltiplos PDFs configurados em `extraction_config.json`:
+
+```powershell
+# Processar todos os PDFs pendentes
+python extract_multiple.py
+
+# Reprocessar PDFs já extraídos (sobrescrever)
+python extract_multiple.py --force
+
+# Processar apenas PDFs específicos
+python extract_multiple.py --ids tormenta-core ameacas
+
+# Ajuda com todas as opções
+python extract_multiple.py --help
+```
+
+**Parâmetros:**
+- `--config`: Caminho para arquivo de configuração (padrão: `extraction_config.json`)
+- `--force`: Reprocessar PDFs com status "completed"
+- `--ids`: Lista de IDs específicos para processar
+- `--report`: Caminho para salvar relatório (padrão: `extraction_report.txt`)
+
+#### Configuração de Extrações
+
+Edite `extraction_config.json` para adicionar novos PDFs:
+
+```json
+{
+  "extractions": [
+    {
+      "id": "identificador-unico",
+      "description": "Descrição do PDF",
+      "pdf_filename": "nome-do-arquivo.pdf",
+      "pdf_path": "caminho/para/arquivo.pdf",
+      "output_dir": "extracted/pasta-saida",
+      "status": "pending"
+    }
+  ]
+}
+```
+
+**Status possíveis:**
+- `pending`: Aguardando extração
+- `in-progress`: Em processamento
+- `completed`: Extraído com sucesso
+- `failed`: Falha na extração
+
+#### Arquivos Gerados pela Extração
+
+Cada extração cria 5 arquivos na pasta de saída:
+
+1. **`extracted_content.json`** - Estrutura completa (metadados, texto, tabelas, imagens)
+2. **`table_of_contents.txt`** - Índice hierárquico do PDF
+3. **`full_text.txt`** - Texto completo página por página
+4. **`tables_info.txt`** - Resumo de todas as tabelas detectadas
+5. **`images_info.txt`** - Informações sobre imagens (coordenadas, páginas)
+
+#### Validação de Links
+
+Use `validate_links.py` para verificar links internos quebrados:
+
+```powershell
+python validate_links.py
+```
+
+Gera relatório em `link_report.txt` com:
+- Links quebrados (arquivo não existe)
+- Arquivos órfãos (não referenciados)
+- Estatísticas gerais
 
 ---
 

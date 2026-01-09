@@ -1,0 +1,54 @@
+{
+  "$schema": "Configuração para extração de múltiplos PDFs",
+  "description": "Este arquivo registra todos os PDFs extraídos e suas configurações. Cada entrada representa uma extração completa com metadados e estatísticas.",
+  "extractions": [
+    {
+      "id": "tormenta-core",
+      "description": "Livro básico Tormenta 20 - Manual do Jogador",
+      "pdf_filename": "Tormenta 20 - Jogo do Ano (2).pdf",
+      "pdf_path": "Tormenta 20 - Jogo do Ano (2).pdf",
+      "output_dir": "extracted/tormenta-core",
+      "extraction_date": "2026-01-08",
+      "page_count": 400,
+      "status": "completed",
+      "stats": {
+        "toc_entries": 0,
+        "tables": 756,
+        "images": 1249
+      },
+      "notes": "Extração inicial - primeira conversão do projeto"
+    },
+    {
+      "id": "herois-arton",
+      "description": "Heróis de Arton - Suplemento com novas opções de personagem",
+      "pdf_filename": "T20HeroisdeArtonv111.pdf",
+      "pdf_path": "Pdf files/T20HeroisdeArtonv111.pdf",
+      "output_dir": "extracted/herois-arton",
+      "status": "completed",
+      "notes": "Suplemento com novas raças, classes, poderes e opções",
+      "extraction_date": "2026-01-09",
+      "page_count": 332,
+      "stats": {
+        "toc_entries": 183,
+        "tables": 766,
+        "images": 1412
+      }
+    }
+  ],
+  "_schema": {
+    "id": "Identificador único em formato slug (ex: tormenta-core, ameacas)",
+    "description": "Descrição breve do conteúdo do PDF",
+    "pdf_filename": "Nome do arquivo PDF original",
+    "pdf_path": "Caminho relativo ou absoluto para o PDF",
+    "output_dir": "Diretório onde os arquivos extraídos foram salvos",
+    "extraction_date": "Data da última extração (formato ISO: YYYY-MM-DD)",
+    "page_count": "Número total de páginas do PDF",
+    "status": "Status da extração: pending|in-progress|completed|failed",
+    "stats": {
+      "toc_entries": "Número de entradas no índice/sumário",
+      "tables": "Número total de tabelas detectadas",
+      "images": "Número total de imagens detectadas"
+    },
+    "notes": "Observações adicionais sobre a extração (opcional)"
+  }
+}
