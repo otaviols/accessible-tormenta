@@ -22,38 +22,17 @@ Este capítulo apresenta conteúdo expandido de perícias e poderes, incluindo n
 
 ## 📑 Conteúdo do Capítulo
 
-### Perícias
+**[01-pericias.md](01-pericias.md)** - Perícias
+- Novas perícias e usos expandidos
 
-Novas perícias e usos expandidos.
-
-### Poderes Gerais
-
-Poderes acessíveis a qualquer personagem.
-
-### Poderes de Combate
-
-Poderes focados em manobras e técnicas de combate.
-
-### Poderes de Destino
-
-Poderes heroicos e capacidades especiais.
-
-### Poderes de Magia
-
-Poderes que expandem capacidades mágicas.
-
-### Poderes Concedidos
-
-Poderes divinos concedidos pelos deuses.
-
-### Escola de Combate
-
-Novas escolas e estilos de luta.
-
-### Deuses e Remanescência
-
-- Novas Devoções
-- Remanescência
+**[02-poderes-gerais.md](02-poderes-gerais.md)** - Poderes
+- Poderes Gerais: Poderes acessíveis a qualquer personagem
+- Poderes de Combate: Manobras e técnicas de combate
+- Poderes de Destino: Poderes heroicos e capacidades especiais
+- Poderes de Magia: Expansão de capacidades mágicas
+- Poderes Concedidos: Poderes divinos dos deuses
+- Escola de Combate: Novas escolas e estilos de luta
+- Deuses e Remanescência: Novas Devoções e Remanescência
 
 ---
 
@@ -62,7 +41,3 @@ Novas escolas e estilos de luta.
 - **Anterior:** [03 - Origens](../03-origens/README.md)
 - **Próximo:** [05 - Distinções](../05-distincoes/README.md)
 - **Índice:** [← Voltar ao Índice do Livro](../README.md)
-
----
-
-**Status:** EM PREPARAÇÃO - Aguardando conversão do conteúdo extraído
