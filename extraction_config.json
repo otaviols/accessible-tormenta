@@ -33,6 +33,22 @@
         "tables": 766,
         "images": 1412
       }
+    },
+    {
+      "id": "dragao-brasil",
+      "description": "Dragão Brasil - Compilação de artigos de revista sobre Tormenta 20",
+      "pdf_filename": "Dragao-Brasil-compilado-Tormenta-20.pdf",
+      "pdf_path": "Pdf files/Dragao-Brasil-compilado-Tormenta-20.pdf",
+      "output_dir": "extracted/dragao-brasil",
+      "status": "in-progress",
+      "notes": "Compilação de artigos com raças, classes, origens, distinções, poderes, equipamentos, magias e regras opcionais",
+      "extraction_date": "2026-01-10",
+      "page_count": 180,
+      "stats": {
+        "toc_entries": 125,
+        "tables": 55,
+        "images": 1552
+      }
     }
   ],
   "_schema": {

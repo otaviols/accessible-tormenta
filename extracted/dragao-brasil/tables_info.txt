@@ -1,0 +1,222 @@
+TOTAL DE TABELAS ENCONTRADAS: 55
+
+Tabela 1 - Página 42
+Linhas: 2
+Colunas: 8
+----------------------------------------
+Tabela 2 - Página 42
+Linhas: 1
+Colunas: 12
+----------------------------------------
+Tabela 3 - Página 42
+Linhas: 1
+Colunas: 12
+----------------------------------------
+Tabela 4 - Página 42
+Linhas: 1
+Colunas: 12
+----------------------------------------
+Tabela 5 - Página 104
+Linhas: 33
+Colunas: 18
+----------------------------------------
+Tabela 6 - Página 120
+Linhas: 1
+Colunas: 7
+----------------------------------------
+Tabela 7 - Página 120
+Linhas: 1
+Colunas: 7
+----------------------------------------
+Tabela 8 - Página 120
+Linhas: 1
+Colunas: 7
+----------------------------------------
+Tabela 9 - Página 120
+Linhas: 1
+Colunas: 7
+----------------------------------------
+Tabela 10 - Página 120
+Linhas: 1
+Colunas: 7
+----------------------------------------
+Tabela 11 - Página 120
+Linhas: 1
+Colunas: 7
+----------------------------------------
+Tabela 12 - Página 120
+Linhas: 1
+Colunas: 7
+----------------------------------------
+Tabela 13 - Página 120
+Linhas: 1
+Colunas: 7
+----------------------------------------
+Tabela 14 - Página 120
+Linhas: 1
+Colunas: 7
+----------------------------------------
+Tabela 15 - Página 120
+Linhas: 1
+Colunas: 7
+----------------------------------------
+Tabela 16 - Página 120
+Linhas: 3
+Colunas: 7
+----------------------------------------
+Tabela 17 - Página 120
+Linhas: 1
+Colunas: 7
+----------------------------------------
+Tabela 18 - Página 120
+Linhas: 1
+Colunas: 7
+----------------------------------------
+Tabela 19 - Página 120
+Linhas: 1
+Colunas: 7
+----------------------------------------
+Tabela 20 - Página 120
+Linhas: 1
+Colunas: 7
+----------------------------------------
+Tabela 21 - Página 120
+Linhas: 1
+Colunas: 7
+----------------------------------------
+Tabela 22 - Página 120
+Linhas: 2
+Colunas: 7
+----------------------------------------
+Tabela 23 - Página 123
+Linhas: 7
+Colunas: 5
+----------------------------------------
+Tabela 24 - Página 126
+Linhas: 1
+Colunas: 6
+----------------------------------------
+Tabela 25 - Página 126
+Linhas: 1
+Colunas: 6
+----------------------------------------
+Tabela 26 - Página 126
+Linhas: 1
+Colunas: 6
+----------------------------------------
+Tabela 27 - Página 126
+Linhas: 1
+Colunas: 6
+----------------------------------------
+Tabela 28 - Página 126
+Linhas: 1
+Colunas: 4
+----------------------------------------
+Tabela 29 - Página 126
+Linhas: 1
+Colunas: 6
+----------------------------------------
+Tabela 30 - Página 126
+Linhas: 1
+Colunas: 6
+----------------------------------------
+Tabela 31 - Página 126
+Linhas: 1
+Colunas: 6
+----------------------------------------
+Tabela 32 - Página 126
+Linhas: 1
+Colunas: 6
+----------------------------------------
+Tabela 33 - Página 126
+Linhas: 1
+Colunas: 6
+----------------------------------------
+Tabela 34 - Página 126
+Linhas: 1
+Colunas: 4
+----------------------------------------
+Tabela 35 - Página 126
+Linhas: 1
+Colunas: 6
+----------------------------------------
+Tabela 36 - Página 126
+Linhas: 1
+Colunas: 6
+----------------------------------------
+Tabela 37 - Página 126
+Linhas: 1
+Colunas: 6
+----------------------------------------
+Tabela 38 - Página 126
+Linhas: 1
+Colunas: 4
+----------------------------------------
+Tabela 39 - Página 126
+Linhas: 1
+Colunas: 6
+----------------------------------------
+Tabela 40 - Página 126
+Linhas: 1
+Colunas: 6
+----------------------------------------
+Tabela 41 - Página 126
+Linhas: 1
+Colunas: 4
+----------------------------------------
+Tabela 42 - Página 126
+Linhas: 1
+Colunas: 6
+----------------------------------------
+Tabela 43 - Página 126
+Linhas: 1
+Colunas: 6
+----------------------------------------
+Tabela 44 - Página 126
+Linhas: 1
+Colunas: 6
+----------------------------------------
+Tabela 45 - Página 126
+Linhas: 1
+Colunas: 6
+----------------------------------------
+Tabela 46 - Página 126
+Linhas: 1
+Colunas: 6
+----------------------------------------
+Tabela 47 - Página 136
+Linhas: 1
+Colunas: 24
+----------------------------------------
+Tabela 48 - Página 136
+Linhas: 1
+Colunas: 24
+----------------------------------------
+Tabela 49 - Página 136
+Linhas: 1
+Colunas: 24
+----------------------------------------
+Tabela 50 - Página 136
+Linhas: 1
+Colunas: 24
+----------------------------------------
+Tabela 51 - Página 136
+Linhas: 1
+Colunas: 2
+----------------------------------------
+Tabela 52 - Página 136
+Linhas: 1
+Colunas: 2
+----------------------------------------
+Tabela 53 - Página 136
+Linhas: 1
+Colunas: 2
+----------------------------------------
+Tabela 54 - Página 152
+Linhas: 21
+Colunas: 2
+----------------------------------------
+Tabela 55 - Página 167
+Linhas: 32
+Colunas: 3
+----------------------------------------
