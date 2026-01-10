@@ -1,3 +1,12 @@
+---
+title: "Checklist de Conversão - Heróis de Arton"
+book: "herois-arton"
+navigation:
+  previous: null
+  next: null
+  up: "README.md"
+---
+
 # Checklist de Conversão - Heróis de Arton
 
 > **Status da conversão do suplemento "Heróis de Arton" para documentação Markdown integral e acessível**
@@ -23,7 +32,7 @@
 
 ### ✅ Capítulo 1: Campeões de Arton (100% COMPLETO)
 - **Arquivos criados:** 72 arquivos
-  - ✅ 5 raças (18-duende.md a 22-satiro.md) - COMPLETO
+  - ✅ 5 raças (01-duende.md a 05-satiro.md) - COMPLETO
   - ✅ 1 classe nova (23-treinador.md) - COMPLETO
   - ✅ 14 classes variantes (var-01 a var-14) - COMPLETO
   - ✅ 30 origens (origem-01 a origem-30) - COMPLETO
@@ -123,11 +132,11 @@
 1. ✅ Criar estrutura de diretórios
 2. ✅ Criar README do capítulo
 3. ✅ Extrair texto das 5 raças de full_text.txt
-4. ✅ Converter Duende (18-duende.md) com tabelas e imagens
-5. ✅ Converter Eiradaan (19-eiradaan.md)
-6. ✅ Converter Galokk (20-galokk.md)
-7. ✅ Converter Meio-Elfo (21-meio-elfo.md)
-8. ✅ Converter Sátiro (22-satiro.md)
+4. ✅ Converter Duende (01-duende.md) com tabelas e imagens
+5. ✅ Converter Eiradaan (02-eiradaan.md)
+6. ✅ Converter Galokk (03-galokk.md)
+7. ✅ Converter Meio-Elfo (04-meio-elfo.md)
+8. ✅ Converter Sátiro (05-satiro.md)
 
 ### Fase 2: Capítulo 1 - Classes (Estimativa: 20-25 horas)
 1. ✅ Converter Treinador (23-treinador.md)
@@ -226,11 +235,11 @@
 - ⏳ Próximo: Iniciar conversão das 14 classes variantes (Alquimista a Ventanista)
 
 ### 09/01/2026 - 5 Raças Convertidas
-- ✅ Duende (18-duende.md) - Sistema modular completo com 12 presentes mágicos e 3 limitações
-- ✅ Eiradaan (19-eiradaan.md) - Fadas ancestrais com magia instintiva
-- ✅ Galokk (20-galokk.md) - Meios-gigantes com Força dos Titãs
-- ✅ Meio-Elfo (21-meio-elfo.md) - Versatilidade com Ambição Herdada
-- ✅ Sátiro (22-satiro.md) - Instrumentista Mágico e Pernas Caprinas
+- ✅ Duende (01-duende.md) - Sistema modular completo com 12 presentes mágicos e 3 limitações
+- ✅ Eiradaan (02-eiradaan.md) - Fadas ancestrais com magia instintiva
+- ✅ Galokk (03-galokk.md) - Meios-gigantes com Força dos Titãs
+- ✅ Meio-Elfo (04-meio-elfo.md) - Versatilidade com Ambição Herdada
+- ✅ Sátiro (05-satiro.md) - Instrumentista Mágico e Pernas Caprinas
 - 📊 Total: ~80KB de conteúdo, 8 páginas do PDF documentadas
 
 ### 09/01/2026 - Estrutura Base Criada

@@ -1,0 +1,666 @@
+RELATÓRIO DE LINKS MARKDOWN
+========================================================================
+
+RESUMO:
+- Arquivos .md analisados: 539
+- Links quebrados: 162
+- Arquivos órfãos: 3
+
+LINKS QUEBRADOS:
+------------------------------------------------------------------------
+
+Arquivo: EXTRACTION_GUIDE.md (linha 247)
+  Texto: [Descrição: Descrição detalhada da ilustração mostrando características visuais da raça]
+  Href:  (../../_imagens/nome-livro/raca-exemplo.png)
+
+Arquivo: EXTRACTION_GUIDE.md (linha 330)
+  Texto: [← Anterior: Raça Anterior]
+  Href:  (arquivo.md)
+
+Arquivo: EXTRACTION_GUIDE.md (linha 330)
+  Texto: [Próximo: Próxima Raça →]
+  Href:  (arquivo.md)
+
+Arquivo: EXTRACTION_GUIDE.md (linha 361)
+  Texto: [Descrição: Descrição da ilustração mostrando um membro típico da classe]
+  Href:  (../../_imagens/nome-livro/classe-exemplo.png)
+
+Arquivo: EXTRACTION_GUIDE.md (linha 434)
+  Texto: [← Anterior: Classe Anterior]
+  Href:  (arquivo.md)
+
+Arquivo: EXTRACTION_GUIDE.md (linha 434)
+  Texto: [Próximo: Próxima Classe →]
+  Href:  (arquivo.md)
+
+Arquivo: EXTRACTION_GUIDE.md (linha 501)
+  Texto: [← Anterior: Distinção Anterior]
+  Href:  (arquivo.md)
+
+Arquivo: EXTRACTION_GUIDE.md (linha 501)
+  Texto: [Próximo: Próxima Distinção →]
+  Href:  (arquivo.md)
+
+Arquivo: EXTRACTION_GUIDE.md (linha 693)
+  Texto: [Descrição: Ilustração de um guerreiro humano vestindo armadura completa de placas, segurando uma espada longa e um escudo com emblema de leão, em pose de combate defensiva]
+  Href:  (../../_imagens/tormenta20-core/guerreiro-combatente.png)
+
+Arquivo: EXTRACTION_GUIDE.md (linha 698)
+  Texto: [Guerreiro]
+  Href:  (imagem.png)
+
+Arquivo: EXTRACTION_GUIDE.md (linha 815)
+  Texto: [texto]
+  Href:  (arquivo-inexistente.md)
+
+Arquivo: EXTRACTION_GUIDE.md (linha 960)
+  Texto: [Imagem]
+  Href:  (imagens/guerreiro.png)
+
+Arquivo: EXTRACTION_GUIDE.md (linha 965)
+  Texto: [Descrição: ...]
+  Href:  (../../_imagens/tormenta20-core/classes/guerreiro.png)
+
+Arquivo: EXTRACTION_GUIDE.md (linha 1003)
+  Texto: [Guerreiro]
+  Href:  (imagem.png)
+
+Arquivo: livros\herois-arton\README.md (linha 151)
+  Texto: [← Voltar ao Índice de Livros]
+  Href:  (../README.md)
+
+Arquivo: livros\tormenta20-core\README.md (linha 152)
+  Texto: [← Voltar ao Índice de Livros]
+  Href:  (../README.md)
+
+Arquivo: livros\tormenta20-core\01-introducao\01-o-que-e-tormenta20.md (linha 144)
+  Texto: [← Início]
+  Href:  (../../README.md)
+
+Arquivo: livros\tormenta20-core\01-introducao\README.md (linha 53)
+  Texto: [← Voltar ao Índice Principal]
+  Href:  (../../README.md)
+
+Arquivo: livros\tormenta20-core\02-criacao-personagens\README.md (linha 79)
+  Texto: [↑ Voltar ao Índice Principal]
+  Href:  (../../README.md)
+
+Arquivo: livros\tormenta20-core\03-racas\README.md (linha 117)
+  Texto: [↑ Voltar ao Índice Principal]
+  Href:  (../../README.md)
+
+Arquivo: livros\tormenta20-core\04-classes\README.md (linha 5)
+  Texto: [← Voltar ao Índice Principal]
+  Href:  (../../README.md)
+
+Arquivo: livros\tormenta20-core\05-pericias-poderes\README.md (linha 182)
+  Texto: [Índice Principal]
+  Href:  (../../README.md)
+
+Arquivo: livros\tormenta20-core\08-combate\README.md (linha 3)
+  Texto: [◂ Voltar à Página Principal]
+  Href:  (../../README.md)
+
+Arquivo: livros\tormenta20-core\08-combate\README.md (linha 133)
+  Texto: [◂ Voltar à Página Principal]
+  Href:  (../../README.md)
+
+Arquivo: livros\tormenta20-core\10-mestre\README.md (linha 3)
+  Texto: [Voltar ao Índice Principal]
+  Href:  (../../README.md)
+
+Arquivo: livros\tormenta20-core\10-mestre\README.md (linha 68)
+  Texto: [Voltar ao Índice Principal]
+  Href:  (../../README.md)
+
+Arquivo: livros\tormenta20-core\11-ambientacao\README.md (linha 3)
+  Texto: [◂ Voltar à Página Principal]
+  Href:  (../../README.md)
+
+Arquivo: livros\tormenta20-core\11-ambientacao\README.md (linha 159)
+  Texto: [◂ Voltar à Página Principal]
+  Href:  (../../README.md)
+
+Arquivo: livros\tormenta20-core\13-apendices\README.md (linha 3)
+  Texto: [◂ Voltar à Página Principal]
+  Href:  (../../README.md)
+
+Arquivo: livros\tormenta20-core\13-apendices\README.md (linha 57)
+  Texto: [◂ Voltar à Página Principal]
+  Href:  (../../README.md)
+
+Arquivo: livros\herois-arton\01-campeoes-arton\01-duende.md (linha 21)
+  Texto: [Descrição: Ilustração de um duende, uma fada de aparência única e imprevisível. A imagem mostra a diversidade desta raça feérica, podendo ter formas totalmente diferentes - desde um ovo com pernas e braços até criaturas humanoides com características inusitadas. Duendes lembram personagens de histórias infantis, com traços que parecem tolos para adultos mas escondem grande poder mágico. Seus corpos não seguem padrões, refletindo a natureza caótica de Nimb]
+  Href:  (../../../_imagens/herois-arton/herois-duende.png)
+
+Arquivo: livros\herois-arton\01-campeoes-arton\02-eiradaan.md (linha 19)
+  Texto: [Descrição: Ilustração de um eiradaan, ser féerico ancestral de grande beleza e melancolia. Possui aparência similar a um elfo com orelhas pontiagudas, olhos amendoados e traços delicados, mas ostenta galhadas majestosas ramificando-se de sua cabeça como chifres de cervo. Seus olhos mostram inteligência profunda mesclada com tristeza antiga. Veste roupas elegantes de corte feérico, combinando natureza e magia. Eiradaan são seres de poder mágico fenomenal, banidos de Vitalia após falharem em proteger o reino de Lena]
+  Href:  (../../../_imagens/herois-arton/herois-eiradaan.png)
+
+Arquivo: livros\herois-arton\01-campeoes-arton\03-galokk.md (linha 15)
+  Texto: [Descrição: Ilustração de um galokk, também chamado meio-gigante. Humanoide imponente de três metros de altura com proporções humanas mas corpo duro como rocha. Possui músculos proeminentes e aparência intimidadora, mas mantém traços distintamente humanos. Seus olhos mostram inteligência, contrariando estereótipos sobre gigantes. Veste equipamento robusto adequado ao seu tamanho Grande. Galokk são manifestações do poder de Megalokk em corpos humanos, podendo ser guerreiros temíveis ou surpreendentemente arcanistas e bardos]
+  Href:  (../../../_imagens/herois-arton/herois-galokk.png)
+
+Arquivo: livros\herois-arton\01-campeoes-arton\04-meio-elfo.md (linha 17)
+  Texto: [Descrição: Ilustração de Loriane, a Estrela, famosa meia-elfa paladina. Possui altura e compleição física de humana, mas com olhos amendoados, orelhas pontudas e traços delicados élficos. Sua pele pode variar em tonalidade, mostrando herança mista. Cabelos podem ser lisos ou ondulados. Veste armadura polida e empunha arma com graça. Seu rosto mostra determinação e beleza que conquistou até Valkaria. Meios-elfos são ponte entre dois mundos, combinando intensidade humana com elegância élfica]
+  Href:  (../../../_imagens/herois-arton/herois-meio-elfo.png)
+
+Arquivo: livros\herois-arton\01-campeoes-arton\05-satiro.md (linha 15)
+  Texto: [Descrição: Ilustração de um sátiro, humanoide feérico jovial e travesso. Possui tronco, cabeça e braços humanos com pele bronzeada, mas chifres recurvados na testa, pernas de bode com cascos, e pelagem castanha cobrindo a parte inferior do corpo. Usa cavanhaque e tem expressão divertida mas selvagem. Carrega arco e aljava de flechas. Pode segurar flauta ou harpa, instrumentos para enfeitiçar. Sátiros são festeiros incansáveis, amantes de música, dança, bebida e romance, mas também caçadores hábeis]
+  Href:  (../../../_imagens/herois-arton/herois-satiro.png)
+
+Arquivo: livros\herois-arton\01-campeoes-arton\23-treinador.md (linha 23)
+  Texto: [Descrição: Ilustração de um treinador, figura heroica cercada por seus companheiros animais - um lobo feroz ao lado esquerdo, uma águia pousada no ombro direito, expressão confiante e comandante. Veste roupas práticas de aventureiro com elementos tribais. Background mostra silhuetas de outras criaturas. Treinadores comandam bestas em combate]
+  Href:  (../../_imagens/herois-arton/treinador-mestre-feras.png)
+
+Arquivo: livros\herois-arton\01-campeoes-arton\origem-02-boticario.md (linha 9)
+  Texto: [← Anterior: Arqueiro de Arantar]
+  Href:  (origem-01-arqueiro-arantar.md)
+
+Arquivo: livros\herois-arton\01-campeoes-arton\origem-02-boticario.md (linha 25)
+  Texto: [← Anterior: Arqueiro de Arantar]
+  Href:  (origem-01-arqueiro-arantar.md)
+
+Arquivo: livros\herois-arton\01-campeoes-arton\origem-10-citadino-abastado.md (linha 9)
+  Texto: [Próximo: Comerciante de Especiarias →]
+  Href:  (origem-11-comerciante-especiarias.md)
+
+Arquivo: livros\herois-arton\01-campeoes-arton\origem-10-citadino-abastado.md (linha 25)
+  Texto: [Próximo: Comerciante de Especiarias →]
+  Href:  (origem-11-comerciante-especiarias.md)
+
+Arquivo: livros\herois-arton\01-campeoes-arton\origem-11-cocheiro.md (linha 9)
+  Texto: [← Anterior: Campeão de Oceano]
+  Href:  (origem-10-campeao-oceano.md)
+
+Arquivo: livros\herois-arton\01-campeoes-arton\origem-11-cocheiro.md (linha 25)
+  Texto: [← Anterior: Campeão de Oceano]
+  Href:  (origem-10-campeao-oceano.md)
+
+Arquivo: livros\herois-arton\01-campeoes-arton\origem-21-interrogador.md (linha 9)
+  Texto: [← Anterior: Herói de Guerra]
+  Href:  (origem-20-heroi-de-guerra.md)
+
+Arquivo: livros\herois-arton\01-campeoes-arton\origem-21-interrogador.md (linha 25)
+  Texto: [← Anterior: Herói de Guerra]
+  Href:  (origem-20-heroi-de-guerra.md)
+
+Arquivo: livros\herois-arton\01-campeoes-arton\README.md (linha 82)
+  Texto: [Ladrão de Túmulos]
+  Href:  (origem-22-ladrao-tumulos.md)
+
+Arquivo: livros\herois-arton\01-campeoes-arton\README.md (linha 90)
+  Texto: [Suporte de Tropas]
+  Href:  (origem-30-suporte-tropas.md)
+
+Arquivo: livros\herois-arton\01-campeoes-arton\tabelas-personagens.md (linha 3)
+  Texto: [← Origem 30]
+  Href:  (origem-30.md)
+
+Arquivo: livros\herois-arton\01-campeoes-arton\tabelas-personagens.md (linha 284)
+  Texto: [← Origem 30]
+  Href:  (origem-30.md)
+
+Arquivo: livros\herois-arton\02-distincoes\05-arqueiro-de-lenorienn.md (linha 16)
+  Texto: [← Campeão de Dojo]
+  Href:  (04-campeao-de-dojo.md)
+
+Arquivo: livros\herois-arton\02-distincoes\08-cacador-de-dragoes.md (linha 69)
+  Texto: [Carteador →]
+  Href:  (09-carteador.md)
+
+Arquivo: livros\herois-arton\02-distincoes\09-campeao-de-dojo.md (linha 72)
+  Texto: [← Anterior: Campeão da Arena]
+  Href:  (08-campeao-da-arena.md)
+
+Arquivo: livros\herois-arton\02-distincoes\12-cavaleiro-do-corvo.md (linha 89)
+  Texto: [→ Próximo: Próxima Distinção]
+  Href:  (13-próxima-distinção.md)
+
+Arquivo: livros\herois-arton\02-distincoes\13-cavaleiro-feerico.md (linha 82)
+  Texto: [Anterior: Cozinheiro de Aventureiros]
+  Href:  (12-cozinheiro-de-aventureiros.md)
+
+Arquivo: livros\herois-arton\02-distincoes\16-dracomante-real.md (linha 85)
+  Texto: [Próximo: Espadachim de Moreania]
+  Href:  (17-espadachim-de-moreania.md)
+
+Arquivo: livros\herois-arton\02-distincoes\17-drogadora.md (linha 16)
+  Texto: [← Anterior]
+  Href:  (./16-distincoes-anteriores.md)
+
+Arquivo: livros\herois-arton\02-distincoes\20-gigante-furioso.md (linha 18)
+  Texto: [→ Próximo]
+  Href:  (./21-distincoes-seguintes.md)
+
+Arquivo: livros\herois-arton\02-distincoes\21-ginete-de-namalkah.md (linha 46)
+  Texto: [← Devoto de Valkaria]
+  Href:  (20-devoto-de-valkaria.md)
+
+Arquivo: livros\herois-arton\02-distincoes\24-mago-da-ordem-do-vazio.md (linha 47)
+  Texto: [Próxima Distinção →]
+  Href:  (25-proxima-distincao.md)
+
+Arquivo: livros\herois-arton\02-distincoes\25-mago-de-batalha-de-wynlla.md (linha 42)
+  Texto: [← Anterior: Maestro das Espadas]
+  Href:  (24-maestro-das-espadas.md)
+
+Arquivo: livros\herois-arton\02-distincoes\28-mestre-cozinheiro.md (linha 43)
+  Texto: [→ Próximo: Necromante]
+  Href:  (29-necromante.md)
+
+Arquivo: livros\herois-arton\02-distincoes\29-mestre-dos-desejos.md (linha 63)
+  Texto: [Anterior: Mestre da Colheita]
+  Href:  (28-mestre-da-colheita.md)
+
+Arquivo: livros\herois-arton\02-distincoes\32-mutagenista.md (linha 71)
+  Texto: [Próximo: Necromante de Arton]
+  Href:  (33-necromante-de-arton.md)
+
+Arquivo: livros\herois-arton\02-distincoes\33-pistoleiro-de-smokestone.md (linha 99)
+  Texto: [← Anterior: Mosqueteiro de Rishantor]
+  Href:  (32-mosqueteiro-de-rishantor.md)
+
+Arquivo: livros\herois-arton\02-distincoes\README.md (linha 58)
+  Texto: [Dracomante Real]
+  Href:  (17-dracomante-real.md)
+
+Arquivo: livros\herois-arton\02-distincoes\README.md (linha 59)
+  Texto: [Drogadora]
+  Href:  (18-drogadora.md)
+
+Arquivo: livros\herois-arton\02-distincoes\README.md (linha 60)
+  Texto: [Engenhoqueiro Goblin]
+  Href:  (19-engenhoqueiro-goblin.md)
+
+Arquivo: livros\herois-arton\02-distincoes\README.md (linha 61)
+  Texto: [Escapista Magnífico]
+  Href:  (20-escapista-magnifico.md)
+
+Arquivo: livros\herois-arton\02-distincoes\README.md (linha 65)
+  Texto: [Gigante Furioso]
+  Href:  (21-gigante-furioso.md)
+
+Arquivo: livros\herois-arton\02-distincoes\README.md (linha 66)
+  Texto: [Ginete de Namalkah]
+  Href:  (22-ginete-namalkah.md)
+
+Arquivo: livros\herois-arton\02-distincoes\README.md (linha 67)
+  Texto: [Guerreiro Mágico]
+  Href:  (23-guerreiro-magico.md)
+
+Arquivo: livros\herois-arton\02-distincoes\README.md (linha 71)
+  Texto: [Infiltrador de Wynlla]
+  Href:  (24-infiltrador-wynlla.md)
+
+Arquivo: livros\herois-arton\02-distincoes\README.md (linha 72)
+  Texto: [Mago da Ordem do Vazio]
+  Href:  (25-mago-ordem-vazio.md)
+
+Arquivo: livros\herois-arton\02-distincoes\README.md (linha 73)
+  Texto: [Mago de Batalha de Wynlla]
+  Href:  (26-mago-batalha-wynlla.md)
+
+Arquivo: livros\herois-arton\02-distincoes\README.md (linha 74)
+  Texto: [Médico de Salistick]
+  Href:  (27-medico-salistick.md)
+
+Arquivo: livros\herois-arton\02-distincoes\README.md (linha 75)
+  Texto: [Mestre Bêbado]
+  Href:  (28-mestre-bebado.md)
+
+Arquivo: livros\herois-arton\02-distincoes\README.md (linha 76)
+  Texto: [Mestre Cozinheiro]
+  Href:  (29-mestre-cozinheiro.md)
+
+Arquivo: livros\herois-arton\02-distincoes\README.md (linha 77)
+  Texto: [Mestre dos Desejos]
+  Href:  (30-mestre-desejos.md)
+
+Arquivo: livros\herois-arton\02-distincoes\README.md (linha 78)
+  Texto: [Mestre Mahou-Jutsu]
+  Href:  (31-mestre-mahou-jutsu.md)
+
+Arquivo: livros\herois-arton\02-distincoes\README.md (linha 79)
+  Texto: [Mosqueteiro de Rishantor]
+  Href:  (32-mosqueteiro-rishantor.md)
+
+Arquivo: livros\herois-arton\02-distincoes\README.md (linha 80)
+  Texto: [Mutagenista]
+  Href:  (33-mutagenista.md)
+
+Arquivo: livros\herois-arton\02-distincoes\README.md (linha 84)
+  Texto: [Pistoleiro de Smokestone]
+  Href:  (34-pistoleiro-smokestone.md)
+
+Arquivo: livros\herois-arton\02-distincoes\README.md (linha 85)
+  Texto: [Professor de Magia]
+  Href:  (35-professor-magia.md)
+
+Arquivo: livros\herois-arton\02-distincoes\README.md (linha 86)
+  Texto: [Senador]
+  Href:  (36-senador.md)
+
+Arquivo: livros\herois-arton\02-distincoes\README.md (linha 87)
+  Texto: [Vigarista]
+  Href:  (37-vigarista.md)
+
+Arquivo: livros\herois-arton\02-novos-poderes\arcanista.md (linha 3)
+  Texto: [← Paladino]
+  Href:  (../01-distincoes/paladino.md)
+
+Arquivo: livros\herois-arton\02-novos-poderes\arcanista.md (linha 131)
+  Texto: [← Paladino]
+  Href:  (../01-distincoes/paladino.md)
+
+Arquivo: livros\herois-arton\04-regras-opcionais\11-dominios.md (linha 3)
+  Texto: [➡️ Próximo: ???]
+  Href:  (12-???.md)
+
+Arquivo: livros\herois-arton\04-regras-opcionais\11-dominios.md (linha 277)
+  Texto: [➡️ Próximo: ???]
+  Href:  (12-???.md)
+
+Arquivo: livros\herois-arton\04-regras-opcionais\12-lista-regras-opcionais.md (linha 106)
+  Texto: [Anterior: 11. Culinária Avançada]
+  Href:  (11-culinaria-avancada.md)
+
+Arquivo: livros\herois-arton\04-regras-opcionais\README.md (linha 39)
+  Texto: [Características dos Domínios]
+  Href:  (12-caracteristicas-dominios.md)
+
+Arquivo: livros\herois-arton\04-regras-opcionais\README.md (linha 40)
+  Texto: [Construções]
+  Href:  (13-construcoes.md)
+
+Arquivo: livros\herois-arton\04-regras-opcionais\README.md (linha 41)
+  Texto: [Unidades Militares]
+  Href:  (14-unidades-militares.md)
+
+Arquivo: livros\herois-arton\04-regras-opcionais\README.md (linha 42)
+  Texto: [Turnos de Domínio]
+  Href:  (15-turnos-dominio.md)
+
+Arquivo: livros\herois-arton\04-regras-opcionais\README.md (linha 43)
+  Texto: [Domínios Místicos]
+  Href:  (16-dominios-misticos.md)
+
+Arquivo: livros\herois-arton\04-regras-opcionais\README.md (linha 44)
+  Texto: [Eventos Aleatórios]
+  Href:  (17-eventos-aleatorios.md)
+
+Arquivo: livros\herois-arton\04-regras-opcionais\README.md (linha 48)
+  Texto: [Lista Completa de Regras Opcionais]
+  Href:  (18-lista-regras-opcionais.md)
+
+Arquivo: docs\12-herois-arton\01-campeoes-arton\18-duende.md (linha 21)
+  Texto: [Descrição: Ilustração de um duende, uma fada de aparência única e imprevisível. A imagem mostra a diversidade desta raça feérica, podendo ter formas totalmente diferentes - desde um ovo com pernas e braços até criaturas humanoides com características inusitadas. Duendes lembram personagens de histórias infantis, com traços que parecem tolos para adultos mas escondem grande poder mágico. Seus corpos não seguem padrões, refletindo a natureza caótica de Nimb]
+  Href:  (../../imagens/herois-duende.png)
+
+Arquivo: docs\12-herois-arton\01-campeoes-arton\19-eiradaan.md (linha 19)
+  Texto: [Descrição: Ilustração de um eiradaan, ser féerico ancestral de grande beleza e melancolia. Possui aparência similar a um elfo com orelhas pontiagudas, olhos amendoados e traços delicados, mas ostenta galhadas majestosas ramificando-se de sua cabeça como chifres de cervo. Seus olhos mostram inteligência profunda mesclada com tristeza antiga. Veste roupas elegantes de corte feérico, combinando natureza e magia. Eiradaan são seres de poder mágico fenomenal, banidos de Vitalia após falharem em proteger o reino de Lena]
+  Href:  (../../imagens/herois-eiradaan.png)
+
+Arquivo: docs\12-herois-arton\01-campeoes-arton\20-galokk.md (linha 15)
+  Texto: [Descrição: Ilustração de um galokk, também chamado meio-gigante. Humanoide imponente de três metros de altura com proporções humanas mas corpo duro como rocha. Possui músculos proeminentes e aparência intimidadora, mas mantém traços distintamente humanos. Seus olhos mostram inteligência, contrariando estereótipos sobre gigantes. Veste equipamento robusto adequado ao seu tamanho Grande. Galokk são manifestações do poder de Megalokk em corpos humanos, podendo ser guerreiros temíveis ou surpreendentemente arcanistas e bardos]
+  Href:  (../../imagens/herois-galokk.png)
+
+Arquivo: docs\12-herois-arton\01-campeoes-arton\21-meio-elfo.md (linha 17)
+  Texto: [Descrição: Ilustração de Loriane, a Estrela, famosa meia-elfa paladina. Possui altura e compleição física de humana, mas com olhos amendoados, orelhas pontudas e traços delicados élficos. Sua pele pode variar em tonalidade, mostrando herança mista. Cabelos podem ser lisos ou ondulados. Veste armadura polida e empunha arma com graça. Seu rosto mostra determinação e beleza que conquistou até Valkaria. Meios-elfos são ponte entre dois mundos, combinando intensidade humana com elegância élfica]
+  Href:  (../../imagens/herois-meio-elfo.png)
+
+Arquivo: docs\12-herois-arton\01-campeoes-arton\22-satiro.md (linha 15)
+  Texto: [Descrição: Ilustração de um sátiro, humanoide feérico jovial e travesso. Possui tronco, cabeça e braços humanos com pele bronzeada, mas chifres recurvados na testa, pernas de bode com cascos, e pelagem castanha cobrindo a parte inferior do corpo. Usa cavanhaque e tem expressão divertida mas selvagem. Carrega arco e aljava de flechas. Pode segurar flauta ou harpa, instrumentos para enfeitiçar. Sátiros são festeiros incansáveis, amantes de música, dança, bebida e romance, mas também caçadores hábeis]
+  Href:  (../../imagens/herois-satiro.png)
+
+Arquivo: docs\12-herois-arton\01-campeoes-arton\23-treinador.md (linha 23)
+  Texto: [Descrição: Ilustração de um treinador, figura heroica cercada por seus companheiros animais - um lobo feroz ao lado esquerdo, uma águia pousada no ombro direito, expressão confiante e comandante. Veste roupas práticas de aventureiro com elementos tribais. Background mostra silhuetas de outras criaturas. Treinadores comandam bestas em combate]
+  Href:  (../imagens/treinador-mestre-feras.png)
+
+Arquivo: docs\12-herois-arton\01-campeoes-arton\origem-02-boticario.md (linha 9)
+  Texto: [← Anterior: Arqueiro de Arantar]
+  Href:  (origem-01-arqueiro-arantar.md)
+
+Arquivo: docs\12-herois-arton\01-campeoes-arton\origem-02-boticario.md (linha 25)
+  Texto: [← Anterior: Arqueiro de Arantar]
+  Href:  (origem-01-arqueiro-arantar.md)
+
+Arquivo: docs\12-herois-arton\01-campeoes-arton\origem-10-citadino-abastado.md (linha 9)
+  Texto: [Próximo: Comerciante de Especiarias →]
+  Href:  (origem-11-comerciante-especiarias.md)
+
+Arquivo: docs\12-herois-arton\01-campeoes-arton\origem-10-citadino-abastado.md (linha 25)
+  Texto: [Próximo: Comerciante de Especiarias →]
+  Href:  (origem-11-comerciante-especiarias.md)
+
+Arquivo: docs\12-herois-arton\01-campeoes-arton\origem-11-cocheiro.md (linha 9)
+  Texto: [← Anterior: Campeão de Oceano]
+  Href:  (origem-10-campeao-oceano.md)
+
+Arquivo: docs\12-herois-arton\01-campeoes-arton\origem-11-cocheiro.md (linha 25)
+  Texto: [← Anterior: Campeão de Oceano]
+  Href:  (origem-10-campeao-oceano.md)
+
+Arquivo: docs\12-herois-arton\01-campeoes-arton\origem-21-interrogador.md (linha 9)
+  Texto: [← Anterior: Herói de Guerra]
+  Href:  (origem-20-heroi-de-guerra.md)
+
+Arquivo: docs\12-herois-arton\01-campeoes-arton\origem-21-interrogador.md (linha 25)
+  Texto: [← Anterior: Herói de Guerra]
+  Href:  (origem-20-heroi-de-guerra.md)
+
+Arquivo: docs\12-herois-arton\01-campeoes-arton\README.md (linha 82)
+  Texto: [Ladrão de Túmulos]
+  Href:  (origem-22-ladrao-tumulos.md)
+
+Arquivo: docs\12-herois-arton\01-campeoes-arton\README.md (linha 90)
+  Texto: [Suporte de Tropas]
+  Href:  (origem-30-suporte-tropas.md)
+
+Arquivo: docs\12-herois-arton\01-campeoes-arton\tabelas-personagens.md (linha 3)
+  Texto: [← Origem 30]
+  Href:  (origem-30.md)
+
+Arquivo: docs\12-herois-arton\01-campeoes-arton\tabelas-personagens.md (linha 284)
+  Texto: [← Origem 30]
+  Href:  (origem-30.md)
+
+Arquivo: docs\12-herois-arton\02-distincoes\05-arqueiro-de-lenorienn.md (linha 16)
+  Texto: [← Campeão de Dojo]
+  Href:  (04-campeao-de-dojo.md)
+
+Arquivo: docs\12-herois-arton\02-distincoes\08-cacador-de-dragoes.md (linha 69)
+  Texto: [Carteador →]
+  Href:  (09-carteador.md)
+
+Arquivo: docs\12-herois-arton\02-distincoes\09-campeao-de-dojo.md (linha 72)
+  Texto: [← Anterior: Campeão da Arena]
+  Href:  (08-campeao-da-arena.md)
+
+Arquivo: docs\12-herois-arton\02-distincoes\12-cavaleiro-do-corvo.md (linha 89)
+  Texto: [→ Próximo: Próxima Distinção]
+  Href:  (13-próxima-distinção.md)
+
+Arquivo: docs\12-herois-arton\02-distincoes\13-cavaleiro-feerico.md (linha 82)
+  Texto: [Anterior: Cozinheiro de Aventureiros]
+  Href:  (12-cozinheiro-de-aventureiros.md)
+
+Arquivo: docs\12-herois-arton\02-distincoes\16-dracomante-real.md (linha 85)
+  Texto: [Próximo: Espadachim de Moreania]
+  Href:  (17-espadachim-de-moreania.md)
+
+Arquivo: docs\12-herois-arton\02-distincoes\17-drogadora.md (linha 16)
+  Texto: [← Anterior]
+  Href:  (./16-distincoes-anteriores.md)
+
+Arquivo: docs\12-herois-arton\02-distincoes\20-gigante-furioso.md (linha 18)
+  Texto: [→ Próximo]
+  Href:  (./21-distincoes-seguintes.md)
+
+Arquivo: docs\12-herois-arton\02-distincoes\21-ginete-de-namalkah.md (linha 46)
+  Texto: [← Devoto de Valkaria]
+  Href:  (20-devoto-de-valkaria.md)
+
+Arquivo: docs\12-herois-arton\02-distincoes\24-mago-da-ordem-do-vazio.md (linha 47)
+  Texto: [Próxima Distinção →]
+  Href:  (25-proxima-distincao.md)
+
+Arquivo: docs\12-herois-arton\02-distincoes\25-mago-de-batalha-de-wynlla.md (linha 42)
+  Texto: [← Anterior: Maestro das Espadas]
+  Href:  (24-maestro-das-espadas.md)
+
+Arquivo: docs\12-herois-arton\02-distincoes\28-mestre-cozinheiro.md (linha 43)
+  Texto: [→ Próximo: Necromante]
+  Href:  (29-necromante.md)
+
+Arquivo: docs\12-herois-arton\02-distincoes\29-mestre-dos-desejos.md (linha 63)
+  Texto: [Anterior: Mestre da Colheita]
+  Href:  (28-mestre-da-colheita.md)
+
+Arquivo: docs\12-herois-arton\02-distincoes\32-mutagenista.md (linha 71)
+  Texto: [Próximo: Necromante de Arton]
+  Href:  (33-necromante-de-arton.md)
+
+Arquivo: docs\12-herois-arton\02-distincoes\33-pistoleiro-de-smokestone.md (linha 99)
+  Texto: [← Anterior: Mosqueteiro de Rishantor]
+  Href:  (32-mosqueteiro-de-rishantor.md)
+
+Arquivo: docs\12-herois-arton\02-distincoes\README.md (linha 58)
+  Texto: [Dracomante Real]
+  Href:  (17-dracomante-real.md)
+
+Arquivo: docs\12-herois-arton\02-distincoes\README.md (linha 59)
+  Texto: [Drogadora]
+  Href:  (18-drogadora.md)
+
+Arquivo: docs\12-herois-arton\02-distincoes\README.md (linha 60)
+  Texto: [Engenhoqueiro Goblin]
+  Href:  (19-engenhoqueiro-goblin.md)
+
+Arquivo: docs\12-herois-arton\02-distincoes\README.md (linha 61)
+  Texto: [Escapista Magnífico]
+  Href:  (20-escapista-magnifico.md)
+
+Arquivo: docs\12-herois-arton\02-distincoes\README.md (linha 65)
+  Texto: [Gigante Furioso]
+  Href:  (21-gigante-furioso.md)
+
+Arquivo: docs\12-herois-arton\02-distincoes\README.md (linha 66)
+  Texto: [Ginete de Namalkah]
+  Href:  (22-ginete-namalkah.md)
+
+Arquivo: docs\12-herois-arton\02-distincoes\README.md (linha 67)
+  Texto: [Guerreiro Mágico]
+  Href:  (23-guerreiro-magico.md)
+
+Arquivo: docs\12-herois-arton\02-distincoes\README.md (linha 71)
+  Texto: [Infiltrador de Wynlla]
+  Href:  (24-infiltrador-wynlla.md)
+
+Arquivo: docs\12-herois-arton\02-distincoes\README.md (linha 72)
+  Texto: [Mago da Ordem do Vazio]
+  Href:  (25-mago-ordem-vazio.md)
+
+Arquivo: docs\12-herois-arton\02-distincoes\README.md (linha 73)
+  Texto: [Mago de Batalha de Wynlla]
+  Href:  (26-mago-batalha-wynlla.md)
+
+Arquivo: docs\12-herois-arton\02-distincoes\README.md (linha 74)
+  Texto: [Médico de Salistick]
+  Href:  (27-medico-salistick.md)
+
+Arquivo: docs\12-herois-arton\02-distincoes\README.md (linha 75)
+  Texto: [Mestre Bêbado]
+  Href:  (28-mestre-bebado.md)
+
+Arquivo: docs\12-herois-arton\02-distincoes\README.md (linha 76)
+  Texto: [Mestre Cozinheiro]
+  Href:  (29-mestre-cozinheiro.md)
+
+Arquivo: docs\12-herois-arton\02-distincoes\README.md (linha 77)
+  Texto: [Mestre dos Desejos]
+  Href:  (30-mestre-desejos.md)
+
+Arquivo: docs\12-herois-arton\02-distincoes\README.md (linha 78)
+  Texto: [Mestre Mahou-Jutsu]
+  Href:  (31-mestre-mahou-jutsu.md)
+
+Arquivo: docs\12-herois-arton\02-distincoes\README.md (linha 79)
+  Texto: [Mosqueteiro de Rishantor]
+  Href:  (32-mosqueteiro-rishantor.md)
+
+Arquivo: docs\12-herois-arton\02-distincoes\README.md (linha 80)
+  Texto: [Mutagenista]
+  Href:  (33-mutagenista.md)
+
+Arquivo: docs\12-herois-arton\02-distincoes\README.md (linha 84)
+  Texto: [Pistoleiro de Smokestone]
+  Href:  (34-pistoleiro-smokestone.md)
+
+Arquivo: docs\12-herois-arton\02-distincoes\README.md (linha 85)
+  Texto: [Professor de Magia]
+  Href:  (35-professor-magia.md)
+
+Arquivo: docs\12-herois-arton\02-distincoes\README.md (linha 86)
+  Texto: [Senador]
+  Href:  (36-senador.md)
+
+Arquivo: docs\12-herois-arton\02-distincoes\README.md (linha 87)
+  Texto: [Vigarista]
+  Href:  (37-vigarista.md)
+
+Arquivo: docs\12-herois-arton\02-novos-poderes\arcanista.md (linha 3)
+  Texto: [← Paladino]
+  Href:  (../01-distincoes/paladino.md)
+
+Arquivo: docs\12-herois-arton\02-novos-poderes\arcanista.md (linha 131)
+  Texto: [← Paladino]
+  Href:  (../01-distincoes/paladino.md)
+
+Arquivo: docs\12-herois-arton\04-regras-opcionais\11-dominios.md (linha 3)
+  Texto: [➡️ Próximo: ???]
+  Href:  (12-???.md)
+
+Arquivo: docs\12-herois-arton\04-regras-opcionais\11-dominios.md (linha 277)
+  Texto: [➡️ Próximo: ???]
+  Href:  (12-???.md)
+
+Arquivo: docs\12-herois-arton\04-regras-opcionais\12-lista-regras-opcionais.md (linha 106)
+  Texto: [Anterior: 11. Culinária Avançada]
+  Href:  (11-culinaria-avancada.md)
+
+Arquivo: docs\12-herois-arton\04-regras-opcionais\README.md (linha 39)
+  Texto: [Características dos Domínios]
+  Href:  (12-caracteristicas-dominios.md)
+
+Arquivo: docs\12-herois-arton\04-regras-opcionais\README.md (linha 40)
+  Texto: [Construções]
+  Href:  (13-construcoes.md)
+
+Arquivo: docs\12-herois-arton\04-regras-opcionais\README.md (linha 41)
+  Texto: [Unidades Militares]
+  Href:  (14-unidades-militares.md)
+
+Arquivo: docs\12-herois-arton\04-regras-opcionais\README.md (linha 42)
+  Texto: [Turnos de Domínio]
+  Href:  (15-turnos-dominio.md)
+
+Arquivo: docs\12-herois-arton\04-regras-opcionais\README.md (linha 43)
+  Texto: [Domínios Místicos]
+  Href:  (16-dominios-misticos.md)
+
+Arquivo: docs\12-herois-arton\04-regras-opcionais\README.md (linha 44)
+  Texto: [Eventos Aleatórios]
+  Href:  (17-eventos-aleatorios.md)
+
+Arquivo: docs\12-herois-arton\04-regras-opcionais\README.md (linha 48)
+  Texto: [Lista Completa de Regras Opcionais]
+  Href:  (18-lista-regras-opcionais.md)
+
+
+ARQUIVOS .MD ÓRFÃOS (não referenciados por nenhum outro .md):
+------------------------------------------------------------------------
+
+- docs\12-herois-arton\04-regras-opcionais\12-lista-regras-opcionais.md
+- HEROIS_ARTON_PROGRESS.md
+- livros\herois-arton\04-regras-opcionais\12-lista-regras-opcionais.md
