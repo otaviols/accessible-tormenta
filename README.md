@@ -16,14 +16,19 @@ Este projeto contém a conversão para Markdown dos livros do sistema Tormenta 2
 **Conteúdo:** 134 arquivos, ~2.7MB, 332 páginas  
 **Capítulos:** Campeões de Arton (5 novas raças, classe Treinador, 14 variantes), Distinções (36), Novos Poderes, Arsenal dos Heróis (30+ magias, 100+ itens mágicos), Regras Opcionais (Bases, Domínios, 30+ regras)
 
+### [Dragão Brasil - Compilado Tormenta 20](livros/dragao-brasil/README.md)
+**Status:** 100% completo  
+**Conteúdo:** ~75 arquivos, ~50,000 linhas, 180 páginas  
+**Capítulos:** Raças (38 raças novas + variantes), Classes (15 classes com poderes), Origens (condicionais + regionais), Perícias e Poderes, Distinções (18 distinções), Equipamentos (100+ itens, runas, artefatos), Magias (20+ novas magias), Regras Opcionais (idiomas, idade, desvantagens)
+
 ## 📊 Estatísticas Gerais
 
 | Métrica | Valor |
 |---------|-------|
-| **Livros** | 2 |
-| **Arquivos Markdown** | 269 |
-| **Tamanho Total** | ~3.7MB |
-| **Páginas Totais** | ~632 |
+| **Livros** | 3 |
+| **Arquivos Markdown** | ~344 |
+| **Tamanho Total** | ~4.2MB |
+| **Páginas Totais** | ~812 |
 | **Imagens** | 35+ PNG com alt-text |
 | **Scripts** | 7 ferramentas de automação |
 
@@ -53,6 +58,18 @@ livros/
 │   ├── 02-novos-poderes/     # Centenas de poderes
 │   ├── 03-arsenal-herois/    # 30+ magias, 100+ itens
 │   ├── 04-regras-opcionais/  # Bases, Domínios, 30+ regras
+│   ├── README.md
+│   └── PROGRESS.md
+│
+├── dragao-brasil/            # Dragão Brasil - Compilado (~75 arquivos)
+│   ├── 01-racas/             # 38 raças (novas + variantes)
+│   ├── 02-classes/           # Poderes para 15 classes
+│   ├── 03-origens/           # Origens condicionais + regionais
+│   ├── 04-pericias-poderes/  # Perícias e poderes gerais
+│   ├── 05-distincoes/        # 18 distinções
+│   ├── 06-equipamentos/      # 100+ itens, runas, artefatos
+│   ├── 07-magias/            # 20+ magias novas
+│   ├── 08-regras/            # Regras opcionais
 │   ├── README.md
 │   └── PROGRESS.md
 │
@@ -141,9 +158,10 @@ navigation:
 
 1. ✅ **Tormenta 20 - Livro Básico** (75% completo)
 2. ✅ **Heróis de Arton** (100% completo)
-3. ⏳ **Panteão** (planejado)
-4. ⏳ **Ameaças de Arton** (planejado)
-5. ⏳ **Reinos de Arton** (planejado)
+3. ✅ **Dragão Brasil - Compilado** (100% completo)
+4. ⏳ **Panteão** (planejado)
+5. ⏳ **Ameaças de Arton** (planejado)
+6. ⏳ **Reinos de Arton** (planejado)
 
 ## 🚀 Como Contribuir
 
@@ -166,6 +184,7 @@ Este projeto é uma conversão educacional do sistema Tormenta 20. Todos os dire
 
 ---
 
-**Última atualização:** Sessão 6 - Reorganização multi-livro completada  
-**Arquivos processados:** 269 markdown files (100% com frontmatter YAML)  
-**Links atualizados:** 42 arquivos modificados (40 imagens + 19 referências)
+**Última atualização:** Janeiro 2026 - Dragão Brasil completado  
+**Arquivos processados:** ~344 markdown files (100% com frontmatter YAML)  
+**Livros completos:** 2 de 3 (Heróis de Arton, Dragão Brasil)  
+**Livros em andamento:** 1 de 3 (Tormenta20 Core - 75%)
