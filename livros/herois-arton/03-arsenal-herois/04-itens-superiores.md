@@ -43,24 +43,41 @@ navigation:
 
 ### Tabela 3-5: Novas Melhorias
 
+#### Melhorias para armas
+
 | Melhoria | Efeito |
 |----------|--------|
-| **Melhorias para armas** | |
 | Farpada | Acertos críticos provocam sangramento |
 | Fósforo | Munição ofusca o alvo |
 | Guarda | +1 na Defesa e em testes contra manobras |
 | Incendiária | Munição causa dano por fogo e pode deixar em chamas |
 | Pressurizada | +2 em ataque e dano ao acionar mecanismo |
-| **Melhorias para armaduras e escudos** | |
+
+#### Melhorias para armaduras e escudos
+
+| Melhoria | Efeito |
+|----------|--------|
 | Balístico | Ataques com escudo podem causar dano adicional |
 | Injetora | Usa um efeito de preparado ou poção |
 | Prudente | Atenua uma falha crítica |
-| **Melhorias para esotéricos** | |
+
+#### Melhorias para esotéricos
+
+| Melhoria | Efeito |
+|----------|--------|
 | Potencializador | +2 no limite de PM |
-| **Melhorias para ferramentas e vestuário** | |
+
+#### Melhorias para ferramentas e vestuário
+
+| Melhoria | Efeito |
+|----------|--------|
 | Brasonado | Usa a perícia do item para mudar atitude |
 | Usado | Pode rolar novamente 1 natural |
-| **Melhorias para qualquer das categorias acima** | |
+
+#### Melhorias para qualquer das categorias acima
+
+| Melhoria | Efeito |
+|----------|--------|
 | Deslumbrante | +1 na CD de habilidades baseadas em Carisma |
 
 ## Capangas

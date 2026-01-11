@@ -73,21 +73,30 @@ Desenvolvido por devotos de Oceano e muito comum em regiões praianas, este gran
 
 ## Tabela 3-3: Armaduras & Escudos
 
+### Armaduras Leves
+
 | Armaduras e Escudos | Preço | Bônus na Defesa | Penalidade de Armadura | Espaços |
 |---|---|---|---|---|
-| **Armaduras Leves** |
 | Armadura sensual | T$ 55 | +1 | 0 | 2 |
 | Armadura de folhas | T$ 75 | +2 | 0 | 2 |
 | Armadura de engenhoqueiro goblin | T$ 85 | +3 | –2 a –10 | 2 |
 | Cota de moedas | T$ 350 | +4 | –3 | 2 |
 | Colete fora da lei | T$ 750 | +5 | –5 | 2 |
-| **Armaduras Pesadas** |
+
+### Armaduras Pesadas
+
+| Armaduras e Escudos | Preço | Bônus na Defesa | Penalidade de Armadura | Espaços |
+|---|---|---|---|---|
 | Brigantina | T$ 75 | +6 | 0 | 5 |
 | Armadura de chumbo | T$ 750 | +7 | –5 | 5 |
 | Armadura de justa | T$ 1.200 | +9 | –5 | 5 |
 | Armadura de hussardo alado | T$ 4.500 | +10 | –6 | 5 |
 | Armadura de pedra | T$ 5.500 | +12 | –5 | 5 |
-| **Escudos** |
+
+### Escudos
+
+| Armaduras e Escudos | Preço | Bônus na Defesa | Penalidade de Armadura | Espaços |
+|---|---|---|---|---|
 | Broquel | T$ 25 | — | –1 | 0,5 |
 | Escudo de vime | T$ 15 | +2 | –2 | 2 |
 | Escudo torre | T$ 45 | +2 | –4 | 2 |

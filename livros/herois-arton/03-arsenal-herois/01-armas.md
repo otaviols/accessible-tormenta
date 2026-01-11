@@ -80,30 +80,44 @@ navigation:
 
 ### Armas Simples
 
+#### Corpo a Corpo — Leves
+
 | Arma | Preço | Dano | Crítico | Alcance | Tipo | Espaços |
-|------|-------|------|---------|---------|------|---------|
-| **Corpo a Corpo — Leves** |
+|------|-------|------|---------|---------|------|---------||
 | Bastão lúdico | T$ 5 | 1d6 | x2 | — | Impacto | 1 |
-| **Ataque à Distância — Uma Mão** |
+
+#### Ataque à Distância — Uma Mão
+
+| Arma | Preço | Dano | Crítico | Alcance | Tipo | Espaços |
+|------|-------|------|---------|---------|------|---------||
 | Besta de mão | T$ 30 | 1d6 | 19 | Curto | Perfuração | 1 |
 | Virotes (20) | T$ 2 | — | — | — | — | 1 |
 
 ### Armas Marciais
 
+#### Corpo a Corpo — Leves
+
 | Arma | Preço | Dano | Crítico | Alcance | Tipo | Espaços |
-|------|-------|------|---------|---------|------|---------|
-| **Corpo a Corpo — Leves** |
+|------|-------|------|---------|---------|---------|---------||
 | Adaga oposta | T$ 12 | 1d4 | 19 | — | Perfuração | 1 |
 | Agulha de Ahlen | T$ 10 | 1d4 | 19 | — | Perfuração | 1 |
 | Cinquedea | T$ 18 | 1d4 | 19 | — | Perfuração | 1 |
 | Dirk | T$ 15 | 1d4 | 19 | — | Perfuração | 1 |
 | Martelo leve | T$ 2 | 1d4 | x4 | Curto | Impacto | 1 |
-| **Corpo a Corpo — Uma Mão** |
+
+#### Corpo a Corpo — Uma Mão
+
+| Arma | Preço | Dano | Crítico | Alcance | Tipo | Espaços |
+|------|-------|------|---------|---------|---------|---------||
 | Espada larga | T$ 8 | 2d4 | x2 | — | Corte | 1 |
 | Espadim | T$ 300 | 1d8 | 20 | — | Corte | 1 |
 | Maça-estrela | T$ 20 | 2d4 | x2 | — | Impacto e perfuração | 1 |
 | Serrilheira | T$ 25 | 1d6 | 19 | — | Corte | 1 |
-| **Corpo a Corpo — Duas Mãos** |
+
+#### Corpo a Corpo — Duas Mãos
+
+| Arma | Preço | Dano | Crítico | Alcance | Tipo | Espaços |
+|------|-------|------|---------|---------|---------|---------||
 | Bico de corvo | T$ 15 | 1d8 | x3 | — | Impacto/perfuração | 2 |
 | Desmontador | T$ 20 | — | — | — | — | 2 |
 | Espada de execução | T$ 75 | 2d6 | 18/x4 | — | Corte | 2 |
@@ -111,9 +125,17 @@ navigation:
 | Malho | T$ 8 | 1d10 | x2 | — | Impacto | 2 |
 | Martelo longo | T$ 12 | 2d4 | x4 | — | Impacto/perfuração | 2 |
 | Tan-korak | T$ 40 | 1d8 | x2 | — | Impacto | 2 |
-| **Ataque à Distância — Uma Mão** |
+
+#### Ataque à Distância — Uma Mão
+
+| Arma | Preço | Dano | Crítico | Alcance | Tipo | Espaços |
+|------|-------|------|---------|---------|---------|---------||
 | Tai-tai | T$ 60 | 2d4 | x2 | Médio | Impacto | 2 |
-| **Ataque à Distância — Duas Mãos** |
+
+#### Ataque à Distância — Duas Mãos
+
+| Arma | Preço | Dano | Crítico | Alcance | Tipo | Espaços |
+|------|-------|------|---------|---------|---------|---------||
 | Arco montado | T$ 45 | 1d6 | x3 | Médio | Perfuração | 2 |
 | Flechas (20) | T$ 1 | — | — | — | — | 1 |
 | Besta dupla | T$ 125 | 1d8 | 19 | Médio | Perfuração | 2 |
@@ -121,11 +143,16 @@ navigation:
 
 ### Armas Exóticas
 
+#### Corpo a Corpo — Leves
+
 | Arma | Preço | Dano | Crítico | Alcance | Tipo | Espaços |
-|------|-------|------|---------|---------|------|---------|
-| **Corpo a Corpo — Leves** |
+|------|-------|------|---------|---------|------|---------||
 | Kimbata | T$ 12 | 1d4 | 18 | — | Corte | 1 |
-| **Corpo a Corpo — Uma Mão** |
+
+#### Corpo a Corpo — Uma Mão
+
+| Arma | Preço | Dano | Crítico | Alcance | Tipo | Espaços |
+|------|-------|------|---------|---------|------|---------||
 | Clava-grão | T$ 90 | 1d6 | x2 | — | Impacto | 1 |
 | Espada canora | T$ 50 | 1d6 | 19 | — | Perfuração | 1 |
 | Espada-gadanho | T$ 40 | 1d6 | 18 | — | Corte | 1 |
@@ -133,13 +160,25 @@ navigation:
 | Lança de falange | T$ 15 | 1d8 | x3 | Curto | Perfuração | 1 |
 | Machado de haste | T$ 40 | 1d8/1d10 | x3 | — | Corte | 1 |
 | Rapieira | T$ 50 | 1d8 | 18 | — | Perfuração | 1 |
-| **Corpo a Corpo — Duas Mãos** |
+
+#### Corpo a Corpo — Duas Mãos
+
+| Arma | Preço | Dano | Crítico | Alcance | Tipo | Espaços |
+|------|-------|------|---------|---------|------|---------||
 | Marrão | T$ 50 | 4d4 | x2 | — | Impacto | 2 |
 | Montante cinético | T$ 3.000 | 2d6 | 19/x4 | — | Corte | 2 |
-| **Ataque à Distância — Uma Mão** |
+
+#### Ataque à Distância — Uma Mão
+
+| Arma | Preço | Dano | Crítico | Alcance | Tipo | Espaços |
+|------|-------|------|---------|---------|------|---------||
 | Boleadeira | T$ 12 | 1d4 | x2 | Curto | Impacto | 1 |
 | Chakram | T$ 15 | 1d6 | x3 | Curto | Corte | 1 |
-| **Ataque à Distância — Duas Mãos** |
+
+#### Ataque à Distância — Duas Mãos
+
+| Arma | Preço | Dano | Crítico | Alcance | Tipo | Espaços |
+|------|-------|------|---------|---------|------|---------||
 | Arco de guerra | T$ 200 | 1d12 | x3 | Médio | Perfuração | 2 |
 | Flechas (20) | T$ 1 | — | — | — | — | 1 |
 | Balestra | T$ 180 | 1d12 | 19 | Médio | Perfuração | 2 |
@@ -149,12 +188,17 @@ navigation:
 
 ### Armas de Fogo
 
+#### Ataque à Distância — Leve
+
 | Arma | Preço | Dano | Crítico | Alcance | Tipo | Espaços |
-|------|-------|------|---------|---------|------|---------|
-| **Ataque à Distância — Leve** |
+|------|-------|------|---------|---------|------|---------||
 | Garrucha | T$ 250 | 2d4 | 19/x3 | Curto | Perfuração | 1 |
 | Balas (20) | T$ 20 | — | — | — | — | 1 |
-| **Ataque à Distância — Duas Mãos** |
+
+#### Ataque à Distância — Duas Mãos
+
+| Arma | Preço | Dano | Crítico | Alcance | Tipo | Espaços |
+|------|-------|------|---------|---------|------|---------||
 | Canhão portátil | T$ 3.000 | 4d10 | 19/x3 | Curto | Impacto | 2 |
 | Bola de ferro (1) | T$ 5 | — | — | — | — | 0,5 |
 | Sifão cáustico | T$ 600 | 4d6 | x2 | Especial | Ácido | 2 |

@@ -22,68 +22,116 @@ Uma arma híbrida possui dois ou mais modos de uso. Quando usa a arma, você con
 
 ### Armas Simples
 
+#### Corpo a corpo — Leve
+
 | Arma | Preço | Dano | Crítico | Alcance | Tipo | Espaços |
 |------|-------|------|---------|---------|------|---------|
-| **Corpo a corpo — Leve** |
 | Porrete | T$ 2 | 1d6 | x2 | – | Impacto | 1 |
-| **Corpo a corpo — Uma Mão** |
+
+#### Corpo a corpo — Uma Mão
+
+| Arma | Preço | Dano | Crítico | Alcance | Tipo | Espaços |
+|------|-------|------|---------|---------|------|---------|
 | Machado de lenha | T$ 15 | 1d6 | x3 | – | Corte | 1 |
-| **Ataque à Distância — Uma Mão** |
+
+#### Ataque à Distância — Uma Mão
+
+| Arma | Preço | Dano | Crítico | Alcance | Tipo | Espaços |
+|------|-------|------|---------|---------|------|---------|
 | Zarabatana | T$ 5 | 1d3 | x2 | Curto | Perfuração | 1 |
 
 ### Armas Marciais
 
+#### Corpo a corpo — Leve
+
 | Arma | Preço | Dano | Crítico | Alcance | Tipo | Espaços |
 |------|-------|------|---------|---------|------|---------|
-| **Corpo a corpo — Leve** |
 | Neko-te | T$ 10 | 1d4 | 19 | – | Corte | 1 |
-| **Corpo a corpo — Uma Mão** |
+
+#### Corpo a corpo — Uma Mão
+
+| Arma | Preço | Dano | Crítico | Alcance | Tipo | Espaços |
+|------|-------|------|---------|---------|------|---------|
 | Gládio | T$ 12 | 1d6 | 19/x3 | – | Perfuração | 1 |
 | Lâmina de Espinhos | T$ 6.000 | 1d8 | 19 | – | Corte | 1 |
-| **Corpo a corpo — Duas Mãos** |
+
+#### Corpo a corpo — Duas Mãos
+
+| Arma | Preço | Dano | Crítico | Alcance | Tipo | Espaços |
+|------|-------|------|---------|---------|------|---------|
 | Tetsubo | T$ 20 | 2d6 | 19/x3 | – | Impacto | 2 |
 
 ### Armas Exóticas
 
+#### Corpo a corpo — Leve
+
 | Arma | Preço | Dano | Crítico | Alcance | Tipo | Espaços |
 |------|-------|------|---------|---------|------|---------|
-| **Corpo a corpo — Leve** |
 | Wakizashi | T$ 75 | 1d6 | 19 | – | Corte | 1 |
-| **Corpo a corpo — Uma Mão** |
+
+#### Corpo a corpo — Uma Mão
+
+| Arma | Preço | Dano | Crítico | Alcance | Tipo | Espaços |
+|------|-------|------|---------|---------|------|---------|
 | Açoite Finntroll | T$ 30 | 1d8 | x2 | – | Corte | 1 |
 | Atigili | T$ 150 | 1d8 | 19 | – | Corte | 2 |
 | At'mokhet | T$ 180 | 1d8 | 19/x3 | – | Corte | 2 |
 | Cajado de Batalha | T$ 10 | 1d8/1d8 | x2 | – | Impacto | 2 |
 | Espada Vespa | T$ 75 | 2d4 | 18 | – | Corte ou Perfuração | 1 |
 | Mordida do diabo | T$ 30 | 1d4 | x2 | – | Perfuração | 1 |
-| Pistola Punhal | T$ 300 | ** | ** | ** | Perfuração | 1 |
+| Pistola Punhal | T$ 300 | — | — | — | Perfuração | 1 |
 | Presa da serpente | T$ 1.000 | 1d8 | 17 | – | Corte | 1 |
-| **Corpo a corpo — Duas Mãos** |
+
+#### Corpo a corpo — Duas Mãos
+
+| Arma | Preço | Dano | Crítico | Alcance | Tipo | Espaços |
+|------|-------|------|---------|---------|------|---------|
 | Lança de fogo | T$ 25 | 1d12 | x3 | – | Impacto | 1 |
-| **Ataque à Distância — Leve** |
+
+#### Ataque à Distância — Leve
+
+| Arma | Preço | Dano | Crítico | Alcance | Tipo | Espaços |
+|------|-------|------|---------|---------|------|---------|
 | Shuriken | T$ 1 | 1d4 | x2 | – | Perfuração | 0,5 |
-| **Ataque à Distância — Uma Mão** |
+
+#### Ataque à Distância — Uma Mão
+
+| Arma | Preço | Dano | Crítico | Alcance | Tipo | Espaços |
+|------|-------|------|---------|---------|------|---------|
 | Arpão | T$ 30 | 1d10 | x3 | – | Perfuração | 1 |
-| **Ataque à Distância — Duas Mãos** |
+
+#### Ataque à Distância — Duas Mãos
+
+| Arma | Preço | Dano | Crítico | Alcance | Tipo | Espaços |
+|------|-------|------|---------|---------|------|---------|
 | Balestra | T$ 150 | 1d12 | 19 | – | Perfuração | 2 |
 
 ### Armas de Fogo
 
 *Todas as armas de fogo usam balas (veja Tormenta20, p. 151) como munição.*
 
+#### Ataque à Distância — Leve
+
 | Arma | Preço | Dano | Crítico | Alcance | Tipo | Espaços |
 |------|-------|------|---------|---------|------|---------|
-| **Ataque à Distância — Leve** |
 | Traque | T$ 75 | 2d6 | 19/x3 | – | Perfuração | 1 |
 | Maça de guerra | T$ 25 | 1d12 | x3 | – | Perfuração | 1 |
-| **Ataque à Distância — Uma Mão** |
+
+#### Ataque à Distância — Uma Mão
+
+| Arma | Preço | Dano | Crítico | Alcance | Tipo | Espaços |
+|------|-------|------|---------|---------|------|---------|
 | Pistola-Tambor | T$ 2.100 | 2d6 | 19/x3 | – | Perfuração | 1 |
-| **Ataque à Distância — Duas Mãos** |
+
+#### Ataque à Distância — Duas Mãos
+
+| Arma | Preço | Dano | Crítico | Alcance | Tipo | Espaços |
+|------|-------|------|---------|---------|------|---------|
 | Arcabuz | T$ 800 | 2d10 | 19/x3 | Médio | Perfuração | 2 |
 | Bacamarte | T$ 450 | 4d6 | 19/x3 | Especial | Perfuração | 2 |
 | Bazuca | T$ 1.000 | Especial | x4 | Médio | Perfuração | 2 |
 
-**Observação:** Veja a descrição da arma para detalhes marcados com **.
+**Observação:** Veja a descrição da arma para detalhes marcados com especial ou características únicas.
 
 ## Descrições das Armas
 

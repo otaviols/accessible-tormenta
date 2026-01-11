@@ -171,13 +171,28 @@ navigation:
 ## 🚀 Como Contribuir
 
 1. Siga os padrões documentados em [EXTRACTION_GUIDE.md](EXTRACTION_GUIDE.md)
-2. Use os scripts em `scripts/` para automação
-3. Valide frontmatter e links antes de commit
-4. Mantenha estrutura: `livros/nome-do-livro/NN-capitulo/`
-5. Imagens em `livros/_imagens/nome-do-livro/`
+2. Siga os padrões de acessibilidade em [ACCESSIBILITY_GUIDE.md](ACCESSIBILITY_GUIDE.md)
+3. Use os scripts em `scripts/` para automação e validação
+4. Valide frontmatter, links e acessibilidade antes de commit
+5. Mantenha estrutura: `livros/nome-do-livro/NN-capitulo/`
+6. Imagens em `livros/_imagens/nome-do-livro/`
+
+### Ferramentas de Validação
+
+```bash
+# Validar acessibilidade de todos os livros
+python scripts/validate_accessibility.py --summary
+
+# Validar um livro específico
+python scripts/validate_accessibility.py --book dragao-brasil
+
+# Validar links
+python scripts/validate_links.py
+```
 
 ## 📖 Documentação
 
+- [ACCESSIBILITY_GUIDE.md](ACCESSIBILITY_GUIDE.md) - Guia de padrões de acessibilidade para markdown
 - [EXTRACTION_GUIDE.md](EXTRACTION_GUIDE.md) - Guia completo de extração e conversão (28KB)
 - [CHECKLIST.md](CHECKLIST.md) - Checklist de tarefas
 - [extraction_config.json](extraction_config.json) - Configuração de extração
