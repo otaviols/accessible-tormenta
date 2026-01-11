@@ -12,8 +12,8 @@
 Converter livros oficiais mantendo **100% de fidelidade ao texto original**, com navegação estruturada e descrições completas de imagens.
 
 ### Status Atual
-- ✅ **2 livros** migrados para estrutura multi-livro
-- ✅ **269 arquivos** Markdown (~3.7MB, ~632 páginas)
+- ✅ **4 livros** migrados para estrutura multi-livro
+- ✅ **1,006 arquivos** Markdown (~6.8MB, ~1,248 páginas)
 - ✅ **100% dos arquivos** com frontmatter YAML padronizado
 - ✅ **7 scripts** de automação criados
 - ✅ **0 erros** na validação final
@@ -23,10 +23,13 @@ Converter livros oficiais mantendo **100% de fidelidade ao texto original**, com
    - 135 arquivos: 17 raças, 14 classes, 186 magias, 79 criaturas
 2. **Heróis de Arton** (`livros/herois-arton/`) - 100% completo
    - 134 arquivos: 5 raças, classe Treinador, 36 distinções, 30 origens
+3. **Dragão Brasil - Compilado** (`livros/dragao-brasil/`) - 100% completo
+   - 75 arquivos: 38 raças, 15 classes, 18 distinções, 100+ itens
+4. **Ameaças de Arton** (`livros/ameacas-arton/`) - 100% completo
+   - 662 arquivos: 413 criaturas, 35 categorias, regras avançadas, bazar monstruoso
 
 ### Livros Planejados
 - Panteão
-- Ameaças de Arton
 - Reinos de Arton
 
 ---

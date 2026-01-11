@@ -21,14 +21,19 @@ Este projeto contém a conversão para Markdown dos livros do sistema Tormenta 2
 **Conteúdo:** ~75 arquivos, ~50,000 linhas, 180 páginas  
 **Capítulos:** Raças (38 raças novas + variantes), Classes (15 classes com poderes), Origens (condicionais + regionais), Perícias e Poderes, Distinções (18 distinções), Equipamentos (100+ itens, runas, artefatos), Magias (20+ novas magias), Regras Opcionais (idiomas, idade, desvantagens)
 
+### [Ameaças de Arton](livros/ameacas-arton/README.md)
+**Status:** 100% completo  
+**Conteúdo:** 662 arquivos, ~2.6MB, 436 páginas  
+**Capítulos:** Introdução, Ameaças (413 criaturas em 35 categorias temáticas), Regras Avançadas (criação de ameaças customizadas), Bazar Monstruoso (armas, itens mágicos, recursos diversos), Apêndices (índices alfabético/ND, gerador de encontros aleatórios)
+
 ## 📊 Estatísticas Gerais
 
 | Métrica | Valor |
 |---------|-------|
-| **Livros** | 3 |
-| **Arquivos Markdown** | ~344 |
-| **Tamanho Total** | ~4.2MB |
-| **Páginas Totais** | ~812 |
+| **Livros** | 4 |
+| **Arquivos Markdown** | ~1,006 |
+| **Tamanho Total** | ~6.8MB |
+| **Páginas Totais** | ~1,248 |
 | **Imagens** | 35+ PNG com alt-text |
 | **Scripts** | 7 ferramentas de automação |
 
@@ -159,8 +164,8 @@ navigation:
 1. ✅ **Tormenta 20 - Livro Básico** (75% completo)
 2. ✅ **Heróis de Arton** (100% completo)
 3. ✅ **Dragão Brasil - Compilado** (100% completo)
-4. ⏳ **Panteão** (planejado)
-5. ⏳ **Ameaças de Arton** (planejado)
+4. ✅ **Ameaças de Arton** (100% completo)
+5. ⏳ **Panteão** (planejado)
 6. ⏳ **Reinos de Arton** (planejado)
 
 ## 🚀 Como Contribuir
@@ -184,7 +189,7 @@ Este projeto é uma conversão educacional do sistema Tormenta 20. Todos os dire
 
 ---
 
-**Última atualização:** Janeiro 2026 - Dragão Brasil completado  
-**Arquivos processados:** ~344 markdown files (100% com frontmatter YAML)  
-**Livros completos:** 2 de 3 (Heróis de Arton, Dragão Brasil)  
-**Livros em andamento:** 1 de 3 (Tormenta20 Core - 75%)
+**Última atualização:** Janeiro 2026 - Ameaças de Arton adicionado  
+**Arquivos processados:** ~1,006 markdown files (100% com frontmatter YAML)  
+**Livros completos:** 3 de 4 (Heróis de Arton, Dragão Brasil, Ameaças de Arton)  
+**Livros em andamento:** 1 de 4 (Tormenta20 Core - 75%)
