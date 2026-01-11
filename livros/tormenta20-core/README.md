@@ -113,11 +113,15 @@ Construção de combates, bestiário completo (79 criaturas) e perigos.
 - [Recompensas](08-combate/04-recompensas.md)
 
 ### [09 - Magia](09-magia/README.md)
-Sistema completo de magia com 186 magias (círculos 0-5) arcanas e divinas.
+Sistema completo de magia com 175 magias únicas (círculos 1-5) arcanas e divinas.
 
 - [Listas de Magias](09-magia/01-listas-magias.md)
 - [Conceitos e Regras](09-magia/02-conceitos-regras.md)
-- Magias por círculo (1º a 5º) organizadas alfabeticamente
+- [1º Círculo (79 magias)](09-magia/03-descricao-magias-1-circulo.md)
+- [2º Círculo (31 magias)](09-magia/04-descricao-magias-2-circulo.md)
+- [3º Círculo (26 magias)](09-magia/06-descricao-magias-3-circulo.md)
+- [4º Círculo (22 magias)](09-magia/08-descricao-magias-4-circulo.md)
+- [5º Círculo (17 magias)](09-magia/10-descricao-magias-5-circulo.md)
 
 ### [10 - Para o Mestre](10-mestre/README.md)
 Orientações completas para conduzir aventuras e campanhas.

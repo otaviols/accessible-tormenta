@@ -1,0 +1,419 @@
+ÍNDICE DO PDF TORMENTA 20
+==================================================
+
+- Capa
+- Créditos
+- Sumário
+- Prefácio: Sonho Monstruoso
+- Introdução: Mundo Ameaçador
+  - O Que É uma "Ameaça"?
+  - Construindo Desafios
+- Capítulo 1: Ameaças
+  - Fichas de Criaturas
+  - Tipos de Criaturas
+  - Habilidades Gerais
+  - Áreas de Tormenta
+    - Alma Acorrentada
+    - Armadilhas Vivas
+    - Bruxo da Tormenta
+    - Enxame Infernal
+    - Esmagador Coletivo
+    - Infecto
+    - Lefeu
+      - Veridak
+      - Hurobakk
+      - Burodron
+      - Morgadrel
+      - Ezzayn
+    - Gatzvalith, Lorde da Tormenta
+  - Brutos & Indomáveis
+    - Meio-Orc
+    - Orc
+    - Orc Mutante
+    - Orc Xamã
+    - Sapo Atroz
+    - Tabrachi
+    - Trog
+    - Trog Anão
+    - Ogro
+  - Capangas & Bandoleiros
+    - Bandido
+    - Capanga
+    - Chefe do Crime
+    - Clérigo de Hyninn
+    - Devoto de Hyninn
+    - Gatuno
+    - Duplo
+  - Culto de Aharadak
+    - Acólito da Agonia
+    - Aspecto de Aharadak
+    - Fanático Lefou
+    - Reishid
+    - Senhor do Gigante Rubro
+    - Zyrrinaz
+    - Templos
+de Aharadak
+      - Dádivas de Aharadak
+    - Avatar de Aharadak
+  - Dragões
+    - Dragão Menor
+    - Dragão Adulto
+    - Dragão Venerável
+    - Dragão Feral
+    - Dragão Bicéfalo
+    - Dragão-Real
+    - Modificando Dragões
+    - Sckhar, Dragão-Rei do Fogo
+  - Duyshidakk
+    - Bugbear
+    - Bruxa Goblin
+    - Gangue Goblin￼
+    - Goblin-Bomba
+    - Goblin de Ferro
+    - Hobgoblin Atirador
+    - Hobgoblin Comandante Tático
+    - Hobgoblin Gladiador
+    - Sangue do Ayrrak
+  - Elementais
+    - Elemental da Água
+      - Aquin’ne
+      - Corgann
+      - Namasqall
+    - Elemental do Ar
+      - T’Peel
+      - Rarvnaak
+      - Hallus’tir
+    - Elemental do Fogo
+      - Pakk
+      - Ber-baram
+      - Serpentaar
+    - Elemental da Terra
+      - Terrier
+      - Pamgra
+      - Tanaloom
+    - Elemental Corrompido
+  - Ermos
+    - Bulette
+    - Carrasco de Lena
+    - Centauro
+      - Centauro Chefe
+      - Centauro Xamã de Megalokk
+    - Ente
+    - Estirge
+    - Fera-Cacto
+    - Lagarto Perseguidor
+    - Tendrículo
+    - Rhandomm
+  - Gnolls
+    - Gnoll Caçador de Cabeças
+    - Gnoll Capanga
+    - Gnoll Líder de Alcateia
+    - Gnoll Xamã
+    - Hiena
+    - Matrona Gnoll
+    - Gnoll Vuul'rak
+  - Golens
+    - Gárgula
+    - Golem de Barro
+    - Golem de Bronze
+    - Golem de Carne
+    - Golem de Espelhos
+    - Golem de Ferro
+    - Golem de Matéria Vermelha
+    - Golem de Pedra
+    - Instrumento Divino
+    - Soldado Mecânico
+    - Golens Despertos
+  - Igreja de Arsenal
+    - Coletor de Arsenal
+    - Forjador Litúrgico
+    - Guerreiro Perpétuo
+    - Kishin
+    - Sacerdote de Guerra
+    - Kishinauros
+  - Igreja de Kallyadranoch
+    - Cavaleiro de Kallyadranoch
+    - Clérigo de Kally
+    - Corcel de Kally
+    - Dracomante
+    - Kallyanach
+    - Avatar de Kallyadranach
+  - Império de Jade
+    - Kabuto
+    - Kaijin
+    - Kappa
+    - Mashin
+    - Nezumi
+    - Oni
+    - Tengu
+    - Dragão Celestial
+  - Império de Tauron
+    - Arqueiro Escravo
+    - Centurião
+    - Fúria de Tauron
+    - Gladiador Táurico
+    - Legionário
+    - Legionário Insano
+    - Minauro
+    - Governador Corrupto
+  - Kobolds
+    - Armadilhas Kobolds
+    - Cão de Kally 
+    - Enxame Larval 
+    - Kobold 
+    - Kobold Bruto 
+    - Kobold Explosivo
+    - Kobold Xamã
+    - Kobold-Mãe
+    - Vagalhão Kobold
+  - Mascotes & Familiares
+    - Bogum
+    - Escudeiro
+    - Fofo
+    - Gambá
+    - Homúnculo
+    - Kill’Bone
+    - Tentacute
+    - Verilêmur & Malafex
+  - Masmorras
+    - Asa-Assassina
+    - Cocatriz
+    - Harpia
+    - Glop
+      - Glop
+      - Glooop
+      - Mamãe Glop
+    - Mantor
+    - Mímico
+    - Quimera
+    - Slark
+    - Tigre-de-Hyninn
+    - Brawar
+  - Montarias
+    - Baleote
+    - Capivara
+    - Cavalo
+      - Cavalo de Carga
+      - Cavalo de Montaria
+      - Cavalo de Guerra
+      - Cavalo de Namalkah
+    - Cavalo Glacial
+    - Corcel do Deserto
+    - Dromedário
+    - Elefante
+    - Gorlogg
+    - Grandes Felinos
+      - Leão
+      - Pantera
+      - Tigre
+    - Rinoceronte
+    - Tatu-Montanha
+    - Trobo
+    - Tumarkhân
+    - Urso
+      - Urso Panda
+      - Urso Pardo
+      - Urso das Cavernas
+    - Warg
+    - Unicórnio
+  - Mortos-Vivos
+    - Carniçal
+    - Esqueleto
+    - Fantasma
+    - Garra-Zumbi
+    - Lívido
+    - Mortalha
+    - Múmia
+    - Senhor das Múmias
+    - Necrodraco
+    - Tarso, Dragão-Rei dos Mortos
+  - Mundo Perdido
+    - Árvore-Matilha
+    - Burafonte
+    - Deinonico
+    - Espada-da-Floresta
+    - Galhada
+    - Gali-Gali
+    - Grande Battham
+    - Raagoran
+    - Tuntram
+    - Rei Tirano
+  - Piratas & Pistoleiros
+    - Afogado
+    - Armeiro de Tenebra
+    - Demônio da Pólvora
+    - Goblin de Sombreiro
+    - Homem-Piranha
+    - Pirata
+    - Pistoleiro de Smokestone
+    - Sahuagin
+    - Chapéu-Preto
+    - Lobo do Mar
+  - Povos-Trovão
+    - Ceratops
+    - Pteros
+    - Velocis
+    - Voracis
+    - Totens do Trovão
+  - Puristas
+    - Arcano de Guerra
+    - Caçador de Impuros
+    - Carruagem de Comando
+    - Dançarino de Guerra
+    - Purificado
+    - Soldado Blindado
+    - O Exército Purista
+      - Comandante
+    - Soldado Superior
+  - Reino dos Mortos
+    - Alzeras
+    - Cemitério Vivo
+    - Chacal-Zumbi
+    - Mercenário de Aslothia
+    - Morgue’raz
+    - Wisphago
+    - Lich
+    - Arquilich Ferren Asloth
+  - Reinos de Moreania
+    - Búfalo-de-Guerra
+    - Hippossauro
+    - Mantícora
+    - Otyugh
+    - Yidishan
+    - Moreau
+      - Habilidades de Raça
+  - Sanguinárias
+    - Cerianthar
+    - Grande Tachygloss
+    - Oxxdon
+    - Razza’Kham
+    - Serpe
+    - Uraghian
+    - Kaiju
+  - Sob as Ondas
+    - Canceronte
+    - Elfo-do-Mar
+    - Enguia Rainha
+    - Irukanjin
+    - Nereida
+    - Peixe-Recife
+    - Platan
+    - Selako
+    - Kraken
+    - Pliorex
+  - Sszzaazitas
+    - Adorador de Sszzaas
+    - Elemental do Veneno
+    - Górgona
+    - Nagah Arcanista
+    - Nagah Dormente
+    - Nagah Defensor
+    - Nagah Retalhador
+    - Nagah Sacerdotisa
+    - Rival Espelho
+    - Zumbi Peçonha
+    - Sszzaazita Celebrante & Nastarrath
+  - Trolls Nobres
+    - Arcanista Finntroll
+    - Defeituoso
+    - Mycotann
+    - Opressor Finntroll
+    - Perdigueiro Troll
+    - Protetor-Refém
+    - Cavaleiro Finntroll
+    - Sacerdote Finntroll
+  - Uivantes
+    - Carcaju
+    - Golem de Nor
+    - Mamute
+    - Minotauro da Manada
+    - Ogro Furioso
+    - Soterrado
+    - Stagh
+    - Urso das Neves
+    - Verme do Gelo
+  - Novos Perigos
+    - Ar Saturado
+    - Área Desencantada
+    - Areia Movediça
+    - Armadilhas
+    - Dejetos Alquímicos
+    - Doenças
+    - Eletricidade
+    - Fenômenos Rubros
+    - Lodo Negro
+    - Maldições
+    - Rio Congelado
+    - Perigos Complexos
+  - Chefe Final
+    - Criando um Chefe Final
+    - Rei da Arena
+      - Arenas
+- Capítulo 2: Regras Avançadas de Ameaças
+  - Regras Adicionais
+    - Criaturas e Ataques
+    - CD de Habilidades
+    - Ameaças e Morte
+    - Condições de Itens
+    - Parceiros de Ameaças
+    - Recompensas 
+por Vários Inimigos
+    - Criaturas S e S+
+    - Magias sem Custo
+    - Magias Simuladas
+  - Manual de Criação de Ameaças
+    - Como Modificar Criaturas
+    - Como Criar Bandos
+- Capítulo 3: Bazar Monstruoso
+  - Armas
+  - Armaduras e Escudos
+  - Itens Gerais
+  - Itens Superiores
+    - Novas Melhorias
+    - Materiais Especiais
+  - Recursos Naturais
+    - Tipos de Recursos
+  - Novos Itens Mágicos
+    - Chifre de Unicórnio
+    - Fragmento de Filactério
+    - Grilhão de Descrença
+    - Pilão Conspurcado
+    - Pistola Demoníaca
+    - Uyzrrak da'Ukthra
+  - Novos Artefatos
+    - Amuleto do Abutre
+    - Rompedor da Realidade
+  - Novas Magias
+    - Açoite Flamejante
+    - Dardo Gélido
+    - Invocar Fagulha Elemental
+    - Jato Corrosivo
+    - Katana Celestial
+    - Momento de Tormenta
+    - Transformação em Dragão
+- Lista de Apoiadores
+- Apêndice A: Raças e Parceiros
+- Apêndice B: Criaturas 
+por Ordem Alfabética
+- Apêndice C: Criaturas por ND
+- Apêndice D: Encontros Aleatórios
+  - Terreno: Aquático
+  - Terreno: Ártico
+  - Terreno: Área de Tormenta
+  - Terreno: Colina
+  - Terreno: Deserto
+  - Terreno: Floresta
+  - Terreno: Montanha
+  - Terreno: Pântano
+  - Terreno: Planície
+  - Terreno: Subterrâneo
+  - Terreno: Urbano
+  - Aslothia
+  - Estradas do Reinado
+  - Galrasia
+  - Império de Tauron
+  - Sanguinárias
+  - Supremacia Purista
+  - Ruínas de Tyrondir/Lamnor
+  - Encontros por Região
+- 4ª Capa

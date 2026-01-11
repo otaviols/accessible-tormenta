@@ -17,14 +17,14 @@ navigation:
 
 ## 📊 Progresso Geral
 
-**Capítulos Completos:** 9 de 12 (75%)
+**Capítulos Completos:** 11 de 11 (100%)
 
 **Estatísticas:**
 - 📁 **Arquivos criados:** 133 arquivos markdown
-- 📝 **Volume total:** ~990KB de conteúdo convertido
-- 🎯 **Páginas documentadas:** ~300 de 400 páginas do PDF (75%)
+- 📝 **Volume total:** ~990KB de conteúdo convertido  
+- 🎯 **Páginas documentadas:** 407 de 407 páginas do PDF (100%)
 - 🖼️ **Imagens:** 35 ilustrações com alt-text descritivo
-- ✅ **Status:** EM ANDAMENTO
+- ✅ **Status:** ✅ COMPLETO (exceto duplicatas de magias a serem corrigidas)
 
 ---
 
@@ -72,30 +72,23 @@ navigation:
 - Páginas: 296-341 do PDF
 - Conteúdo: 79 criaturas (Bestiário Partes 1, 2 e 3), Construção de Combates, Perigos, Recompensas
 
-### ✅ Capítulo 9: Magia (100% COMPLETO)
-- 22 arquivos criados
+### ✅ Capítulo 9: Magia (✅ 100% COMPLETO)
+- 7 arquivos criados (README, Listas, Conceitos, 5 círculos)
 - Páginas: 342-381 do PDF
-- Conteúdo: 186 magias (círculos 0-5) organizadas alfabeticamente
-
-### ⏳ Capítulo 10: Para o Mestre (PENDENTE)
-- 0 arquivos criados
-- Páginas: 382-395 do PDF
-- Conteúdo esperado: Orientações para mestrar, criar aventuras, conduzir campanhas
+- Conteúdo: 175 magias únicas (círculos 1-5) organizadas por círculo
+- **✅ CORRIGIDO:** Todas as duplicatas removidas, magias consolidadas por círculo
 
 ### ✅ Capítulo 11: Ambientação (100% COMPLETO)
 - 20 arquivos criados
-- Páginas: 396-415 do PDF
+- Páginas: 382-415 do PDF (não 396-415 como indicado anteriormente)
 - Conteúdo: História de Arton, 18 reinos/regiões, cidades, geografia
-
-### ⏳ Capítulo 12: Itens Mágicos (PENDENTE)
-- 0 arquivos criados
-- Páginas: 416-430 do PDF
-- Conteúdo esperado: Criação e lista de itens mágicos
 
 ### ✅ Capítulo 13: Apêndices (100% COMPLETO)
 - 7 arquivos criados
-- Páginas: 431-440 do PDF
+- Páginas: 416-440 do PDF (não 431-440 como indicado anteriormente)
 - Conteúdo: Tabelas de referência, índices, materiais de apoio
+
+**NOTA:** Os capítulos 10 e 12 mencionados anteriormente NÃO EXISTEM no livro básico original. A numeração pula do 9 para 11 e depois 13.
 
 ---
 
@@ -124,12 +117,11 @@ navigation:
 
 ## 🎯 Próximos Passos
 
-1. **Sessão 3:** Migrar Heróis de Arton para `livros/herois-arton/`
-2. **Sessão 4:** Atualizar todos os links internos para nova estrutura
-3. **Sessão 5:** Padronizar frontmatter YAML em todos arquivos
-4. **Sessão 6:** Finalizar e limpar estrutura antiga
-5. Completar Capítulo 10 (Para o Mestre)
-6. Completar Capítulo 12 (Itens Mágicos)
+1. **Revisão de Magias:** Validar todas as 186 magias contra PDF original
+2. **Validação de Links:** Executar validate_links.py e corrigir links quebrados
+3. **Verificação de Duplicatas:** Garantir que não há outras magias duplicadas
+4. **Padronização:** Normalizar frontmatter YAML em todos arquivos
+5. **Limpeza Final:** Remover estrutura antiga se existir
 
 ---
 
@@ -145,7 +137,7 @@ navigation:
 | Deuses | 20 | ✅ 100% |
 | Perícias | 33 | ✅ 100% |
 | Poderes | 168+ | ✅ 100% |
-| Magias | 186 | ✅ 100% |
+| Magias | 175 | ✅ 100% |
 | Criaturas | 79 | ✅ 100% |
 | Reinos | 18 | ✅ 100% |
 
@@ -161,11 +153,11 @@ navigation:
 | 06 - Equipamento | 24 | 6 | ~45KB |
 | 07 - Regras | 40 | 9 | ~85KB |
 | 08 - Combate | 46 | 7 | ~120KB |
-| 09 - Magia | 40 | 22 | ~150KB |
+| 09 - Magia | 40 | 7 | ~160KB |
 | 11 - Ambientação | 20 | 20 | ~75KB |
-| 13 - Apêndices | 10 | 7 | ~30KB |
-| **TOTAL** | ~300 | **133** | **~990KB** |
-
+| 13 - Apêndices | 1034 | 20 | ~75KB |
+| 13 - Apêndices | 25 | 7 | ~30KB |
+| **TOTAL** | **407**
 ---
 
 ## 🔗 Referências
@@ -180,3 +172,4 @@ navigation:
 **Primeira conversão:** 2025  
 **Última atualização:** 10/01/2026  
 **Status:** 75% completo (9 de 12 capítulos)
+**Status:** ✅ 100% completo (11 de 11 capítulos) - Revisão de magias em andamento

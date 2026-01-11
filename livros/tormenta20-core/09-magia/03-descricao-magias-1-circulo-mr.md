@@ -26,16 +26,6 @@ Você invade a mente do alvo e altera ou apaga suas memórias da última hora.
 
 **+5 PM:** você pode alterar ou apagar as memórias das últimas 24 horas.
 
-## Orientação
-
-Divina 1 (Adivinhação)
-
-**Execução:** padrão; **Alcance:** pessoal; **Alvo:** você; **Duração:** cena.
-
-Você sabe onde fica o norte e recebe +5 em testes de Sobrevivência para se orientar.
-
-**+2 PM:** aumenta o bônus em +5.
-
 ## Proteção contra o Bem
 
 Universal 1 (Abjuração)
@@ -144,18 +134,6 @@ Amaldiçoa o alvo com –2 em testes de ataque, rolagens de dano e testes de res
 
 **+2 PM:** aumenta as penalidades em –1 (bônus máximo limitado pelo círculo máximo de magia que você pode lançar).
 
-## Névoa
-
-Arcana 1 (Convocação)
-
-**Execução:** padrão; **Alcance:** curto; **Área:** emanação com 6m de raio; **Duração:** cena.
-
-Cria uma névoa espessa que fornece camuflagem total (criaturas têm 50% de chance de falha em ataques contra criaturas dentro da névoa). A névoa bloqueia a visão, mas não impede o movimento. Um vento moderado ou mais forte dispersa a névoa em 1 rodada. A névoa pode ser criada no ar.
-
-**+1 PM:** aumenta a área em +3m de raio.
-
-**+2 PM:** muda a duração para 1 dia. Requer 2º círculo.
-
 ## Orientação
 
 Divina 1 (Adivinhação)
@@ -177,52 +155,6 @@ Divina 1 (Encantamento)
 Amaldiçoa seus inimigos, que sofrem –1 em testes de ataque e rolagens de dano. Perdição anula Bênção.
 
 **+2 PM:** aumenta as penalidades em –1 (penalidade máxima limitada pelo círculo máximo de magia que você pode lançar).
-
-## Primor Atlético
-
-Arcana 1 (Transmutação)
-
-**Execução:** padrão; **Alcance:** pessoal; **Alvo:** você; **Duração:** cena.
-
-Você recebe +5 em testes de Atletismo.
-
-**+1 PM:** em vez do normal, você recebe +5 em testes de Acrobacia.
-
-**+2 PM:** aumenta o bônus em +5.
-
-## Névoa
-
-Universal 1 (Convocação)
-
-**Execução:** padrão; **Alcance:** curto; **Efeito:** nuvem com 6m de raio e 6m de altura; **Duração:** cena.
-
-Uma névoa espessa eleva-se de um ponto a sua escolha, obscurecendo toda a visão — criaturas a até 1,5m têm camuflagem leve e criaturas a partir de 3m têm camuflagem total. Um vento forte dispersa a névoa em 4 rodadas e um vendaval a dispersa em 1 rodada. Esta magia não funciona sob a água.
-
-**+1 PM:** a magia também funciona sob a água, criando uma nuvem de tinta.
-
-**+2 PM:** você pode escolher criaturas no alcance ao lançar a magia; elas enxergam através do efeito. Requer 2º círculo.
-
-**+2 PM:** a nuvem tem um cheiro horrível. No início de seus turnos, qualquer criatura dentro dela, ou qualquer criatura com faro em alcance curto da nuvem, deve fazer um teste de Fortitude. Se falhar, fica enjoada por uma rodada.
-
-**+2 PM:** a nuvem tem um tom esverdeado e se torna cáustica. No início de seus turnos, criaturas dentro dela sofrem 2d4 pontos de dano de ácido.
-
-**+3 PM:** aumenta o dano de ácido em +2d4.
-
-**+5 PM:** além do normal, a nuvem fica espessa, quase sólida. Qualquer criatura dentro dela tem seu deslocamento reduzido para 3m (independentemente de seu deslocamento normal) e sofre –2 em testes de ataque e rolagens de dano.
-
-## Orientação
-
-Divina 1 (Adivinhação)
-
-**Execução:** padrão; **Alcance:** curto; **Alvo:** 1 criatura; **Duração:** 1 rodada.
-
-Se o alvo fizer um teste de perícia, pode rolar dois dados e ficar com o melhor resultado.
-
-**+2 PM:** muda a duração para cena. Em vez do normal, escolha um atributo. Sempre que o alvo fizer um teste de perícia baseado no atributo escolhido, pode rolar dois dados e ficar com o melhor resultado. Não se aplica a testes de ataque ou resistência. Requer 2º círculo.
-
-**+5 PM:** como acima, mas, em vez de um atributo, escolha entre atributos físicos (Força, Destreza e Constituição) ou mentais (Inteligência, Sabedoria e Carisma). Requer 3º círculo.
-
-**+5 PM:** muda o alvo para criaturas escolhidas. Requer 3º círculo.
 
 ## Primor Atlético
 
