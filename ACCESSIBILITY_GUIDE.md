@@ -191,6 +191,64 @@ Listas curtas com descrições de uma linha podem usar formato de lista:
 
 ---
 
+## Listas de Propriedades vs. Tabelas
+
+Para equipamentos e itens com muitas propriedades (7+ colunas), use **listas de propriedades** ao invés de tabelas largas.
+
+### ✅ Formato Acessível (Lista de Propriedades)
+
+```markdown
+### Espada Longa
+**Preço:** T$ 15 | **Dano:** 1d8 | **Crítico:** 19 | **Alcance:** — | **Tipo:** Corte | **Espaços:** 1
+
+A arma preferida de cavaleiros e guerreiros. Uma espada longa causa 1d8 pontos de dano e tem crítico 19.
+
+### Armadura de Couro
+**Preço:** T$ 20 | **Defesa:** +2 | **Penalidade:** 0 | **Espaços:** 2
+
+Feita de couro endurecido, esta armadura leve é popular entre aventureiros ágeis.
+```
+
+**Por quê?** Cada item tem seu próprio cabeçalho H3, permitindo navegação direta. Propriedades em linha única são mais fáceis de ler em leitores de tela que 7+ colunas de tabela.
+
+### ❌ Formato Menos Acessível (Tabela Larga)
+
+```markdown
+| Arma | Preço | Dano | Crítico | Alcance | Tipo | Espaços |
+|------|-------|------|---------|---------|------|---------|
+| Espada longa | T$ 15 | 1d8 | 19 | — | Corte | 1 |
+| Machado | T$ 20 | 1d8 | x3 | — | Corte | 1 |
+```
+
+**Problema:** Em telas estreitas ou leitores de tela, tabelas com 7+ colunas são difíceis de navegar. Propriedades ficam separadas do nome do item.
+
+### Tabelas de Resumo (Opcionais)
+
+Você pode incluir uma tabela resumida ao final para referência rápida:
+
+```markdown
+## Armas (Descrições Completas)
+
+### Espada Longa
+**Preço:** T$ 15 | **Dano:** 1d8 | **Crítico:** 19 | **Alcance:** — | **Tipo:** Corte | **Espaços:** 1
+
+Descrição completa aqui...
+
+### Machado de Guerra
+**Preço:** T$ 20 | **Dano:** 1d8 | **Crítico:** x3 | **Alcance:** — | **Tipo:** Corte | **Espaços:** 1
+
+Descrição completa aqui...
+
+## Tabela de Referência Rápida
+
+| Arma | Preço |
+|------|-------|
+| Espada longa | T$ 15 |
+| Machado de guerra | T$ 20 |
+```
+
+---
+
 ## Exemplos Práticos
 
 ### Exemplo 1: Capítulo de Magia

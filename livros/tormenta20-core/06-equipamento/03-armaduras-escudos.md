@@ -70,84 +70,126 @@ Quantos espaços a armadura ou escudo ocupa, importante para a capacidade de car
 
 ---
 
-## Tabela Completa de Armaduras e Escudos
+## Armaduras Leves
 
-### Armaduras Leves
+### Armadura Acolchoada
+**Preço:** T$ 5 | **Defesa:** +1 | **Penalidade:** 0 | **Espaços:** 2
 
-| Armadura | Preço | Bônus na Defesa | Penalidade de Armadura | Espaços |
-|----------|-------|-----------------|------------------------|---------|
-| Armadura acolchoada | T$ 5 | +1 | 0 | 2 |
-| Armadura de couro | T$ 20 | +2 | 0 | 2 |
-| Couro batido | T$ 35 | +3 | –1 | 2 |
-| Gibão de peles | T$ 25 | +4 | –3 | 2 |
-| Couraça | T$ 500 | +5 | –4 | 2 |
-
-### Armaduras Pesadas
-
-| Armadura | Preço | Bônus na Defesa | Penalidade de Armadura | Espaços |
-|----------|-------|-----------------|------------------------|---------|
-| Brunea | T$ 50 | +5 | –2 | 5 |
-| Cota de malha | T$ 150 | +6 | –2 | 5 |
-| Loriga segmentada | T$ 250 | +7 | –3 | 5 |
-| Meia armadura | T$ 600 | +8 | –4 | 5 |
-| Armadura completa | T$ 3.000 | +10 | –5 | 5 |
-
-### Escudos
-
-| Escudo | Preço | Bônus na Defesa | Penalidade de Armadura | Espaços |
-|--------|-------|-----------------|------------------------|---------|
-| Escudo leve | T$ 5 | +1 | –1 | 1 |
-| Escudo pesado | T$ 15 | +2 | –2 | 2 |
+Uma túnica almofadada feita em linho ou lã. É a armadura mais leve, mas protege todo o corpo, fornecendo **+2 em Fortitude**.
 
 ---
 
-## Descrição das Armaduras
+### Armadura de Couro
+**Preço:** T$ 20 | **Defesa:** +2 | **Penalidade:** 0 | **Espaços:** 2
 
-### Armaduras Leves
-
-#### Armadura Acolchoada
-Uma túnica almofadada feita em linho ou lã. É a armadura mais leve, mas protege todo o corpo, fornecendo **+2 em Fortitude**.
-
-#### Armadura de Couro
 O peitoral desta armadura é feito de couro curtido em óleo fervente, para ficar mais rígido, enquanto as demais partes são feitas de couro flexível.
 
-#### Couro Batido
+---
+
+### Couro Batido
+**Preço:** T$ 35 | **Defesa:** +3 | **Penalidade:** –1 | **Espaços:** 2
+
 Versão mais pesada da armadura de couro, reforçada com rebites de metal.
 
-#### Gibão de Peles
+---
+
+### Gibão de Peles
+**Preço:** T$ 25 | **Defesa:** +4 | **Penalidade:** –3 | **Espaços:** 2
+
 Usada principalmente por bárbaros e selvagens, esta armadura é formada por várias camadas de peles e couro de animais.
 
-#### Couraça
+---
+
+### Couraça
+**Preço:** T$ 500 | **Defesa:** +5 | **Penalidade:** –4 | **Espaços:** 2
+
 A mais robusta das armaduras leves, formada por uma placa metálica que protege o peito e as costas, presa sobre um casaco de couro.
 
-### Armaduras Pesadas
+---
 
-#### Brunea
+## Armaduras Pesadas
+
+### Brunea
+**Preço:** T$ 50 | **Defesa:** +5 | **Penalidade:** –2 | **Espaços:** 5
+
 Colete de couro coberto com plaquetas de metal sobrepostas, como escamas de um peixe. Por ser barata de produzir, é a armadura mais utilizada no Reinado por soldados de infantaria e guardas de castelo.
 
-#### Cota de Malha
+---
+
+### Cota de Malha
+**Preço:** T$ 150 | **Defesa:** +6 | **Penalidade:** –2 | **Espaços:** 5
+
 Longa veste de anéis metálicos interligados, formando uma malha flexível e resistente, que vai até os joelhos.
 
-#### Loriga Segmentada
+---
+
+### Loriga Segmentada
+**Preço:** T$ 250 | **Defesa:** +7 | **Penalidade:** –3 | **Espaços:** 5
+
 Composta por tiras horizontais de metal, esta armadura pesada é muito utilizada por legionários do Império de Tauron.
 
-#### Meia Armadura
+---
+
+### Meia Armadura
+**Preço:** T$ 600 | **Defesa:** +8 | **Penalidade:** –4 | **Espaços:** 5
+
 Uma cota de malha reforçada com placas de metal.
 
-#### Armadura Completa
+---
+
+### Armadura Completa
+**Preço:** T$ 3.000 | **Defesa:** +10 | **Penalidade:** –5 | **Espaços:** 5
+
 A mais forte e pesada das armaduras, formada por placas de metal forjadas e encaixadas de modo a cobrir o corpo inteiro. Inclui uma túnica acolchoada para ser usada sob as placas. Correias e fivelas distribuem o peso da armadura pelo corpo inteiro.
 
 **Esta armadura precisa ser feita sob medida para cada usuário**; um ferreiro cobra **T$ 200 para adaptar** uma armadura completa a um novo usuário.
 
 ---
 
-## Descrição dos Escudos
+## Escudos
 
 ### Escudo Leve
+**Preço:** T$ 5 | **Defesa:** +1 | **Penalidade:** –1 | **Espaços:** 1
+
 Tipicamente feito de madeira, este escudo é amarrado no antebraço, deixando a mão livre. O usuário pode **carregar um objeto na mão do escudo**, mas **não manusear uma arma**.
 
+---
+
 ### Escudo Pesado
+**Preço:** T$ 15 | **Defesa:** +2 | **Penalidade:** –2 | **Espaços:** 2
+
 Normalmente feito de aço, este escudo é preso ao antebraço e também deve ser empunhado com firmeza, **impedindo o usuário de usar aquela mão**.
+
+---
+
+## Tabelas Resumo
+
+### Armaduras Leves
+
+| Armadura | Preço | Defesa |
+|----------|-------|--------|
+| Armadura acolchoada | T$ 5 | +1 |
+| Armadura de couro | T$ 20 | +2 |
+| Couro batido | T$ 35 | +3 |
+| Gibão de peles | T$ 25 | +4 |
+| Couraça | T$ 500 | +5 |
+
+### Armaduras Pesadas
+
+| Armadura | Preço | Defesa |
+|----------|-------|--------|
+| Brunea | T$ 50 | +5 |
+| Cota de malha | T$ 150 | +6 |
+| Loriga segmentada | T$ 250 | +7 |
+| Meia armadura | T$ 600 | +8 |
+| Armadura completa | T$ 3.000 | +10 |
+
+### Escudos
+
+| Escudo | Preço | Defesa |
+|--------|-------|--------|
+| Escudo leve | T$ 5 | +1 |
+| Escudo pesado | T$ 15 | +2 |
 
 ---
 

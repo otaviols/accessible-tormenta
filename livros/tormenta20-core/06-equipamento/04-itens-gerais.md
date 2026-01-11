@@ -36,50 +36,48 @@ Alguns itens precisam ser **empunhados** para serem usados; outros, precisam ser
 
 Utensílios úteis para exploradores de masmorras. A CD para fabricar qualquer desses itens é 15.
 
-### Tabela de Equipamento de Aventura
+### Água Benta
+**Preço:** T$ 10 | **Espaços:** 0,5
 
-| Item | Preço | Espaços | Descrição Resumida |
-|------|-------|---------|-------------------|
-| Água benta | T$ 10 | 0,5 | Causa 2d10 dano de luz em mortos-vivos/demônios/diabos |
-| Algemas | T$ 15 | 1 | Prendem criatura Média |
-| Arpéu | T$ 5 | 1 | Gancho para escalar |
-| Bandoleira de poções | T$ 20 | 1 | Saca poções/alquímicos como ação livre |
-| Barraca | T$ 10 | 1 | Conta como saco de dormir para 2 pessoas, +2 Sobrevivência |
-| Corda | T$ 1 | 1 | 10 metros, +5 Atletismo para escalar |
-| Espelho | T$ 10 | 1 | Observar cantos, sinais de luz |
-| Lampião | T$ 7 | 1 | Ilumina alcance médio por uma cena |
-| Mochila | T$ 2 | — | Bolsa básica (não ocupa espaço) |
-| Mochila de aventureiro | T$ 50 | — | +2 espaços de capacidade (não ocupa espaço) |
-| Óleo | T$ 0,1 | 0,5 | Combustível ou arma incendiária |
-| Organizador de pergaminhos | T$ 25 | 1 | Saca pergaminhos como ação livre |
-| Pé de cabra | T$ 2 | 1 | +5 Força para abrir portas/baús |
-| Saco de dormir | T$ 1 | 1 | Essencial para descanso adequado |
-| Símbolo sagrado | T$ 5 | 1 | Necessário para poderes concedidos |
-| Tocha | T$ 0,1 | 1 | Ilumina alcance curto por uma cena |
-| Vara de madeira (3m) | T$ 0,2 | 1 | Haste longa para alcançar pontos distantes |
-
-### Descrições Detalhadas
-
-#### Água Benta
 Produzida com a magia *Abençoar Alimentos*, esta água sagrada é um poderoso recurso na luta contra o mal. Para usar a água benta, você gasta uma **ação padrão** e escolhe um morto-vivo, demônio ou diabo em **alcance curto** (a água benta é inofensiva contra outras criaturas). O alvo sofre **2d10 pontos de dano de luz** (Reflexos CD Sab reduz à metade).
 
-#### Algemas
+---
+
+### Algemas
+**Preço:** T$ 15 | **Espaços:** 1
+
 Um par de algemas para criaturas Médias. Prender uma criatura que não esteja indefesa exige **empunhar a algema**, **agarrar o alvo** (veja "Manobras de Combate") e vencer um novo **teste de agarrar** contra ela. Você pode prender:
 - Os **dois pulsos** da pessoa (–5 em testes que exijam o uso das mãos, impede conjuração)
 - Um dos **pulsos dela em um objeto imóvel** adjacente, caso haja, para impedir que ela se mova
 
 **Escapar das algemas** exige uma ação completa e um teste de **Acrobacia contra CD 30** ou **Força (CD 25)** — ou ter as chaves...
 
-#### Arpéu
+---
+
+### Arpéu
+**Preço:** T$ 5 | **Espaços:** 1
+
 Um gancho de aço amarrado na ponta de uma corda para se fixar em muros, janelas, parapeitos de prédios... Prender um arpéu exige um teste de **Pontaria (CD 15)**. Subir um muro com a ajuda de uma corda fornece **+5 no teste de Atletismo**.
 
-#### Bandoleira de Poções
+---
+
+### Bandoleira de Poções
+**Preço:** T$ 20 | **Espaços:** 1
+
 Um cinto de couro com bolsos que comportam pequenos frascos. Se você estiver **vestindo** uma bandoleira, pode **sacar itens alquímicos e poções como uma ação livre**.
 
-#### Barraca
+---
+
+### Barraca
+**Preço:** T$ 10 | **Espaços:** 1
+
 Esta barraca de lona conta como um saco de dormir para **duas pessoas** e fornece **+2 em testes de Sobrevivência** para acampar.
 
-#### Corda
+---
+
+### Corda
+**Preço:** T$ 1 | **Espaços:** 1
+
 Um rolo com 10 metros de corda de cânhamo, o mesmo tipo usado em navios. Possui diversas utilidades:
 - Pode ajudar a descer um buraco ou muro (**+5 em testes de Atletismo** nessas situações)
 - Amarrar pessoas
@@ -88,38 +86,106 @@ Um rolo com 10 metros de corda de cânhamo, o mesmo tipo usado em navios. Possui
 
 **Arrebentar a corda** exige **2 pontos de dano de corte** ou uma ação padrão e um teste de **Força (CD 20)**.
 
-#### Espelho
+---
+
+### Espelho
+**Preço:** T$ 10 | **Espaços:** 1
+
 Além de garantir que você esteja apresentável, este pequeno espelho de metal polido possui diversas utilidades, como **observar cantos** e **fazer sinais de luz**.
 
-#### Lampião
+---
+
+### Lampião
+**Preço:** T$ 7 | **Espaços:** 1
+
 Um cilindro com uma alça e duas portinholas. Uma chama alimentada por óleo é acesa dentro do cilindro e uma das portinholas aberta deixa a luz sair. **Acender um lampião** é uma **ação padrão** e sua luz **ilumina um raio com alcance médio**. Um frasco de óleo (veja abaixo) dura **uma cena**.
 
-#### Mochila
+---
+
+### Mochila
+**Preço:** T$ 2 | **Espaços:** —
+
 Uma bolsa de lona com tiras para ser carregada nas costas.
 
-#### Mochila de Aventureiro
+---
+
+### Mochila de Aventureiro
+**Preço:** T$ 50 | **Espaços:** —
+
 Feita de couro resistente, esta mochila é repleta de bolsos para prender equipamento. **Vestir** uma mochila de aventureiro aumenta sua **capacidade de carga em 2 espaços** (ela própria não gasta um espaço).
 
-#### Óleo
+---
+
+### Óleo
+**Preço:** T$ 0,1 | **Espaços:** 0,5
+
 Um frasco com óleo inflamável para lampião. Você pode **atirar o frasco** em uma criatura em **alcance curto**. Se ela sofrer dano de fogo até o fim do seu próximo turno, sofre **1d6 pontos de dano adicional** e **fica em chamas**.
 
-#### Organizador de Pergaminhos
+---
+
+### Organizador de Pergaminhos
+**Preço:** T$ 25 | **Espaços:** 1
+
 Um estojo de madeira ou couro rígido. Se você estiver **vestindo** um organizador de pergaminhos, pode **sacar pergaminhos como uma ação livre**.
 
-#### Pé de Cabra
+---
+
+### Pé de Cabra
+**Preço:** T$ 2 | **Espaços:** 1
+
 Esta barra de ferro fornece **+5 em testes de Força** para abrir portas, janelas e baús fechados. Um pé de cabra pode ser usado como arma, com as estatísticas de uma clava.
 
-#### Saco de Dormir
+---
+
+### Saco de Dormir
+**Preço:** T$ 1 | **Espaços:** 1
+
 Um colchão com uma coberta fina o bastante para ser enrolada e amarrada, é especialmente útil para aventureiros, que nunca sabem onde vão passar a noite. Dormir ao relento sem um acampamento e um saco de dormir **diminui sua recuperação de PV e PM**.
 
-#### Símbolo Sagrado
+---
+
+### Símbolo Sagrado
+**Preço:** T$ 5 | **Espaços:** 1
+
 Um medalhão de madeira ou metal com o símbolo de uma divindade. Você precisa estar **vestindo** (normalmente com uma corrente ao redor do pescoço) ou **empunhando** um símbolo sagrado para usar qualquer **poder concedido**.
 
-#### Tocha
+---
+
+### Tocha
+**Preço:** T$ 0,1 | **Espaços:** 1
+
 Um bastão de madeira com algum combustível na ponta (geralmente trapos embebidos em parafina). **Acender uma tocha** é uma **ação padrão**. Ela ilumina um raio com **alcance curto** e dura **uma cena**. Pode ser usada como uma **arma simples leve** (dano 1d4 de impacto mais 1 de fogo, crítico x2).
 
-#### Vara de Madeira
+---
+
+### Vara de Madeira
+**Preço:** T$ 0,2 | **Espaços:** 1
+
 Uma haste com 3m de comprimento. Útil para alcançar pontos distantes, mas frágil demais para servir como arma.
+
+---
+
+### Tabela Resumo: Equipamento de Aventura
+
+| Item | Preço | Descrição Resumida |
+|------|-------|--------------------|
+| Água benta | T$ 10 | Causa 2d10 dano de luz em mortos-vivos/demônios/diabos |
+| Algemas | T$ 15 | Prendem criatura Média |
+| Arpéu | T$ 5 | Gancho para escalar |
+| Bandoleira de poções | T$ 20 | Saca poções/alquímicos como ação livre |
+| Barraca | T$ 10 | Conta como saco de dormir para 2 pessoas, +2 Sobrevivência |
+| Corda | T$ 1 | 10 metros, +5 Atletismo para escalar |
+| Espelho | T$ 10 | Observar cantos, sinais de luz |
+| Lampião | T$ 7 | Ilumina alcance médio por uma cena |
+| Mochila | T$ 2 | Bolsa básica (não ocupa espaço) |
+| Mochila de aventureiro | T$ 50 | +2 espaços de capacidade (não ocupa espaço) |
+| Óleo | T$ 0,1 | Combustível ou arma incendiária |
+| Organizador de pergaminhos | T$ 25 | Saca pergaminhos como ação livre |
+| Pé de cabra | T$ 2 | +5 Força para abrir portas/baús |
+| Saco de dormir | T$ 1 | Essencial para descanso adequado |
+| Símbolo sagrado | T$ 5 | Necessário para poderes concedidos |
+| Tocha | T$ 0,1 | Ilumina alcance curto por uma cena |
+| Vara de madeira (3m) | T$ 0,2 | Haste longa para alcançar pontos distantes |
 
 ---
 
@@ -127,22 +193,106 @@ Uma haste com 3m de comprimento. Útil para alcançar pontos distantes, mas frá
 
 Itens desta categoria afetam testes de perícia, eliminando penalidades ou fornecendo bônus. A CD para fabricar qualquer ferramenta é 20.
 
-### Tabela de Ferramentas
+### Alaúde Élfico
+**Preço:** T$ 300 | **Espaços:** 1
 
-| Item | Preço | Espaços | Benefício |
-|------|-------|---------|-----------|
-| Alaúde élfico | T$ 300 | 1 | Inspiração como ação de movimento |
-| Coleção de livros | T$ 75 | 1 | +1 em perícia de Conhecimento específica |
-| Equipamento de viagem | T$ 10 | 1 | Sem penalidade em Sobrevivência para acampar |
-| Estojo de disfarces | T$ 50 | 1 | Sem penalidade em Enganação para disfarce |
-| Flauta mística | T$ 150 | 1 | +1 CD de magias (bardos) |
-| Gazua | T$ 5 | 1 | Sem penalidade em Ladinagem para abrir fechaduras |
-| Instrumento de <ofício> | T$ 30 | 1 | Sem penalidade na perícia de Ofício |
-| Instrumento musical | T$ 35 | 1 | Item padrão para bardos |
-| Luneta | T$ 100 | 1 | +5 Percepção em alcance longo ou além |
-| Maleta de medicamentos | T$ 50 | 1 | Sem penalidade em Cura |
-| Sela | T$ 20 | 1 | Sem penalidade em Cavalgar |
-| Tambor das profundezas | T$ 80 | 1 | Dobra alcance de Inspiração e Músicas de Bardo |
+Feito com madeira de alta qualidade e manufatura delicada, este alaúde gera notas vívidas e emocionantes. Enquanto empunha este item, você pode usar a habilidade **Inspiração como uma ação de movimento**. Conta como um instrumento musical.
+
+---
+
+### Coleção de Livros
+**Preço:** T$ 75 | **Espaços:** 1
+
+Uma pequena coleção de tomos e tratados sobre um assunto. Fornece **+1 em Conhecimento, Guerra, Misticismo, Nobreza ou Religião** (definido quando o item é comprado ou fabricado).
+
+---
+
+### Equipamento de Viagem
+**Preço:** T$ 10 | **Espaços:** 1
+
+Um saco de lona com pederneira (pedra para fazer fogo), panelas e talheres para cozinhar, anzól e linha para pescar, uma pequena pá e outras ferramentas úteis para sobreviver nos ermos. Um personagem **sem este item sofre –5 em testes de Sobrevivência** para fazer um acampamento. Não inclui saco de dormir.
+
+---
+
+### Estojo de Disfarces
+**Preço:** T$ 50 | **Espaços:** 1
+
+Um conjunto de cosméticos, tintas para cabelo e algumas próteses simples (como bigodes e narizes falsos). Um personagem **sem este item sofre –5 em testes de Enganação para disfarce**.
+
+---
+
+### Flauta Mística
+**Preço:** T$ 150 | **Espaços:** 1
+
+Um instrumento delicado, repleto de runas e pequenas gemas místicas. Um bardo que empunhe este item aumenta a **CD para resistir às magias lançadas por ele em +1**. Conta como um instrumento musical.
+
+---
+
+### Gazua
+**Preço:** T$ 5 | **Espaços:** 1
+
+Uma barra fina de ferro, com a ponta torta ou em forma de gancho. Um personagem **sem este item sofre –5 em testes de Ladinagem para abrir fechaduras**.
+
+---
+
+### Instrumentos de <Ofício>
+**Preço:** T$ 30 | **Espaços:** 1
+
+Existe uma versão deste item para cada perícia de Ofício. Por exemplo, martelo, pregos e serrote para Ofício (carpinteiro), pergaminhos em branco, tinta e pena para Ofício (escriba) e assim por diante. Um personagem **sem os instrumentos de seu Ofício sofre –5 nessa perícia**.
+
+---
+
+### Instrumento Musical
+**Preço:** T$ 35 | **Espaços:** 1
+
+Um instrumento típico, como um bandolim, flauta ou lira. Veja o quadro acima para as regras deste item.
+
+---
+
+### Luneta
+**Preço:** T$ 100 | **Espaços:** 1
+
+Este instrumento valioso consiste de um cilindro metálico com duas lentes. Fornece **+5 em testes de Percepção** para observar coisas em **alcance longo ou além**.
+
+---
+
+### Maleta de Medicamentos
+**Preço:** T$ 50 | **Espaços:** 1
+
+Caixa de madeira com ervas, unguentos, bandagens e outros materiais úteis. Um personagem **sem este item sofre –5 em Cura**.
+
+---
+
+### Sela
+**Preço:** T$ 20 | **Espaços:** 1
+
+Uma peça de couro e pelego colocada sobre o lombo da montaria, sobre a qual o cavaleiro se senta. Inclui arreios para conduzir o animal. Um personagem montado em uma montaria **sem sela sofre –5 em testes de Cavalgar**. Usada no animal, a sela **não ocupa espaço de carga do personagem**.
+
+---
+
+### Tambor das Profundezas
+**Preço:** T$ 80 | **Espaços:** 1
+
+Um instrumento típico de anões de Doherimm, capaz de sons graves e retumbantes. Enquanto empunha este item, o **alcance da habilidade Inspiração e de qualquer Música de Bardo é dobrado**. Conta como um instrumento musical.
+
+---
+
+### Tabela Resumo: Ferramentas
+
+| Item | Preço | Benefício |
+|------|-------|-----------|
+| Alaúde élfico | T$ 300 | Inspiração como ação de movimento |
+| Coleção de livros | T$ 75 | +1 em perícia de Conhecimento específica |
+| Equipamento de viagem | T$ 10 | Sem penalidade em Sobrevivência para acampar |
+| Estojo de disfarces | T$ 50 | Sem penalidade em Enganação para disfarce |
+| Flauta mística | T$ 150 | +1 CD de magias (bardos) |
+| Gazua | T$ 5 | Sem penalidade em Ladinagem para abrir fechaduras |
+| Instrumento de <ofício> | T$ 30 | Sem penalidade na perícia de Ofício |
+| Instrumento musical | T$ 35 | Item padrão para bardos |
+| Luneta | T$ 100 | +5 Percepção em alcance longo ou além |
+| Maleta de medicamentos | T$ 50 | Sem penalidade em Cura |
+| Sela | T$ 20 | Sem penalidade em Cavalgar |
+| Tambor das profundezas | T$ 80 | Dobra alcance de Inspiração e Músicas de Bardo |
 
 ### Instrumentos Musicais - Regras Especiais
 
@@ -152,140 +302,184 @@ Alguns itens da categoria ferramentas são **instrumentos musicais**. Tais itens
 - Instrumentos musicais podem ser usados como **esotéricos por bardos** (permitindo que lance magias usando a mão que empunha o instrumento)
 - Instrumentos musicais podem receber **melhorias de ferramentas** (contam como itens ligados a Atuação) e de **esotéricos** (mas afetam apenas magias lançadas por bardos)
 
-### Descrições Detalhadas
-
-#### Alaúde Élfico
-Feito com madeira de alta qualidade e manufatura delicada, este alaúde gera notas vívidas e emocionantes. Enquanto empunha este item, você pode usar a habilidade **Inspiração como uma ação de movimento**. Conta como um instrumento musical.
-
-#### Coleção de Livros
-Uma pequena coleção de tomos e tratados sobre um assunto. Fornece **+1 em Conhecimento, Guerra, Misticismo, Nobreza ou Religião** (definido quando o item é comprado ou fabricado).
-
-#### Equipamento de Viagem
-Um saco de lona com pederneira (pedra para fazer fogo), panelas e talheres para cozinhar, anzól e linha para pescar, uma pequena pá e outras ferramentas úteis para sobreviver nos ermos. Um personagem **sem este item sofre –5 em testes de Sobrevivência** para fazer um acampamento. Não inclui saco de dormir.
-
-#### Estojo de Disfarces
-Um conjunto de cosméticos, tintas para cabelo e algumas próteses simples (como bigodes e narizes falsos). Um personagem **sem este item sofre –5 em testes de Enganação para disfarce**.
-
-#### Flauta Mística
-Um instrumento delicado, repleto de runas e pequenas gemas místicas. Um bardo que empunhe este item aumenta a **CD para resistir às magias lançadas por ele em +1**. Conta como um instrumento musical.
-
-#### Gazua
-Uma barra fina de ferro, com a ponta torta ou em forma de gancho. Um personagem **sem este item sofre –5 em testes de Ladinagem para abrir fechaduras**.
-
-#### Instrumentos de <Ofício>
-Existe uma versão deste item para cada perícia de Ofício. Por exemplo, martelo, pregos e serrote para Ofício (carpinteiro), pergaminhos em branco, tinta e pena para Ofício (escriba) e assim por diante. Um personagem **sem os instrumentos de seu Ofício sofre –5 nessa perícia**.
-
-#### Instrumento Musical
-Um instrumento típico, como um bandolim, flauta ou lira. Veja o quadro acima para as regras deste item.
-
-#### Luneta
-Este instrumento valioso consiste de um cilindro metálico com duas lentes. Fornece **+5 em testes de Percepção** para observar coisas em **alcance longo ou além**.
-
-#### Maleta de Medicamentos
-Caixa de madeira com ervas, unguentos, bandagens e outros materiais úteis. Um personagem **sem este item sofre –5 em Cura**.
-
-#### Sela
-Uma peça de couro e pelego colocada sobre o lombo da montaria, sobre a qual o cavaleiro se senta. Inclui arreios para conduzir o animal. Um personagem montado em uma montaria **sem sela sofre –5 em testes de Cavalgar**. Usada no animal, a sela **não ocupa espaço de carga do personagem**.
-
-#### Tambor das Profundezas
-Um instrumento típico de anões de Doherimm, capaz de sons graves e retumbantes. Enquanto empunha este item, o **alcance da habilidade Inspiração e de qualquer Música de Bardo é dobrado**. Conta como um instrumento musical.
-
 ---
 
 ## 3. Vestuário
 
 Todos os itens desta seção precisam ser **vestidos** para fornecerem seus benefícios. A CD para fabricar qualquer vestuário é 20.
 
-### Tabela de Vestuário
+### Andrajos
+**Preço:** T$ 1 | **Espaços:** —
 
-| Item | Preço | Espaços | Benefício |
-|------|-------|---------|-----------|
-| Andrajos | T$ 1 | — | –2 perícias Car contra quem importa com classe social |
-| Bandana | T$ 5 | 1 | +1 Intimidação |
-| Botas reforçadas | T$ 20 | 1 | +1,5m deslocamento em terreno difícil (após redução) |
-| Camisa bufante | T$ 25 | 1 | +1 Atuação |
-| Capa esvoaçante | T$ 25 | 1 | +1 Enganação |
-| Capa pesada | T$ 15 | 1 | +1 Fortitude |
-| Casaco longo | T$ 20 | 1 | +5 Fort vs. frio, penalidade –2 |
-| Chapéu arcano | T$ 50 | 1 | +1 PM (apenas Arcanistas) |
-| Enfeite de elmo | T$ 15 | 1 | Resistência a medo +2 |
-| Farrapos de ermitão | T$ 1 | 1 | –2 Diplomacia/Investigação, +2 Adestramento |
-| Gorro de ervas | T$ 75 | 1 | +1 Vontade |
-| Luva de pelica | T$ 5 | 1 | +1 Ladinagem |
-| Manopla | T$ 10 | 1 | Ataques desarmados causam dano letal |
-| Manto camuflado | T$ 12 | 1 | +2 Furtividade em terreno específico |
-| Manto eclesiástico | T$ 20 | 1 | +1 Religião |
-| Robe de mago | T$ 50 | 1 | +1 Misticismo |
-| Sapatos de camurça | T$ 8 | 1 | +1 Acrobacia |
-| Tabardo | T$ 10 | 1 | +1 Diplomacia |
-| Traje de viajante | T$ 10 | — | Roupa padrão de aventureiros |
-| Veste da corte | T$ 100 | 1 | Essencial em ambientes aristocráticos |
-| Veste de seda | T$ 25 | 1 | +1 Reflexos |
-
-### Descrições Detalhadas
-
-#### Andrajos
 Roupas típicas de um aldeão. Incluem camisa larga e calças soltas ou blusa e saia. Não inclui botas — os mais pobres andam descalços. Impõe **–2 em perícias baseadas em Carisma** contra pessoas que se importam com classe social.
 
-#### Bandana
+---
+
+### Bandana
+**Preço:** T$ 5 | **Espaços:** 1
+
 Um lenço tipicamente usado por bandidos e piratas. Fornece **+1 em Intimidação**.
 
-#### Botas Reforçadas
+---
+
+### Botas Reforçadas
+**Preço:** T$ 20 | **Espaços:** 1
+
 Grossas e resistentes, estas botas de cano alto protegem contra perigos do terreno. **Aumentam seu deslocamento em +1,5m** se ele for reduzido por terreno difícil (após a redução).
 
-#### Camisa Bufante
+---
+
+### Camisa Bufante
+**Preço:** T$ 25 | **Espaços:** 1
+
 Blusa colorida, com mangas e golas longas e encrespadas. Fornece **+1 em Atuação**.
 
-#### Capa Esvoaçante
+---
+
+### Capa Esvoaçante
+**Preço:** T$ 25 | **Espaços:** 1
+
 Favorita entre heróis ousados, esta capa de seda produz movimentos amplos e chamativos, que fornecem **+1 em Enganação**.
 
-#### Capa Pesada
+---
+
+### Capa Pesada
+**Preço:** T$ 15 | **Espaços:** 1
+
 Uma capa de couro grossa e resistente. Protege e aquece o corpo, fornecendo **+1 em Fortitude**.
 
-#### Casaco Longo
+---
+
+### Casaco Longo
+**Preço:** T$ 20 | **Espaços:** 1
+
 Feito de peles ou couro grosso forrado com lã, e impermeabilizado com óleo, este casaco é quente e pesado. Fornece **+5 em testes de Fortitude para resistir a efeitos de frio**, mas impõe **penalidade de armadura de –2**.
 
-#### Chapéu Arcano
+---
+
+### Chapéu Arcano
+**Preço:** T$ 50 | **Espaços:** 1
+
 Com pinturas e bordados de símbolos místicos, este chapéu pontudo ajuda a canalizar energias mágicas. Ele fornece **+1 ponto de mana**, mas apenas se você possuir a habilidade de classe **Caminho do Arcanista**.
 
-#### Enfeite de Elmo
+---
+
+### Enfeite de Elmo
+**Preço:** T$ 15 | **Espaços:** 1
+
 Um adorno chamativo, como crina de cavalo, plumas, asas ou um totem de animal. Fornece **resistência a medo +2**.
 
-#### Farrapos de Ermitão
+---
+
+### Farrapos de Ermitão
+**Preço:** T$ 1 | **Espaços:** 1
+
 Trapos "adornados" com plantas e raízes. Uma pessoa vestindo farrapos de ermitão não parece muito civilizada, e sofre **–2 em Diplomacia e em testes de Investigação para interrogar**. Entretanto, recebe **+2 em Adestramento**.
 
-#### Gorro de Ervas
+---
+
+### Gorro de Ervas
+**Preço:** T$ 75 | **Espaços:** 1
+
 Formado por duas camadas de tecido, este chapéu é preenchido com ervas preparadas para auxiliar a concentração do usuário. Fornece **+1 em Vontade**.
 
-#### Luva de Pelica
+---
+
+### Luva de Pelica
+**Preço:** T$ 5 | **Espaços:** 1
+
 Estas luvas delicadas preservam o tato e impedem que o suor deixe os dedos escorregadios. Fornecem **+1 em Ladinagem**.
 
-#### Manopla
+---
+
+### Manopla
+**Preço:** T$ 10 | **Espaços:** 1
+
 Luva metálica que permite socos mais perigosos — o dano de seus **ataques desarmados torna-se letal**. Uma manopla conta como uma arma para receber melhorias e encantos para usá-los **em seus ataques desarmados**.
 
-#### Manto Camuflado
+---
+
+### Manto Camuflado
+**Preço:** T$ 12 | **Espaços:** 1
+
 Um manto camuflado é feito para um **tipo de terreno específico** (veja a habilidade Explorador, na página 51). Por exemplo, um manto camuflado para floresta pode ser verde e marrom e coberto de folhas, enquanto um manto urbano pode ser cinza ou negro. Usar um manto camuflado **no terreno correto** fornece **+2 em Furtividade**.
 
-#### Manto Eclesiástico
+---
+
+### Manto Eclesiástico
+**Preço:** T$ 20 | **Espaços:** 1
+
 Um manto típico de igrejas e templos. Fornece **+1 em Religião**.
 
-#### Robe de Mago
+---
+
+### Robe de Mago
+**Preço:** T$ 50 | **Espaços:** 1
+
 Um manto longo, adornado com temas arcanos. Fornece **+1 em Misticismo**.
 
-#### Sapatos de Camurça
+---
+
+### Sapatos de Camurça
+**Preço:** T$ 8 | **Espaços:** 1
+
 Leves e resistentes, aprimoram o equilíbrio e a firmeza dos pés, fornecendo **+1 em Acrobacia**.
 
-#### Tabardo
+---
+
+### Tabardo
+**Preço:** T$ 10 | **Espaços:** 1
+
 Uma peça de tecido usada como um colete, cobrindo o peito e as costas. Geralmente ostenta a heráldica de um reino, igreja, casa nobre ou ordem de cavaleiros. Fornece **+1 em Diplomacia**.
 
-#### Traje de Viajante
+---
+
+### Traje de Viajante
+**Preço:** T$ 10 | **Espaços:** —
+
 Inclui botas, calças ou saias, cinto, camisa de linho e capa com capuz. A roupa padrão de aventureiros.
 
-#### Veste da Corte
+---
+
+### Veste da Corte
+**Preço:** T$ 100 | **Espaços:** 1
+
 Roupas de luxo, feitas sob medida e adequadas à nobreza e realeza. Inclui algumas joias, como aneis e colares. Em certos ambientes (um baile, um salão de palácio), um personagem que **não esteja vestindo este item sofre –5 em perícias baseadas em Carisma**.
 
-#### Veste de Seda
+---
+
+### Veste de Seda
+**Preço:** T$ 25 | **Espaços:** 1
+
 Esta roupa leve e elegante deixa seus movimentos os mais livres possíveis. Fornece **+1 em Reflexos**.
+
+---
+
+### Tabela Resumo: Vestuário
+
+| Item | Preço | Benefício |
+|------|-------|-----------|
+| Andrajos | T$ 1 | –2 perícias Car contra quem importa com classe social |
+| Bandana | T$ 5 | +1 Intimidação |
+| Botas reforçadas | T$ 20 | +1,5m deslocamento em terreno difícil (após redução) |
+| Camisa bufante | T$ 25 | +1 Atuação |
+| Capa esvoaçante | T$ 25 | +1 Enganação |
+| Capa pesada | T$ 15 | +1 Fortitude |
+| Casaco longo | T$ 20 | +5 Fort vs. frio, penalidade –2 |
+| Chapéu arcano | T$ 50 | +1 PM (apenas Arcanistas) |
+| Enfeite de elmo | T$ 15 | Resistência a medo +2 |
+| Farrapos de ermitão | T$ 1 | –2 Diplomacia/Investigação, +2 Adestramento |
+| Gorro de ervas | T$ 75 | +1 Vontade |
+| Luva de pelica | T$ 5 | +1 Ladinagem |
+| Manopla | T$ 10 | Ataques desarmados causam dano letal |
+| Manto camuflado | T$ 12 | +2 Furtividade em terreno específico |
+| Manto eclesiástico | T$ 20 | +1 Religião |
+| Robe de mago | T$ 50 | +1 Misticismo |
+| Sapatos de camurça | T$ 8 | +1 Acrobacia |
+| Tabardo | T$ 10 | +1 Diplomacia |
+| Traje de viajante | T$ 10 | Roupa padrão de aventureiros |
+| Veste da corte | T$ 100 | Essencial em ambientes aristocráticos |
+| Veste de seda | T$ 25 | +1 Reflexos |
 
 ---
 
@@ -293,30 +487,23 @@ Esta roupa leve e elegante deixa seus movimentos os mais livres possíveis. Forn
 
 Itens utilizados por conjuradores para lançar magias de forma mais eficiente. Para usar um esotérico, você precisa **empunhá-lo com a mão que usará para lançar a magia**. Uma magia só pode receber os benefícios de **um esotérico por vez**. A CD para fabricar qualquer esotérico é 20 e para fabricá-lo você deve ser **treinado em Misticismo**.
 
-### Tabela de Esotéricos
+### Bolsa de Pó
+**Preço:** T$ 300 | **Espaços:** 1
 
-| Item | Preço | Espaços | Benefício |
-|------|-------|---------|-----------|
-| Bolsa de pó | T$ 300 | 1 | +2 PM para gastar em aprimoramentos (encantamento/ilusão) |
-| Cajado arcano | T$ 1.000 | 2 | +1 limite PM e +1 CD (magias arcanas, duas mãos) |
-| Cetro elemental | T$ 750 | 1 | +1 dado de dano (tipo específico) |
-| Costela de lich | T$ 300 | 1 | +1d6 dano de trevas, não recupera PV por cura mágica |
-| Dedo de ente | T$ 200 | 1 | 1 em 1d4 de recuperar 1 PM ao lançar magia |
-| Luva de ferro | T$ 150 | 1 | +1 bônus Defesa/testes resistência (magias pessoais) |
-| Medalhão de prata | T$ 750 | 1 | –1 PM magias alcance pessoal |
-| Orbe cristalina | T$ 750 | 1 | +1 limite PM (magias arcanas) |
-| Tomo hermético | T$ 1.500 | 1 | +2 CD escola específica (magias arcanas) |
-| Varinha arcana | T$ 100 | 1 | +1 CD magias arcanas |
-
-### Descrições Detalhadas
-
-#### Bolsa de Pó
 Uma bolsa com pó multicolorido, fabricado a partir das pétalas trituradas de flores que nascem apenas na Pondsmânia. Quando lança uma **magia de encantamento ou ilusão**, você recebe **+2 PM para gastar em aprimoramentos**.
 
-#### Cajado Arcano
+---
+
+### Cajado Arcano
+**Preço:** T$ 1.000 | **Espaços:** 2
+
 Um cajado típico, feito de madeira de boa qualidade e entalhado com runas. O **limite de PM que você pode gastar em magias arcanas** e a **CD para resistir a elas** aumentam em **+1**. Para fornecer seus benefícios, um cajado precisa ser **empunhado com as duas mãos**. Ele pode ser usado como arma, com as estatísticas de um bordão.
 
-#### Cetro Elemental
+---
+
+### Cetro Elemental
+**Preço:** T$ 750 | **Espaços:** 1
+
 Este cetro de madeira ou metal possui uma pedra preciosa em sua ponta. De acordo com a pedra, ele será afinado a um tipo de dano:
 - **Esmeralda**: Ácido
 - **Topázio**: Eletricidade
@@ -325,26 +512,71 @@ Este cetro de madeira ou metal possui uma pedra preciosa em sua ponta. De acordo
 
 Quando lança uma magia que causa dano do tipo do cetro, o **dano da magia aumenta em um dado do mesmo tipo**.
 
-#### Costela de Lich
+---
+
+### Costela de Lich
+**Preço:** T$ 300 | **Espaços:** 1
+
 Esta varinha é feita a partir do osso de um morto-vivo. Suas magias causam **+1d6 pontos de dano de trevas**. Se estiver empunhando esta varinha você **não recupera PV por efeitos mágicos de cura**.
 
-#### Dedo de Ente
+---
+
+### Dedo de Ente
+**Preço:** T$ 200 | **Espaços:** 1
+
 Uma varinha feita a partir da madeira de uma árvore senciente. Sempre que lançar uma magia, role 1d4. Com um resultado 4, você **recupera 1 PM**.
 
-#### Luva de Ferro
+---
+
+### Luva de Ferro
+**Preço:** T$ 150 | **Espaços:** 1
+
 Um conjunto de dedais interligados por correntes. Suas **magias arcanas pessoais** que concedem bônus na Defesa ou em testes de resistências têm esse **bônus aumentado em +1**.
 
-#### Medalhão de Prata
+---
+
+### Medalhão de Prata
+**Preço:** T$ 750 | **Espaços:** 1
+
 Gravado com uma runa pessoal do conjurador, este medalhão de prata diminui em **–1 PM o custo de magias de alcance pessoal**.
 
-#### Orbe Cristalina
+---
+
+### Orbe Cristalina
+**Preço:** T$ 750 | **Espaços:** 1
+
 Esta esfera perfeita concentra seu poder mágico. O **limite de PM que você pode gastar em magias arcanas** aumenta em **+1**.
 
-#### Tomo Hermético
+---
+
+### Tomo Hermético
+**Preço:** T$ 1.500 | **Espaços:** 1
+
 Um livro de tratados que aumentam a sua compreensão sobre uma **escola de magia específica**. A **CD para resistir a suas magias arcanas dessa escola** aumenta em **+2**.
 
-#### Varinha Arcana
+---
+
+### Varinha Arcana
+**Preço:** T$ 100 | **Espaços:** 1
+
 Uma varinha típica, feita de madeira de boa qualidade e entalhada com runas. A **CD para resistir a suas magias arcanas** aumenta em **+1**.
+
+---
+
+### Tabela Resumo: Esotéricos
+
+| Item | Preço | Benefício |
+|------|-------|-----------|
+| Bolsa de pó | T$ 300 | +2 PM para aprimoramentos (encantamento/ilusão) |
+| Cajado arcano | T$ 1.000 | +1 limite PM e +1 CD (magias arcanas, duas mãos) |
+| Cetro elemental | T$ 750 | +1 dado de dano (tipo específico) |
+| Costela de lich | T$ 300 | +1d6 dano de trevas, não recupera PV por cura mágica |
+| Dedo de ente | T$ 200 | 1 em 1d4 de recuperar 1 PM ao lançar magia |
+| Luva de ferro | T$ 150 | +1 bônus Defesa/testes resistência (magias pessoais) |
+| Medalhão de prata | T$ 750 | –1 PM magias alcance pessoal |
+| Orbe cristalina | T$ 750 | +1 limite PM (magias arcanas) |
+| Tomo hermético | T$ 1.500 | +2 CD escola específica (magias arcanas) |
+| Varinha arcana | T$ 100 | +1 CD magias arcanas |
 
 ---
 
