@@ -7,9 +7,9 @@ Este projeto contém a conversão para Markdown dos livros do sistema Tormenta 2
 ## 📚 Livros Disponíveis
 
 ### [Tormenta 20 - Livro Básico](livros/tormenta20-core/README.md)
-**Status:** 75% completo (9 de 12 capítulos)  
-**Conteúdo:** 135 arquivos, ~990KB, ~300 páginas  
-**Capítulos:** Introdução, Criação de Personagens, Raças (17), Classes (14), Perícias e Poderes, Equipamento, Regras de Jogo, Combate, Magia (186 magias), Mestre, Ambientação, Apêndices
+**Status:** 100% completo (11 de 11 capítulos)  
+**Conteúdo:** 133 arquivos, ~990KB, 407 páginas  
+**Capítulos:** Introdução, Criação de Personagens, Raças (17), Classes (14), Perícias e Poderes, Equipamento, Regras de Jogo, Combate, Magia (175 magias), Mestre, Ambientação, Apêndices
 
 ### [Heróis de Arton](livros/herois-arton/README.md)
 **Status:** 100% completo  
@@ -161,7 +161,7 @@ navigation:
 
 ## 📚 Livros Planejados
 
-1. ✅ **Tormenta 20 - Livro Básico** (75% completo)
+1. ✅ **Tormenta 20 - Livro Básico** (100% completo)
 2. ✅ **Heróis de Arton** (100% completo)
 3. ✅ **Dragão Brasil - Compilado** (100% completo)
 4. ✅ **Ameaças de Arton** (100% completo)
@@ -189,7 +189,6 @@ Este projeto é uma conversão educacional do sistema Tormenta 20. Todos os dire
 
 ---
 
-**Última atualização:** Janeiro 2026 - Ameaças de Arton adicionado  
+**Última atualização:** Janeiro 2026 - Todos os 4 livros completos  
 **Arquivos processados:** ~1,006 markdown files (100% com frontmatter YAML)  
-**Livros completos:** 3 de 4 (Heróis de Arton, Dragão Brasil, Ameaças de Arton)  
-**Livros em andamento:** 1 de 4 (Tormenta20 Core - 75%)
+**Livros completos:** 4 de 4 (Tormenta20 Core, Heróis de Arton, Dragão Brasil, Ameaças de Arton)

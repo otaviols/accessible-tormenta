@@ -123,6 +123,8 @@ Sistema completo de magia com 175 magias únicas (círculos 1-5) arcanas e divin
 - [4º Círculo (22 magias)](09-magia/08-descricao-magias-4-circulo.md)
 - [5º Círculo (17 magias)](09-magia/10-descricao-magias-5-circulo.md)
 
+**Nota**: Este capítulo contém 175 magias detalhadas.
+
 ### [10 - Para o Mestre](10-mestre/README.md)
 Orientações completas para conduzir aventuras e campanhas.
 
@@ -153,10 +155,10 @@ Tabelas de referência, índices e materiais de apoio.
 Veja [PROGRESS.md](PROGRESS.md) para detalhes completos do progresso.
 
 **Resumo:**
-- 📄 Páginas: ~300 de 400 (75%)
+- 📄 Páginas: 407 de 407 (100%)
 - 📁 Arquivos: 133 arquivos markdown
 - 🖼️ Imagens: 35 ilustrações com alt-text
-- ✅ Status: 9 de 12 capítulos completos
+- ✅ Status: 11 de 11 capítulos completos (100%)
 
 ---
 

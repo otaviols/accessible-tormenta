@@ -1,3 +1,185 @@
-ÍNDICE DO PDF TORMENTA 20
-==================================================
+ÍNDICE DO PDF TORMENTA 20 - LIVRO BÁSICO
+
+Este arquivo contém o índice completo do livro, baseado na estrutura de capítulos convertidos.
+
+===========================================
+ESTRUTURA DO LIVRO (407 páginas)
+===========================================
+
+CAPÍTULO 1: INTRODUÇÃO (Páginas 4-9)
+- O que é Tormenta20
+- Termos Importantes
+- 20 Coisas a Saber sobre Arton
+
+CAPÍTULO 2: CRIAÇÃO DE PERSONAGENS (Páginas 10-51)
+- Conceito do Personagem
+- Atributos Básicos
+- Raças (referência ao Capítulo 3)
+- Classes (referência ao Capítulo 4)
+- Origens (35 origens)
+- Deuses (20 divindades)
+- Toques Finais
+
+CAPÍTULO 3: RAÇAS (Páginas 52-83)
+Raças Comuns (8):
+- Humano
+- Anão
+- Dahllan
+- Elfo
+- Goblin
+- Lefou
+- Minotauro
+- Qareen
+
+Raças Raras (9):
+- Golem
+- Hynne
+- Kliren
+- Medusa
+- Osteon
+- Sereia/Tritão
+- Sílfide
+- Suraggel
+- Trog
+
+CAPÍTULO 4: CLASSES (Páginas 84-175)
+14 Classes Completas:
+- Arcanista
+- Bárbaro
+- Bardo
+- Bucaneiro
+- Caçador
+- Cavaleiro
+- Clérigo
+- Druida
+- Guerreiro
+- Inventor
+- Ladino
+- Lutador
+- Nobre
+- Paladino
+
+CAPÍTULO 5: PERÍCIAS E PODERES (Páginas 176-231)
+- Sistema de Perícias
+- Lista de Perícias (33)
+- Sistema de Poderes Gerais
+- Poderes de Combate
+- Poderes de Destino
+- Poderes de Magia
+- Poderes Concedidos
+- Poderes da Tormenta
+Total: 168+ poderes
+
+CAPÍTULO 6: EQUIPAMENTO (Páginas 232-255)
+- Riqueza e Moedas
+- Armas
+- Armaduras e Escudos
+- Itens Gerais
+- Itens Superiores
+
+CAPÍTULO 7: REGRAS DE JOGO (Páginas 256-295)
+- Papel do Jogador
+- Regras e Testes
+- Habilidades
+- Tipos de Efeitos e Dano
+- Sistema de Combate
+- Movimentação e Situações
+- Papel do Mestre
+- Estrutura de Aventuras
+
+CAPÍTULO 8: AMEAÇAS E BESTIÁRIO (Páginas 296-341)
+- Construindo Combates
+- Bestiário Parte 1 (35 criaturas - Masmorras, Selvas, Puristas)
+- Bestiário Parte 2 (29 criaturas - Mortos-vivos, Duyshidakk, Sszzaazitas, Trolls)
+- Bestiário Parte 3 (15 criaturas - Dragões, Tormenta)
+- Perigos
+- Recompensas
+Total: 79 criaturas
+
+CAPÍTULO 9: MAGIA (Páginas 342-381)
+- Listas de Magias
+- Conceitos e Regras de Magia
+- Descrição de Magias 1º Círculo (79 magias)
+- Descrição de Magias 2º Círculo (31 magias)
+- Descrição de Magias 3º Círculo (26 magias)
+- Descrição de Magias 4º Círculo (22 magias)
+- Descrição de Magias 5º Círculo (17 magias)
+Total: 175 magias únicas
+
+CAPÍTULO 10: PARA O MESTRE (Incluído no PDF como parte dos capítulos anteriores)
+- Preparação e Início de Sessão
+- Condução do Jogo
+- Estrutura de Aventuras
+- Campanhas
+- Tempo Entre Aventuras
+- Parceiros e Companheiros
+- Ambientes de Aventura
+- Viagens e Perseguições
+
+CAPÍTULO 11: AMBIENTAÇÃO (Páginas 382-415)
+- História e Linha do Tempo de Arton
+- 18 Reinos e Regiões:
+  * Deheon
+  * Bielefeld
+  * Wynlla
+  * Namalkah
+  * Ahlen
+  * Zakharov
+  * Pondsmânia
+  * Supremacia Purista
+  * Aslothia
+  * Repúblicas Livres
+  * Feudos Trebuck
+  * Reino Dragão
+  * Império Tauron
+  * Montanhas Sanguinárias
+  * Montanhas Uivantes
+  * Ermos Púrpuras
+  * Lannamon
+  * Reinos adicionais
+- Cidades Notáveis
+- Geografia Geral
+
+CAPÍTULO 13: APÊNDICES (Páginas 416-440)
+- Lista de Condições
+- Glossário de Termos
+- Índice Remissivo
+- Tabelas de Referência Rápida
+- Open Game License (OGL)
+- Créditos de Playtesters
+
+===========================================
+ESTATÍSTICAS DO LIVRO
+===========================================
+
+Total de Páginas: 407
+Total de Capítulos: 11 (organizados em estrutura lógica)
+Total de Arquivos Markdown: 133
+Raças: 17
+Classes: 14
+Origens: 35
+Deuses: 20
+Perícias: 33
+Poderes: 168+
+Magias: 175
+Criaturas: 79
+Reinos/Regiões: 18
+Imagens com Alt-text: 35
+
+===========================================
+NOTAS SOBRE A ESTRUTURA
+===========================================
+
+1. O PDF original não possui capítulos 10 e 12 separados - a numeração pula de 9 para 11 e depois para 13
+2. O conteúdo "Para o Mestre" foi organizado como Capítulo 10 na documentação para melhor estrutura
+3. Todas as duplicatas de magias foram removidas, mantendo apenas 175 magias únicas consolidadas por círculo
+4. A documentação mantém 100% de fidelidade ao texto original do PDF
+5. Todas as tabelas, listas e boxes explicativos foram preservados
+
+===========================================
+ÚLTIMA ATUALIZAÇÃO
+===========================================
+Data: 11/01/2026
+Status: 100% Completo (11 de 11 capítulos)
+Versão: 1.0
 

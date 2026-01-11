@@ -19,8 +19,8 @@ Converter livros oficiais mantendo **100% de fidelidade ao texto original**, com
 - ✅ **0 erros** na validação final
 
 ### Livros Disponíveis
-1. **Tormenta 20 - Livro Básico** (`livros/tormenta20-core/`) - 75% completo
-   - 135 arquivos: 17 raças, 14 classes, 186 magias, 79 criaturas
+1. **Tormenta 20 - Livro Básico** (`livros/tormenta20-core/`) - 100% completo
+   - 133 arquivos: 17 raças, 14 classes, 175 magias, 79 criaturas
 2. **Heróis de Arton** (`livros/herois-arton/`) - 100% completo
    - 134 arquivos: 5 raças, classe Treinador, 36 distinções, 30 origens
 3. **Dragão Brasil - Compilado** (`livros/dragao-brasil/`) - 100% completo

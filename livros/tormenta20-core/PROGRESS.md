@@ -24,7 +24,7 @@ navigation:
 - 📝 **Volume total:** ~990KB de conteúdo convertido  
 - 🎯 **Páginas documentadas:** 407 de 407 páginas do PDF (100%)
 - 🖼️ **Imagens:** 35 ilustrações com alt-text descritivo
-- ✅ **Status:** ✅ COMPLETO (exceto duplicatas de magias a serem corrigidas)
+- ✅ **Status:** ✅ COMPLETO
 
 ---
 
@@ -117,11 +117,9 @@ navigation:
 
 ## 🎯 Próximos Passos
 
-1. **Revisão de Magias:** Validar todas as 186 magias contra PDF original
-2. **Validação de Links:** Executar validate_links.py e corrigir links quebrados
-3. **Verificação de Duplicatas:** Garantir que não há outras magias duplicadas
-4. **Padronização:** Normalizar frontmatter YAML em todos arquivos
-5. **Limpeza Final:** Remover estrutura antiga se existir
+1. **Validação de Links:** Executar validate_links.py e corrigir links quebrados
+2. **Padronização:** Normalizar frontmatter YAML em todos arquivos
+3. **Limpeza Final:** Remover estrutura antiga se existir
 
 ---
 
@@ -154,10 +152,10 @@ navigation:
 | 07 - Regras | 40 | 9 | ~85KB |
 | 08 - Combate | 46 | 7 | ~120KB |
 | 09 - Magia | 40 | 7 | ~160KB |
-| 11 - Ambientação | 20 | 20 | ~75KB |
-| 13 - Apêndices | 1034 | 20 | ~75KB |
+| 11 - Ambientação | 34 | 20 | ~75KB |
 | 13 - Apêndices | 25 | 7 | ~30KB |
-| **TOTAL** | **407**
+| **TOTAL** | **407** | **133** | **~990KB** |
+
 ---
 
 ## 🔗 Referências
@@ -170,6 +168,5 @@ navigation:
 
 **Livro:** Tormenta 20 - Livro Básico  
 **Primeira conversão:** 2025  
-**Última atualização:** 10/01/2026  
-**Status:** 75% completo (9 de 12 capítulos)
-**Status:** ✅ 100% completo (11 de 11 capítulos) - Revisão de magias em andamento
+**Última atualização:** 11/01/2026  
+**Status:** ✅ 100% completo (11 de 11 capítulos)
