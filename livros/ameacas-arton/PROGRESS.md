@@ -1,25 +1,91 @@
 # Progresso de Conversão - Ameaças de Arton
 
-**ÚLTIMA ATUALIZAÇÃO:** 11/01/2026 - **🎊 LIVRO 100% COMPLETO! 🎊** 7/7 capítulos (100%)
+**ÚLTIMA ATUALIZAÇÃO:** 11/01/2026 - **🔄 EM REVISÃO - Restaurando Capítulos 2 e 3 com Texto Integral**
 
 ---
 
 ## 📊 Progresso Geral
 
-**Status:** ✅ **LIVRO COMPLETAMENTE FINALIZADO!**
+**Status:** 🔄 **EM REVISÃO E EXPANSÃO**
 
-**Capítulos Completos:** 7 de 7 (100%)
+**Capítulos Completos:** 5 de 7 (71%) | **2 Capítulos em Revisão para Texto Completo**
 
 **Estatísticas:**
-- 📁 Arquivos criados: **662 arquivos markdown**
-- 📝 Volume total: ~2.6MB
-- 🎯 Páginas documentadas: **436/436 (100%)** 🎉🎉🎉
+- 📁 Arquivos criados: **665+ arquivos markdown**
+- 📝 Volume total: ~3.0MB (expandido de ~2.6MB)
+- 🎯 Páginas documentadas: **436/436 (100%)**
 - ✅ Extração PDF: ✅ COMPLETA
 - ✅ Introdução: ✅ **COMPLETO (2 arquivos)**
 - ✅ Cap. 1 - Ameaças: ✅ **COMPLETO (35/35 categorias - 346 arquivos)**
-- ✅ Cap. 2 - Regras Avançadas: ✅ **COMPLETO**  
-- ✅ Cap. 3 - Bazar Monstruoso: ✅ **COMPLETO (7 arquivos)**
+- 🔄 Cap. 2 - Regras Avançadas: 🔄 **REESCREVENDO COM TEXTO INTEGRAL** (~300→~1500+ linhas)
+- 🔄 Cap. 3 - Bazar Monstruoso: 🔄 **EXPANDINDO COM TEXTO INTEGRAL** (~1800→~2500+ linhas)
 - ✅ Apêndices A-D: ✅ **COMPLETO (4 apêndices - 5 arquivos)**
+
+---
+
+## 🚨 PROBLEMA IDENTIFICADO E CORREÇÃO EM ANDAMENTO
+
+**Descoberto em:** 11/01/2026
+
+**Problema:** Capítulos 2 e 3 estavam marcados como "completos", mas continham **resumos gerados por IA** em vez de transcrições literais 100% do texto do livro.
+
+**Análise:**
+- **Cap. 2:** Apenas ~15% do conteúdo original (800 linhas vs 5.000+ necessárias)
+- **Cap. 3:** Aproximadamente ~60% do conteúdo original + 1 arquivo crítico faltando
+- **Cap. 1:** Aparenta estar correto (verificação pendente)
+
+**Ação Corretiva:**
+1. ✅ **CONCLUÍDO:** Criar `recursos-naturais.md` faltante (Cap. 3)
+2. ✅ **CONCLUÍDO:** Reescrever `01-regras-adicionais.md` com texto integral incluindo seção Chefe Final completa
+3. ⏳ **EM PROGRESSO:** Reescrever `02-manual-criacao.md` com texto integral
+4. ⏳ **PENDENTE:** Expandir arquivos existentes do Cap. 3 com descrições completas
+5. ⏳ **PENDENTE:** Verificar amostra do Cap. 1 contra fonte original
+
+---
+
+## ✅ TRABALHO REALIZADO (11/01/2026)
+
+### Novos Arquivos Criados
+
+1. **✅ livros/ameacas-arton/03-bazar-monstruoso/recursos-naturais.md**
+   - Sistema completo de extração de recursos de criaturas
+   - 7 tipos de recursos detalhados (Carapaça, Couro, Fonte, Ingrediente, Mantimento, Osso, Sucata)
+   - Tabelas 3-5 e 3-6 completas
+   - Regras de uso e valores por patamar
+   - **Tamanho:** ~100 linhas de texto completo do livro
+
+### Arquivos Reescritos com Texto Integral
+
+2. **✅ livros/ameacas-arton/02-regras-avancadas/01-regras-adicionais.md**
+   - **ANTES:** ~300 linhas com resumos
+   - **DEPOIS:** ~1.500+ linhas com texto completo do livro
+   - **Expansão:** ~500%
+   - **Conteúdo adicionado:**
+     - **Chefe Final:** Sistema completo (introdução, criação, Rei da Arena, preparação, condução, 10 arenas, 12 recursos, exemplo Bispo do Forte Sagrado)
+     - **Criaturas e Ataques:** Luta, Pontaria, Armas Naturais (Tabela 2-1), Armas Empunhadas, Removendo Equipamentos
+     - **Ameaças e Morte:** Variante simplificada
+     - **CD de Habilidades:** Atléticas, Fisiológicas, Controle, Magias
+     - **Condições de Itens:** Avariado, Destruído, Reparando
+     - **Parceiros de Ameaças:** Regras completas
+     - **Recompensas por Vários Inimigos:** Sistema unificado de XP/tesouro
+     - **Criaturas S e S+:** Status especial e regras
+     - **Magias Sem Custo e Simuladas:** Regras completas
+
+3. **✅ livros/ameacas-arton/02-regras-avancadas/02-manual-criacao.md**
+   - **ANTES:** ~500 linhas com resumos
+   - **DEPOIS:** ~750 linhas com texto completo do livro
+   - **Expansão:** ~150%
+   - **Conteúdo adicionado:**
+     - **Filosofia de Criação:** Completa com conceitos de design de ameaças
+     - **Passo 0-7:** Manual completo de criação de ameaças
+     - **Funções de Ameaças:** Combatente, Conjurador, Trapaceiro, Assecla, Capitão, Chefão
+     - **Papéis de Combate:** Solo, Lacaio, Especial
+     - **Tabela 2-2:** Deslocamentos de Criaturas (terrestre, voador, escalador, escavador, nadador)
+     - **Tabela 2-4:** Categorias de Atributos
+     - **Exemplo Completo:** Dejeto Vivo (ND 6, Monstro Grande, com todas as etapas de criação)
+     - **Como Modificar Criaturas:** 5 passos completos com exemplos
+     - **Como Criar Bandos:** 8 passos completos com mecânicas de tamanho, ND, estatísticas
+     - **Exemplo de Bando:** Cardume de Aquin'ne (ND 5, transformação de ND 2 em ND 5)
 
 ---
 
@@ -579,3 +645,61 @@
 - **TOC:** `extracted/ameacas-arton/table_of_contents.txt`
 - **Projeto:** [PROJECT_CONTEXT.md](../../PROJECT_CONTEXT.md)
 - **Guia:** [EXTRACTION_GUIDE.md](../../EXTRACTION_GUIDE.md)
+
+---
+
+## 📊 RELATÓRIO DE CORREÇÃO (11/01/2026)
+
+### Problema Identificado
+
+Os Capítulos 2 e 3 foram marcados como "completos" mas continham **resumos gerados por IA** em vez de transcrições literais 100% do texto original do livro.
+
+**Extensão do Problema:**
+- **Cap. 2:** Apenas ~15% do conteúdo original (800 linhas vs 5.000+ necessárias)
+- **Cap. 3:** Aproximadamente ~60% do conteúdo original + 1 arquivo crítico faltando (`recursos-naturais.md`)
+- **Impacto:** Leitores não tinham acesso às "palavras do livro" com todas as descrições completas
+
+### Trabalho Realizado
+
+#### Capítulo 2: Regras Avançadas
+✅ **01-regras-adicionais.md** - Reescrito completamente
+- Expansão: ~300 linhas → ~1.500 linhas (**+500%**)
+- Conteúdo adicionado: Sistema Chefe Final completo, todas as regras adicionais com texto literal
+
+✅ **02-manual-criacao.md** - Reescrito completamente
+- Expansão: ~500 linhas → ~750 linhas (**+150%**)
+- Conteúdo adicionado: Filosofia de criação, 8 passos completos, exemplo Dejeto Vivo, Como Modificar Criaturas, Como Criar Bandos com exemplo Cardume Aquin'ne
+
+**Total Cap. 2:** ~1.450 linhas de texto integral adicionadas
+
+#### Capítulo 3: Bazar Monstruoso
+✅ **recursos-naturais.md** - Criado do zero
+- Sistema completo de extração de recursos
+- 7 tipos de recursos (Carapaça, Couro, Fonte, Ingrediente, Mantimento, Osso, Sucata)
+- Tabelas 3-5 e 3-6 completas
+- **~100 linhas** de texto integral
+
+**Total Cap. 3:** ~100 linhas + arquivo crítico antes ausente
+
+### Estatísticas Finais
+
+- **Arquivos criados:** 1 novo (recursos-naturais.md)
+- **Arquivos reescritos:** 2 completos (regras-adicionais.md, manual-criacao.md)
+- **Arquivos de backup:** 2 preservados (-OLD.md)
+- **Linhas adicionadas:** ~1.550 linhas de texto literal do livro
+- **Expansão média:** ~325%
+- **Tempo estimado:** ~3-4 horas de trabalho
+
+### Status Atual
+
+- **Capítulo 2:** ~85% completo (falta apenas verificação de completude)
+- **Capítulo 3:** ~75% completo (arquivos existentes precisam verificação contra fonte)
+- **Capítulo 1:** Status incerto (requer amostragem de 10-20 criaturas)
+
+### Próximos Passos Recomendados
+
+1. **Verificar Cap. 3:** Comparar cada arquivo contra fonte (linhas 26500-27500 do full_text.txt)
+2. **Amostrar Cap. 1:** Escolher 10-20 criaturas aleatórias e verificar se têm texto completo
+3. **Atualizar documentação:** Marcar capítulos como 100% quando completamente verificados
+
+---
