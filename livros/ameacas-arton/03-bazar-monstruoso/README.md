@@ -1,7 +1,11 @@
 ---
 title: "Capítulo 3: Bazar Monstruoso"
-prev: "/livros/ameacas-arton/02-regras-avancadas/"
-next: "/livros/ameacas-arton/apendice-a-racas-parceiros/"
+book: "ameacas-arton"
+chapter: "03-bazar-monstruoso"
+navigation:
+  previous: "../02-regras-avancadas/README.md"
+  next: "../apendice-a-racas-parceiros/README.md"
+  up: "../README.md"
 ---
 
 # Capítulo 3: Bazar Monstruoso

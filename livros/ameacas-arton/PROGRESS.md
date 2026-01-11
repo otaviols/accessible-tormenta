@@ -301,12 +301,26 @@
 - ✅ Tigre-de-Hyninn (2 variantes: ND 5, Primordial ND 11 com ataques variáveis 4-12/turno)
 - ✅ Brawar (ND 14, golem de adamante indestrutível RD 25)
 
-**✅ Montarias** (100% - README + estrutura completa)
-- Tipos: 16 tipos principais (30+ variantes) - Baleote, Capivara, Cavalos (4 tipos), Cavalo Glacial, Corcel do Deserto, Dromedário, Elefante, Gorlogg (+ Alfa), Grandes Felinos (Leão, Pantera, Tigre), Rinocerontes (3 tipos), Tatu-Montanha, Trobo, Tumarkhân, Ursos (3 tipos), Warg, Unicórnio
-- ✅ README com listagem completa de todas as 16 montarias
-- ✅ Sidebars: Treinando Montarias Selvagens, Novos Poderes de Montarias
-- ✅ Regras de parceiro montaria (progressão Iniciante/Veterano/Mestre para todas)
-- Total: ~22 montarias
+**✅ Montarias** (100% - CATEGORIA COMPLETAMENTE FINALIZADA!)
+- Criaturas: 13 de 13 convertidas (17 arquivos criados, 30+ variantes totais)
+- ✅ Baleote (ND 3, baleia-golfinho voadora de Vectora)
+- ✅ Capivara (ND 1, montaria de raças pequenas)
+- ✅ Cavalos (4 variantes: Carga ND 1/2, Montaria ND 1/2, Guerra ND 1, Namalkah ND 2)
+- ✅ Elefante (ND 7, colosso com memória perfeita)
+- ✅ Gorlogg (2 variantes: ND 1, Alfa ND 5)
+- ✅ Grandes Felinos (3 espécies: Leão ND 2, Pantera ND 2, Tigre ND 3)
+- ✅ Rinocerontes (3 variantes: Comum ND 4, Lanoso ND 6, Brontotério ND 8)
+- ✅ Tatu-Montanha (ND 4, molusco gigante anti-ácido)
+- ✅ Trobo (ND 1, pássaro-boi dócil)
+- ✅ Tumarkhân (ND 4, lagarto-elefante de Khubar)
+- ✅ Ursos (3 variantes: Panda ND 1, Pardo ND 3, Cavernas ND 8)
+- ✅ Warg (ND 3, lobo gigante de Thwor)
+- ✅ Unicórnio (ND 4, espírito que escolhe cavaleiros dignos)
+- ✅ Sidebars (3): Novos Poderes de Montarias (4 poderes), Treinando Montarias Selvagens, Montarias para Cavaleiros e Paladinos
+- ✅ README completo com índice organizado + notas de regras
+- ✅ Navegação sequencial funcional em todos os 17 arquivos
+- ✅ Parceiro montaria (progressão Iniciante/Veterano/Mestre para todas)
+- **Páginas:** 210-228 do PDF (19 páginas completamente convertidas)
 
 **✅ Mortos-Vivos** (100%)
 - Criaturas: 21 de 21 convertidas (8 arquivos criados)

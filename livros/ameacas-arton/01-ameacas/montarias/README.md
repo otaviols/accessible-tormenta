@@ -38,26 +38,28 @@ Cada montaria oferece vantagens únicas: cavalos glaciais nadam em lagos gelados
 1. **[Baleote](01-baleote.md)** — ND 3 — Baleia-golfinho voadora de Vectora
 2. **[Capivara](02-capivara.md)** — ND 1 — Grande roedor aquático montaria de goblins
 3. **[Cavalos](03-cavalos.md)** — ND 1/2-2 — Montaria mais comum (Carga, Montaria, Guerra, Namalkah)
-4. **[Cavalo Glacial](04-cavalo-glacial.md)** — ND 2 — Hipo-orca das Montanhas Uivantes
-5. **[Corcel do Deserto](05-corcel-deserto.md)** — ND 2 — Inseto gigante que nunca bebe água
-6. **[Dromedário](06-dromedario.md)** — ND 1 — Resistente montaria de desertos e estepes
-7. **[Elefante](07-elefante.md)** — ND 7 — Colosso com memória perfeita e medo de ratos
-8. **[Gorlogg](08-gorlogg.md)** — ND 1, 5 — Predador réptil-mamífero (+ Alfa)
-9. **[Grandes Felinos](09-grandes-felinos.md)** — ND 2-3 — Leão, Pantera, Tigre
-10. **[Rinocerontes](10-rinocerontes.md)** — ND 4, 6, 8 — Comum, Lanoso, Brontotério
-11. **[Tatu-Montanha](11-tatu-montanha.md)** — ND 4 — Molusco gigante com casco anti-ácido
-12. **[Trobo](12-trobo.md)** — ND 1 — Pássaro-boi dócil e resistente
-13. **[Tumarkhân](13-tumarkhan.md)** — ND 4 — Lagarto elefante de Khubar
-14. **[Ursos](14-ursos.md)** — ND 1, 3, 8 — Panda, Pardo, das Cavernas
-15. **[Warg](15-warg.md)** — ND 3 — Lobo gigante inteligente de Thwor
-16. **[Unicórnio](16-unicornio.md)** — ND 4 — Ser puro que escolhe cavaleiros dignos
+4. **[Elefante](07-elefante.md)** — ND 7 — Colosso com memória perfeita e medo de ratos
+5. **[Gorlogg](08-gorlogg.md)** — ND 1, 5 — Predador réptil-mamífero (+ Alfa)
+6. **[Grandes Felinos](09-grandes-felinos.md)** — ND 2-3 — Leão, Pantera, Tigre
+7. **[Rinocerontes](10-rinocerontes.md)** — ND 4, 6, 8 — Comum, Lanoso, Brontotério
+8. **[Tatu-Montanha](11-tatu-montanha.md)** — ND 4 — Molusco gigante com casco anti-ácido
+9. **[Trobo](12-trobo.md)** — ND 1 — Pássaro-boi dócil e resistente
+10. **[Tumarkhân](13-tumarkhan.md)** — ND 4 — Lagarto elefante de Khubar
+11. **[Ursos](14-ursos.md)** — ND 1, 3, 8 — Panda, Pardo, das Cavernas
+12. **[Warg](16-warg.md)** — ND 3 — Lobo gigante inteligente de Thwor
+13. **[Unicórnio](17-unicornio.md)** — ND 4 — Ser puro que escolhe cavaleiros dignos
+
+### 📚 Regras e Sidebars
+
+- **[Novos Poderes de Montarias](14-ursos-poderes.md)** — Adestrar Montaria, Combate Montado, Dois Como Um, Resistência Montada
+- **[Treinando Montarias Selvagens](15-warg-treinamento.md)** — Sistema de teste estendido para domar criaturas selvagens
+- **[Montarias para Cavaleiros e Paladinos](18-cavaleiros-paladinos.md)** — Substituir montarias específicas de habilidades de classe
 
 ---
 
-**Total:** 16 tipos principais (30+ variantes)  
+**Total:** 13 tipos principais (30+ variantes incluindo cavalos, gorlogg, felinos, rinocerontes, ursos)  
 **Níveis de Desafio:** 1/2 a 8  
-**Páginas:** 210-228  
-**Sidebars:** Novos Poderes de Montarias, Treinando Montarias Selvagens
+**Páginas:** 210-228
 
 ---
 
@@ -67,6 +69,7 @@ Este capítulo inclui regras para:
 - **Treinar Montarias Selvagens** (teste estendido de Adestramento)
 - **Novos Poderes:** Adestrar Montaria, Combate Montado, Dois Como Um, Resistência Montada
 - **Parceiros Montaria:** Todos possuem progressão Iniciante/Veterano/Mestre
+- **Substituir Montarias de Classe:** Cavaleiros e paladinos podem escolher montarias alternativas
 
 ---
 

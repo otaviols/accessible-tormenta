@@ -2,9 +2,9 @@ RELATÓRIO DE LINKS MARKDOWN
 ========================================================================
 
 RESUMO:
-- Arquivos .md analisados: 180
-- Links quebrados: 214
-- Arquivos órfãos: 1
+- Arquivos .md analisados: 304
+- Links quebrados: 251
+- Arquivos órfãos: 24
 
 LINKS QUEBRADOS:
 ------------------------------------------------------------------------
@@ -17,189 +17,49 @@ Arquivo: GUIA_INICIO.md (linha 195)
   Texto: [Descrição: Ilustração de um bogum, pequena criatura peluda azul com olhos grandes e expressivos, orelhas pontiagudas, sentado em posição amigável]
   Href:  (imagem.png)
 
-Arquivo: 00-introducao\README.md (linha 21)
-  Texto: [Prefácio: Sonho Monstruoso]
-  Href:  (01-sonho-monstruoso.md)
-
-Arquivo: 00-introducao\README.md (linha 24)
-  Texto: [Mundo Ameaçador]
-  Href:  (02-mundo-ameacador.md)
-
 Arquivo: 01-ameacas\00-habilidades-gerais.md (linha 220)
   Texto: [→ Próximo: Áreas de Tormenta]
   Href:  (../areas-tormenta/README.md)
 
-Arquivo: 01-ameacas\README.md (linha 84)
-  Texto: [Mortos-Vivos]
-  Href:  (mortos-vivos/README.md)
-
-Arquivo: 01-ameacas\README.md (linha 87)
-  Texto: [Mundo Perdido]
-  Href:  (mundo-perdido/README.md)
-
-Arquivo: 01-ameacas\README.md (linha 90)
-  Texto: [Piratas & Pistoleiros]
-  Href:  (piratas-pistoleiros/README.md)
-
-Arquivo: 01-ameacas\README.md (linha 93)
-  Texto: [Povos-Trovão]
-  Href:  (povos-trovao/README.md)
-
-Arquivo: 01-ameacas\README.md (linha 96)
-  Texto: [Puristas]
-  Href:  (puristas/README.md)
-
-Arquivo: 01-ameacas\README.md (linha 99)
-  Texto: [Reino dos Mortos]
-  Href:  (reino-mortos/README.md)
-
-Arquivo: 01-ameacas\README.md (linha 102)
-  Texto: [Reinos de Moreania]
-  Href:  (reinos-moreania/README.md)
-
-Arquivo: 01-ameacas\README.md (linha 105)
-  Texto: [Sanguinárias]
-  Href:  (sanguinarias/README.md)
-
-Arquivo: 01-ameacas\README.md (linha 108)
-  Texto: [Sob as Ondas]
-  Href:  (sob-ondas/README.md)
-
-Arquivo: 01-ameacas\README.md (linha 111)
-  Texto: [Sszzaazitas]
-  Href:  (sszzaazitas/README.md)
-
-Arquivo: 01-ameacas\README.md (linha 114)
-  Texto: [Trolls Nobres]
-  Href:  (trolls-nobres/README.md)
-
-Arquivo: 01-ameacas\README.md (linha 117)
-  Texto: [Uivantes]
-  Href:  (uivantes/README.md)
-
-Arquivo: 01-ameacas\README.md (linha 120)
-  Texto: [Novos Perigos]
-  Href:  (novos-perigos/README.md)
-
-Arquivo: 01-ameacas\README.md (linha 123)
+Arquivo: 01-ameacas\README.md (linha 147)
   Texto: [Chefe Final]
   Href:  (chefe-final/README.md)
 
-Arquivo: 02-regras-avancadas\README.md (linha 19)
-  Texto: [Regras Adicionais]
-  Href:  (01-regras-adicionais.md)
+Arquivo: apendice-a-racas-parceiros\README.md (linha 166)
+  Texto: [→ Próximo: Apêndice B - Criaturas Alfabética]
+  Href:  (apendice-b.md)
 
-Arquivo: 02-regras-avancadas\README.md (linha 30)
-  Texto: [Manual de Criação de Ameaças]
-  Href:  (02-manual-criacao.md)
+Arquivo: apendice-b-alfabetico\README.md (linha 529)
+  Texto: [← Anterior: Apêndice A - Raças e Parceiros]
+  Href:  (apendice-a.md)
 
-Arquivo: 03-bazar-monstruoso\README.md (linha 19)
-  Texto: [Armas]
-  Href:  (01-armas.md)
+Arquivo: apendice-b-alfabetico\README.md (linha 530)
+  Texto: [→ Próximo: Apêndice C - Criaturas por ND]
+  Href:  (apendice-c.md)
 
-Arquivo: 03-bazar-monstruoso\README.md (linha 22)
-  Texto: [Armaduras e Escudos]
-  Href:  (02-armaduras-escudos.md)
+Arquivo: apendice-c-nd\README.md (linha 491)
+  Texto: [← Anterior: Apêndice B - Criaturas Alfabética]
+  Href:  (apendice-b.md)
 
-Arquivo: 03-bazar-monstruoso\README.md (linha 25)
-  Texto: [Itens Gerais]
-  Href:  (03-itens-gerais.md)
+Arquivo: apendice-c-nd\README.md (linha 492)
+  Texto: [→ Próximo: Apêndice D - Encontros Aleatórios]
+  Href:  (apendice-d.md)
 
-Arquivo: 03-bazar-monstruoso\README.md (linha 28)
-  Texto: [Itens Superiores]
-  Href:  (04-itens-superiores.md)
+Arquivo: apendice-d-encontros\README.md (linha 331)
+  Texto: [← Anterior: Apêndice C - Criaturas por ND]
+  Href:  (apendice-c.md)
 
-Arquivo: 03-bazar-monstruoso\README.md (linha 32)
-  Texto: [Recursos Naturais]
-  Href:  (05-recursos-naturais.md)
+Arquivo: 01-ameacas\10-imperio-jade\README.md (linha 31)
+  Texto: [← Voltar para Gnolls]
+  Href:  (../09-gnolls)
 
-Arquivo: 03-bazar-monstruoso\README.md (linha 36)
-  Texto: [Novos Itens Mágicos]
-  Href:  (06-itens-magicos.md)
+Arquivo: 01-ameacas\12-sanguinarias\07-kaiju.md (linha 109)
+  Texto: [Ir para Regiões]
+  Href:  (../../02-regioes/README.md)
 
-Arquivo: 03-bazar-monstruoso\README.md (linha 44)
-  Texto: [Novos Artefatos]
-  Href:  (07-artefatos.md)
-
-Arquivo: 03-bazar-monstruoso\README.md (linha 48)
-  Texto: [Novas Magias]
-  Href:  (08-magias.md)
-
-Arquivo: apendice-d-encontros\README.md (linha 23)
-  Texto: [Terreno: Aquático]
-  Href:  (01-terreno-aquatico.md)
-
-Arquivo: apendice-d-encontros\README.md (linha 24)
-  Texto: [Terreno: Ártico]
-  Href:  (02-terreno-artico.md)
-
-Arquivo: apendice-d-encontros\README.md (linha 25)
-  Texto: [Terreno: Área de Tormenta]
-  Href:  (03-terreno-tormenta.md)
-
-Arquivo: apendice-d-encontros\README.md (linha 26)
-  Texto: [Terreno: Colina]
-  Href:  (04-terreno-colina.md)
-
-Arquivo: apendice-d-encontros\README.md (linha 27)
-  Texto: [Terreno: Deserto]
-  Href:  (05-terreno-deserto.md)
-
-Arquivo: apendice-d-encontros\README.md (linha 28)
-  Texto: [Terreno: Floresta]
-  Href:  (06-terreno-floresta.md)
-
-Arquivo: apendice-d-encontros\README.md (linha 29)
-  Texto: [Terreno: Montanha]
-  Href:  (07-terreno-montanha.md)
-
-Arquivo: apendice-d-encontros\README.md (linha 30)
-  Texto: [Terreno: Pântano]
-  Href:  (08-terreno-pantano.md)
-
-Arquivo: apendice-d-encontros\README.md (linha 31)
-  Texto: [Terreno: Planície]
-  Href:  (09-terreno-planicie.md)
-
-Arquivo: apendice-d-encontros\README.md (linha 32)
-  Texto: [Terreno: Subterrâneo]
-  Href:  (10-terreno-subterraneo.md)
-
-Arquivo: apendice-d-encontros\README.md (linha 33)
-  Texto: [Terreno: Urbano]
-  Href:  (11-terreno-urbano.md)
-
-Arquivo: apendice-d-encontros\README.md (linha 37)
-  Texto: [Aslothia]
-  Href:  (12-regiao-aslothia.md)
-
-Arquivo: apendice-d-encontros\README.md (linha 38)
-  Texto: [Estradas do Reinado]
-  Href:  (13-regiao-estradas-reinado.md)
-
-Arquivo: apendice-d-encontros\README.md (linha 39)
-  Texto: [Galrasia]
-  Href:  (14-regiao-galrasia.md)
-
-Arquivo: apendice-d-encontros\README.md (linha 40)
-  Texto: [Império de Tauron]
-  Href:  (15-regiao-imperio-tauron.md)
-
-Arquivo: apendice-d-encontros\README.md (linha 41)
-  Texto: [Sanguinárias]
-  Href:  (16-regiao-sanguinarias.md)
-
-Arquivo: apendice-d-encontros\README.md (linha 42)
-  Texto: [Supremacia Purista]
-  Href:  (17-regiao-supremacia-purista.md)
-
-Arquivo: apendice-d-encontros\README.md (linha 43)
-  Texto: [Ruínas de Tyrondir/Lamnor]
-  Href:  (18-regiao-ruinas-tyrondir.md)
-
-Arquivo: apendice-d-encontros\README.md (linha 45)
-  Texto: [Encontros por Região - Resumo]
-  Href:  (19-encontros-resumo.md)
+Arquivo: 01-ameacas\12-sanguinarias\README.md (linha 32)
+  Texto: [Ir para Regiões]
+  Href:  (../../02-regioes/README.md)
 
 Arquivo: 01-ameacas\areas-tormenta\08-gatzvalith.md (linha 16)
   Texto: [Ilustração de Gatzvalith]
@@ -721,10 +581,6 @@ Arquivo: 01-ameacas\masmorras\03-harpia.md (linha 13)
   Texto: [Harpia]
   Href:  (../../_imagens/ameacas-arton/harpia.jpg)
 
-Arquivo: 01-ameacas\masmorras\03-harpia.md (linha 172)
-  Texto: [Mortos-Vivos]
-  Href:  (../mortos-vivos/README.md)
-
 Arquivo: 01-ameacas\masmorras\04-glop.md (linha 13)
   Texto: [Glop]
   Href:  (../../_imagens/ameacas-arton/glop.jpg)
@@ -849,6 +705,298 @@ Arquivo: 01-ameacas\montarias\README.md (linha 53)
   Texto: [Unicórnio]
   Href:  (16-unicornio.md)
 
+Arquivo: 01-ameacas\mortos-vivos\01-carnical-lacedon.md (linha 12)
+  Texto: [Carniçal e Lívido]
+  Href:  (../../_imagens/ameacas-arton/carnical.jpg)
+
+Arquivo: 01-ameacas\mortos-vivos\02-esqueletos.md (linha 12)
+  Texto: [Esqueletos: Rei-Tirano, Gigante e Urso Pardo]
+  Href:  (../../_imagens/ameacas-arton/esqueletos.jpg)
+
+Arquivo: 01-ameacas\mortos-vivos\03-fantasma.md (linha 12)
+  Texto: [Fantasma]
+  Href:  (../../_imagens/ameacas-arton/fantasma.jpg)
+
+Arquivo: 01-ameacas\mortos-vivos\04-garras-zumbi.md (linha 12)
+  Texto: [Garras-Zumbi]
+  Href:  (../../_imagens/ameacas-arton/garras-zumbi.jpg)
+
+Arquivo: 01-ameacas\mortos-vivos\05-livido-mortalha.md (linha 14)
+  Texto: [Carniçal e Lívido]
+  Href:  (../../_imagens/ameacas-arton/carnical.jpg)
+
+Arquivo: 01-ameacas\mortos-vivos\05-livido-mortalha.md (linha 76)
+  Texto: [Mortalha]
+  Href:  (../../_imagens/ameacas-arton/mortalha.jpg)
+
+Arquivo: 01-ameacas\mortos-vivos\06-mumia.md (linha 14)
+  Texto: [Senhor das Múmias e Múmia]
+  Href:  (../../_imagens/ameacas-arton/mumia.jpg)
+
+Arquivo: 01-ameacas\mortos-vivos\06-mumia.md (linha 73)
+  Texto: [Senhor das Múmias]
+  Href:  (../../_imagens/ameacas-arton/mumia.jpg)
+
+Arquivo: 01-ameacas\mortos-vivos\07-necrodracos.md (linha 12)
+  Texto: [Necrodraco]
+  Href:  (../../_imagens/ameacas-arton/necrodraco.jpg)
+
+Arquivo: 01-ameacas\mortos-vivos\08-tarso.md (linha 12)
+  Texto: [Tarso, Dragão-Rei dos Mortos]
+  Href:  (../../_imagens/ameacas-arton/tarso.jpg)
+
+Arquivo: 01-ameacas\mundo-perdido\01-dinossauros-herbivoros.md (linha 11)
+  Texto: [Burafonte]
+  Href:  (../../_imagens/ameacas-arton/burafonte.jpg)
+
+Arquivo: 01-ameacas\mundo-perdido\02-dinossauros-carnivoros.md (linha 12)
+  Texto: [Deinonicos e Raagoran]
+  Href:  (../../_imagens/ameacas-arton/deinonico.jpg)
+
+Arquivo: 01-ameacas\mundo-perdido\03-seres-planta.md (linha 12)
+  Texto: [Espada-da-Floresta e Galhada]
+  Href:  (../../_imagens/ameacas-arton/espada-da-floresta.jpg)
+
+Arquivo: 01-ameacas\mundo-perdido\04-arvore-matilha.md (linha 14)
+  Texto: [Árvore-Matilha]
+  Href:  (../../_imagens/ameacas-arton/arvore-matilha.jpg)
+
+Arquivo: 01-ameacas\piratas-pistoleiros\01-piratas-mortos-vivos.md (linha 11)
+  Texto: [Afogado e Piratas Osteon]
+  Href:  (../../_imagens/ameacas-arton/afogado.jpg)
+
+Arquivo: 01-ameacas\piratas-pistoleiros\02-armeiro-tenebra.md (linha 14)
+  Texto: [Armeiros de Tenebra]
+  Href:  (../../_imagens/ameacas-arton/armeiro-tenebra.jpg)
+
+Arquivo: 01-ameacas\piratas-pistoleiros\03-demonio-polvora.md (linha 14)
+  Texto: [Demônio da Pólvora]
+  Href:  (../../_imagens/ameacas-arton/demonio-polvora.jpg)
+
+Arquivo: 01-ameacas\piratas-pistoleiros\04-bandoleiros.md (linha 12)
+  Texto: [Goblins de Sombreiro e Pistoleiros]
+  Href:  (../../_imagens/ameacas-arton/goblin-sombreiro.jpg)
+
+Arquivo: 01-ameacas\piratas-pistoleiros\05-piratas-vivos.md (linha 12)
+  Texto: [Piratas em Combate]
+  Href:  (../../_imagens/ameacas-arton/piratas.jpg)
+
+Arquivo: 01-ameacas\piratas-pistoleiros\07-sahuagin.md (linha 14)
+  Texto: [Sahuagin]
+  Href:  (../../_imagens/ameacas-arton/sahuagin.jpg)
+
+Arquivo: 01-ameacas\piratas-pistoleiros\08-lendas-gatilho.md (linha 12)
+  Texto: [Chapéu-Preto e Lobo do Mar]
+  Href:  (../../_imagens/ameacas-arton/chapeu-preto.jpg)
+
+Arquivo: 01-ameacas\sanguinarias\01-cerianthar.md (linha 15)
+  Texto: [Cerianthar]
+  Href:  (../../_imagens/ameacas-arton/cerianthar.jpg)
+
+Arquivo: 01-ameacas\sanguinarias\02-tachygloss.md (linha 15)
+  Texto: [Grande Tachygloss]
+  Href:  (../../_imagens/ameacas-arton/grande-tachygloss.jpg)
+
+Arquivo: 01-ameacas\sanguinarias\03-oxxdon.md (linha 15)
+  Texto: [Oxxdon]
+  Href:  (../../_imagens/ameacas-arton/oxxdon.jpg)
+
+Arquivo: 01-ameacas\sanguinarias\04-razzakham.md (linha 15)
+  Texto: [Razza'Kham]
+  Href:  (../../_imagens/ameacas-arton/razzakham.jpg)
+
+Arquivo: 01-ameacas\sanguinarias\05-serpe.md (linha 15)
+  Texto: [Serpe]
+  Href:  (../../_imagens/ameacas-arton/serpe.jpg)
+
+Arquivo: 01-ameacas\sanguinarias\06-uraghian.md (linha 15)
+  Texto: [Uraghian]
+  Href:  (../../_imagens/ameacas-arton/uraghian.jpg)
+
+Arquivo: 01-ameacas\sanguinarias\07-kaiju.md (linha 15)
+  Texto: [Kaiju]
+  Href:  (../../_imagens/ameacas-arton/kaiju.jpg)
+
+Arquivo: 01-ameacas\sanguinarias\README.md (linha 39)
+  Texto: [**Razza'Kham**]
+  Href:  (03-razzakham.md)
+
+Arquivo: 01-ameacas\sanguinarias\README.md (linha 42)
+  Texto: [**Oxxdon**]
+  Href:  (04-oxxdon.md)
+
+Arquivo: 01-ameacas\sanguinarias\README.md (linha 43)
+  Texto: [**Uraghian**]
+  Href:  (05-uraghian.md)
+
+Arquivo: 01-ameacas\sanguinarias\README.md (linha 46)
+  Texto: [**Serpe**]
+  Href:  (06-serpe.md)
+
+Arquivo: 01-ameacas\sob-ondas\01-canceronte.md (linha 14)
+  Texto: [Canceronte]
+  Href:  (../../_imagens/ameacas-arton/canceronte.jpg)
+
+Arquivo: 01-ameacas\sob-ondas\02-elfo-do-mar.md (linha 15)
+  Texto: [Elfos-do-Mar e Selako]
+  Href:  (../../_imagens/ameacas-arton/elfos-mar-selako.jpg)
+
+Arquivo: 01-ameacas\sob-ondas\03-enguia-rainha.md (linha 15)
+  Texto: [Enguia Rainha]
+  Href:  (../../_imagens/ameacas-arton/enguia-rainha.jpg)
+
+Arquivo: 01-ameacas\sob-ondas\04-irukanjin.md (linha 15)
+  Texto: [Irukanjin]
+  Href:  (../../_imagens/ameacas-arton/irukanjin.jpg)
+
+Arquivo: 01-ameacas\sob-ondas\05-nereida.md (linha 15)
+  Texto: [Nereida]
+  Href:  (../../_imagens/ameacas-arton/nereida.jpg)
+
+Arquivo: 01-ameacas\sob-ondas\06-peixe-recife.md (linha 15)
+  Texto: [Peixe-Recife]
+  Href:  (../../_imagens/ameacas-arton/peixe-recife.jpg)
+
+Arquivo: 01-ameacas\sob-ondas\07-platan.md (linha 15)
+  Texto: [Platan]
+  Href:  (../../_imagens/ameacas-arton/platan-selako.jpg)
+
+Arquivo: 01-ameacas\sob-ondas\08-selako.md (linha 15)
+  Texto: [Selako]
+  Href:  (../../_imagens/ameacas-arton/selako.jpg)
+
+Arquivo: 01-ameacas\sob-ondas\09-pliorex.md (linha 15)
+  Texto: [Pliorex e Kraken]
+  Href:  (../../_imagens/ameacas-arton/kraken-pliorex.jpg)
+
+Arquivo: 01-ameacas\sob-ondas\10-kraken.md (linha 15)
+  Texto: [Kraken e Pliorex]
+  Href:  (../../_imagens/ameacas-arton/kraken-pliorex.jpg)
+
+Arquivo: 01-ameacas\sszzaazitas\01-adoradores.md (linha 15)
+  Texto: [Adoradores de Sszzaas]
+  Href:  (../../_imagens/ameacas-arton/adoradores-sszzaas.jpg)
+
+Arquivo: 01-ameacas\sszzaazitas\02-elemental-veneno.md (linha 15)
+  Texto: [Elemental do Veneno]
+  Href:  (../../_imagens/ameacas-arton/elemental-veneno.jpg)
+
+Arquivo: 01-ameacas\sszzaazitas\03-gorgona.md (linha 15)
+  Texto: [Górgona]
+  Href:  (../../_imagens/ameacas-arton/gorgona.jpg)
+
+Arquivo: 01-ameacas\sszzaazitas\04-nagah-arcanista.md (linha 15)
+  Texto: [Nagah Arcanista]
+  Href:  (../../_imagens/ameacas-arton/nagah-arcanista.jpg)
+
+Arquivo: 01-ameacas\sszzaazitas\05-nagah-dormente.md (linha 15)
+  Texto: [Nagah Dormente]
+  Href:  (../../_imagens/ameacas-arton/nagah-dormente.jpg)
+
+Arquivo: 01-ameacas\sszzaazitas\06-nagah-defensor.md (linha 15)
+  Texto: [Nagah Defensor]
+  Href:  (../../_imagens/ameacas-arton/nagah-defensor.jpg)
+
+Arquivo: 01-ameacas\sszzaazitas\07-nagah-retalhador.md (linha 17)
+  Texto: [Nagah Retalhador]
+  Href:  (../../_imagens/ameacas-arton/nagah-retalhador.jpg)
+
+Arquivo: 01-ameacas\sszzaazitas\08-nagah-sacerdotisa.md (linha 15)
+  Texto: [Nagah Sacerdotisa]
+  Href:  (../../_imagens/ameacas-arton/nagah-sacerdotisa.jpg)
+
+Arquivo: 01-ameacas\sszzaazitas\09-rival-espelho.md (linha 15)
+  Texto: [Rival Espelho]
+  Href:  (../../_imagens/ameacas-arton/rival-espelho.jpg)
+
+Arquivo: 01-ameacas\sszzaazitas\10-zumbi-peconha.md (linha 15)
+  Texto: [Zumbi Peçonha]
+  Href:  (../../_imagens/ameacas-arton/zumbi-peconha.jpg)
+
+Arquivo: 01-ameacas\sszzaazitas\11-nastarrath.md (linha 15)
+  Texto: [Nastarrath]
+  Href:  (../../_imagens/ameacas-arton/nastarrath.jpg)
+
+Arquivo: 01-ameacas\sszzaazitas\12-celebrante.md (linha 15)
+  Texto: [Sszzaazita Celebrante]
+  Href:  (../../_imagens/ameacas-arton/celebrante.jpg)
+
+Arquivo: 01-ameacas\trolls-nobres\README.md (linha 17)
+  Texto: [Trolls Nobres]
+  Href:  (../../_imagens/ameacas-arton/trolls-nobres.jpg)
+
+Arquivo: 01-ameacas\trolls-nobres\README.md (linha 45)
+  Texto: [Arcanista Finntroll]
+  Href:  (01-arcanista.md)
+
+Arquivo: 01-ameacas\trolls-nobres\README.md (linha 48)
+  Texto: [Defeituoso]
+  Href:  (02-defeituoso.md)
+
+Arquivo: 01-ameacas\trolls-nobres\README.md (linha 51)
+  Texto: [Mycotann]
+  Href:  (03-mycotann.md)
+
+Arquivo: 01-ameacas\trolls-nobres\README.md (linha 54)
+  Texto: [Opressor Finntroll]
+  Href:  (04-opressor.md)
+
+Arquivo: 01-ameacas\trolls-nobres\README.md (linha 57)
+  Texto: [Perdigueiro Troll]
+  Href:  (05-perdigueiro.md)
+
+Arquivo: 01-ameacas\trolls-nobres\README.md (linha 60)
+  Texto: [Protetor-Refém]
+  Href:  (06-protetor-refem.md)
+
+Arquivo: 01-ameacas\trolls-nobres\README.md (linha 63)
+  Texto: [Cavaleiro Finntroll]
+  Href:  (07-cavaleiro.md)
+
+Arquivo: 01-ameacas\trolls-nobres\README.md (linha 66)
+  Texto: [Sacerdote Finntroll]
+  Href:  (08-sacerdote.md)
+
+Arquivo: 01-ameacas\uivantes\README.md (linha 15)
+  Texto: [Uivantes]
+  Href:  (../../_imagens/ameacas-arton/uivantes.jpg)
+
+Arquivo: 01-ameacas\uivantes\README.md (linha 42)
+  Texto: [Carcaju]
+  Href:  (carcaju.md)
+
+Arquivo: 01-ameacas\uivantes\README.md (linha 45)
+  Texto: [Golem de Nor]
+  Href:  (golem-nor.md)
+
+Arquivo: 01-ameacas\uivantes\README.md (linha 48)
+  Texto: [Mamute]
+  Href:  (mamute.md)
+
+Arquivo: 01-ameacas\uivantes\README.md (linha 51)
+  Texto: [Minotauro da Manada]
+  Href:  (minotauro-manada.md)
+
+Arquivo: 01-ameacas\uivantes\README.md (linha 54)
+  Texto: [Ogro Furioso]
+  Href:  (ogro-furioso.md)
+
+Arquivo: 01-ameacas\uivantes\README.md (linha 57)
+  Texto: [Soterrado]
+  Href:  (soterrado.md)
+
+Arquivo: 01-ameacas\uivantes\README.md (linha 60)
+  Texto: [Stagh]
+  Href:  (stagh.md)
+
+Arquivo: 01-ameacas\uivantes\README.md (linha 63)
+  Texto: [Urso das Neves]
+  Href:  (urso-neves.md)
+
+Arquivo: 01-ameacas\uivantes\README.md (linha 66)
+  Texto: [Verme do Gelo]
+  Href:  (verme-gelo.md)
+
 Arquivo: 01-ameacas\areas-tormenta\07-lefeu\01-veridak.md (linha 16)
   Texto: [Ilustração de um Lefeu Veridak]
   Href:  (../../../_imagens/ameacas-arton/lefeu-veridak.jpg)
@@ -869,4 +1017,27 @@ Arquivo: 01-ameacas\areas-tormenta\07-lefeu\04-morgadrel.md (linha 12)
 ARQUIVOS .MD ÓRFÃOS (não referenciados por nenhum outro .md):
 ------------------------------------------------------------------------
 
+- 01-ameacas\mortos-vivos\01-carnical-lacedon.md
+- 01-ameacas\mortos-vivos\02-esqueletos.md
+- 01-ameacas\mortos-vivos\03-fantasma.md
+- 01-ameacas\mortos-vivos\04-garras-zumbi.md
+- 01-ameacas\mortos-vivos\05-livido-mortalha.md
+- 01-ameacas\mortos-vivos\06-mumia.md
+- 01-ameacas\mortos-vivos\07-necrodracos.md
+- 01-ameacas\mortos-vivos\08-tarso.md
+- 01-ameacas\mundo-perdido\01-dinossauros-herbivoros.md
+- 01-ameacas\mundo-perdido\02-dinossauros-carnivoros.md
+- 01-ameacas\mundo-perdido\03-seres-planta.md
+- 01-ameacas\mundo-perdido\04-arvore-matilha.md
+- 01-ameacas\piratas-pistoleiros\01-piratas-mortos-vivos.md
+- 01-ameacas\piratas-pistoleiros\02-armeiro-tenebra.md
+- 01-ameacas\piratas-pistoleiros\03-demonio-polvora.md
+- 01-ameacas\piratas-pistoleiros\04-bandoleiros.md
+- 01-ameacas\piratas-pistoleiros\05-piratas-vivos.md
+- 01-ameacas\piratas-pistoleiros\07-sahuagin.md
+- 01-ameacas\piratas-pistoleiros\08-lendas-gatilho.md
+- 01-ameacas\sanguinarias\03-oxxdon.md
+- 01-ameacas\sanguinarias\04-razzakham.md
+- 01-ameacas\sanguinarias\05-serpe.md
+- 01-ameacas\sanguinarias\06-uraghian.md
 - GUIA_INICIO.md
