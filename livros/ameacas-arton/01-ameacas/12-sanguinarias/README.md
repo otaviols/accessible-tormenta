@@ -29,4 +29,4 @@ Grande parte dos monstros nas Sanguinárias não se reproduz por meios naturais;
 
 ---
 
-**[Voltar para Reino dos Mortos](../11-reino-dos-mortos/08-ferren-asloth.md)** | **[Ir para Regiões](../../02-regioes/README.md)**
+**[Voltar para Reino dos Mortos](../11-reino-dos-mortos/08-ferren-asloth.md)** | **[Ir para Regras Avançadas](../../02-regras-avancadas/README.md)**

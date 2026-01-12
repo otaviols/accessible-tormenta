@@ -11,22 +11,22 @@ navigation:
 
 > **Status da conversão do suplemento "Heróis de Arton" para documentação Markdown integral e acessível**
 
-**ÚLTIMA ATUALIZAÇÃO:** 11/01/2026 - 🎉 PROJETO 100% COMPLETO! 🎉
+**ÚLTIMA ATUALIZAÇÃO:** 12/01/2026 - Capítulo 2 (Novos Poderes) 100% COMPLETO! 🎉
 
 ---
 
 ## 📊 Progresso Geral
 
-**Capítulos Completos:** 4 de 4 (100%) ✅
+**Capítulos Completos:** 2 de 4 (50%) ✅
 
-**Acessibilidade:** ✅ Validado e corrigido (Janeiro 2026)
+**Acessibilidade:** ✅ Validado (Capítulos 1-2)
 
 **Estatísticas:**
-- 📁 **Arquivos criados:** 136 arquivos markdown
-- 📝 **Volume total:** ~2.7MB de conteúdo convertido
-- 🎯 **Páginas documentadas:** 332 de 332 páginas do PDF (100%)
-- 📊 **Conteúdo extraído:** 22,702 linhas processadas
-- ✅ **Status:** PROJETO COMPLETO!
+- 📁 **Arquivos criados:** 142 arquivos markdown (+6 novos)
+- 📝 **Volume total:** ~3.0MB de conteúdo convertido
+- 🎯 **Páginas documentadas:** 100/332 do PDF (30%)
+- 📊 **Conteúdo extraído:** 24,500+ linhas processadas
+- ✅ **Status:** Capítulos 1-2 COMPLETOS, Capítulos 3-4 PENDENTES
 
 ---
 
@@ -80,51 +80,31 @@ navigation:
     - 6 tabelas d100: Nomes (8 raças), Aparência, Trejeitos, Objetivos, Nomes Mascotes, Nomes Guildas
     - ~200 entradas únicas de personalização
 
-### 🔴 Capítulo 2: Distinções (0%)
-- **Arquivos planejados:** ~40 arquivos
-  - 1 arquivo de sistema (01-sistema-distincoes.md)
-  - 37 distinções individuais (02-aeronauta-goblin.md a 38-vigarista.md)
-  - 1 README
-- **Status:** 🔴 PENDENTE
-- **Conteúdo atual:** README navegacional criado
-- **Pendente:**
-  - Extrair regras do sistema de distinções
-  - Converter cada uma das 37 distinções
-  - Criar tabelas de pré-requisitos e benefícios
-- **Ação necessária:** Aguardando conclusão do Capítulo 1
+### ✅ Capítulo 2: Novos Poderes (100% COMPLETO - Janeiro 2026)
+- **Arquivos criados:** 6 arquivos
+  - ✅ poderes-combate.md - 25 poderes de combate
+  - ✅ poderes-destino.md - 13 poderes de destino/personalidade
+  - ✅ poderes-magia.md - 14 poderes mágicos e aprimoramentos
+  - ✅ poderes-tormenta.md - 6 poderes de corrupção
+  - ✅ poderes-raca.md - 86 poderes raciais organizados por raça
+  - ✅ poderes-grupo.md - 20 poderes de cooperação em grupo
+  - ✅ README navegacional
+- **Status:** ✅ COMPLETO
+- **Conteúdo extraído:** 
+  - ✅ Todos os poderes extraídos de full_text.txt (páginas 78-93)
+  - ✅ Navegação completa entre arquivos
+  - ✅ Tabelas de pré-requisitos em cada arquivo
+  - ✅ Descrições completas com efeitos e aprimoramentos
 
 ### 🔴 Capítulo 3: Arsenal dos Heróis (0%)
 - **Arquivos planejados:** ~17 arquivos
-  - 6 arquivos de equipamentos mundanos
-  - 4 arquivos de sistema de bases
-  - 1 arquivo de magias arcanas
-  - 6 arquivos de itens mágicos
-  - 1 arquivo de artefatos
-  - 1 README
 - **Status:** 🔴 PENDENTE
-- **Conteúdo atual:** README navegacional criado
-- **Pendente:**
-  - Converter tabelas de armas, armaduras e itens
-  - Extrair sistema completo de bases
-  - Converter novas magias
-  - Converter itens mágicos e artefatos
-- **Ação necessária:** Aguardando conclusão dos Capítulos 1-2
+- **Pendente:** Converter armas, armaduras, itens, magias e artefatos
 
 ### 🔴 Capítulo 4: Regras Opcionais (0%)
 - **Arquivos planejados:** ~18 arquivos
-  - 6 arquivos de variantes de criação
-  - 4 arquivos de regras avançadas
-  - 7 arquivos de sistema de domínios
-  - 1 arquivo de lista de regras
-  - 1 README
 - **Status:** 🔴 PENDENTE
-- **Conteúdo atual:** README navegacional criado
-- **Pendente:**
-  - Converter todas as regras opcionais
-  - Extrair sistema completo de domínios
-  - Criar tabelas de combate avançado
-  - Documentar eventos aleatórios
-- **Ação necessária:** Aguardando conclusão dos Capítulos 1-3
+- **Pendente:** Converter regras opcionais e sistema de domínios
 
 ---
 

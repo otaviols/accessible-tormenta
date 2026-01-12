@@ -1,6 +1,6 @@
 # Progresso de Conversão - Ameaças de Arton
 
-**ÚLTIMA ATUALIZAÇÃO:** 11/01/2026 - **🔄 EM REVISÃO - Restaurando Capítulos 2 e 3 com Texto Integral**
+**ÚLTIMA ATUALIZAÇÃO:** 12/01/2026 - **Links estruturais corrigidos + READMEs atualizados**
 
 ---
 
@@ -14,9 +14,12 @@
 - 📁 Arquivos criados: **665+ arquivos markdown**
 - 📝 Volume total: ~3.0MB (expandido de ~2.6MB)
 - 🎯 Páginas documentadas: **436/436 (100%)**
+- 🔗 **Links validados:** 228 quebrados (reduzidos de 236, maioria são imagens faltantes)
 - ✅ Extração PDF: ✅ COMPLETA
 - ✅ Introdução: ✅ **COMPLETO (2 arquivos)**
 - ✅ Cap. 1 - Ameaças: ✅ **COMPLETO (35/35 categorias - 346 arquivos)**
+  - 🆕 **Links corrigidos (12/01/2026):** READMEs de Mortos-Vivos, Mundo Perdido, Piratas & Pistoleiros, Sanguinárias agora linkam corretamente para arquivos de criaturas
+  - 🆕 **Navegação corrigida:** Links para "areas-tormenta", "gnolls", "02-regras-avancadas" corrigidos
 - 🔄 Cap. 2 - Regras Avançadas: 🔄 **REESCREVENDO COM TEXTO INTEGRAL** (~300→~1500+ linhas)
 - 🔄 Cap. 3 - Bazar Monstruoso: 🔄 **EXPANDINDO COM TEXTO INTEGRAL** (~1800→~2500+ linhas)
 - ✅ Apêndices A-D: ✅ **COMPLETO (4 apêndices - 5 arquivos)**

@@ -144,8 +144,8 @@ Criaturas das terras geladas do norte: mamutes, golens de nor, vermes do gelo.
 ### [Novos Perigos](novos-perigos/README.md)
 Perigos ambientais: armadilhas, doenças, maldições, fenômenos rubros.
 
-### [Chefe Final](chefe-final/README.md)
-Regras para criar encontros épicos de chefe final.
+<!-- ### [Chefe Final](chefe-final/README.md)
+Regras para criar encontros épicos de chefe final. (PENDENTE) -->
 
 ---
 

@@ -31,22 +31,26 @@ Pouquíssimos aventureiros se aventuram nas Sanguinárias. Razões para explorar
 
 ## Criaturas das Sanguinárias
 
-### Predadores de Emboscada
-- [**Cerianthar**](01-cerianthar.md) (ND 4) - Anêmona gigante camuflada, oito tentáculos constritores, imobilidade perfeita
+### [Predadores de Emboscada](01-cerianthar.md)
+- **Cerianthar** (ND 4) - Anêmona gigante camuflada, oito tentáculos constritores, imobilidade perfeita
 
-### Gigantes Blindados
-- [**Grande Tachygloss**](02-tachygloss.md) (ND 16) - Ouriço colossal, espinhos penetram adamante, armadura natural, escalada vertical
-- [**Razza'Kham**](03-razzakham.md) (ND 17) - Quelicerossauro, híbrido réptil-inseto, Brutalidade Incontida, Dilacerar 8d6
+### [Gigantes Blindados — Grande Tachygloss](02-tachygloss.md)
+- **Grande Tachygloss** (ND 16) - Ouriço colossal, espinhos penetram adamante, armadura natural, escalada vertical
 
-### Corrosivos e Flamejantes
-- [**Oxxdon**](04-oxxdon.md) (ND 2/10) - "Monstro da ferrugem", antena corrói metal instantaneamente, Aura Oxidante paralisa golens
-- [**Uraghian**](05-uraghian.md) (ND 5/8) - Besouro-do-óleo, rajada flamejante, Couraça Cáustica queima atacantes, explosão ao morrer
+### [Gigantes Blindados — Razza'Kham](04-razzakham.md)
+- **Razza'Kham** (ND 17) - Quelicerossauro, híbrido réptil-inseto, Brutalidade Incontida, Dilacerar 8d6
 
-### Venenosos Alados
-- [**Serpe**](06-serpe.md) (ND 5/8) - Lagarto alado bípede, peçonha **ignora imunidade a veneno**, anciã com Jato de Podridão
+### [Corrosivos — Oxxdon](03-oxxdon.md)
+- **Oxxdon** (ND 2/10) - "Monstro da ferrugem", antena corrói metal instantaneamente, Aura Oxidante paralisa golens
 
-### Forças da Natureza
-- [**Kaiju**](07-kaiju.md) (ND 20) - Titânicos colossais, 1.500 PV, regras especiais (Maior que a Vida, pisoteamento, Arsenal Titânico), regeneram mesmo destruídos
+### [Flamejantes — Uraghian](06-uraghian.md)
+- **Uraghian** (ND 5/8) - Besouro-do-óleo, rajada flamejante, Couraça Cáustica queima atacantes, explosão ao morrer
+
+### [Venenosos Alados — Serpe](05-serpe.md)
+- **Serpe** (ND 5/8) - Lagarto alado bípede, peçonha **ignora imunidade a veneno**, anciã com Jato de Podridão
+
+### [Forças da Natureza — Kaiju](07-kaiju.md)
+- **Kaiju** (ND 20) - Titânicos colossais, 1.500 PV, regras especiais (Maior que a Vida, pisoteamento, Arsenal Titânico), regeneram mesmo destruídos
 
 ---
 

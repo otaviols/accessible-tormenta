@@ -11,7 +11,7 @@ navigation:
 
 > **Status da conversão do livro básico de Tormenta 20 para documentação Markdown acessível**
 
-**ÚLTIMA ATUALIZAÇÃO:** 10/01/2026
+**ÚLTIMA ATUALIZAÇÃO:** 12/01/2026 - 6 magias de 5º círculo adicionadas! ✅
 
 ---
 
@@ -21,10 +21,11 @@ navigation:
 
 **Estatísticas:**
 - 📁 **Arquivos criados:** 133 arquivos markdown
-- 📝 **Volume total:** ~990KB de conteúdo convertido  
+- 📝 **Volume total:** ~1.0MB de conteúdo convertido  
 - 🎯 **Páginas documentadas:** 407 de 407 páginas do PDF (100%)
 - 🖼️ **Imagens:** 35 ilustrações com alt-text descritivo
 - ✅ **Status:** ✅ COMPLETO
+- 🆕 **Última atualização:** 6 magias de 5º círculo adicionadas (Chuva de Meteoros, Controlar o Tempo, Deflagração de Mana, Desejo, Engenho de Mana, Semiplano)
 
 ---
 
@@ -72,11 +73,18 @@ navigation:
 - Páginas: 296-341 do PDF
 - Conteúdo: 79 criaturas (Bestiário Partes 1, 2 e 3), Construção de Combates, Perigos, Recompensas
 
-### ✅ Capítulo 9: Magia (✅ 100% COMPLETO)
+### ✅ Capítulo 9: Magia (100% COMPLETO - Atualizado 12/01/2026)
 - 7 arquivos criados (README, Listas, Conceitos, 5 círculos)
 - Páginas: 342-381 do PDF
-- Conteúdo: 175 magias únicas (círculos 1-5) organizadas por círculo
+- Conteúdo: 181 magias únicas (círculos 1-5) organizadas por círculo
 - **✅ CORRIGIDO:** Todas as duplicatas removidas, magias consolidadas por círculo
+- **🆕 ADICIONADO (12/01/2026):** 6 magias de 5º círculo previamente ausentes:
+  - Chuva de Meteoros (Arcana 5, Evocação) - 4 esferas flamejantes 6d6 de fogo
+  - Controlar o Tempo (Universal 5, Transmutação) - Rodadas extras de ações
+  - Deflagração de Mana (Arcana 5, Evocação) - Explosão de PM 1d8/PM
+  - Desejo (Universal 5, Transmutação) - Magia mais poderosa, altera realidade
+  - Engenho de Mana (Arcana 5, Abjuração) - Disco anti-magia automático
+  - Semiplano (Arcana 5, Convocação) - Cria dimensão particular 30m
 
 ### ✅ Capítulo 11: Ambientação (100% COMPLETO)
 - 20 arquivos criados

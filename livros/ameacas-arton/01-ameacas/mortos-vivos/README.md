@@ -10,26 +10,41 @@ Muito mudou, mas a maior parte desses seres é — e talvez sempre seja — um m
 
 ## Criaturas desta Categoria
 
-1. **Carniçal** (ND 1) - Mortos-vivos canibais, rápidos e famintos
-2. **Lacedon** (ND 2) - Variante aquática de carniçal
-3. **Esqueleto - Cavalo** (ND 1) - Montaria morto-vivo
-4. **Esqueleto - Ogro** (ND 3) - Guerreiro esquelético imenso
-5. **Esqueleto - Urso Pardo** (ND 4) - Predador ósseo mortal
-6. **Esqueleto - Gigante** (ND 5) - Colosso de ossos
-7. **Fantasma** (ND 7) - Espíritos presos ao mundo material
-8. **Esqueleto - Mamute** (ND 8) - Titã pré-histórico reanimado
-9. **Esqueleto - Hidra** (ND 11) - Múltiplas cabeças serpentinas
-10. **Mortalha** (ND 11) - Sombras vingativas de rancor puro
-11. **Esqueleto - Rei-Tirano** (ND 12) - Dragão esquelético ancestral
-13. **Fantasma Ancestral** (ND 14) - Espírito antigo de imenso poder
-14. **Garra-Zumbi** (ND 1/4 a 5) - Mãos decepadas animadas (4 variantes)
-15. **Lívido** (ND 3) - Carniçal astuto e estrategista
-16. **Múmia** (ND 5) - Guardiães de tumbas milenares
-17. **Senhor das Múmias** (ND 15) - Múmias conjuradoras antigas
-18. **Necrodraco Esqueleto** (ND 12) - Dragão morto-vivo ósseo
-19. **Necrodraco Zumbi** (ND 14) - Dragão cadavérico putrefato
-20. **Necrodraco Lich** (ND 20) - Dracolich de poder supremo
-21. **Tarso, Dragão-Rei dos Mortos** (ND S+) - O ser mais poderoso de Arton
+### [Carniçal e Lacedon](01-carnical-lacedon.md)
+- **Carniçal** (ND 1) - Mortos-vivos canibais, rápidos e famintos
+- **Lacedon** (ND 2) - Variante aquática de carniçal
+
+### [Esqueletos](02-esqueletos.md)
+- **Esqueleto - Cavalo** (ND 1) - Montaria morto-vivo
+- **Esqueleto - Ogro** (ND 3) - Guerreiro esquelético imenso
+- **Esqueleto - Urso Pardo** (ND 4) - Predador ósseo mortal
+- **Esqueleto - Gigante** (ND 5) - Colosso de ossos
+- **Esqueleto - Mamute** (ND 8) - Titã pré-histórico reanimado
+- **Esqueleto - Hidra** (ND 11) - Múltiplas cabeças serpentinas
+- **Esqueleto - Rei-Tirano** (ND 12) - Dragão esquelético ancestral
+
+### [Fantasma](03-fantasma.md)
+- **Fantasma** (ND 7) - Espíritos presos ao mundo material
+- **Fantasma Ancestral** (ND 14) - Espírito antigo de imenso poder
+
+### [Garra-Zumbi](04-garras-zumbi.md)
+- **Garra-Zumbi** (ND 1/4 a 5) - Mãos decepadas animadas (4 variantes)
+
+### [Lívido e Mortalha](05-livido-mortalha.md)
+- **Lívido** (ND 3) - Carniçal astuto e estrategista
+- **Mortalha** (ND 11) - Sombras vingativas de rancor puro
+
+### [Múmia](06-mumia.md)
+- **Múmia** (ND 5) - Guardiães de tumbas milenares
+- **Senhor das Múmias** (ND 15) - Múmias conjuradoras antigas
+
+### [Necrodracos](07-necrodracos.md)
+- **Necrodraco Esqueleto** (ND 12) - Dragão morto-vivo ósseo
+- **Necrodraco Zumbi** (ND 14) - Dragão cadavérico putrefato
+- **Necrodraco Lich** (ND 20) - Dracolich de poder supremo
+
+### [Tarso, Dragão-Rei dos Mortos](08-tarso.md)
+- **Tarso** (ND S+) - O ser mais poderoso de Arton
 
 ## Tipos de Mortos-Vivos
 

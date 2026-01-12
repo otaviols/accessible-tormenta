@@ -217,5 +217,5 @@ A criatura sofre +50% de dano ou de perda de vida (conforme apropriado) de um ti
 ## 🔗 Navegação
 
 - [← Anterior: Tipos de Criaturas](00-tipos-criaturas.md)
-- [→ Próximo: Áreas de Tormenta](../areas-tormenta/README.md)
+- [→ Próximo: Áreas de Tormenta](areas-tormenta/README.md)
 - [↑ Voltar ao Capítulo 1](README.md)

@@ -3,12 +3,14 @@ title: "Poderes de Grupo"
 book: "herois-arton"
 chapter: "02-novos-poderes"
 navigation:
-  previous: null
-  next: "README"
+  previous: "poderes-raca.md"
+  next: null
   up: "README.md"
 ---
 
 # Poderes de Grupo
+
+[← Anterior: Poderes de Raça](poderes-raca.md) | [Início](README.md)
 
 Poderes de grupo fornecem bônus maiores que outros poderes; contudo, só funcionam se houver outro personagem com o mesmo poder na cena. Assim, se apenas você comprar um poder de grupo, ele não terá efeito! Muitas vezes, poderes de grupo se tornam mais eficientes de acordo com o número de personagens com o mesmo poder na cena.
 

@@ -3,8 +3,8 @@ title: "Império de Jade"
 book: "Ameaças de Arton"
 chapter: "Capítulo 1: Ameaças"
 section: "Império de Jade"
-prev: "../09-gnolls"
-next: "01-kabuto"
+prev: "../gnolls/README.md"
+next: "01-kabuto.md"
 ---
 
 # Império de Jade
@@ -28,4 +28,4 @@ Este capítulo apresenta as seguintes criaturas do Império de Jade:
 - [Tengu](07-tengu.md) - Homens-corvos bandoleiros
 - [Dragão Celestial](08-dragao-celestial.md) - Espíritos dracônicos de Lin-Wu
 
-[← Voltar para Gnolls](../09-gnolls) | [Próximo: Kabuto →](01-kabuto.md) | [↑ Voltar para Ameaças](../README.md)
+[← Voltar para Gnolls](../gnolls/README.md) | [Próximo: Kabuto →](01-kabuto.md) | [↑ Voltar para Ameaças](../README.md)

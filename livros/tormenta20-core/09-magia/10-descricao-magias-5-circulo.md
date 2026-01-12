@@ -89,6 +89,70 @@ Não se conhece o destino das coisas sugadas pelo buraco negro, uma vez que jama
 
 **+5 PM:** muda o efeito para que você não seja afetado.
 
+## Chuva de Meteoros
+
+Arcana 5 (Evocação)
+
+**Execução:** padrão; **Alcance:** longo; **Área:** 4 esferas com 6m de raio; **Duração:** instantânea; **Resistência:** Reflexos reduz à metade.
+
+Você cria quatro esferas flamejantes que caem do céu sobre pontos escolhidos dentro do alcance, causando 6d6 pontos de dano de fogo em todas as criaturas na área de cada esfera. Como cada esfera cai de forma independente, uma criatura pode ser afetada por mais de uma (e deve fazer um teste de resistência contra cada uma). A magia danifica objetos na área e pode atear fogo em materiais combustíveis.
+
+**+1 PM:** muda o número de esferas para 8 esferas com 6m de raio.
+
+**+5 PM:** aumenta o dano de cada esfera em +2d6.
+
+## Controlar o Tempo
+
+Universal 5 (Transmutação)
+
+**Execução:** padrão; **Alcance:** pessoal; **Alvo:** você; **Duração:** instantânea.
+
+Esta magia faz com que o tempo passe mais devagar para todas as outras criaturas. Em termos práticos, você pode realizar uma rodada completa de ações enquanto o resto do mundo parece congelado. Você pode se mover e agir normalmente. Enquanto a magia durar, qualquer criatura e objeto que você afetar também pode se mover e agir normalmente. Até o fim da rodada, outras criaturas ficam indefesas contra quaisquer ataques feitos por você.
+
+**+5 PM:** muda a duração para 1 rodada. Em vez do normal, você realiza duas rodadas completas de ações.
+
+**+10 PM:** muda a duração para 2 rodadas. Em vez do normal, você realiza três rodadas completas de ações.
+
+## Deflagração de Mana
+
+Arcana 5 (Evocação)
+
+**Execução:** padrão; **Alcance:** pessoal; **Área:** esfera com 9m de raio; **Duração:** instantânea; **Resistência:** Fortitude parcial.
+
+Esta poderosa magia faz toda a energia mágica em você vazar para fora em uma explosão devastadora. Você gasta todos os seus PM restantes, causando 1d8 pontos de dano de essência por PM gasto. Além disso, criaturas dentro da área que sejam capazes de lançar magias têm todos os seus PM reduzidos a 0. Um teste de Fortitude bem-sucedido reduz o dano à metade e evita a perda de PM. Como esta magia consome todos os seus PM, você fica automaticamente inconsciente ao lançá-la.
+
+**+0 PM:** muda o efeito para que você não fique inconsciente.
+
+**+0 PM:** muda o efeito para que você não seja afetado pela perda de PM.
+
+## Desejo
+
+Universal 5 (Transmutação)
+
+**Execução:** padrão; **Alcance:** veja texto; **Efeito, Alvo ou Área:** veja texto; **Duração:** veja texto.
+
+Esta é a mais poderosa de todas as magias arcanas, capaz de alterar a realidade. Você pode fazer com que um evento recente nunca tenha acontecido. Qualquer evento recente (algo que tenha acontecido no turno anterior) é desfeito, como se nunca tivesse acontecido. Isso inclui a morte de um aliado, um inimigo que fugiu, um ataque que destruiu um item importante etc. Desejo pode também duplicar qualquer outra magia arcana de 4º círculo ou menor, sem precisar dos componentes originais.
+
+Finalmente, a critério do mestre, Desejo pode ter efeitos mais poderosos, mas qualquer uso desse tipo causa tanto esforço que você perde 5 pontos de vida permanentemente e fica debilitado até descansar. Esses efeitos incluem: fazer um objeto aparecer do nada (no valor máximo de T$ 10.000), transportar até oito criaturas voluntárias para qualquer lugar, conceder resistência 20 a um tipo de dano para você por uma cena, aumentar um atributo permanentemente em +1 (até o máximo racial) ou diminuir um atributo de uma criatura permanentemente em 1 (sem mínimo).
+
+Como alternativa, você pode desfazer efeitos nocivos. Desejo pode funcionar como Cura Completa para todas as criaturas que você escolher dentro de alcance longo ou encerrar qualquer outro efeito mágico em uma criatura ou objeto, como se fosse afetado por Dissipar Magia Superior.
+
+O mestre pode criar outros efeitos para Desejo. Note que um desejo pode ser interpretado literalmente, e um desejo mal formulado pode se voltar contra você. Por exemplo, o desejo "Quero que o dragão morra!" pode simplesmente te arremessar uma semana no futuro, quando o dragão finalmente terá morrido de velhice.
+
+**+0 PM:** muda a execução para reação. Em vez do normal, você duplica uma magia de 4º círculo ou menor. Você lança esta magia quando uma magia de 4º círculo ou menor que você conhece (e que não seja sustentada) terminar. Você pode prolongar a magia em 1 rodada por cada 5 PM gastos na magia original, lançando-a novamente instantaneamente, sem custo e sem gastar uma ação.
+
+## Engenho de Mana
+
+Arcana 5 (Abjuração)
+
+**Execução:** padrão; **Alcance:** médio; **Efeito:** disco de energia com 1,5m de diâmetro; **Duração:** sustentada.
+
+Você cria um disco de energia flutuante que paira próximo a você. Uma vez por rodada, quando uma magia ou habilidade mágica é lançada dentro do alcance, você pode usar uma reação para tentar contra-atacá-la. Faça um teste de Misticismo oposto contra o teste de Misticismo do conjurador original. Se você vencer, a magia é cancelada (como Dissipar Magia) e você recupera metade dos PM gastos na magia cancelada (arredondado para baixo, mínimo 1). O disco pode armazenar até 20 PM e, se ultrapassar esse valor, o excesso é desperdiçado. Você pode gastar os PM armazenados a qualquer momento.
+
+**+1 PM:** muda a área de efeito para "disco de energia que segue você". Em vez do normal, o disco de energia se move junto com você automaticamente.
+
+**+4 PM:** muda a duração para 1 dia.
+
 ## Invulnerabilidade
 
 Universal 5 (Abjuração)
@@ -206,6 +270,20 @@ Um brilho alaranjado, na forma de asas de fênix, emana do alvo. Ele recupera 20
 **+2 PM:** muda o alcance para curto e o alvo para até 5 criaturas.
 
 **+5 PM:** muda o alvo para uma criatura que tenha morrido há até uma rodada. Esta magia pode curá-la.
+
+## Semiplano
+
+Arcana 5 (Convocação)
+
+**Execução:** completa; **Alcance:** curto; **Efeito:** semiplano com 30m de lado; **Duração:** 1 dia.
+
+Você cria uma dimensão particular. Você pode entrar no semiplano gastando uma ação padrão e 10 PM, desaparecendo do plano material como se tivesse se teletransportado. Você pode levar criaturas voluntárias que esteja tocando, ao custo de 1 PM por criatura extra. Você também pode levar objetos que esteja tocando, ao custo de 1 PM por 200kg. Uma vez no semiplano, pode gastar uma ação completa para voltar ao plano material, no mesmo local onde estava. Caso conheça a magia Viagem Planar, pode lançá-la para voltar ao plano material em outro local.
+
+Você escolhe a forma e a aparência do semiplano — uma caverna, um asteroide que singra o éter, um palacete de cristal etc. Ele contém ar, luz e calor, mas além disso é vazio. Entretanto, você pode levar itens (mobília, ferramentas etc.) a cada viagem.
+
+**+2 PM:** adiciona alvo (1 criatura). Você cria um semiplano labiríntico e expulsa o alvo para ele. A cada rodada, a vítima tem direito a um teste de Investigação ou Sobrevivência (CD da magia), com bônus cumulativo de +1 para cada teste já realizado, para escapar do labirinto. Quando o alvo escapa, a magia termina e o alvo reaparece no plano material no mesmo local onde estava quando a magia foi lançada. Magias como Salto Dimensional e Teletransporte não ajudam a escapar do labirinto, mas Viagem Planar, sim.
+
+**+5 PM:** muda a duração para permanente e adiciona componente material (maquete do semiplano feita de materiais preciosos no valor de T$ 5.000). Você pode lançar a magia diversas vezes para aumentar as dimensões do semiplano em +30m de lado a cada vez.
 
 ## Sombra Assassina
 

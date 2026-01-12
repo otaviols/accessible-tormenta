@@ -18,16 +18,23 @@ Diferente do que ocorre em outros nichos, é muito raro encontrar fauna nativa d
 
 ## Criaturas desta Categoria
 
-1. **Árvore-Matilha** (ND 13) - Construto arbóreo com múltiplas cabeças lupinas
-2. **Burafonte** (ND 4 e 8) - Lagarto-trovão herbívoro com espinhos dorsais
-3. **Deinonico** (ND 4 e 8) - Predador emplumado com garras em foice
-4. **Espada-da-Floresta** (ND 3) - Guerreiro vegetal com espada de madeira
-5. **Galhada** (ND 2) - Cervo de matéria vegetal, macho e fêmea
-6. **Gali-Gali** (ND 1/4 e 1) - Pequenos lagartos em bandos letais
-7. **Grande Battham** (ND 12) - Lagarto-trovão colossal de pescoço longo
-8. **Raagoran** (ND 8) - Predador com carapaça de lama endurecida
-9. **Tuntram** (ND 10) - Lagarto de cabeça blindada e chifres de lança
-10. **Rei-Tirano** (ND 14) - O maior predador de Galrasia
+### [Dinossauros Herbívoros](01-dinossauros-herbivoros.md)
+- **Burafonte** (ND 4 e 8) - Lagarto-trovão herbívoro com espinhos dorsais
+- **Grande Battham** (ND 12) - Lagarto-trovão colossal de pescoço longo
+- **Tuntram** (ND 10) - Lagarto de cabeça blindada e chifres de lança
+
+### [Dinossauros Carnívoros](02-dinossauros-carnivoros.md)
+- **Deinonico** (ND 4 e 8) - Predador emplumado com garras em foice
+- **Gali-Gali** (ND 1/4 e 1) - Pequenos lagartos em bandos letais
+- **Raagoran** (ND 8) - Predador com carapaça de lama endurecida
+- **Rei-Tirano** (ND 14) - O maior predador de Galrasia
+
+### [Seres-Planta](03-seres-planta.md)
+- **Espada-da-Floresta** (ND 3) - Guerreiro vegetal com espada de madeira
+- **Galhada** (ND 2) - Cervo de matéria vegetal, macho e fêmea
+
+### [Árvore-Matilha](04-arvore-matilha.md)
+- **Árvore-Matilha** (ND 13) - Construto arbóreo com múltiplas cabeças lupinas
 
 ## Tipos de Criaturas
 

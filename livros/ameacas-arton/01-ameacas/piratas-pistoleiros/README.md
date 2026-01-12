@@ -9,16 +9,29 @@ De bucaneiros do Mar Negro a pistoleiros de Smokestone, esta categoria reúne as
 
 ## Criaturas desta Categoria
 
-1. **Afogado** (ND 7 e 10) - Morto-vivo aquático com aura de afogamento
-2. **Armeiro de Tenebra** (ND 6 e 8) - Cultistas anões que caçam pistoleiros
-3. **Demônio da Pólvora** (ND 12) - Espírito maligno que propaga armas de fogo
-4. **Goblin de Sombreiro** (ND 2 e 6) - Bandoleiros com chapéus largos e ponchos
-5. **Homem-Piranha** (ND 2, 4 e 7) - Piratas dos rios com dentes afiados
-6. **Pirata** (ND 1/2 a 10) - Bucaneiros de diversos grupos (Mar Negro, Frota Áurea, Independentes)
-7. **Pistoleiro de Smokestone** (ND 2 e 4) - Bandoleiros armados das planícies
-8. **Sahuagin** (ND 1 e 3) - Homens-tubarão predadores do mar
-9. **Chapéu-Preto** (ND 12) - Pistoleiro lendário e implacável
-10. **Lobo do Mar** (ND 16) - Maior pirata vivo, lenda dos oceanos
+### [Piratas Mortos-Vivos](01-piratas-mortos-vivos.md)
+- **Afogado** (ND 7 e 10) - Morto-vivo aquático com aura de afogamento
+
+### [Armeiro de Tenebra](02-armeiro-tenebra.md)
+- **Armeiro de Tenebra** (ND 6 e 8) - Cultistas anões que caçam pistoleiros
+
+### [Demônio da Pólvora](03-demonio-polvora.md)
+- **Demônio da Pólvora** (ND 12) - Espírito maligno que propaga armas de fogo
+
+### [Bandoleiros](04-bandoleiros.md)
+- **Goblin de Sombreiro** (ND 2 e 6) - Bandoleiros com chapéus largos e ponchos
+- **Homem-Piranha** (ND 2, 4 e 7) - Piratas dos rios com dentes afiados
+- **Pistoleiro de Smokestone** (ND 2 e 4) - Bandoleiros armados das planícies
+
+### [Piratas Vivos](05-piratas-vivos.md)
+- **Pirata** (ND 1/2 a 10) - Bucaneiros de diversos grupos (Mar Negro, Frota Áurea, Independentes)
+
+### [Sahuagin](07-sahuagin.md)
+- **Sahuagin** (ND 1 e 3) - Homens-tubarão predadores do mar
+
+### [Lendas do Gatilho](08-lendas-gatilho.md)
+- **Chapéu-Preto** (ND 12) - Pistoleiro lendário e implacável
+- **Lobo do Mar** (ND 16) - Maior pirata vivo, lenda dos oceanos
 
 ## Grupos Piratas
 

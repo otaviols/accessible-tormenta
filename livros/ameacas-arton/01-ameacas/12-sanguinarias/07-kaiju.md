@@ -3,8 +3,8 @@ title: "Kaiju"
 book: "Ameaças de Arton"
 chapter: "01 - Ameaças"
 section: "12 - Sanguinárias"
-prev: "06-uraghian"
-next: "../../02-regioes"
+prev: "06-uraghian.md"
+next: "../../02-regras-avancadas/README.md"
 ---
 
 # Kaiju
@@ -106,4 +106,4 @@ Cada kaiju possui dois poderes titânicos, escolhidos entre os seguintes:
 
 ---
 
-**[Voltar para Uraghian](06-uraghian.md)** | **[Ir para Regiões](../../02-regioes/README.md)**
+**[Voltar para Uraghian](06-uraghian.md)** | **[Ir para Regras Avançadas](../../02-regras-avancadas/README.md)**
