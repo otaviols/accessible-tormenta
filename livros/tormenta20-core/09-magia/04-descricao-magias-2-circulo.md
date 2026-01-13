@@ -89,13 +89,9 @@ Arcana 2 (Abjuração)
 
 Esta magia cria uma película protetora sobre você. Você recebe 30 PV temporários, mas apenas contra dano de corte, impacto ou perfuração (esses PV não impedem que você fique inconsciente, comece a sangrar, morra...).
 
-**+1 PM:** muda a execução para reação e a duração para instantânea. Em vez do normal, você recebe redução 30 contra o próximo dano que sofrer.
+**+1 PM:** além do normal, você também fica imune a ataques furtivos e acertos críticos.
 
-**+1 PM:** aumenta os PV temporários em +5 ou a redução de dano em +10.
-
-**+7 PM:** muda o alcance para curto, o alvo para outra criatura ou objeto Enorme ou menor e a duração para sustentada. Em vez do normal, cria uma esfera imóvel e tremeluzente ao redor do alvo. Nenhuma criatura, objeto ou efeito de dano pode passar pela esfera, embora criaturas possam respirar normalmente. Criaturas na área podem fazer um teste de Reflexos para evitar serem aprisionadas e sempre que você se concentrar. Requer 4º círculo.
-
-**+9 PM:** como o aprimoramento acima, mas tudo dentro da esfera fica praticamente sem peso. Uma vez por rodada, você pode gastar uma ação livre para flutuar a esfera e seu conteúdo 9m em uma direção. Requer 4º círculo.
+**+5 PM:** muda os PV temporários para 60.
 
 ## Camuflagem Ilusória
 
@@ -108,6 +104,42 @@ O alvo fica com sua imagem nublada, como se vista através de um líquido, receb
 **+3 PM:** a imagem do alvo fica mais distorcida, aumentando a chance de falha da camuflagem leve para 50%.
 
 **+7 PM:** muda o alcance para curto e o alvo para criaturas escolhidas. Requer 4º círculo.
+
+## Comando das Massas
+
+Divina 2 (Encantamento)
+
+**Execução:** padrão; **Alcance:** médio; **Alvo:** até 10 criaturas; **Duração:** 1 rodada; **Resistência:** Vontade anula.
+
+Funciona como Comando, mas afeta múltiplas criaturas. Todos os alvos devem obedecer a mesma ordem.
+
+**+2 PM:** aumenta o número de alvos em +10.
+
+## Condição
+
+Divina 2 (Adivinhação)
+
+**Execução:** padrão; **Alcance:** toque; **Alvos:** até 3 criaturas; **Duração:** 1 dia.
+
+Você toca até três criaturas e cria uma ligação mística entre elas e você. Pela duração da magia, você sabe a localização e condição delas: quantos PV possui, se está sob efeito de alguma condição ou magia etc. A magia funciona em qualquer distância, mas apenas no mesmo plano.
+
+**+2 PM:** aumenta o número de alvos em +1.
+
+**+2 PM:** muda o alcance para curto.
+
+## Controlar Plantas
+
+Divina 2 (Transmutação)
+
+**Execução:** padrão; **Alcance:** curto; **Área:** quadrado com 6m de lado; **Duração:** cena.
+
+Você anima as plantas na área. No início de cada um de seus turnos, as plantas fazem um ataque corpo a corpo (+5, 3d8 de dano, margem de ameaça 19) contra uma criatura à sua escolha na área. As plantas não ocupam espaço nem bloqueiam linha de efeito. Esta magia só funciona em áreas com vegetação.
+
+**+2 PM:** aumenta o bônus de ataque em +5 e o dano em +2d8.
+
+**+2 PM:** muda a área para esfera com 6m de raio.
+
+**+5 PM:** as plantas ganham alcance curto. Requer 3º círculo.
 
 ## Círculo da Justiça
 
@@ -123,18 +155,6 @@ Também conhecida como Lágrimas de Hyninn, esta magia é usada em tribunais e p
 
 **+7 PM:** muda a duração para permanente e adiciona componente material (balança de prata no valor de T$ 5.000).
 
-## Condição
-
-Divina 2 (Adivinhação)
-
-**Execução:** padrão; **Alcance:** toque; **Alvos:** até 3 criaturas; **Duração:** 1 dia.
-
-Você toca até três criaturas e cria uma ligação mística entre elas e você. Pela duração da magia, você sabe a localização e condição delas: quantos PV possui, se está sob efeito de alguma condição ou magia etc. A magia funciona em qualquer distância, mas apenas no mesmo plano.
-
-**+2 PM:** aumenta o número de alvos em +1.
-
-**+2 PM:** muda o alcance para curto.
-
 ## Desespero Esmagador
 
 Arcana 2 (Encantamento)
@@ -148,6 +168,28 @@ Humanoides na área são acometidos de grande tristeza, adquirindo as condiçõe
 **+3 PM:** em vez do normal, afeta qualquer tipo de criatura.
 
 **+3 PM:** além do normal, criaturas que falhem na resistência ficam aos prantos (em termos de jogo, adquirem a condição pasmo) por 1 rodada (apenas uma vez por cena). Requer 3º círculo.
+
+## Despedaçar
+
+Arcana 2 (Evocação)
+
+**Execução:** padrão; **Alcance:** curto; **Alvo:** 1 objeto ou criatura; **Duração:** instantânea; **Resistência:** Fortitude reduz à metade.
+
+Você cria uma vibração sonora intensa que causa 4d8 pontos de dano de impacto e 4d8 pontos de dano de trovão ao alvo. Se usar em um objeto, causa +2d8 pontos de dano e ignora a RD.
+
+**+2 PM:** aumenta o dano de impacto em +2d8 e o dano de trovão em +2d8.
+
+## Dificultar Detecção
+
+Universal 2 (Ilusão)
+
+**Execução:** padrão; **Alcance:** toque; **Alvo:** 1 criatura ou objeto; **Duração:** 1 dia.
+
+O alvo não pode ser rastreado por meios mundanos, como a perícia Sobrevivência. Além disso, magias de adivinhação lançadas para encontrar o alvo devem vencer um teste oposto de atributo-chave contra você.
+
+**+2 PM:** muda o alcance para pessoal e o alvo para você. Em vez do normal, você também não pode ser detectado por sentidos especiais, como percepção às cegas e faro.
+
+**+5 PM:** afeta criaturas escolhidas em alcance curto. Requer 3º círculo.
 
 ## Dissipar Magia
 
@@ -185,6 +227,20 @@ Esta magia altera os sons emitidos pelo alvo. Ela não é capaz de criar sons, m
 
 **+2 PM:** aumenta o número de alvos em +1. Todas as criaturas e objetos devem ser afetadas da mesma forma.
 
+## Flecha Ácida
+
+Arcana 2 (Evocação)
+
+**Execução:** padrão; **Alcance:** médio; **Alvo:** 1 criatura ou objeto; **Duração:** instantânea; **Resistência:** Reflexos parcial.
+
+Você dispara um projétil que causa 4d6 pontos de dano de ácido. Se falhar no teste de resistência, o alvo fica coberto por um muco corrosivo, sofrendo mais 2d6 de dano de ácido no início de seus dois próximos turnos. Se lançada contra um objeto que não esteja em posse de uma criatura a magia causa dano dobrado e ignora a RD do objeto.
+
+**+1 PM:** além do normal, se o alvo coberto pelo muco ácido estiver usando armadura ou escudo, o item é corroído. Isso reduz o bônus na Defesa do item em 1 ponto permanentemente. O item pode ser consertado, restaurando seu bônus (veja Ofício, na página 121).
+
+**+2 PM:** aumenta a redução na Defesa em +1.
+
+**+2 PM:** aumenta o dano inicial e o dano por rodada em +1d6.
+
 ## Físico Divino
 
 Divina 2 (Transmutação)
@@ -201,20 +257,6 @@ Você fortalece o corpo do alvo. Ele recebe +2 em Força, Destreza ou Constitui�
 
 **+15 PM:** em vez do normal, o alvo recebe +4 nos três atributos físicos. Requer 5º círculo.
 
-## Flecha Ácida
-
-Arcana 2 (Evocação)
-
-**Execução:** padrão; **Alcance:** médio; **Alvo:** 1 criatura ou objeto; **Duração:** instantânea; **Resistência:** Reflexos parcial.
-
-Você dispara um projétil que causa 4d6 pontos de dano de ácido. Se falhar no teste de resistência, o alvo fica coberto por um muco corrosivo, sofrendo mais 2d6 de dano de ácido no início de seus dois próximos turnos. Se lançada contra um objeto que não esteja em posse de uma criatura a magia causa dano dobrado e ignora a RD do objeto.
-
-**+1 PM:** além do normal, se o alvo coberto pelo muco ácido estiver usando armadura ou escudo, o item é corroído. Isso reduz o bônus na Defesa do item em 1 ponto permanentemente. O item pode ser consertado, restaurando seu bônus (veja Ofício, na página 121).
-
-**+2 PM:** aumenta a redução na Defesa em +1.
-
-**+2 PM:** aumenta o dano inicial e o dano por rodada em +1d6.
-
 ## Globo da Verdade de Gwen
 
 Divina 2 (Adivinhação)
@@ -230,6 +272,20 @@ Cria um globo flutuante e intangível, com 50cm de diâmetro. O globo mostra uma
 **+2 PM:** ao lançar a magia, você pode tocar um cadáver. O globo mostra a última cena vista por essa criatura.
 
 **+4 PM:** muda o alcance para longo e o efeito para 10 globos. Todos mostram a mesma cena.
+
+## Imagem Espelhada
+
+Arcana 2 (Ilusão)
+
+**Execução:** padrão; **Alcance:** pessoal; **Alvo:** você; **Duração:** cena.
+
+Você cria 1d4+1 cópias ilusórias suas que permanecem adjacentes a você e imitam suas ações. Sempre que você for alvo de um ataque, role um dado. Se o resultado for par, o ataque atinge uma imagem, que é destruída. A cada duas imagens além da primeira, você recebe +1 na Defesa.
+
+**+1 PM:** aumenta o número de cópias em +1.
+
+**+2 PM:** muda o alcance para toque e o alvo para 1 criatura.
+
+**+5 PM:** além do normal, quando uma imagem é destruída, ela explode numa onda de força que empurra 3m o atacante. Se ele não puder ser empurrado, sofre 2d6 pontos de dano de impacto. Requer 3º círculo.
 
 ## Ligação Telepática
 
@@ -331,6 +387,18 @@ A área é coberta por emanações letais. Criaturas na área sofrem 5d6 pontos 
 
 **+3 PM:** muda o tipo do dano para trevas.
 
+## Missão
+
+Divina 2 (Encantamento)
+
+**Execução:** padrão; **Alcance:** toque; **Alvo:** 1 criatura; **Duração:** 1 semana ou até ser descarregada; **Resistência:** Vontade anula (veja texto).
+
+Você toca uma criatura, gravando uma marca mística no corpo dela enquanto profere uma ordem, como "não ataque a mim ou meus aliados", "siga-me" ou "não saia desta sala". A criatura deve seguir essa ordem, gastando todas as ações de seu turno para isso. A ordem não pode ser genérica demais (como "ajude-me", por exemplo), nem forçar o alvo a atos suicidas. A cada rodada, o alvo pode fazer um teste de Vontade. Se passar, a magia é dissipada.
+
+**+3 PM:** muda a duração para 1 dia. Se não estiver em combate, a criatura só pode fazer o teste de Vontade a cada hora. Requer 3º círculo.
+
+**+3 PM:** sempre que o alvo fizer o teste de Vontade e falhar, a marca causa 3d6 pontos de dano psíquico. Requer 3º círculo.
+
 ## Montaria Arcana
 
 Arcana 2 (Convocação)
@@ -363,29 +431,93 @@ Você e os seus aliados no alcance recebem +2 em testes de perícia e rolagens d
 
 **+12 PM:** muda a duração para cena. Requer 4º círculo.
 
+## Relâmpago
+
+Arcana 2 (Evocação)
+
+**Execução:** padrão; **Alcance:** médio; **Área:** linha; **Duração:** instantânea; **Resistência:** Reflexos reduz à metade.
+
+Você dispara um poderoso raio que causa 6d6 pontos de dano de eletricidade em todas as criaturas e objetos livres na área.
+
+**+2 PM:** aumenta o dano em +2d6.
+
+**+3 PM:** muda a área para alvo (criaturas escolhidas). Em vez do normal, você dispara vários relâmpagos, um para cada alvo escolhido, causando 6d6 pontos de dano de eletricidade. Requer 3º círculo.
+
+## Resistência a Energia
+
+Universal 2 (Abjuração)
+
+**Execução:** padrão; **Alcance:** toque; **Alvo:** 1 criatura; **Duração:** cena.
+
+O alvo recebe resistência 10 contra um tipo de dano a sua escolha entre ácido, eletricidade, fogo, frio ou sônico.
+
+**+2 PM:** aumenta a resistência em +5.
+
+**+2 PM:** muda o alcance para curto e o alvo para criaturas escolhidas.
+
+**+5 PM:** muda a resistência para 20. Requer 3º círculo.
+
+**+9 PM:** muda a resistência para 30. Requer 4º círculo.
+
+## Rogar Maldição
+
+Divina 2 (Necromancia)
+
+**Execução:** padrão; **Alcance:** curto; **Alvo:** 1 criatura; **Duração:** 1 dia; **Resistência:** Vontade anula.
+
+Você amaldiçoa o alvo, que sofre –5 em testes de uma perícia, ou –2 em testes de resistência de um tipo, à sua escolha.
+
+**+2 PM:** muda a duração para permanente e adiciona componente material (unguentos no valor de T$ 500). Também muda a resistência: o alvo tem direito a um novo teste de Vontade a cada semana. Se passar, a maldição é dissipada.
+
+**+2 PM:** em vez de uma penalidade em testes, você pode fazer a criatura sofrer de insônia. Sempre que ela fizer um descanso, deve fazer um teste de Fortitude (na CD desta magia). Se falhar, tem um descanso ruim (veja na página 106) e acorda fatigada.
+
+**+5 PM:** muda a duração para permanente e adiciona componente material (incenso e óleos raros no valor de T$ 2.500). Uma vez por dia, ao amanhecer, a vítima sofre 1d4 pontos de dano de Constituição (ignora redução de dano). Você pode escolher uma condição para a maldição, como "enquanto portar a espada amaldiçoada". Se a condição terminar, a vítima se livra da maldição. Requer 3º círculo.
+
+## Runa de Proteção
+
+Universal 2 (Abjuração)
+
+**Execução:** 1 hora; **Alcance:** toque; **Alvo:** uma área de 6m de raio; **Duração:** permanente até ser descarregada; **Resistência:** varia (veja o texto).
+
+Você escreve uma runa pessoal em uma superfície fixa, como uma parede ou o chão, que protege uma pequena área ao redor. Quando uma criatura entra na área afetada a runa explode, causando 6d6 pontos de dano em todos os alvos a até 6m. A criatura que ativa a runa não tem direito a teste de resistência; outras criaturas na área têm direito a um teste de Reflexos para reduzir o dano à metade. Quando lança a magia, você escolhe o tipo de dano, entre ácido, eletricidade, fogo, frio, luz ou trevas.
+
+Você pode determinar que a runa se ative apenas em condições específicas — por exemplo, apenas por goblins ou apenas por mortos-vivos. Você também pode criar uma palavra mágica que impeça a runa de se ativar.
+
+Um personagem pode encontrar a runa com um teste de Investigação e desarmá-la com um teste de Ladinagem (CD da magia).
+
+**Componente material:** pó de diamante no valor de T$ 200, com o qual o conjurador desenha a runa, que brilha por alguns instantes e depois se torna praticamente invisível.
+
+**+1 PM:** aumenta o dano em +2d6.
+
+**+1 PM:** muda o alvo para "você" e o alcance para "pessoal". Ao invés do normal, escolha uma magia de 1º círculo que você conhece e pode lançar, com tempo de execução de uma ação padrão ou menor. Você escreve a runa em seu corpo e especifica uma condição de ativação como, por exemplo, "quando eu for alvo de um ataque" ou "quando for alvo de uma magia". Quando a condição for cumprida, você pode ativar a runa e lançar a magia escolhida como uma reação. Você só pode escrever uma runa em seu corpo ao mesmo tempo.
+
+**+3 PM:** como o aprimoramento anterior, mas você pode escolher magias de 2º círculo. Requer 3º círculo.
+
 ## Silêncio
 
-Divina 2 (Abjuração)
+Divina 2 (Ilusão)
 
-**Execução:** padrão; **Alcance:** curto; **Alvo:** 1 criatura ou objeto; **Duração:** cena; **Resistência:** Vontade anula.
+**Execução:** padrão; **Alcance:** médio; **Área:** esfera com 6m de raio; **Duração:** sustentada.
 
-O alvo emana uma aura que suprime todos os sons num raio de 6m. Nenhum som entra ou sai da área. Criaturas dentro da área ficam imunes a dano sônico e não podem fazer testes de Percepção para ouvir, falar ou lançar magias verbais (veja Componentes, na página 175). Você pode lançar Silêncio em um objeto e guardá-lo (em um bolso, por exemplo), para interromper o efeito e ser capaz de lançar outras magias. O objeto volta a emanar silêncio quando for revelado novamente.
+Um silêncio sepulcral recai sobre a área e nenhum som é produzido nela. Enquanto estiverem na área, todas as criaturas ficam surdas. Além disso, como lançar magias exige palavras mágicas, normalmente nenhuma magia pode ser lançada dentro da área.
 
-**+2 PM:** além do normal, criaturas que saibam que existe uma área de Silêncio e tentem ler lábios têm de fazer um teste de Vontade. Se falharem, ficam confusas por 1 rodada.
+**+1 PM:** muda a área para alvo de 1 objeto. Em vez do normal, o alvo emana uma área de silêncio com 3m de raio. Se lançar a magia num objeto de uma criatura involuntária, ela tem direito a um teste de Vontade para anulá-la.
 
-**+3 PM:** você consegue lançar magias dentro da área de Silêncio.
+**+2 PM:** muda a duração para cena. Em vez do normal, nenhum som pode deixar a área, mas criaturas dentro da área podem falar, ouvir e lançar magias com palavras mágicas normalmente.
 
 ## Toque Vampírico
 
 Arcana 2 (Necromancia)
 
-**Execução:** padrão; **Alcance:** toque; **Alvo:** 1 criatura; **Duração:** instantânea; **Resistência:** Fortitude parcial.
+**Execução:** padrão; **Alcance:** toque; **Alvo:** 1 criatura; **Duração:** instantânea; **Resistência:** Fortitude reduz à metade.
 
-Seu toque drena a energia vital do alvo, que sofre 2d8+2 pontos de dano de trevas. Você recebe metade dos PV perdidos pelo alvo como PV temporários. Se passar no teste de resistência, o alvo sofre metade do dano e você não ganha PV temporários.
+Sua mão brilha com energia sombria, causando 6d6 pontos de dano de trevas. Você recupera pontos de vida iguais à metade do dano causado (se causou algum dano).
 
-**+1 PM:** aumenta o dano em +1d8+1.
+**+1 PM:** muda a resistências para nenhum como parte da execução da magia, você pode fazer um ataque corpo a corpo contra o alvo. Se acertar, causa o dano do ataque e da magia, e recupera pontos de vida iguais à metade do dano da magia.
 
-**+2 PM:** como parte da execução da magia, você pode fazer um ataque corpo a corpo contra o alvo. Se acertar, causa o dano do ataque e o efeito da magia.
+**+2 PM:** aumenta o dano em +2d6.
+
+**+2 PM:** muda o alcance para pessoal, o alvo para você e a duração para cena. Em vez do normal, a cada rodada você pode gastar uma ação padrão para tocar 1 criatura e causar 3d6 pontos de dano. Você recupera pontos de vida iguais à metade do dano causado. Requer 3º círculo.
 
 ## Tranquilidade
 
@@ -412,6 +544,20 @@ O alvo recebe +6m de deslocamento e +1 em testes de ataque. Sempre que fizer a a
 **+2 PM:** em vez do normal, muda o bônus de ataques para +2. A criatura também recebe +2 na Defesa e em testes de Reflexos.
 
 **+3 PM:** muda o alcance para curto e o alvo para criaturas escolhidas. Requer 3º círculo.
+
+## Vestimenta da Fé
+
+Divina 2 (Abjuração)
+
+**Execução:** padrão; **Alcance:** toque; **Alvo:** 1 armadura, escudo ou vestuário; **Duração:** 1 dia.
+
+Você fortalece um item, aumentando o bônus de Defesa de uma armadura ou escudo em +2. No caso de um vestuário, ele passa a oferecer +2 na Defesa (não cumulativo com armadura). Os efeitos desta magia são uma melhoria no item, portanto são cumulativos com outras magias, mas não com bônus por encantos nesse item.
+
+**+3 PM:** o objeto oferece o mesmo bônus em testes de resistência. Requer 3º círculo.
+
+**+4 PM:** aumenta o bônus em +1.
+
+**+7 PM:** o objeto também oferece redução de dano 5. Requer 4º círculo.
 
 ## Vitalidade Fantasma
 

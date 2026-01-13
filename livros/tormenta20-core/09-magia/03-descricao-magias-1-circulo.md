@@ -87,22 +87,6 @@ Você libera uma onda de energia sinistra, fazendo com que o alvo seja invadido 
 
 **+5 PM:** muda a resistência para Vontade anula e remove a imunidade de um dia. Se o alvo falhar, fica apavorado. Requer 3º círculo.
 
-## Área Escorregadia
-
-Arcana 1 (Convocação)
-
-**Execução:** padrão; **Alcance:** curto; **Alvo ou Área:** quadrado de 3m ou 1 objeto; **Duração:** cena; **Resistência:** Reflexos (veja texto).
-
-Esta magia recobre uma superfície com uma substância gordurosa e escorregadia. Criaturas na área devem passar na resistência para não cair. Nas rodadas seguintes, criaturas que tentem movimentar-se pela área devem fazer testes de Acrobacia para equilíbrio (CD 10).
-
-Área Escorregadia pode tornar um item escorregadio. Uma criatura segurando um objeto afetado deve passar na resistência para não deixar o item cair cada vez que usá-lo.
-
-**+1 PM:** aumenta a área em +1 quadrado de 1,5m.
-
-**+2 PM:** muda a CD dos testes de Acrobacia para 15.
-
-**+5 PM:** muda a CD dos testes de Acrobacia para 20.
-
 ## Arma Espiritual
 
 Divina 1 (Convocação)
@@ -122,22 +106,6 @@ Você invoca a arma preferida de sua divindade (se tiver uma), que surge flutuan
 **+2 PM:** aumenta o dano causado pela arma em +1d6, limitado pelo círculo máximo de magia que você pode lançar.
 
 **+5 PM:** invoca duas armas, permitindo que você contra-ataque (ou ataque, se usar o aprimoramento acima) duas vezes por rodada. Requer 3º círculo.
-
-## Armamento da Natureza
-
-Divina 1 (Transmutação)
-
-**Execução:** padrão; **Alcance:** toque; **Alvo:** 1 arma (veja texto); **Duração:** cena.
-
-Você fortalece uma arma mundana primitiva (sem custo em T$, como bordão, clava, funda ou tacape), uma arma natural ou um ataque desarmado. O dano da arma aumenta em um passo e ela é considerada mágica. Ao lançar a magia, você pode mudar o tipo de dano da arma (escolhendo entre corte, impacto ou perfuração).
-
-**+1 PM:** fornece +1 nos testes de ataque com a arma.
-
-**+2 PM:** muda a execução para ação de movimento.
-
-**+3 PM:** aumenta o bônus nos testes de ataque em +1.
-
-**+5 PM:** aumenta o dano da arma em mais um passo.
 
 ## Arma Mágica
 
@@ -169,25 +137,21 @@ Esta magia cria uma película protetora invisível, mas tangível, fornecendo +4
 
 **+2 PM:** muda a duração para 1 dia. Requer 2º círculo.
 
-## Augúrio
+## Armamento da Natureza
 
-Divina 2 (Adivinhação)
+Divina 1 (Transmutação)
 
-**Execução:** completa; **Alcance:** pessoal; **Alvo:** você; **Duração:** instantânea.
+**Execução:** padrão; **Alcance:** toque; **Alvo:** 1 arma (veja texto); **Duração:** cena.
 
-Esta magia diz se uma ação que você tomará em breve — no máximo uma hora no futuro — trará resultados bons ou ruins. O mestre rola 1d6 em segredo; com um resultado de 2 a 6, a magia funciona e você recebe uma das seguintes respostas: "felicidade" (a ação trará bons resultados); "miséria" (a ação trará maus resultados); "felicidade e miséria" (para ambos) ou "nada" (para ações que não trarão resultados bons ou ruins).
+Você fortalece uma arma mundana primitiva (sem custo em T$, como bordão, clava, funda ou tacape), uma arma natural ou um ataque desarmado. O dano da arma aumenta em um passo e ela é considerada mágica. Ao lançar a magia, você pode mudar o tipo de dano da arma (escolhendo entre corte, impacto ou perfuração).
 
-Com um resultado 1, a magia falha e oferece o resultado "nada". Não há como saber se esse resultado foi dado porque a magia falhou ou não. Lançar esta magia múltiplas vezes sobre o mesmo assunto gera sempre o primeiro resultado.
+**+1 PM:** fornece +1 nos testes de ataque com a arma.
 
-Por exemplo, se o grupo está prestes a entrar em uma câmara, o augúrio dirá "felicidade" se a câmara contém um tesouro desprotegido, "miséria" se contém um monstro, "felicidade e miséria" se houver um tesouro e um monstro ou "nada" se a câmara estiver vazia.
+**+2 PM:** muda a execução para ação de movimento.
 
-**+3 PM:** muda a execução para 1 minuto. Em vez do normal, você pode consultar uma divindade, fazendo uma pergunta sobre um evento que acontecerá até um dia no futuro. O mestre rola a chance de falha; com um resultado de 2 a 6, você recebe uma resposta, desde uma simples frase até uma profecia ou enigma. Em geral, este uso sempre oferece pistas, indicando um caminho a tomar para descobrir a resposta que se procura. Numa falha você não recebe resposta alguma. Requer 3º círculo.
+**+3 PM:** aumenta o bônus nos testes de ataque em +1.
 
-**+7 PM:** muda a execução para 10 minutos e a duração para 1 minuto. Em vez do normal, você consulta uma divindade, podendo fazer uma pergunta por rodada, desde que ela possa ser respondida com "sim", "não" ou "não sei" (embora poderosos, os deuses não são oniscientes). O mestre rola a chance de falha para cada pergunta. Em caso de falha, a resposta também é "não sei". Requer 4º círculo.
-
-**+7 PM:** o mestre rola 1d12; a magia só falha em um resultado 1.
-
-**+12 PM:** o mestre rola 1d20; a magia só falha em um resultado 1.
+**+5 PM:** aumenta o dano da arma em mais um passo.
 
 ## Aviso
 
@@ -235,28 +199,6 @@ Vocês podem se mover por terreno difícil natural sem sofrer redução de deslo
 
 **+5 PM:** muda o alcance para pessoal. Em vez do normal, por 1 rodada você pode se mover pelo espaço de outras criaturas sem impedimento, não provoca ataques de oportunidade e recebe redução 30 (isso não se acumula com o aprimoramento acima). Requer 2º círculo.
 
-## Campo de Força
-
-Arcana 2 (Abjuração)
-
-**Execução:** padrão; **Alcance:** pessoal; **Alvo:** você; **Duração:** cena.
-
-Esta magia cria uma película protetora sobre você. Você recebe 30 PV temporários, mas apenas contra dano de corte, impacto ou perfuração (esses PV não impedem que você fique inconsciente, comece a sangrar, morra...).
-
-**+1 PM:** além do normal, você também fica imune a ataques furtivos e acertos críticos.
-
-**+5 PM:** muda os PV temporários para 60.
-
-## Círculo da Justiça
-
-Divina 3 (Evocação)
-
-**Execução:** padrão; **Alcance:** pessoal; **Área:** esfera com 6m de raio emanando de você; **Duração:** instantânea; **Resistência:** Reflexos reduz à metade.
-
-Você emana uma explosão de energia divina que causa 8d6 pontos de dano de luz em inimigos na área.
-
-**+2 PM:** aumenta o dano em +2d6 de impacto e +2d6 de fogo.
-
 ## Comando
 
 Divina 1 (Encantamento)
@@ -272,16 +214,6 @@ Você emite uma ordem de uma palavra para o alvo, que obedece em seu próximo tu
 **+2 PM:** muda o alvo para criaturas escolhidas.
 
 **+5 PM:** muda a duração para cena. Em vez de uma palavra, você pode dar uma ordem de até cinco palavras. Requer 3º círculo.
-
-## Comando das Massas
-
-Divina 2 (Encantamento)
-
-**Execução:** padrão; **Alcance:** médio; **Alvo:** até 10 criaturas; **Duração:** 1 rodada; **Resistência:** Vontade anula.
-
-Funciona como Comando, mas afeta múltiplas criaturas. Todos os alvos devem obedecer a mesma ordem.
-
-**+2 PM:** aumenta o número de alvos em +10.
 
 ## Compreensão
 
@@ -328,32 +260,6 @@ O monstro convocado é um parceiro de categoria ajudante. Por padrão, você con
 **+2 PM:** muda o parceiro para fortão (e todas as suas melhorias, se aplicável).
 
 **+5 PM:** muda a duração para cena.
-
-## Consagrar
-
-Divina 3 (Evocação)
-
-**Execução:** 10 minutos; **Alcance:** curto; **Área:** esfera com 6m de raio; **Duração:** 1 dia.
-
-Esta magia abençoa uma área, proporcionando energia positiva. Mortos-vivos na área sofrem –1 em testes de ataque, rolagens de dano e testes de resistência. Testes de Religião para expulsar mortos-vivos na área recebem +3. Além disso, mortos-vivos não podem ser criados dentro da área nem surgir aqui (o que impede que os mortos na área se tornem mortos-vivos).
-
-Consagrar anula Profanar.
-
-**+5 PM:** muda a área para esfera com 18m de raio e a duração para permanente. Requer 4º círculo.
-
-## Controlar Plantas
-
-Divina 2 (Transmutação)
-
-**Execução:** padrão; **Alcance:** curto; **Área:** quadrado com 6m de lado; **Duração:** cena.
-
-Você anima as plantas na área. No início de cada um de seus turnos, as plantas fazem um ataque corpo a corpo (+5, 3d8 de dano, margem de ameaça 19) contra uma criatura à sua escolha na área. As plantas não ocupam espaço nem bloqueiam linha de efeito. Esta magia só funciona em áreas com vegetação.
-
-**+2 PM:** aumenta o bônus de ataque em +5 e o dano em +2d8.
-
-**+2 PM:** muda a área para esfera com 6m de raio.
-
-**+5 PM:** as plantas ganham alcance curto. Requer 3º círculo.
 
 ## Criar Elementos
 
@@ -431,28 +337,6 @@ Você percebe criaturas hostis na área. A magia não revela localização, apen
 
 **+5 PM:** você descobre a quantidade de PV, PM e nível de cada criatura detectada. Requer 2º círculo.
 
-## Despedaçar
-
-Arcana 2 (Evocação)
-
-**Execução:** padrão; **Alcance:** curto; **Alvo:** 1 objeto ou criatura; **Duração:** instantânea; **Resistência:** Fortitude reduz à metade.
-
-Você cria uma vibração sonora intensa que causa 4d8 pontos de dano de impacto e 4d8 pontos de dano de trovão ao alvo. Se usar em um objeto, causa +2d8 pontos de dano e ignora a RD.
-
-**+2 PM:** aumenta o dano de impacto em +2d8 e o dano de trovão em +2d8.
-
-## Dificultar Detecção
-
-Universal 2 (Ilusão)
-
-**Execução:** padrão; **Alcance:** toque; **Alvo:** 1 criatura ou objeto; **Duração:** 1 dia.
-
-O alvo não pode ser rastreado por meios mundanos, como a perícia Sobrevivência. Além disso, magias de adivinhação lançadas para encontrar o alvo devem vencer um teste oposto de atributo-chave contra você.
-
-**+2 PM:** muda o alcance para pessoal e o alvo para você. Em vez do normal, você também não pode ser detectado por sentidos especiais, como percepção às cegas e faro.
-
-**+5 PM:** afeta criaturas escolhidas em alcance curto. Requer 3º círculo.
-
 ## Disfarce Ilusório
 
 Arcana 1 (Ilusão)
@@ -468,16 +352,6 @@ A magia não fornece os maneirismos e trejeitos de outra pessoa. Além disso, n�
 **+2 PM:** além do normal, você pode alterar seu sexo ou tipo de criatura (por exemplo, ficar parecido com um goblin).
 
 **+5 PM:** muda o alcance para toque e o alvo para 1 humanoide ou animal. Requer 2º círculo.
-
-## Dissipar Magia
-
-Universal 2 (Abjuração)
-
-**Execução:** padrão; **Alcance:** médio; **Alvo ou Área:** 1 criatura ou 1 objeto mágico ou esfera com 3m de raio; **Duração:** instantânea.
-
-Você dissipa outras magias que estejam ativas, como se sua duração tivesse acabado. Note que efeitos de magias instantâneas não podem ser dissipados (não se pode dissipar uma Bola de Fogo ou Relâmpago depois que já causaram dano...). Se lançar essa magia em uma criatura ou área, faça um teste de Misticismo; você dissipa as magias com CD igual ou menor que o resultado do teste. Se lançada contra um item mágico, o transforma em um item mundano por 1d6 rodadas (sem teste de resistência).
-
-**+12 PM:** muda a área para esfera com 9m de raio. Em vez do normal, cria um efeito de disjunção. Todas as magias na área são automaticamente dissipadas e todos os itens mágicos na área, exceto aqueles que você estiver carregando, viram itens mundanos por uma cena (com direito a um teste de Vontade para evitar esse efeito). Requer 5º círculo.
 
 ## Dispersar as Trevas
 
@@ -509,6 +383,20 @@ O alvo fica enfeitiçado (veja a página 394). Um alvo hostil ou que esteja envo
 
 **+5 PM:** afeta todos os alvos dentro do alcance.
 
+## Escudo da Fé
+
+Divina 1 (Abjuração)
+
+**Execução:** reação; **Alcance:** curto; **Alvo:** 1 criatura; **Duração:** 1 turno.
+
+Um escudo místico se manifesta momentaneamente para bloquear um golpe. O alvo recebe +2 na Defesa.
+
+**+1 PM:** muda a execução para ação padrão e a duração para cena.
+
+**+2 PM:** aumenta o bônus na Defesa em +1.
+
+**+3 PM:** muda o alvo para 1 criatura. Requer 4º círculo.
+
 ## Escuridão
 
 Arcana 1 (Necromancia)
@@ -524,20 +412,6 @@ O objeto irradia sombras num raio de 9m, cancelando fontes mundanas de luz, como
 **+2 PM:** além do normal, criaturas na área de escuridão ficam ofuscadas.
 
 **+5 PM:** muda a área de escuridão para 18m de raio e fornece camuflagem total. Requer 2º círculo.
-
-## Escudo da Fé
-
-Divina 1 (Abjuração)
-
-**Execução:** reação; **Alcance:** curto; **Alvo:** 1 criatura; **Duração:** 1 turno.
-
-Um escudo místico se manifesta momentaneamente para bloquear um golpe. O alvo recebe +2 na Defesa.
-
-**+1 PM:** muda a execução para ação padrão e a duração para cena.
-
-**+2 PM:** aumenta o bônus na Defesa em +1.
-
-**+3 PM:** muda o alvo para 1 criatura. Requer 4º círculo.
 
 ## Explosão de Chamas
 
@@ -637,20 +511,6 @@ Você pode falar e entender qualquer idioma. Contudo, a magia não permite ler o
 
 **+5 PM:** muda o alcance para pessoal e o alvo para você. Em vez do normal, você pode falar, entender e escrever qualquer idioma. Requer 3º círculo.
 
-## Imagem Espelhada
-
-Arcana 2 (Ilusão)
-
-**Execução:** padrão; **Alcance:** pessoal; **Alvo:** você; **Duração:** cena.
-
-Você cria 1d4+1 cópias ilusórias suas que permanecem adjacentes a você e imitam suas ações. Sempre que você for alvo de um ataque, role um dado. Se o resultado for par, o ataque atinge uma imagem, que é destruída. A cada duas imagens além da primeira, você recebe +1 na Defesa.
-
-**+1 PM:** aumenta o número de cópias em +1.
-
-**+2 PM:** muda o alcance para toque e o alvo para 1 criatura.
-
-**+5 PM:** além do normal, quando uma imagem é destruída, ela explode numa onda de força que empurra 3m o atacante. Se ele não puder ser empurrado, sofre 2d6 pontos de dano de impacto. Requer 3º círculo.
-
 ## Lentidão
 
 Universal 1 (Transmutação)
@@ -697,45 +557,17 @@ Você inscreve um símbolo visível ou invisível (a sua escolha) em uma criatur
 
 **+2 PM:** você pode gastar uma ação padrão para saber a direção e distância de uma marca que criou, desde que ela esteja no mesmo plano que você.
 
-## Missão
+## Memória Falsa
 
-Divina 2 (Encantamento)
+Arcana 1 (Encantamento)
 
-**Execução:** padrão; **Alcance:** toque; **Alvo:** 1 criatura; **Duração:** 1 semana ou até ser descarregada; **Resistência:** Vontade anula (veja texto).
+**Execução:** padrão; **Alcance:** toque; **Alvo:** 1 criatura; **Duração:** instantânea; **Resistência:** Vontade anula.
 
-Você toca uma criatura, gravando uma marca mística no corpo dela enquanto profere uma ordem, como "não ataque a mim ou meus aliados", "siga-me" ou "não saia desta sala". A criatura deve seguir essa ordem, gastando todas as ações de seu turno para isso. A ordem não pode ser genérica demais (como "ajude-me", por exemplo), nem forçar o alvo a atos suicidas. A cada rodada, o alvo pode fazer um teste de Vontade. Se passar, a magia é dissipada.
+Você invade a mente do alvo e altera ou apaga suas memórias da última hora.
 
-**+3 PM:** muda a duração para 1 dia. Se não estiver em combate, a criatura só pode fazer o teste de Vontade a cada hora. Requer 3º círculo.
+**+2 PM:** muda o alcance para pessoal e o alvo para área cone de 4,5m.
 
-**+3 PM:** sempre que o alvo fizer o teste de Vontade e falhar, a marca causa 3d6 pontos de dano psíquico. Requer 3º círculo.
-
-## Montaria Arcana
-
-Arcana 2 (Convocação)
-
-**Execução:** padrão; **Alcance:** curto; **Efeito:** criatura conjurada; **Duração:** 1 dia.
-
-Esta magia convoca um parceiro cavalo (ou pônei) de guerra veterano. Sua aparência é de um animal negro com crina e cauda cinzentas e cascos feitos de fumaça, mas você pode mudá-la se quiser. Além dos benefícios normais, a Montaria Arcana pode atravessar terreno difícil sem redução em seu deslocamento. Você pode usar Misticismo no lugar de Cavalgar para efeitos desta montaria (incluindo ser considerado treinado).
-
-**+1 PM:** além do normal, criaturas do tipo animal em alcance curto da montaria devem fazer um teste de Vontade. Se passarem, ficam abaladas pela cena; se falharem, ficam apavoradas por 1d4 rodadas, depois abaladas pela cena.
-
-**+3 PM:** muda a duração para permanente e adiciona penalidade de –3 PM.
-
-**+3 PM:** aumenta o tamanho da montaria em uma categoria. Isso também aumenta o número de criaturas que ela pode carregar — duas para uma criatura Enorme, seis para Colossal. Uma única criatura controla a montaria; as outras apenas são deslocadas.
-
-**+3 PM:** muda o nível do parceiro para mestre. Requer 3º círculo.
-
-## Muralha de Gelo
-
-Arcana 3 (Evocação)
-
-**Execução:** padrão; **Alcance:** médio; **Efeito:** muralha de gelo; **Duração:** cena.
-
-Evoca uma parede grossa de gelo denso com 15cm de espessura. A muralha pode ser um muro de até 30m de comprimento e 3m de altura (ou o contrário) ou uma cúpula de 3m de raio. Na forma de cúpula, pode prender uma ou mais criaturas, mas elas têm direito a um teste de Reflexos para escapar antes que a cúpula se forme. Cada trecho de 3m da muralha tem Defesa 8, 40 PV e RD 5. Um trecho da muralha que atinja 0 PV será rompido. Qualquer efeito de fogo causa dano dobrado à muralha. Uma criatura que atravesse um trecho rompido da muralha sofre 4d6 pontos de dano de frio.
-
-**+2 PM:** aumenta o comprimento em +15m e altura em +3m, até 60m de comprimento e 9m de altura.
-
-**+4 PM:** muda a duração para sustentada e adiciona uma nova escolha, Essência. A muralha é invisível e indestrutível — imune a qualquer forma de dano e não afetada por nenhuma magia. Ela não pode ser atravessada nem mesmo por criaturas incorpóreas. No entanto, magias que teletransportam criaturas, como Salto Dimensional, podem atravessá-la. Magias e efeitos de dano, como Bola de Fogo e o sopro de um dragão, não vencem a muralha, mas magias lançadas diretamente sobre uma criatura ou área, como Sono, podem ser lançadas contra alvos que estejam no outro lado como se tivessem linha de efeito. Requer 4º círculo.
+**+5 PM:** você pode alterar ou apagar as memórias das últimas 24 horas.
 
 ## Névoa
 
@@ -756,6 +588,96 @@ Uma névoa espessa eleva-se de um ponto a sua escolha, obscurecendo toda a visã
 **+3 PM:** aumenta o dano de ácido em +2d4.
 
 **+5 PM:** além do normal, a nuvem fica espessa, quase sólida. Qualquer criatura dentro dela tem seu deslocamento reduzido para 3m (independentemente de seu deslocamento normal) e sofre –2 em testes de ataque e rolagens de dano.
+
+## Orientação
+
+Divina 1 (Adivinhação)
+
+**Execução:** padrão; **Alcance:** toque; **Alvo:** 1 criatura; **Duração:** cena.
+
+O alvo recebe +2 em seu próximo teste de perícia ou ataque.
+
+**Truque:** muda o alcance para pessoal e o alvo para você. Em vez do normal, você sabe onde fica o norte e recebe +5 em testes de Sobrevivência para se orientar.
+
+**+1 PM:** aumenta o bônus em +1.
+
+## Perdição
+
+Divina 1 (Encantamento)
+
+**Execução:** padrão; **Alcance:** curto; **Alvos:** inimigos; **Duração:** cena.
+
+Amaldiçoa seus inimigos, que sofrem –1 em testes de ataque e rolagens de dano. Perdição anula Bênção.
+
+**+2 PM:** aumenta as penalidades em –1 (penalidade máxima limitada pelo círculo máximo de magia que você pode lançar).
+
+## Primor Atlético
+
+Arcana 1 (Transmutação)
+
+**Execução:** padrão; **Alcance:** toque; **Alvo:** 1 criatura; **Duração:** cena.
+
+Você modifica os limites físicos do alvo, que recebe deslocamento +9m e +10 em testes de Atletismo.
+
+**+1 PM:** além do normal, o alvo recebe um bônus adicional de +20 em testes de Atletismo para saltar (para um bônus total de +30).
+
+**+1 PM:** além do normal, o alvo pode escalar paredes e tetos sem precisar fazer testes de Atletismo. Para isso, precisa estar com as mãos livres, mas pode usar uma única mão se ficar parado no lugar. O alvo não fica desprevenido enquanto escala.
+
+**+1 PM:** muda a execução para ação de movimento, o alcance para pessoal, o alvo para você e a duração para instantânea. Seu deslocamento aumenta em +9m até o final do turno.
+
+**+1 PM:** muda o alcance para curto e o alvo para criaturas escolhidas.
+
+## Proteção contra a Lei
+
+Universal 1 (Abjuração)
+
+**Execução:** padrão; **Alcance:** toque; **Alvo:** 1 criatura; **Duração:** cena; **Resistência:** Vontade anula (inofensivo).
+
+O alvo recebe +2 na Defesa e em testes de resistência contra criaturas leais. Além disso, fica imune a quaisquer tentativas de possessão ou controle mental por parte de tais criaturas.
+
+**+2 PM:** muda o alcance para pessoal e a área para esfera de 3m de raio. Além do normal, criaturas leais dentro da área não podem fazer ataques corpo a corpo contra você ou seus aliados (mas ataques à distância ou efeitos de área funcionam normalmente).
+
+## Proteção contra o Bem
+
+Universal 1 (Abjuração)
+
+**Execução:** padrão; **Alcance:** toque; **Alvo:** 1 criatura; **Duração:** cena; **Resistência:** Vontade anula (inofensivo).
+
+O alvo recebe +2 na Defesa e em testes de resistência contra criaturas boas. Além disso, fica imune a quaisquer tentativas de possessão ou controle mental por parte de tais criaturas.
+
+**+2 PM:** muda o alcance para pessoal e a área para esfera de 3m de raio. Além do normal, criaturas boas dentro da área não podem fazer ataques corpo a corpo contra você ou seus aliados (mas ataques à distância ou efeitos de área funcionam normalmente).
+
+## Proteção contra o Caos
+
+Universal 1 (Abjuração)
+
+**Execução:** padrão; **Alcance:** toque; **Alvo:** 1 criatura; **Duração:** cena; **Resistência:** Vontade anula (inofensivo).
+
+O alvo recebe +2 na Defesa e em testes de resistência contra criaturas caóticas. Além disso, fica imune a quaisquer tentativas de possessão ou controle mental por parte de tais criaturas.
+
+**+2 PM:** muda o alcance para pessoal e a área para esfera de 3m de raio. Além do normal, criaturas caóticas dentro da área não podem fazer ataques corpo a corpo contra você ou seus aliados (mas ataques à distância ou efeitos de área funcionam normalmente).
+
+## Proteção contra o Mal
+
+Universal 1 (Abjuração)
+
+**Execução:** padrão; **Alcance:** toque; **Alvo:** 1 criatura; **Duração:** cena; **Resistência:** Vontade anula (inofensivo).
+
+O alvo recebe +2 na Defesa e em testes de resistência contra criaturas malignas. Além disso, fica imune a quaisquer tentativas de possessão ou controle mental por parte de tais criaturas.
+
+**+2 PM:** muda o alcance para pessoal e a área para esfera de 3m de raio. Além do normal, criaturas malignas dentro da área não podem fazer ataques corpo a corpo contra você ou seus aliados (mas ataques à distância ou efeitos de área funcionam normalmente).
+
+## Purificação
+
+Divina 1 (Abjuração)
+
+**Execução:** padrão; **Alcance:** toque; **Alvo:** 1 criatura ou objeto; **Duração:** instantânea; **Resistência:** Vontade anula (inofensivo).
+
+Remove uma doença ou veneno que esteja afetando o alvo. Também pode ser usada para purificar água ou comida estragada.
+
+**+1 PM:** além do normal, o alvo recupera 1d8 PV.
+
+**+2 PM:** muda o alcance para curto e o alvo para criaturas ou objetos escolhidos.
 
 ## Queda Suave
 
@@ -787,48 +709,6 @@ Você dispara um raio púrpura que drena as forças do alvo. Se falhar na resist
 
 **+5 PM:** como acima, mas muda o alvo para criaturas escolhidas. Requer 3º círculo.
 
-## Relâmpago
-
-Arcana 2 (Evocação)
-
-**Execução:** padrão; **Alcance:** médio; **Área:** linha; **Duração:** instantânea; **Resistência:** Reflexos reduz à metade.
-
-Você dispara um poderoso raio que causa 6d6 pontos de dano de eletricidade em todas as criaturas e objetos livres na área.
-
-**+2 PM:** aumenta o dano em +2d6.
-
-**+3 PM:** muda a área para alvo (criaturas escolhidas). Em vez do normal, você dispara vários relâmpagos, um para cada alvo escolhido, causando 6d6 pontos de dano de eletricidade. Requer 3º círculo.
-
-## Resistência a Energia
-
-Universal 2 (Abjuração)
-
-**Execução:** padrão; **Alcance:** toque; **Alvo:** 1 criatura; **Duração:** cena.
-
-O alvo recebe resistência 10 contra um tipo de dano a sua escolha entre ácido, eletricidade, fogo, frio ou sônico.
-
-**+2 PM:** aumenta a resistência em +5.
-
-**+2 PM:** muda o alcance para curto e o alvo para criaturas escolhidas.
-
-**+5 PM:** muda a resistência para 20. Requer 3º círculo.
-
-**+9 PM:** muda a resistência para 30. Requer 4º círculo.
-
-## Rogar Maldição
-
-Divina 2 (Necromancia)
-
-**Execução:** padrão; **Alcance:** curto; **Alvo:** 1 criatura; **Duração:** 1 dia; **Resistência:** Vontade anula.
-
-Você amaldiçoa o alvo, que sofre –5 em testes de uma perícia, ou –2 em testes de resistência de um tipo, à sua escolha.
-
-**+2 PM:** muda a duração para permanente e adiciona componente material (unguentos no valor de T$ 500). Também muda a resistência: o alvo tem direito a um novo teste de Vontade a cada semana. Se passar, a maldição é dissipada.
-
-**+2 PM:** em vez de uma penalidade em testes, você pode fazer a criatura sofrer de insônia. Sempre que ela fizer um descanso, deve fazer um teste de Fortitude (na CD desta magia). Se falhar, tem um descanso ruim (veja na página 106) e acorda fatigada.
-
-**+5 PM:** muda a duração para permanente e adiciona componente material (incenso e óleos raros no valor de T$ 2.500). Uma vez por dia, ao amanhecer, a vítima sofre 1d4 pontos de dano de Constituição (ignora redução de dano). Você pode escolher uma condição para a maldição, como "enquanto portar a espada amaldiçoada". Se a condição terminar, a vítima se livra da maldição. Requer 3º círculo.
-
 ## Santuário
 
 Divina 1 (Abjuração)
@@ -840,6 +720,18 @@ Qualquer criatura que tente fazer uma ação hostil contra o alvo deve fazer um 
 **+1 PM:** além do normal, escolha um tipo de criatura entre animal, construto ou morto-vivo. Você não pode ser percebido por criaturas não inteligentes do tipo escolhido.
 
 **+9 PM:** também protege o alvo contra efeitos de área. Uma criatura que tente atacar uma área que inclua o alvo deve fazer o teste de Vontade; se falhar, não consegue e perde a ação. Ela só pode tentar novamente se o alvo sair da área.
+
+## Servo Invisível
+
+Arcana 1 (Encantamento)
+
+**Execução:** padrão; **Alcance:** curto; **Efeito:** 1 servo invisível; **Duração:** 1 dia.
+
+Você cria uma força invisível e sem mente que realiza tarefas simples a seu comando. O servo pode buscar objetos, abrir portas, servir comida, limpar e outras tarefas simples. Ele realiza uma tarefa por rodada. Pode mover objetos de até 10kg. Não pode atacar ou causar dano de forma alguma.
+
+**+1 PM:** aumenta o número de servos criados em +1.
+
+**+2 PM:** aumenta a duração para 1 semana. Requer 2º círculo.
 
 ## Seta Infalível de Talude
 
@@ -856,18 +748,6 @@ Favorita entre arcanistas iniciantes, esta magia lança duas setas de energia qu
 **+4 PM:** muda o número de setas/lanças para cinco. Requer 2º círculo.
 
 **+9 PM:** muda o número de setas/lanças para dez. Requer 4º círculo.
-
-## Silêncio
-
-Divina 2 (Ilusão)
-
-**Execução:** padrão; **Alcance:** médio; **Área:** esfera com 6m de raio; **Duração:** sustentada.
-
-Um silêncio sepulcral recai sobre a área e nenhum som é produzido nela. Enquanto estiverem na área, todas as criaturas ficam surdas. Além disso, como lançar magias exige palavras mágicas, normalmente nenhuma magia pode ser lançada dentro da área.
-
-**+1 PM:** muda a área para alvo de 1 objeto. Em vez do normal, o alvo emana uma área de silêncio com 3m de raio. Se lançar a magia num objeto de uma criatura involuntária, ela tem direito a um teste de Vontade para anulá-la.
-
-**+2 PM:** muda a duração para cena. Em vez do normal, nenhum som pode deixar a área, mas criaturas dentro da área podem falar, ouvir e lançar magias com palavras mágicas normalmente.
 
 ## Sono
 
@@ -923,34 +803,6 @@ Arcos elétricos envolvem sua mão, causando 2d8+2 pontos de dano de eletricidad
 
 **+2 PM:** muda o alcance para pessoal e o alvo para área: esfera com 6m de raio. Você dispara raios pelas pontas dos dedos que afetam todas as criaturas na área.
 
-## Toque Vampírico
-
-Arcana 2 (Necromancia)
-
-**Execução:** padrão; **Alcance:** toque; **Alvo:** 1 criatura; **Duração:** instantânea; **Resistência:** Fortitude reduz à metade.
-
-Sua mão brilha com energia sombria, causando 6d6 pontos de dano de trevas. Você recupera pontos de vida iguais à metade do dano causado (se causou algum dano).
-
-**+1 PM:** muda a resistências para nenhum como parte da execução da magia, você pode fazer um ataque corpo a corpo contra o alvo. Se acertar, causa o dano do ataque e da magia, e recupera pontos de vida iguais à metade do dano da magia.
-
-**+2 PM:** aumenta o dano em +2d6.
-
-**+2 PM:** muda o alcance para pessoal, o alvo para você e a duração para cena. Em vez do normal, a cada rodada você pode gastar uma ação padrão para tocar 1 criatura e causar 3d6 pontos de dano. Você recupera pontos de vida iguais à metade do dano causado. Requer 3º círculo.
-
-## Tranquilidade
-
-Divina 1 (Encantamento)
-
-**Execução:** padrão; **Alcance:** curto; **Alvo:** 1 animal ou humanoide; **Duração:** cena; **Resistência:** Vontade parcial.
-
-Você emana ondas de serenidade. Se falhar na resistência, o alvo tem sua atitude mudada para indiferente (veja a página 259) e não pode atacar ou realizar qualquer ação agressiva. Se passar, sofre –2 em testes de ataque. Qualquer ação hostil contra o alvo ou seus aliados dissipa a magia e faz ele retornar à atitude que tinha antes (ou pior, de acordo com o mestre).
-
-**+1 PM:** muda o alvo para 1 criatura.
-
-**+1 PM:** aumenta o número de alvos em +1.
-
-**+5 PM:** muda o alcance para médio e o alvo para criaturas escolhidas. Requer 3º círculo.
-
 ## Tranca Arcana
 
 Arcana 1 (Abjuração)
@@ -969,145 +821,19 @@ Componente material: chave de bronze no valor de T$ 25.
 
 **+5 PM:** muda o alvo para 1 objeto de qualquer tamanho, podendo afetar até mesmo os portões de um castelo. Requer 3º círculo.
 
-## Vitalidade Fantasma
-
-Arcana 1 (Necromancia)
-
-**Execução:** padrão; **Alcance:** pessoal; **Alvo:** você; **Duração:** instantânea.
-
-Você suga energia vital da terra, recebendo 2d8 pontos de vida temporários. Os PV temporários desaparecem ao final da cena.
-
-**+2 PM:** aumenta os PV temporários recebidos em +1d8. Caso a magia cause dano, em vez disso aumenta o dano causado em +1d8.
-
-**+5 PM:** muda o alvo para área de esfera com 6m de raio centrada em você e a resistência para Fortitude reduz à metade. Em vez do normal, você suga energia das criaturas vivas na área, causando 1d8 pontos de dano de trevas e recebendo PV temporários iguais ao dano total causado. Os PV temporários desaparecem ao final da cena. Requer 2º círculo.
-
-## Voo
-
-Arcana 3 (Transmutação)
-
-**Execução:** padrão; **Alcance:** pessoal; **Alvo:** você; **Duração:** cena.
-
-Você recebe deslocamento de voo 12m. Voar por meio desta magia é simples como andar — você pode atacar e lançar magias normalmente enquanto voa. Quando a magia termina, você desce lentamente até o chão, como se estivesse sob efeito de Queda Suave.
-
-**+1 PM:** muda o alcance para toque e o alvo para 1 criatura.
-
-**+4 PM:** muda a duração para 1 dia. Requer 4º círculo.
-
-**+4 PM:** muda o alcance para curto e o alvo para até 10 criaturas. Requer 4° círculo.
-
-## Memória Falsa
-
-Arcana 1 (Encantamento)
-
-**Execução:** padrão; **Alcance:** toque; **Alvo:** 1 criatura; **Duração:** instantânea; **Resistência:** Vontade anula.
-
-Você invade a mente do alvo e altera ou apaga suas memórias da última hora.
-
-**+2 PM:** muda o alcance para pessoal e o alvo para área cone de 4,5m.
-
-**+5 PM:** você pode alterar ou apagar as memórias das últimas 24 horas.
-
-## Proteção contra o Bem
-
-Universal 1 (Abjuração)
-
-**Execução:** padrão; **Alcance:** toque; **Alvo:** 1 criatura; **Duração:** cena; **Resistência:** Vontade anula (inofensivo).
-
-O alvo recebe +2 na Defesa e em testes de resistência contra criaturas boas. Além disso, fica imune a quaisquer tentativas de possessão ou controle mental por parte de tais criaturas.
-
-**+2 PM:** muda o alcance para pessoal e a área para esfera de 3m de raio. Além do normal, criaturas boas dentro da área não podem fazer ataques corpo a corpo contra você ou seus aliados (mas ataques à distância ou efeitos de área funcionam normalmente).
-
-## Proteção contra o Caos
-
-Universal 1 (Abjuração)
-
-**Execução:** padrão; **Alcance:** toque; **Alvo:** 1 criatura; **Duração:** cena; **Resistência:** Vontade anula (inofensivo).
-
-O alvo recebe +2 na Defesa e em testes de resistência contra criaturas caóticas. Além disso, fica imune a quaisquer tentativas de possessão ou controle mental por parte de tais criaturas.
-
-**+2 PM:** muda o alcance para pessoal e a área para esfera de 3m de raio. Além do normal, criaturas caóticas dentro da área não podem fazer ataques corpo a corpo contra você ou seus aliados (mas ataques à distância ou efeitos de área funcionam normalmente).
-
-## Proteção contra a Lei
-
-Universal 1 (Abjuração)
-
-**Execução:** padrão; **Alcance:** toque; **Alvo:** 1 criatura; **Duração:** cena; **Resistência:** Vontade anula (inofensivo).
-
-O alvo recebe +2 na Defesa e em testes de resistência contra criaturas leais. Além disso, fica imune a quaisquer tentativas de possessão ou controle mental por parte de tais criaturas.
-
-**+2 PM:** muda o alcance para pessoal e a área para esfera de 3m de raio. Além do normal, criaturas leais dentro da área não podem fazer ataques corpo a corpo contra você ou seus aliados (mas ataques à distância ou efeitos de área funcionam normalmente).
-
-## Proteção contra o Mal
-
-Universal 1 (Abjuração)
-
-**Execução:** padrão; **Alcance:** toque; **Alvo:** 1 criatura; **Duração:** cena; **Resistência:** Vontade anula (inofensivo).
-
-O alvo recebe +2 na Defesa e em testes de resistência contra criaturas malignas. Além disso, fica imune a quaisquer tentativas de possessão ou controle mental por parte de tais criaturas.
-
-**+2 PM:** muda o alcance para pessoal e a área para esfera de 3m de raio. Além do normal, criaturas malignas dentro da área não podem fazer ataques corpo a corpo contra você ou seus aliados (mas ataques à distância ou efeitos de área funcionam normalmente).
-
-## Purificação
-
-Divina 1 (Abjuração)
-
-**Execução:** padrão; **Alcance:** toque; **Alvo:** 1 criatura ou objeto; **Duração:** instantânea; **Resistência:** Vontade anula (inofensivo).
-
-Remove uma doença ou veneno que esteja afetando o alvo. Também pode ser usada para purificar água ou comida estragada.
-
-**+1 PM:** além do normal, o alvo recupera 1d8 PV.
-
-**+2 PM:** muda o alcance para curto e o alvo para criaturas ou objetos escolhidos.
-
-## Orientação
-
-Divina 1 (Adivinhação)
-
-**Execução:** padrão; **Alcance:** toque; **Alvo:** 1 criatura; **Duração:** cena.
-
-O alvo recebe +2 em seu próximo teste de perícia ou ataque.
-
-**Truque:** muda o alcance para pessoal e o alvo para você. Em vez do normal, você sabe onde fica o norte e recebe +5 em testes de Sobrevivência para se orientar.
-
-**+1 PM:** aumenta o bônus em +1.
-
-## Perdição
+## Tranquilidade
 
 Divina 1 (Encantamento)
 
-**Execução:** padrão; **Alcance:** curto; **Alvos:** inimigos; **Duração:** cena.
+**Execução:** padrão; **Alcance:** curto; **Alvo:** 1 animal ou humanoide; **Duração:** cena; **Resistência:** Vontade parcial.
 
-Amaldiçoa seus inimigos, que sofrem –1 em testes de ataque e rolagens de dano. Perdição anula Bênção.
+Você emana ondas de serenidade. Se falhar na resistência, o alvo tem sua atitude mudada para indiferente (veja a página 259) e não pode atacar ou realizar qualquer ação agressiva. Se passar, sofre –2 em testes de ataque. Qualquer ação hostil contra o alvo ou seus aliados dissipa a magia e faz ele retornar à atitude que tinha antes (ou pior, de acordo com o mestre).
 
-**+2 PM:** aumenta as penalidades em –1 (penalidade máxima limitada pelo círculo máximo de magia que você pode lançar).
+**+1 PM:** muda o alvo para 1 criatura.
 
-## Primor Atlético
+**+1 PM:** aumenta o número de alvos em +1.
 
-Arcana 1 (Transmutação)
-
-**Execução:** padrão; **Alcance:** toque; **Alvo:** 1 criatura; **Duração:** cena.
-
-Você modifica os limites físicos do alvo, que recebe deslocamento +9m e +10 em testes de Atletismo.
-
-**+1 PM:** além do normal, o alvo recebe um bônus adicional de +20 em testes de Atletismo para saltar (para um bônus total de +30).
-
-**+1 PM:** além do normal, o alvo pode escalar paredes e tetos sem precisar fazer testes de Atletismo. Para isso, precisa estar com as mãos livres, mas pode usar uma única mão se ficar parado no lugar. O alvo não fica desprevenido enquanto escala.
-
-**+1 PM:** muda a execução para ação de movimento, o alcance para pessoal, o alvo para você e a duração para instantânea. Seu deslocamento aumenta em +9m até o final do turno.
-
-**+1 PM:** muda o alcance para curto e o alvo para criaturas escolhidas.
-
-## Servo Invisível
-
-Arcana 1 (Encantamento)
-
-**Execução:** padrão; **Alcance:** curto; **Efeito:** 1 servo invisível; **Duração:** 1 dia.
-
-Você cria uma força invisível e sem mente que realiza tarefas simples a seu comando. O servo pode buscar objetos, abrir portas, servir comida, limpar e outras tarefas simples. Ele realiza uma tarefa por rodada. Pode mover objetos de até 10kg. Não pode atacar ou causar dano de forma alguma.
-
-**+1 PM:** aumenta o número de servos criados em +1.
-
-**+2 PM:** aumenta a duração para 1 semana. Requer 2º círculo.
+**+5 PM:** muda o alcance para médio e o alvo para criaturas escolhidas. Requer 3º círculo.
 
 ## Visão Mística
 
@@ -1120,6 +846,18 @@ Você pode ver auras mágicas. Isso permite identificar magias ativas, efeitos m
 **+2 PM:** além do normal, você percebe auras invisuais de criaturas ou objetos que estejam sob efeito de invisibilidade ou similares.
 
 **+2 PM:** muda a duração para 1 dia. Requer 2º círculo.
+
+## Vitalidade Fantasma
+
+Arcana 1 (Necromancia)
+
+**Execução:** padrão; **Alcance:** pessoal; **Alvo:** você; **Duração:** instantânea.
+
+Você suga energia vital da terra, recebendo 2d8 pontos de vida temporários. Os PV temporários desaparecem ao final da cena.
+
+**+2 PM:** aumenta os PV temporários recebidos em +1d8. Caso a magia cause dano, em vez disso aumenta o dano causado em +1d8.
+
+**+5 PM:** muda o alvo para área de esfera com 6m de raio centrada em você e a resistência para Fortitude reduz à metade. Em vez do normal, você suga energia das criaturas vivas na área, causando 1d8 pontos de dano de trevas e recebendo PV temporários iguais ao dano total causado. Os PV temporários desaparecem ao final da cena. Requer 2º círculo.
 
 ## Voz Divina
 
@@ -1134,3 +872,19 @@ Você pode se comunicar com criaturas variadas (plantas, animais, objetos e até
 ---
 
 [Voltar para Magia](README.md) | [Próximo: 2º Círculo ►](04-descricao-magias-2-circulo.md)
+
+## Área Escorregadia
+
+Arcana 1 (Convocação)
+
+**Execução:** padrão; **Alcance:** curto; **Alvo ou Área:** quadrado de 3m ou 1 objeto; **Duração:** cena; **Resistência:** Reflexos (veja texto).
+
+Esta magia recobre uma superfície com uma substância gordurosa e escorregadia. Criaturas na área devem passar na resistência para não cair. Nas rodadas seguintes, criaturas que tentem movimentar-se pela área devem fazer testes de Acrobacia para equilíbrio (CD 10).
+
+Área Escorregadia pode tornar um item escorregadio. Uma criatura segurando um objeto afetado deve passar na resistência para não deixar o item cair cada vez que usá-lo.
+
+**+1 PM:** aumenta a área em +1 quadrado de 1,5m.
+
+**+2 PM:** muda a CD dos testes de Acrobacia para 15.
+
+**+5 PM:** muda a CD dos testes de Acrobacia para 20.

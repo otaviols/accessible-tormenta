@@ -1,0 +1,198 @@
+ÍNDICE DO PDF TORMENTA 20
+==================================================
+
+- Capa
+- Créditos
+- Sumário
+- Introdução
+  - Sobre Este Livro
+  - O Panteão
+  - A Segunda Lição
+- Capítulo 1: Campeões dos Deuses
+  - Ser Devoto
+  - Classes Divinas
+  - Clérigos & Frades
+    - Sacerdote de Aharadak 
+    - Sacerdote de Allihanna 
+    - Sacerdote de Arsenal
+    - Sacerdote de Azgher
+    - Sacerdote de Hyninn
+    - Sacerdote de Kallyadranoch
+    - Sacerdote de Khalmyr
+    - Sacerdote de Lena
+    - Sacerdote de Lin-Wu
+    - Sacerdote de Marah
+    - Sacerdote de Megalokk 
+    - Sacerdote de Nimb
+    - Sacerdote de Oceano
+    - Sacerdote de Sszzaas
+    - Sacerdote de Tanna-Toh 
+    - Sacerdote de Tenebra
+    - Sacerdote de Thyatis
+    - Sacerdote de Thwor
+    - Sacerdote de Valkaria
+    - Sacerdote de Wynna
+    - Sacerdote do Panteão
+  - Autoridades Divinas
+    - Autoridade Eclesiástica
+      - Aharadak
+      - Allihanna
+      - Arsenal
+      - Azgher
+      - Hyninn
+      - Kallyadranoch
+      - Khalmyr
+      - Lena
+      - Lin-Wu
+      - Marah
+      - Megalokk
+      - Nimb
+      - Oceano
+      - Sszzaas
+      - Tanna-Toh
+      - Tenebra
+      - Thwor
+      - Thyatis
+      - Valkaria
+      - Wynna
+  - Druidas
+    - Druida de Aharadak
+    - Druida de Allihanna
+    - Druida de Megalokk
+    - Druida do Oceano
+    - Druida de Tenebra
+    - Druida de Arton
+  - Paladinos
+    - Paladino de Azgher
+    - Paladino de Khalmyr
+    - Paladino de Lena
+    - Paladino de Lin-Wu
+    - Paladino de Marah
+    - Paladino de Tanna-Toh
+    - Paladino de Thyatis
+    - Paladino de Valkaria
+    - Paladino do Bem
+  - Nova Linhagem: Abençoada
+  - Outros Devotos
+  - Suraggel Variantes
+  - Nova Classe: Frade
+  - Novos Poderes Concedidos
+  - Equipamentos Religiosos
+    - Equipamento de Aventura
+    - Ferramentas
+    - Vestuário
+    - Esotéricos
+    - Alquímicos
+      - Preparados
+      - Catalisadores
+    - Alimentação
+    - Serviços
+    - Itens Superiores
+  - Itens Litúrgicos
+  - Magias Divinas
+- Capítulo 2: Distinções
+  - Distinções em Jogo
+  - Usando Distinções
+  - Bufão de Hyninn
+  - Cavaleiro da Luz
+  - Cavaleiro de Khalmyr
+  - Colecionador Monstruoso
+  - Dançarina de Marah
+  - Detetive de Tanna-Toh
+  - Exegeta do Akzath
+  - Forjador Litúrgico
+  - Guardião da Realidade
+  - Herói Henshin
+  - Improvisador de Lena
+  - Inquisidor de Wynna
+  - Mestre de Armearia
+  - Numeromante
+  - Pacificador
+  - Pregador
+  - Sombra de Tenebra
+  - Sortudo de Nimb
+  - Sumo-Sacerdote
+  - Taumaturgista
+  - Teurgista Hermético
+  - Tibarita
+  - Tirano do Terceiro
+- Capítulo 3: Deuses e Avatares
+  - História do Panteão
+  - Aharadak, Deus da Tormenta
+  - Allihanna, Deusa da Natureza
+  - Arsenal, Deus da Guerra
+  - Azgher, Deus-Sol
+  - Hyninn, Deus da Trapaça
+  - Kallyadranoch, Deus dos Dragões
+  - Khalmyr, Deus da Justiça
+  - Lena, Deusa da Vida
+  - Lin-Wu, Deus da Honra
+  - Marah, Deusa da Paz e do Amor
+  - Megalokk, Deus dos Monstros
+  - Nimb, DEuS do CaOS
+  - Oceano, Deus dos Mares
+  - Sszzaas, Deus da Traição
+  - Tanna-Toh, Deusa do Conhecimento
+  - Tenebra, Deusa das Trevas
+  - Thwor, Deus dos Goblinoides
+  - Thyatis, Deus da Ressurreição e da Profecia
+  - Valkaria, Deusa da Aventura
+  - Wynna, Deusa da Magia
+  - Deuses Menores
+  - Os Antigos Deuses
+  - Artefatos Divinos
+- Capítulo 4: Ameaças Divinas
+  - Abissais
+    - Aucharai
+    - Carvarel
+    - Diabrete
+    - Jhumariel
+    - Margharon
+    - Rhayrivel
+    - Súcubo
+    - Abahddon, Lorde das Profundezas
+    - Lamashtu, Rainha dos Massacres
+  - Aspectos dos Deuses
+    - Aspecto de Allihanna
+    - Aspecto de Kallyadranoch
+    - Aspecto de Khalmyr
+    - Aspecto de Lin-Wu
+    - Aspecto de Marah
+    - Aspecto de Valkaria
+  - Celestiais
+    - Pilly
+    - Luminar
+    - Protetor
+    - Shiradi
+    - Inevitável
+    - Pégaso
+    - Muhir
+    - Orel
+    - Fúria Extrema
+  - Fadas
+    - Dríade
+    - Duende
+    - Dragonete
+    - Náiade
+    - Ninfa
+    - Sátiro
+    - Sílfide
+    - Velha Bruxa
+    - Eiradaan
+  - Gênios
+    - Gênio da Água
+    - Gênio do Ar
+    - Gênio do Fogo
+    - Gênio da Luz
+    - Gênio da Terra
+    - Gênio das Trevas
+  - Gigantes
+    - Galokk
+    - Gigante Bicéfalo
+    - Gigante das Colinas
+    - Gigante do Fogo
+    - Gigante das Rochas
+    - Gigante Real
+    - Gigante Máximo
+  - Perigos Complexos
+  - Tabela de Ameaças por Nível de Desafio

@@ -13,18 +13,6 @@ navigation:
 
 ---
 
-## Âncora Dimensional
-
-Arcana 3 (Abjuração)
-
-**Execução:** padrão; **Alcance:** curto; **Alvo:** 1 criatura; **Duração:** cena; **Resistência:** Vontade anula.
-
-O alvo não pode usar habilidades de teletransporte, como um dragão que usa sua habilidade de deslocamento mágico, ou um arcano com Salto Dimensional. Uma criatura que esteja dentro de um item extradimensional (como o Baú Secreto de Aeon) quando esta magia é lançada, é expulsa imediatamente de dentro dele.
-
-**+1 PM:** muda o alcance para pessoal, o alvo para você e a duração para 1 dia. Em vez do normal, você não pode ser alvo ou ficar dentro da área de magias de teletransporte. Além disso, não pode ser expulso de um item extradimensional contra a sua vontade.
-
-**+5 PM:** muda o alcance para curto e a área para esfera com 18m de raio. O espaço-tempo na área fica ancorado, impedindo qualquer tipo de teletransporte. Isso inclui habilidades de teletransporte de criaturas ou objetos e magias de teletransporte de qualquer tipo. Requer 4º círculo.
-
 ## Banimento
 
 Divina 3 (Abjuração)
@@ -65,6 +53,18 @@ Após uma breve união com a natureza local, você obtém informações e intui�
 
 **+8 PM:** muda o tipo dos dados de auxílio para d8.
 
+## Consagrar
+
+Divina 3 (Evocação)
+
+**Execução:** 10 minutos; **Alcance:** curto; **Área:** esfera com 6m de raio; **Duração:** 1 dia.
+
+Esta magia abençoa uma área, proporcionando energia positiva. Mortos-vivos na área sofrem –1 em testes de ataque, rolagens de dano e testes de resistência. Testes de Religião para expulsar mortos-vivos na área recebem +3. Além disso, mortos-vivos não podem ser criados dentro da área nem surgir aqui (o que impede que os mortos na área se tornem mortos-vivos).
+
+Consagrar anula Profanar.
+
+**+5 PM:** muda a área para esfera com 18m de raio e a duração para permanente. Requer 4º círculo.
+
 ## Convocação Instantânea
 
 Arcana 3 (Convocação)
@@ -80,6 +80,16 @@ Você invoca um objeto de qualquer lugar para sua mão. O item deve ter sido pre
 **+2 PM:** aumenta o número de alvos em +1.
 
 **+2 PM:** muda o alvo para 1 objeto de até 10 espaços.
+
+## Círculo da Justiça
+
+Divina 3 (Evocação)
+
+**Execução:** padrão; **Alcance:** pessoal; **Área:** esfera com 6m de raio emanando de você; **Duração:** instantânea; **Resistência:** Reflexos reduz à metade.
+
+Você emana uma explosão de energia divina que causa 8d6 pontos de dano de luz em inimigos na área.
+
+**+2 PM:** aumenta o dano em +2d6 de impacto e +2d6 de fogo.
 
 ## Dificultar Detecção
 
@@ -255,6 +265,18 @@ Cria uma muralha de um elemento a sua escolha. A muralha pode ser um muro de at�
 
 **+4 PM:** muda a duração para sustentada e adiciona uma nova escolha, Essência. A muralha é invisível e indestrutível — imune a qualquer forma de dano e não afetada por nenhuma magia. Ela não pode ser atravessada nem mesmo por criaturas incorpóreas. No entanto, magias que teletransportam criaturas, como Salto Dimensional, podem atravessá-la. Magias e efeitos de dano, como Bola de Fogo e o sopro de um dragão, não vencem a muralha, mas magias lançadas diretamente sobre uma criatura ou área, como Sono, podem ser lançadas contra alvos que estejam no outro lado como se tivessem linha de efeito. Requer 4º círculo.
 
+## Muralha de Gelo
+
+Arcana 3 (Evocação)
+
+**Execução:** padrão; **Alcance:** médio; **Efeito:** muralha de gelo; **Duração:** cena.
+
+Evoca uma parede grossa de gelo denso com 15cm de espessura. A muralha pode ser um muro de até 30m de comprimento e 3m de altura (ou o contrário) ou uma cúpula de 3m de raio. Na forma de cúpula, pode prender uma ou mais criaturas, mas elas têm direito a um teste de Reflexos para escapar antes que a cúpula se forme. Cada trecho de 3m da muralha tem Defesa 8, 40 PV e RD 5. Um trecho da muralha que atinja 0 PV será rompido. Qualquer efeito de fogo causa dano dobrado à muralha. Uma criatura que atravesse um trecho rompido da muralha sofre 4d6 pontos de dano de frio.
+
+**+2 PM:** aumenta o comprimento em +15m e altura em +3m, até 60m de comprimento e 9m de altura.
+
+**+4 PM:** muda a duração para sustentada e adiciona uma nova escolha, Essência. A muralha é invisível e indestrutível — imune a qualquer forma de dano e não afetada por nenhuma magia. Ela não pode ser atravessada nem mesmo por criaturas incorpóreas. No entanto, magias que teletransportam criaturas, como Salto Dimensional, podem atravessá-la. Magias e efeitos de dano, como Bola de Fogo e o sopro de um dragão, não vencem a muralha, mas magias lançadas diretamente sobre uma criatura ou área, como Sono, podem ser lançadas contra alvos que estejam no outro lado como se tivessem linha de efeito. Requer 4º círculo.
+
 ## Pele de Pedra
 
 Universal 3 (Transmutação)
@@ -272,6 +294,20 @@ Sua pele ganha aspecto e dureza de rocha. Você recebe redução de dano 5.
 **+4 PM:** muda o alcance para toque, o alvo para 1 criatura, a duração para 1d4 rodadas e adiciona Resistência: Fortitude anula. Em vez do efeito normal, a magia transforma o alvo e seu equipamento em uma estátua inerte e sem consciência. A estátua possui os mesmos PV da criatura e redução de dano 8; se for quebrada, a criatura morrerá. Requer 4º círculo.
 
 **+9 PM:** como acima, mas com duração permanente. Requer 5º círculo.
+
+## Proteção contra Magia
+
+Divina 3 (Abjuração)
+
+**Execução:** padrão; **Alcance:** toque; **Alvo:** 1 criatura; **Duração:** cena.
+
+Você protege o alvo contra efeitos mágicos nocivos. O alvo recebe +5 em testes de resistência contra magias.
+
+**+4 PM:** muda o bônus para +10. Requer 4º círculo.
+
+**+4 PM:** em vez do normal, o alvo fica imune a uma escola de magia a sua escolha. Requer 4º Círculo.
+
+**+9 PM:** em vez do normal, o alvo fica imune a duas escolas de magia a sua escolha. Requer 5º Círculo.
 
 ## Telecinesia
 
@@ -345,18 +381,6 @@ Como parte da execução, você entra em uma árvore adjacente que seja maior do
 
 **+2 PM:** muda o alcance para toque, o alvo para até cinco criaturas e a duração para instantânea. Os alvos entram em uma planta (de tamanho Médio ou maior) e saem em outra planta do mesmo tamanho a até 100km de distância, especificada em direção e distância aproximadas (como "50km ao norte").
 
-## Viagem Planar
-
-Universal 4 (Convocação)
-
-**Execução:** completa; **Alcance:** toque; **Alvo:** pessoal; **Duração:** instantânea.
-
-Você viaja instantaneamente para outro plano da Criação. Lá, você chega de 10 a 1.000km do destino pretendido (role 1d100 e multiplique por 10km).
-
-Componente material: um bastão de metal precioso em forma de forquilha (no valor de T$ 1.000). O tipo de metal determina para qual plano de existência você será enviado. Os metais que levam a dimensões específicas podem ser difíceis de encontrar, de acordo com o mestre.
-
-**+2 PM:** muda o alvo para até cinco criaturas voluntárias que você esteja tocando.
-
 ## Vidência
 
 Universal 3 (Adivinhação)
@@ -368,3 +392,29 @@ Através de uma superfície reflexiva (bacia de água benta para clérigos, lago
 ---
 
 [◄ Anterior: 2º Círculo](04-descricao-magias-2-circulo.md) | [Voltar para Magia](README.md) | [Próximo: 4º Círculo ►](08-descricao-magias-4-circulo.md)
+
+## Voo
+
+Arcana 3 (Transmutação)
+
+**Execução:** padrão; **Alcance:** pessoal; **Alvo:** você; **Duração:** cena.
+
+Você recebe deslocamento de voo 12m. Voar por meio desta magia é simples como andar — você pode atacar e lançar magias normalmente enquanto voa. Quando a magia termina, você desce lentamente até o chão, como se estivesse sob efeito de Queda Suave.
+
+**+1 PM:** muda o alcance para toque e o alvo para 1 criatura.
+
+**+4 PM:** muda a duração para 1 dia. Requer 4º círculo.
+
+**+4 PM:** muda o alcance para curto e o alvo para até 10 criaturas. Requer 4° círculo.
+
+## Âncora Dimensional
+
+Arcana 3 (Abjuração)
+
+**Execução:** padrão; **Alcance:** curto; **Alvo:** 1 criatura; **Duração:** cena; **Resistência:** Vontade anula.
+
+O alvo não pode usar habilidades de teletransporte, como um dragão que usa sua habilidade de deslocamento mágico, ou um arcano com Salto Dimensional. Uma criatura que esteja dentro de um item extradimensional (como o Baú Secreto de Aeon) quando esta magia é lançada, é expulsa imediatamente de dentro dele.
+
+**+1 PM:** muda o alcance para pessoal, o alvo para você e a duração para 1 dia. Em vez do normal, você não pode ser alvo ou ficar dentro da área de magias de teletransporte. Além disso, não pode ser expulso de um item extradimensional contra a sua vontade.
+
+**+5 PM:** muda o alcance para curto e a área para esfera com 18m de raio. O espaço-tempo na área fica ancorado, impedindo qualquer tipo de teletransporte. Isso inclui habilidades de teletransporte de criaturas ou objetos e magias de teletransporte de qualquer tipo. Requer 4º círculo.

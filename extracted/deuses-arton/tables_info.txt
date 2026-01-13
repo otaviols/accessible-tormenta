@@ -1,0 +1,570 @@
+TOTAL DE TABELAS ENCONTRADAS: 142
+
+Tabela 1 - Página 42
+Linhas: 1
+Colunas: 2
+----------------------------------------
+Tabela 2 - Página 42
+Linhas: 1
+Colunas: 2
+----------------------------------------
+Tabela 3 - Página 42
+Linhas: 1
+Colunas: 2
+----------------------------------------
+Tabela 4 - Página 42
+Linhas: 1
+Colunas: 2
+----------------------------------------
+Tabela 5 - Página 42
+Linhas: 1
+Colunas: 2
+----------------------------------------
+Tabela 6 - Página 42
+Linhas: 1
+Colunas: 2
+----------------------------------------
+Tabela 7 - Página 42
+Linhas: 1
+Colunas: 2
+----------------------------------------
+Tabela 8 - Página 42
+Linhas: 1
+Colunas: 2
+----------------------------------------
+Tabela 9 - Página 42
+Linhas: 1
+Colunas: 2
+----------------------------------------
+Tabela 10 - Página 42
+Linhas: 1
+Colunas: 2
+----------------------------------------
+Tabela 11 - Página 42
+Linhas: 1
+Colunas: 2
+----------------------------------------
+Tabela 12 - Página 45
+Linhas: 1
+Colunas: 2
+----------------------------------------
+Tabela 13 - Página 45
+Linhas: 1
+Colunas: 2
+----------------------------------------
+Tabela 14 - Página 45
+Linhas: 1
+Colunas: 2
+----------------------------------------
+Tabela 15 - Página 45
+Linhas: 1
+Colunas: 2
+----------------------------------------
+Tabela 16 - Página 45
+Linhas: 1
+Colunas: 2
+----------------------------------------
+Tabela 17 - Página 45
+Linhas: 1
+Colunas: 2
+----------------------------------------
+Tabela 18 - Página 45
+Linhas: 1
+Colunas: 2
+----------------------------------------
+Tabela 19 - Página 45
+Linhas: 1
+Colunas: 2
+----------------------------------------
+Tabela 20 - Página 45
+Linhas: 1
+Colunas: 2
+----------------------------------------
+Tabela 21 - Página 45
+Linhas: 1
+Colunas: 2
+----------------------------------------
+Tabela 22 - Página 45
+Linhas: 1
+Colunas: 2
+----------------------------------------
+Tabela 23 - Página 48
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 24 - Página 48
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 25 - Página 48
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 26 - Página 52
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 27 - Página 52
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 28 - Página 52
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 29 - Página 52
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 30 - Página 52
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 31 - Página 52
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 32 - Página 52
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 33 - Página 52
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 34 - Página 52
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 35 - Página 52
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 36 - Página 52
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 37 - Página 52
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 38 - Página 52
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 39 - Página 52
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 40 - Página 52
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 41 - Página 52
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 42 - Página 52
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 43 - Página 52
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 44 - Página 52
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 45 - Página 52
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 46 - Página 52
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 47 - Página 52
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 48 - Página 52
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 49 - Página 52
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 50 - Página 52
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 51 - Página 52
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 52 - Página 52
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 53 - Página 52
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 54 - Página 52
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 55 - Página 52
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 56 - Página 52
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 57 - Página 52
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 58 - Página 52
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 59 - Página 52
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 60 - Página 52
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 61 - Página 52
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 62 - Página 52
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 63 - Página 52
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 64 - Página 52
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 65 - Página 56
+Linhas: 1
+Colunas: 2
+----------------------------------------
+Tabela 66 - Página 56
+Linhas: 1
+Colunas: 2
+----------------------------------------
+Tabela 67 - Página 56
+Linhas: 1
+Colunas: 2
+----------------------------------------
+Tabela 68 - Página 56
+Linhas: 1
+Colunas: 2
+----------------------------------------
+Tabela 69 - Página 152
+Linhas: 2
+Colunas: 1
+----------------------------------------
+Tabela 70 - Página 156
+Linhas: 2
+Colunas: 1
+----------------------------------------
+Tabela 71 - Página 160
+Linhas: 2
+Colunas: 1
+----------------------------------------
+Tabela 72 - Página 164
+Linhas: 2
+Colunas: 1
+----------------------------------------
+Tabela 73 - Página 168
+Linhas: 2
+Colunas: 1
+----------------------------------------
+Tabela 74 - Página 172
+Linhas: 2
+Colunas: 1
+----------------------------------------
+Tabela 75 - Página 176
+Linhas: 2
+Colunas: 1
+----------------------------------------
+Tabela 76 - Página 180
+Linhas: 2
+Colunas: 1
+----------------------------------------
+Tabela 77 - Página 184
+Linhas: 2
+Colunas: 1
+----------------------------------------
+Tabela 78 - Página 188
+Linhas: 2
+Colunas: 1
+----------------------------------------
+Tabela 79 - Página 192
+Linhas: 2
+Colunas: 1
+----------------------------------------
+Tabela 80 - Página 200
+Linhas: 2
+Colunas: 1
+----------------------------------------
+Tabela 81 - Página 204
+Linhas: 2
+Colunas: 1
+----------------------------------------
+Tabela 82 - Página 208
+Linhas: 2
+Colunas: 1
+----------------------------------------
+Tabela 83 - Página 212
+Linhas: 2
+Colunas: 1
+----------------------------------------
+Tabela 84 - Página 216
+Linhas: 2
+Colunas: 1
+----------------------------------------
+Tabela 85 - Página 220
+Linhas: 2
+Colunas: 1
+----------------------------------------
+Tabela 86 - Página 224
+Linhas: 2
+Colunas: 1
+----------------------------------------
+Tabela 87 - Página 228
+Linhas: 2
+Colunas: 1
+----------------------------------------
+Tabela 88 - Página 311
+Linhas: 1
+Colunas: 2
+----------------------------------------
+Tabela 89 - Página 311
+Linhas: 1
+Colunas: 2
+----------------------------------------
+Tabela 90 - Página 311
+Linhas: 1
+Colunas: 2
+----------------------------------------
+Tabela 91 - Página 311
+Linhas: 1
+Colunas: 2
+----------------------------------------
+Tabela 92 - Página 311
+Linhas: 1
+Colunas: 2
+----------------------------------------
+Tabela 93 - Página 311
+Linhas: 1
+Colunas: 2
+----------------------------------------
+Tabela 94 - Página 311
+Linhas: 1
+Colunas: 2
+----------------------------------------
+Tabela 95 - Página 311
+Linhas: 1
+Colunas: 2
+----------------------------------------
+Tabela 96 - Página 311
+Linhas: 1
+Colunas: 2
+----------------------------------------
+Tabela 97 - Página 311
+Linhas: 1
+Colunas: 2
+----------------------------------------
+Tabela 98 - Página 311
+Linhas: 1
+Colunas: 2
+----------------------------------------
+Tabela 99 - Página 321
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 100 - Página 321
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 101 - Página 321
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 102 - Página 321
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 103 - Página 321
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 104 - Página 321
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 105 - Página 321
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 106 - Página 321
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 107 - Página 321
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 108 - Página 321
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 109 - Página 321
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 110 - Página 321
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 111 - Página 321
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 112 - Página 321
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 113 - Página 321
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 114 - Página 321
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 115 - Página 321
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 116 - Página 321
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 117 - Página 321
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 118 - Página 321
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 119 - Página 321
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 120 - Página 321
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 121 - Página 321
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 122 - Página 321
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 123 - Página 321
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 124 - Página 321
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 125 - Página 321
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 126 - Página 321
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 127 - Página 321
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 128 - Página 321
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 129 - Página 321
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 130 - Página 321
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 131 - Página 321
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 132 - Página 321
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 133 - Página 321
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 134 - Página 321
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 135 - Página 321
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 136 - Página 321
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 137 - Página 321
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 138 - Página 321
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 139 - Página 321
+Linhas: 1
+Colunas: 3
+----------------------------------------
+Tabela 140 - Página 324
+Linhas: 5
+Colunas: 4
+----------------------------------------
+Tabela 141 - Página 324
+Linhas: 5
+Colunas: 4
+----------------------------------------
+Tabela 142 - Página 324
+Linhas: 21
+Colunas: 6
+----------------------------------------

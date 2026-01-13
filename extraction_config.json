@@ -49,6 +49,22 @@
         "tables": 55,
         "images": 1552
       }
+    },
+    {
+      "id": "deuses-arton",
+      "description": "Deuses de Arton - Panteão completo de Tormenta 20",
+      "pdf_filename": "T20DeusesdeArtonEbook.pdf",
+      "pdf_path": "Pdf files/T20DeusesdeArtonEbook.pdf",
+      "output_dir": "extracted/deuses-arton",
+      "status": "in-progress",
+      "notes": "20 deuses maiores, deuses menores, classes divinas, distinções religiosas e criaturas divinas",
+      "extraction_date": "2026-01-12",
+      "page_count": 324,
+      "stats": {
+        "toc_entries": 195,
+        "tables": 142,
+        "images": 1544
+      }
     }
   ],
   "_schema": {
