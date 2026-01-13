@@ -27,6 +27,7 @@ Este projeto contém a conversão para Markdown dos livros do sistema Tormenta 2
 **Capítulos:** Introdução, Ameaças (413 criaturas em 35 categorias temáticas), Regras Avançadas (criação de ameaças customizadas), Bazar Monstruoso (armas, itens mágicos, recursos diversos), Apêndices (índices alfabético/ND, gerador de encontros aleatórios)
 
 ### [Deuses de arton](livros/deuses-arton/README.md)
+**Status: **Incompleto
 
 ## 📊 Estatísticas Gerais
 
