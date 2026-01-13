@@ -22,7 +22,7 @@ Esta documentação mantém todos os padrões de acessibilidade do projeto Torme
 ### [01 - Introdução](01-introducao/README.md)
 [DESCRIÇÃO DO CAPÍTULO]
 
-### [02 - Personagens](02-personagens/README.md)
+### [02 - Campeões dos deuses](02-campeoes-deuses/README.md)
 [DESCRIÇÃO DO CAPÍTULO]
 
 ### [03 - Raças](03-racas/README.md)
