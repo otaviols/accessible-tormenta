@@ -1,10 +1,11 @@
 ---
 title: "Distinções"
-book: "Deuses de Arton"
+book: "deuses-arton"
 chapter: "03-distincoes"
-previous: "../02-campeoes-deuses/12-magias-divinas"
-next: "01-distincoes-em-jogo"
-up: "../README"
+navigation:
+  previous: "../02-campeoes-deuses/12-magias-divinas.md"
+  next: "01-distincoes-em-jogo.md"
+  up: "../README.md"
 ---
 
 # Capítulo 2: Distinções

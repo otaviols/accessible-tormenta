@@ -1,10 +1,11 @@
 ---
 title: "Os Antigos Deuses"
-book: "Deuses de Arton"
+book: "deuses-arton"
 chapter: "04-deuses-avatares"
-previous: "23-deuses-menores.md"
-next: "25-artefatos-divinos.md"
-up: "README.md"
+navigation:
+  previous: "23-deuses-menores.md"
+  next: "25-artefatos-divinos.md"
+  up: "README.md"
 ---
 
 # Os Antigos Deuses

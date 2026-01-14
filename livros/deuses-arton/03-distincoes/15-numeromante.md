@@ -1,10 +1,11 @@
 ---
 title: "Numeromante"
-book: "Deuses de Arton"
+book: "deuses-arton"
 chapter: "03-distincoes"
-previous: "14-mestre-armearia"
-next: "16-pacificador"
-up: "README"
+navigation:
+  previous: "14-mestre-armearia.md"
+  next: "16-pacificador.md"
+  up: "README.md"
 ---
 
 # Numeromante

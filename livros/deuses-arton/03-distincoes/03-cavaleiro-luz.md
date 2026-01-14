@@ -1,10 +1,11 @@
 ---
 title: "Cavaleiro da Luz"
-book: "Deuses de Arton"
+book: "deuses-arton"
 chapter: "03-distincoes"
-previous: "02-bufao-hyninn"
-next: "04-cavaleiro-khalmyr"
-up: "README"
+navigation:
+  previous: "02-bufao-hyninn.md"
+  next: "04-cavaleiro-khalmyr.md"
+  up: "README.md"
 ---
 
 # Cavaleiro da Luz

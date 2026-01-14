@@ -1,16 +1,11 @@
 ---
 title: "Tabela de Ameaças por Nível de Desafio"
-type: "reference"
-book: "Deuses de Arton"
-chapter: "Capítulo 5 - Ameaças Divinas"
-order: 4
+book: "deuses-arton"
+chapter: "05-ameacas-divinas"
 navigation:
   previous: "03-cataclismo.md"
   next: "../../README.md"
   up: "README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Tabela de Ameaças por Nível de Desafio

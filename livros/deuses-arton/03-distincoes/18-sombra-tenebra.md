@@ -1,10 +1,11 @@
 ---
 title: "Sombra de Tenebra"
-book: "Deuses de Arton"
+book: "deuses-arton"
 chapter: "03-distincoes"
-previous: "17-pregador"
-next: "19-sortudo-nimb"
-up: "README"
+navigation:
+  previous: "17-pregador.md"
+  next: "19-sortudo-nimb.md"
+  up: "README.md"
 ---
 
 # Sombra de Tenebra

@@ -1,10 +1,11 @@
 ---
 title: "Autoridades Divinas"
-book: "Deuses de Arton"
+book: "deuses-arton"
 chapter: "02-campeoes-deuses"
-previous: "06-frade-classe"
-next: "08-outros-devotos"
-up: "README"
+navigation:
+  previous: "06-frade-classe.md"
+  next: "08-outros-devotos.md"
+  up: "README.md"
 ---
 
 # Autoridades Divinas

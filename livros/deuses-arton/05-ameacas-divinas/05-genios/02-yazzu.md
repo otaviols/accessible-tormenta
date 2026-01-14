@@ -1,18 +1,11 @@
 ---
 title: "Yazzu - Gênio do Ar"
-type: "creature"
-subtype: "genio"
-book: "Deuses de Arton"
-chapter: "Capítulo 5 - Ameaças Divinas"
-order: 2
-nd: "10"
+book: "deuses-arton"
+chapter: "05-ameacas-divinas"
 navigation:
   previous: "01-jairuan.md"
   next: "03-kemooz.md"
   up: "README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Yazzu - Gênio do Ar

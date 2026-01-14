@@ -1,10 +1,11 @@
 ---
 title: "Outros Devotos"
-book: "Deuses de Arton"
+book: "deuses-arton"
 chapter: "02-campeoes-deuses"
-previous: "07-autoridades-divinas"
-next: "09-poderes-concedidos"
-up: "README"
+navigation:
+  previous: "07-autoridades-divinas.md"
+  next: "09-poderes-concedidos.md"
+  up: "README.md"
 ---
 
 # Outros Devotos

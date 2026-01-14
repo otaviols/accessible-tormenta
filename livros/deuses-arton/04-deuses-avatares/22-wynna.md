@@ -1,17 +1,11 @@
 ---
 title: "Wynna - Deusa da Magia"
-type: "deity"
-subtype: "major"
-book: "Deuses de Arton"
-chapter: "Capítulo 4 - Deuses & Avatares"
-order: 22
+book: "deuses-arton"
+chapter: "04-deuses-avatares"
 navigation:
   previous: "21-valkaria.md"
-  next: null
+  next: "23-deuses-menores.md"
   up: "README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Wynna - Deusa da Magia

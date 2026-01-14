@@ -1,10 +1,11 @@
 ---
 title: "Itens Litúrgicos"
-book: "Deuses de Arton"
+book: "deuses-arton"
 chapter: "02-campeoes-deuses"
-previous: "10-equipamentos-religiosos"
-next: "12-magias-divinas"
-up: "README"
+navigation:
+  previous: "10-equipamentos-religiosos.md"
+  next: "12-magias-divinas.md"
+  up: "README.md"
 ---
 
 # Itens Litúrgicos

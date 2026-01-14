@@ -1,16 +1,11 @@
 ---
 title: "Fadas - Espíritos da Natureza"
-type: "section_index"
-book: "Deuses de Arton"
-chapter: "Capítulo 5 - Ameaças Divinas"
-order: 4
+book: "deuses-arton"
+chapter: "05-ameacas-divinas"
 navigation:
   previous: "../03-celestiais/09-furia-extrema.md"
   next: "01-driade.md"
   up: "../README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Fadas

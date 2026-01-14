@@ -1,18 +1,11 @@
 ---
 title: "Sátiro - O Tocador de Flautas"
-type: "creature"
-subtype: "fada"
-book: "Deuses de Arton"
-chapter: "Capítulo 5 - Ameaças Divinas"
-order: 6
-nd: "2"
+book: "deuses-arton"
+chapter: "05-ameacas-divinas"
 navigation:
   previous: "05-ninfa.md"
   next: "07-silfide.md"
   up: "README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Sátiro

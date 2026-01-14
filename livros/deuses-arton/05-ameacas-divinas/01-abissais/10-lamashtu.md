@@ -1,18 +1,11 @@
 ---
 title: "Lamashtu - Rainha dos Massacres"
-type: "creature"
-subtype: "abissal-lord"
-book: "Deuses de Arton"
-chapter: "Capítulo 5 - Ameaças Divinas"
-order: 10
-nd: "S"
+book: "deuses-arton"
+chapter: "05-ameacas-divinas"
 navigation:
   previous: "09-abahddon.md"
   next: "../02-aspectos/README.md"
   up: "README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Lamashtu - Rainha dos Massacres

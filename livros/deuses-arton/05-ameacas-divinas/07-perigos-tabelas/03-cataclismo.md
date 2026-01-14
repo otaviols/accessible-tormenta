@@ -1,17 +1,11 @@
 ---
 title: "Cataclismo - A Fúria dos Deuses"
-type: "perigo"
-book: "Deuses de Arton"
-chapter: "Capítulo 5 - Ameaças Divinas"
-order: 3
-nd: "17"
+book: "deuses-arton"
+chapter: "05-ameacas-divinas"
 navigation:
   previous: "02-pantano-amaldicoado.md"
   next: "04-tabela-nd.md"
   up: "README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Cataclismo

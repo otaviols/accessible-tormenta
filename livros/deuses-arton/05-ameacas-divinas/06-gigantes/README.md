@@ -1,16 +1,11 @@
 ---
 title: "Gigantes"
-type: "section_index"
-book: "Deuses de Arton"
-chapter: "Capítulo 5 - Ameaças Divinas"
-order: 6
+book: "deuses-arton"
+chapter: "05-ameacas-divinas"
 navigation:
   previous: "../05-genios/06-dabbus.md"
   next: "01-galokk.md"
   up: "../README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Gigantes

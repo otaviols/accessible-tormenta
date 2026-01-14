@@ -1,17 +1,11 @@
 ---
 title: "Thwor - Deus dos Goblinoides"
-type: "deity"
-subtype: "major"
-book: "Deuses de Arton"
-chapter: "Capítulo 4 - Deuses & Avatares"
-order: 19
+book: "deuses-arton"
+chapter: "04-deuses-avatares"
 navigation:
   previous: "18-tenebra.md"
   next: "20-thyatis.md"
   up: "README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Thwor - Deus dos Goblinoides

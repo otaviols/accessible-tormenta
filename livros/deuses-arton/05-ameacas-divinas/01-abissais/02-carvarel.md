@@ -1,18 +1,11 @@
 ---
 title: "Carvarel - Guerreiro de Chifres"
-type: "creature"
-subtype: "abissal"
-book: "Deuses de Arton"
-chapter: "Capítulo 5 - Ameaças Divinas"
-order: 2
-nd: 8
+book: "deuses-arton"
+chapter: "05-ameacas-divinas"
 navigation:
   previous: "01-aucharai.md"
   next: "03-diabrete.md"
   up: "README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Carvarel - Guerreiro de Chifres

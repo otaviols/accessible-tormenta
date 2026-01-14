@@ -1,10 +1,11 @@
 ---
 title: Azgher
-book: Deuses de Arton
-chapter: 4
-previous: 04-arsenal
-next: 06-hyninn
-up: README
+book: "deuses-arton"
+chapter: "04-deuses-avatares"
+navigation:
+  previous: "04-arsenal.md"
+  next: "06-hyninn.md"
+  up: "README.md"
 ---
 
 # Azgher - Deus-Sol

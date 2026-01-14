@@ -1,10 +1,11 @@
 ---
 title: "Guardião da Realidade"
-book: "Deuses de Arton"
+book: "deuses-arton"
 chapter: "03-distincoes"
-previous: "09-forjador-liturgico"
-next: "11-heroi-henshin"
-up: "README"
+navigation:
+  previous: "09-forjador-liturgico.md"
+  next: "11-heroi-henshin.md"
+  up: "README.md"
 ---
 
 # Guardião da Realidade

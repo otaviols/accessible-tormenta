@@ -1,10 +1,11 @@
 ---
 title: "Bufão de Hyninn"
-book: "Deuses de Arton"
+book: "deuses-arton"
 chapter: "03-distincoes"
-previous: "01-distincoes-em-jogo"
-next: "03-cavaleiro-luz"
-up: "README"
+navigation:
+  previous: "01-distincoes-em-jogo.md"
+  next: "03-cavaleiro-luz.md"
+  up: "README.md"
 ---
 
 # Bufão de Hyninn

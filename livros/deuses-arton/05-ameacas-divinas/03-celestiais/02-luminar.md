@@ -1,18 +1,11 @@
 ---
 title: "Luminar - A Luz Sagrada"
-type: "creature"
-subtype: "celestial"
-book: "Deuses de Arton"
-chapter: "Capítulo 5 - Ameaças Divinas"
-order: 2
-nd: "–"
+book: "deuses-arton"
+chapter: "05-ameacas-divinas"
 navigation:
   previous: "01-pilly.md"
   next: "03-protetor.md"
   up: "README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Luminar

@@ -1,18 +1,11 @@
 ---
 title: "Shiradi - O Campeão da Liberdade"
-type: "creature"
-subtype: "celestial"
-book: "Deuses de Arton"
-chapter: "Capítulo 5 - Ameaças Divinas"
-order: 4
-nd: "7"
+book: "deuses-arton"
+chapter: "05-ameacas-divinas"
 navigation:
   previous: "03-protetor.md"
   next: "05-inevitavel.md"
   up: "README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Shiradi

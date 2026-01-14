@@ -1,10 +1,11 @@
 ---
 title: Hyninn - Deus da Trapaça
-book: Deuses de Arton
-chapter: 4
-previous: 05-azgher
-next: 07-kallyadranoch
-up: README
+book: "deuses-arton"
+chapter: "04-deuses-avatares"
+navigation:
+  previous: "05-azgher.md"
+  next: "07-kallyadranoch.md"
+  up: "README.md"
 ---
 
 # Hyninn - Deus da Trapaça

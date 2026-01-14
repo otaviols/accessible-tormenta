@@ -1,17 +1,11 @@
 ---
 title: "Lin-Wu - Deus da Honra"
-type: "deity"
-subtype: "major"
-book: "Deuses de Arton"
-chapter: "Capítulo 4 - Deuses & Avatares"
-order: 11
+book: "deuses-arton"
+chapter: "04-deuses-avatares"
 navigation:
   previous: "10-lena.md"
   next: "12-marah.md"
   up: "README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Lin-Wu - Deus da Honra

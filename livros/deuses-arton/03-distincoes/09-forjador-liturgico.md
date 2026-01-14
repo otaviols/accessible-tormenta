@@ -1,10 +1,11 @@
 ---
 title: "Forjador Litúrgico"
-book: "Deuses de Arton"
+book: "deuses-arton"
 chapter: "03-distincoes"
-previous: "08-exegeta-akzath"
-next: "10-guardiao-realidade"
-up: "README"
+navigation:
+  previous: "08-exegeta-akzath.md"
+  next: "10-guardiao-realidade.md"
+  up: "README.md"
 ---
 
 # Forjador Litúrgico

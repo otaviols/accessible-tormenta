@@ -1,10 +1,11 @@
 ---
 title: "Deuses Menores"
-book: "Deuses de Arton"
+book: "deuses-arton"
 chapter: "04-deuses-avatares"
-previous: "22-wynna.md"
-next: "24-antigos-deuses.md"
-up: "README.md"
+navigation:
+  previous: "22-wynna.md"
+  next: "24-antigos-deuses.md"
+  up: "README.md"
 ---
 
 # Deuses Menores

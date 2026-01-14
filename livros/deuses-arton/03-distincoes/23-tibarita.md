@@ -1,10 +1,11 @@
 ---
 title: Tibarita
-book: Deuses de Arton
-chapter: 3
-previous: 22-teurgista-hermetico
-next: 24-tirano-terceiro
-up: README
+book: "deuses-arton"
+chapter: "03-distincoes"
+navigation:
+  previous: "22-teurgista-hermetico.md"
+  next: "24-tirano-terceiro.md"
+  up: "README.md"
 ---
 
 # Tibarita

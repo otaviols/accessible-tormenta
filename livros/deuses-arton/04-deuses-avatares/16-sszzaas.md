@@ -1,17 +1,11 @@
 ---
 title: "Sszzaas - Deus da Traição"
-type: "deity"
-subtype: "major"
-book: "Deuses de Arton"
-chapter: "Capítulo 4 - Deuses & Avatares"
-order: 16
+book: "deuses-arton"
+chapter: "04-deuses-avatares"
 navigation:
   previous: "15-oceano.md"
   next: "17-tanna-toh.md"
   up: "README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Sszzaas - Deus da Traição

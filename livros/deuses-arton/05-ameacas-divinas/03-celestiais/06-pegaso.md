@@ -1,18 +1,11 @@
 ---
 title: "Pégaso - O Cavalo Celestial"
-type: "creature"
-subtype: "celestial"
-book: "Deuses de Arton"
-chapter: "Capítulo 5 - Ameaças Divinas"
-order: 6
-nd: "3-15"
+book: "deuses-arton"
+chapter: "05-ameacas-divinas"
 navigation:
   previous: "05-inevitavel.md"
   next: "07-muhir.md"
   up: "README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Pégaso

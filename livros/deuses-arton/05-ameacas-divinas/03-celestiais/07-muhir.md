@@ -1,18 +1,11 @@
 ---
 title: "Muhir - O Cavaleiro Errante"
-type: "creature"
-subtype: "celestial"
-book: "Deuses de Arton"
-chapter: "Capítulo 5 - Ameaças Divinas"
-order: 7
-nd: "15"
+book: "deuses-arton"
+chapter: "05-ameacas-divinas"
 navigation:
   previous: "06-pegaso.md"
   next: "08-orel.md"
   up: "README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Muhir

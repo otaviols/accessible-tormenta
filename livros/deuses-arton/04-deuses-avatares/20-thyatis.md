@@ -1,17 +1,11 @@
 ---
 title: "Thyatis - Deus da Ressurreição e da Profecia"
-type: "deity"
-subtype: "major"
-book: "Deuses de Arton"
-chapter: "Capítulo 4 - Deuses & Avatares"
-order: 20
+book: "deuses-arton"
+chapter: "04-deuses-avatares"
 navigation:
   previous: "19-thwor.md"
   next: "21-valkaria.md"
   up: "README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Thyatis - Deus da Ressurreição e da Profecia

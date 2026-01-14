@@ -1,10 +1,11 @@
 ---
 title: Deuses e Avatares
-book: Deuses de Arton
-chapter: 4
-previous: ../03-distincoes/24-tirano-terceiro
-next: 01-historia-panteao
-up: ../README
+book: "deuses-arton"
+chapter: "04-deuses-avatares"
+navigation:
+  previous: "../03-distincoes/24-tirano-terceiro.md"
+  next: "01-historia-panteao.md"
+  up: "../README.md"
 ---
 
 # Deuses e Avatares

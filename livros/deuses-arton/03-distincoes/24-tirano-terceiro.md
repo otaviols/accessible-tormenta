@@ -1,10 +1,11 @@
 ---
 title: Tirano do Terceiro
-book: Deuses de Arton
-chapter: 3
-previous: 23-tibarita
-next: ../04-deuses-avatares/README
-up: README
+book: "deuses-arton"
+chapter: "03-distincoes"
+navigation:
+  previous: "23-tibarita.md"
+  next: "../04-deuses-avatares/README.md"
+  up: "README.md"
 ---
 
 # Tirano do Terceiro

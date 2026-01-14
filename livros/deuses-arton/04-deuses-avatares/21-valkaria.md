@@ -1,17 +1,11 @@
 ---
 title: "Valkaria - Deusa da Aventura"
-type: "deity"
-subtype: "major"
-book: "Deuses de Arton"
-chapter: "Capítulo 4 - Deuses & Avatares"
-order: 21
+book: "deuses-arton"
+chapter: "04-deuses-avatares"
 navigation:
   previous: "20-thyatis.md"
   next: "22-wynna.md"
   up: "README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Valkaria - Deusa da Aventura

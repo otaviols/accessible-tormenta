@@ -1,18 +1,11 @@
 ---
 title: "Dabbus - Gênio das Trevas"
-type: "creature"
-subtype: "genio"
-book: "Deuses de Arton"
-chapter: "Capítulo 5 - Ameaças Divinas"
-order: 6
-nd: "15"
+book: "deuses-arton"
+chapter: "05-ameacas-divinas"
 navigation:
   previous: "05-allaraz.md"
   next: "../06-gigantes/README.md"
   up: "README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Dabbus - Gênio das Trevas

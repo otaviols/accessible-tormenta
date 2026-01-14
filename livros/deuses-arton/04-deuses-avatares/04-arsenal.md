@@ -1,10 +1,11 @@
 ---
 title: Arsenal
-book: Deuses de Arton
-chapter: 4
-previous: 03-allihanna
-next: 05-azgher
-up: README
+book: "deuses-arton"
+chapter: "04-deuses-avatares"
+navigation:
+  previous: "03-allihanna.md"
+  next: "05-azgher.md"
+  up: "README.md"
 ---
 
 # Arsenal - Deus da Guerra

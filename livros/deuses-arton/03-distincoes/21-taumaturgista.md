@@ -1,10 +1,11 @@
 ---
 title: Taumaturgista
-book: Deuses de Arton
-chapter: 3
-previous: 20-sumo-sacerdote
-next: 22-teurgista-hermetico
-up: README
+book: "deuses-arton"
+chapter: "03-distincoes"
+navigation:
+  previous: "20-sumo-sacerdote.md"
+  next: "22-teurgista-hermetico.md"
+  up: "README.md"
 ---
 
 # Taumaturgista

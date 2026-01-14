@@ -1,16 +1,11 @@
 ---
 title: "Celestiais - Servos dos Deuses Bondosos"
-type: "section_index"
-book: "Deuses de Arton"
-chapter: "Capítulo 5 - Ameaças Divinas"
-order: 3
+book: "deuses-arton"
+chapter: "05-ameacas-divinas"
 navigation:
   previous: "../02-aspectos/06-aspecto-valkaria.md"
   next: "01-pilly.md"
   up: "../README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Celestiais

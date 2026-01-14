@@ -1,17 +1,11 @@
 ---
 title: "Megalokk - Deus dos Monstros"
-type: "deity"
-subtype: "major"
-book: "Deuses de Arton"
-chapter: "Capítulo 4 - Deuses & Avatares"
-order: 13
+book: "deuses-arton"
+chapter: "04-deuses-avatares"
 navigation:
   previous: "12-marah.md"
   next: "14-nimb.md"
   up: "README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Megalokk - Deus dos Monstros

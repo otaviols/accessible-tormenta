@@ -1,18 +1,11 @@
 ---
 title: "Náiade - Espírito dos Rios"
-type: "creature"
-subtype: "fada"
-book: "Deuses de Arton"
-chapter: "Capítulo 5 - Ameaças Divinas"
-order: 4
-nd: "3"
+book: "deuses-arton"
+chapter: "05-ameacas-divinas"
 navigation:
   previous: "03-dragonete.md"
   next: "05-ninfa.md"
   up: "README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Náiade

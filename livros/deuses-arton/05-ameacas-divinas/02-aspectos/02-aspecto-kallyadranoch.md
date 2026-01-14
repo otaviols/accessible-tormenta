@@ -1,18 +1,11 @@
 ---
 title: "Aspecto de Kallyadranoch"
-type: "creature"
-subtype: "aspect"
-book: "Deuses de Arton"
-chapter: "Capítulo 5 - Ameaças Divinas"
-order: 2
-nd: 6
+book: "deuses-arton"
+chapter: "05-ameacas-divinas"
 navigation:
   previous: "01-aspecto-allihanna.md"
   next: "03-aspecto-khalmyr.md"
   up: "README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Aspecto de Kallyadranoch

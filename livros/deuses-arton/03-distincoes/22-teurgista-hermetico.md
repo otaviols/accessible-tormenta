@@ -1,10 +1,11 @@
 ---
 title: Teurgista Hermético
-book: Deuses de Arton
-chapter: 3
-previous: 21-taumaturgista
-next: 23-tibarita
-up: README
+book: "deuses-arton"
+chapter: "03-distincoes"
+navigation:
+  previous: "21-taumaturgista.md"
+  next: "23-tibarita.md"
+  up: "README.md"
 ---
 
 # Teurgista Hermético

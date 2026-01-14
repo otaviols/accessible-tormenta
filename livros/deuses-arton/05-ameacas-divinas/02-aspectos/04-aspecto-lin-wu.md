@@ -1,18 +1,11 @@
 ---
 title: "Aspecto de Lin-Wu"
-type: "creature"
-subtype: "aspect"
-book: "Deuses de Arton"
-chapter: "Capítulo 5 - Ameaças Divinas"
-order: 4
-nd: 4
+book: "deuses-arton"
+chapter: "05-ameacas-divinas"
 navigation:
   previous: "03-aspecto-khalmyr.md"
   next: "05-aspecto-marah.md"
   up: "README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Aspecto de Lin-Wu

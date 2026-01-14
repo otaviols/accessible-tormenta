@@ -1,10 +1,11 @@
 ---
 title: História do Panteão
-book: Deuses de Arton
-chapter: 4
-previous: README
-next: 02-aharadak
-up: README
+book: "deuses-arton"
+chapter: "04-deuses-avatares"
+navigation:
+  previous: "README.md"
+  next: "02-aharadak.md"
+  up: "README.md"
 ---
 
 # História do Panteão

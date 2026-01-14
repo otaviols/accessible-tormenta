@@ -1,10 +1,11 @@
 ---
 title: "Inquisidor de Wynna"
-book: "Deuses de Arton"
+book: "deuses-arton"
 chapter: "03-distincoes"
-previous: "12-improvisador-lena"
-next: "14-mestre-armearia"
-up: "README"
+navigation:
+  previous: "12-improvisador-lena.md"
+  next: "14-mestre-armearia.md"
+  up: "README.md"
 ---
 
 # Inquisidor de Wynna

@@ -1,10 +1,11 @@
 ---
 title: "Cavaleiro de Khalmyr"
-book: "Deuses de Arton"
+book: "deuses-arton"
 chapter: "03-distincoes"
-previous: "03-cavaleiro-luz"
-next: "05-colecionador-monstruoso"
-up: "README"
+navigation:
+  previous: "03-cavaleiro-luz.md"
+  next: "05-colecionador-monstruoso.md"
+  up: "README.md"
 ---
 
 # Cavaleiro de Khalmyr

@@ -1,16 +1,11 @@
 ---
 title: "Perigos Complexos e Tabelas"
-type: "section"
-book: "Deuses de Arton"
-chapter: "Capítulo 5 - Ameaças Divinas"
-order: 7
+book: "deuses-arton"
+chapter: "05-ameacas-divinas"
 navigation:
   previous: "../06-gigantes/README.md"
   next: "../../README.md"
   up: "../README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Perigos Complexos e Tabelas

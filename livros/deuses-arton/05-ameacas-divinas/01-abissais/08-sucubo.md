@@ -1,18 +1,11 @@
 ---
 title: "Súcubo/Íncubo - Sedutor Demoníaco"
-type: "creature"
-subtype: "abissal"
-book: "Deuses de Arton"
-chapter: "Capítulo 5 - Ameaças Divinas"
-order: 8
-nd: 5
+book: "deuses-arton"
+chapter: "05-ameacas-divinas"
 navigation:
   previous: "07-rhayrivel.md"
   next: "09-abahddon.md"
   up: "README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Súcubo/Íncubo - Sedutor Demoníaco

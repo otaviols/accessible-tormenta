@@ -1,18 +1,11 @@
 ---
 title: "Kemooz - Gênio da Terra"
-type: "creature"
-subtype: "genio"
-book: "Deuses de Arton"
-chapter: "Capítulo 5 - Ameaças Divinas"
-order: 3
-nd: "9"
+book: "deuses-arton"
+chapter: "05-ameacas-divinas"
 navigation:
   previous: "02-yazzu.md"
   next: "04-gizzehi.md"
   up: "README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Kemooz - Gênio da Terra

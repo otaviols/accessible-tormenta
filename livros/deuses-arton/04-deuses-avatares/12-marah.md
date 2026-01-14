@@ -1,17 +1,11 @@
 ---
 title: "Marah - Deusa da Paz e do Amor"
-type: "deity"
-subtype: "major"
-book: "Deuses de Arton"
-chapter: "Capítulo 4 - Deuses & Avatares"
-order: 12
+book: "deuses-arton"
+chapter: "04-deuses-avatares"
 navigation:
   previous: "11-lin-wu.md"
   next: "13-megalokk.md"
   up: "README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Marah - Deusa da Paz e do Amor

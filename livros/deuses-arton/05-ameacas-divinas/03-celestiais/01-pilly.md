@@ -1,18 +1,11 @@
 ---
 title: "Pilly - O Mensageiro Veloz"
-type: "creature"
-subtype: "celestial"
-book: "Deuses de Arton"
-chapter: "Capítulo 5 - Ameaças Divinas"
-order: 1
-nd: "3"
+book: "deuses-arton"
+chapter: "05-ameacas-divinas"
 navigation:
   previous: "README.md"
   next: "02-luminar.md"
   up: "README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Pilly

@@ -1,10 +1,11 @@
 ---
 title: "Magias Divinas"
-book: "Deuses de Arton"
+book: "deuses-arton"
 chapter: "02-campeoes-deuses"
-previous: "11-itens-liturgicos"
-next: "../03-distincoes/README"
-up: "README"
+navigation:
+  previous: "11-itens-liturgicos.md"
+  next: "../03-distincoes/README.md"
+  up: "README.md"
 ---
 
 # Magias Divinas

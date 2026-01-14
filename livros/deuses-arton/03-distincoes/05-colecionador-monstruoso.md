@@ -1,10 +1,11 @@
 ---
 title: "Colecionador Monstruoso"
-book: "Deuses de Arton"
+book: "deuses-arton"
 chapter: "03-distincoes"
-previous: "04-cavaleiro-khalmyr"
-next: "06-dancarina-marah"
-up: "README"
+navigation:
+  previous: "04-cavaleiro-khalmyr.md"
+  next: "06-dancarina-marah.md"
+  up: "README.md"
 ---
 
 # Colecionador Monstruoso

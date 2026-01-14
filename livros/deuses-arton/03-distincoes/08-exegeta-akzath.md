@@ -1,10 +1,11 @@
 ---
 title: "Exegeta do Akzath"
-book: "Deuses de Arton"
+book: "deuses-arton"
 chapter: "03-distincoes"
-previous: "07-detetive-tanna-toh"
-next: "09-forjador-liturgico"
-up: "README"
+navigation:
+  previous: "07-detetive-tanna-toh.md"
+  next: "09-forjador-liturgico.md"
+  up: "README.md"
 ---
 
 # Exegeta do Akzath

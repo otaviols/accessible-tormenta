@@ -1,17 +1,11 @@
 ---
 title: "Nimb - Deus do Caos"
-type: "deity"
-subtype: "major"
-book: "Deuses de Arton"
-chapter: "Capítulo 4 - Deuses & Avatares"
-order: 14
+book: "deuses-arton"
+chapter: "04-deuses-avatares"
 navigation:
   previous: "13-megalokk.md"
   next: "15-oceano.md"
   up: "README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Nimb - Deus do Caos

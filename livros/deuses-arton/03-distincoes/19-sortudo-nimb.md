@@ -1,10 +1,11 @@
 ---
 title: Sortudo de Nimb
-book: Deuses de Arton
-chapter: 3
-previous: 18-sombra-tenebra
-next: 20-sumo-sacerdote
-up: README
+book: "deuses-arton"
+chapter: "03-distincoes"
+navigation:
+  previous: "18-sombra-tenebra.md"
+  next: "20-sumo-sacerdote.md"
+  up: "README.md"
 ---
 
 # Sortudo de Nimb

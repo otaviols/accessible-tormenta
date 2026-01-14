@@ -1,10 +1,11 @@
 ---
 title: "Pregador"
-book: "Deuses de Arton"
+book: "deuses-arton"
 chapter: "03-distincoes"
-previous: "16-pacificador"
-next: "18-sombra-tenebra"
-up: "README"
+navigation:
+  previous: "16-pacificador.md"
+  next: "18-sombra-tenebra.md"
+  up: "README.md"
 ---
 
 # Pregador

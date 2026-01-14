@@ -1,18 +1,11 @@
 ---
 title: "Abahddon - Lorde das Profundezas"
-type: "creature"
-subtype: "abissal-lord"
-book: "Deuses de Arton"
-chapter: "Capítulo 5 - Ameaças Divinas"
-order: 9
-nd: "S"
+book: "deuses-arton"
+chapter: "05-ameacas-divinas"
 navigation:
   previous: "08-sucubo.md"
   next: "10-lamashtu.md"
   up: "README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Abahddon - Lorde das Profundezas

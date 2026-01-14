@@ -1,10 +1,11 @@
 ---
 title: "Pacificador"
-book: "Deuses de Arton"
+book: "deuses-arton"
 chapter: "03-distincoes"
-previous: "15-numeromante"
-next: "17-pregador"
-up: "README"
+navigation:
+  previous: "15-numeromante.md"
+  next: "17-pregador.md"
+  up: "README.md"
 ---
 
 # Pacificador

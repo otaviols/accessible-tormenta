@@ -1,10 +1,11 @@
 ---
 title: "Nova Linhagem: Abençoada"
-book: "Deuses de Arton"
+book: "deuses-arton"
 chapter: "02-campeoes-deuses"
-previous: "12-magias-divinas.md"
-next: "14-suraggel-variantes.md"
-up: "README.md"
+navigation:
+  previous: "12-magias-divinas.md"
+  next: "14-suraggel-variantes.md"
+  up: "README.md"
 ---
 
 # Nova Linhagem: Abençoada

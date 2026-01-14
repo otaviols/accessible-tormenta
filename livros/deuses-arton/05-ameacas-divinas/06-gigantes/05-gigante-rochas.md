@@ -1,18 +1,11 @@
 ---
 title: "Gigante das Rochas - O Gigante Clássico"
-type: "creature"
-subtype: "gigante"
-book: "Deuses de Arton"
-chapter: "Capítulo 5 - Ameaças Divinas"
-order: 5
-nd: "9"
+book: "deuses-arton"
+chapter: "05-ameacas-divinas"
 navigation:
   previous: "04-gigante-fogo.md"
   next: "06-gigante-real.md"
   up: "README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Gigante das Rochas

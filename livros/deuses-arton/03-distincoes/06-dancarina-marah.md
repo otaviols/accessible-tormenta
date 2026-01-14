@@ -1,10 +1,11 @@
 ---
 title: "Dançarina de Marah"
-book: "Deuses de Arton"
+book: "deuses-arton"
 chapter: "03-distincoes"
-previous: "05-colecionador-monstruoso"
-next: "07-detetive-tanna-toh"
-up: "README"
+navigation:
+  previous: "05-colecionador-monstruoso.md"
+  next: "07-detetive-tanna-toh.md"
+  up: "README.md"
 ---
 
 # Dançarina de Marah

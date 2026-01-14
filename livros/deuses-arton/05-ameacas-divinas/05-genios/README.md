@@ -1,16 +1,11 @@
 ---
 title: "Gênios - Os Construtores de Arton"
-type: "section_index"
-book: "Deuses de Arton"
-chapter: "Capítulo 5 - Ameaças Divinas"
-order: 5
+book: "deuses-arton"
+chapter: "05-ameacas-divinas"
 navigation:
   previous: "../04-fadas/09-eiradaan.md"
   next: "01-jairuan.md"
   up: "../README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Gênios - Os Construtores de Arton

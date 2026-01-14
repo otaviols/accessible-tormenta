@@ -1,10 +1,11 @@
 ---
 title: Aharadak
-book: Deuses de Arton
-chapter: 4
-previous: 01-historia-panteao
-next: 03-allihanna
-up: README
+book: "deuses-arton"
+chapter: "04-deuses-avatares"
+navigation:
+  previous: "01-historia-panteao.md"
+  next: "03-allihanna.md"
+  up: "README.md"
 ---
 
 # Aharadak - Deus da Tormenta

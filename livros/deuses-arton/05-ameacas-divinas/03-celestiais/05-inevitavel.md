@@ -1,18 +1,11 @@
 ---
 title: "Inevitável - O Caçador Incansável"
-type: "creature"
-subtype: "celestial"
-book: "Deuses de Arton"
-chapter: "Capítulo 5 - Ameaças Divinas"
-order: 5
-nd: "8-14"
+book: "deuses-arton"
+chapter: "05-ameacas-divinas"
 navigation:
   previous: "04-shiradi.md"
   next: "06-pegaso.md"
   up: "README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Inevitável

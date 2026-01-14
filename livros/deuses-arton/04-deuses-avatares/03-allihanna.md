@@ -1,10 +1,11 @@
 ---
 title: Allihanna
-book: Deuses de Arton
-chapter: 4
-previous: 02-aharadak
-next: 04-arsenal
-up: README
+book: "deuses-arton"
+chapter: "04-deuses-avatares"
+navigation:
+  previous: "02-aharadak.md"
+  next: "04-arsenal.md"
+  up: "README.md"
 ---
 
 # Allihanna - Deusa da Natureza

@@ -1,18 +1,11 @@
 ---
 title: "Protetor - O Anjo da Guarda"
-type: "creature"
-subtype: "celestial"
-book: "Deuses de Arton"
-chapter: "Capítulo 5 - Ameaças Divinas"
-order: 3
-nd: "7"
+book: "deuses-arton"
+chapter: "05-ameacas-divinas"
 navigation:
   previous: "02-luminar.md"
   next: "04-shiradi.md"
   up: "README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Protetor

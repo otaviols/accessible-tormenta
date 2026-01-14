@@ -1,18 +1,11 @@
 ---
 title: "Diabrete"
-type: "creature"
-subtype: "abissal"
-book: "Deuses de Arton"
-chapter: "Capítulo 5 - Ameaças Divinas"
-order: 3
-nd: 2
+book: "deuses-arton"
+chapter: "05-ameacas-divinas"
 navigation:
   previous: "02-carvarel.md"
   next: "04-diabrete-negociante.md"
   up: "README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Diabrete

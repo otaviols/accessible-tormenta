@@ -1,17 +1,11 @@
 ---
 title: "Khalmyr - Deus da Justiça"
-type: "deity"
-subtype: "major"
-book: "Deuses de Arton"
-chapter: "Capítulo 4 - Deuses & Avatares"
-order: 9
+book: "deuses-arton"
+chapter: "04-deuses-avatares"
 navigation:
-  previous: "08-kallyadranoch.md"
+  previous: "07-kallyadranoch.md"
   next: "10-lena.md"
   up: "README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Khalmyr - Deus da Justiça

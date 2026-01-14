@@ -1,10 +1,11 @@
 ---
 title: "Equipamentos Religiosos"
-book: "Deuses de Arton"
+book: "deuses-arton"
 chapter: "02-campeoes-deuses"
-previous: "09-poderes-concedidos"
-next: "11-itens-liturgicos"
-up: "README"
+navigation:
+  previous: "09-poderes-concedidos.md"
+  next: "11-itens-liturgicos.md"
+  up: "README.md"
 ---
 
 # Equipamentos Religiosos

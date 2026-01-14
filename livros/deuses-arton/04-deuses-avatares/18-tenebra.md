@@ -1,17 +1,11 @@
 ---
 title: "Tenebra - Deusa das Trevas"
-type: "deity"
-subtype: "major"
-book: "Deuses de Arton"
-chapter: "Capítulo 4 - Deuses & Avatares"
-order: 18
+book: "deuses-arton"
+chapter: "04-deuses-avatares"
 navigation:
   previous: "17-tanna-toh.md"
   next: "19-thwor.md"
   up: "README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Tenebra - Deusa das Trevas

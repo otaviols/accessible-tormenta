@@ -1,15 +1,11 @@
 ---
 title: "Capítulo 5 - Ameaças Divinas"
-type: "chapter"
-book: "Deuses de Arton"
-chapter: 5
+book: "deuses-arton"
+chapter: "05-ameacas-divinas"
 navigation:
-  previous: "../04-deuses-avatares/22-wynna.md"
+  previous: "../04-deuses-avatares/25-artefatos-divinos.md"
   next: "01-abissais/README.md"
   up: "../README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Capítulo 5: Ameaças Divinas

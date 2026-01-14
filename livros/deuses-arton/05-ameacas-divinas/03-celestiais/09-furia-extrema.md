@@ -1,18 +1,11 @@
 ---
 title: "Fúria Extrema - A Punição Divina"
-type: "creature"
-subtype: "celestial"
-book: "Deuses de Arton"
-chapter: "Capítulo 5 - Ameaças Divinas"
-order: 9
-nd: "20"
+book: "deuses-arton"
+chapter: "05-ameacas-divinas"
 navigation:
   previous: "08-orel.md"
   next: "../04-fadas/README.md"
   up: "README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Fúria Extrema

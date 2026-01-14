@@ -1,18 +1,11 @@
 ---
 title: "Aspecto de Khalmyr"
-type: "creature"
-subtype: "aspect"
-book: "Deuses de Arton"
-chapter: "Capítulo 5 - Ameaças Divinas"
-order: 3
-nd: 5
+book: "deuses-arton"
+chapter: "05-ameacas-divinas"
 navigation:
   previous: "02-aspecto-kallyadranoch.md"
   next: "04-aspecto-lin-wu.md"
   up: "README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Aspecto de Khalmyr

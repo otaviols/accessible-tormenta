@@ -1,18 +1,11 @@
 ---
 title: "Sílfide - Espírito do Ar"
-type: "creature"
-subtype: "fada"
-book: "Deuses de Arton"
-chapter: "Capítulo 5 - Ameaças Divinas"
-order: 7
-nd: "1-8"
+book: "deuses-arton"
+chapter: "05-ameacas-divinas"
 navigation:
   previous: "06-satiro.md"
   next: "08-velha-bruxa.md"
   up: "README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Sílfide

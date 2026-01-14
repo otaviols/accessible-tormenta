@@ -1,10 +1,11 @@
 ---
 title: "Novos Poderes Concedidos"
-book: "Deuses de Arton"
+book: "deuses-arton"
 chapter: "02-campeoes-deuses"
-previous: "08-outros-devotos"
-next: "10-equipamentos-religiosos"
-up: "README"
+navigation:
+  previous: "08-outros-devotos.md"
+  next: "10-equipamentos-religiosos.md"
+  up: "README.md"
 ---
 
 # Novos Poderes Concedidos

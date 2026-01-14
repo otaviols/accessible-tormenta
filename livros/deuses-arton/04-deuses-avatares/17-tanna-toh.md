@@ -1,17 +1,11 @@
 ---
 title: "Tanna-Toh - Deusa do Conhecimento"
-type: "deity"
-subtype: "major"
-book: "Deuses de Arton"
-chapter: "Capítulo 4 - Deuses & Avatares"
-order: 17
+book: "deuses-arton"
+chapter: "04-deuses-avatares"
 navigation:
   previous: "16-sszzaas.md"
   next: "18-tenebra.md"
   up: "README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Tanna-Toh - Deusa do Conhecimento

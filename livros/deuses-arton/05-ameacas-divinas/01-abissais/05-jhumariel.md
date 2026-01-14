@@ -1,18 +1,11 @@
 ---
 title: "Jhumariel"
-type: "creature"
-subtype: "abissal"
-book: "Deuses de Arton"
-chapter: "Capítulo 5 - Ameaças Divinas"
-order: 5
-nd: 10
+book: "deuses-arton"
+chapter: "05-ameacas-divinas"
 navigation:
   previous: "04-diabrete-negociante.md"
   next: "06-margharon.md"
   up: "README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Jhumariel

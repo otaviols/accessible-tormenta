@@ -1,10 +1,11 @@
 ---
 title: Sumo-Sacerdote
-book: Deuses de Arton
-chapter: 3
-previous: 19-sortudo-nimb
-next: 21-taumaturgista
-up: README
+book: "deuses-arton"
+chapter: "03-distincoes"
+navigation:
+  previous: "19-sortudo-nimb.md"
+  next: "21-taumaturgista.md"
+  up: "README.md"
 ---
 
 # Sumo-Sacerdote

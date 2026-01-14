@@ -1,17 +1,11 @@
 ---
 title: "Oceano - Deus dos Mares"
-type: "deity"
-subtype: "major"
-book: "Deuses de Arton"
-chapter: "Capítulo 4 - Deuses & Avatares"
-order: 15
+book: "deuses-arton"
+chapter: "04-deuses-avatares"
 navigation:
   previous: "14-nimb.md"
   next: "16-sszzaas.md"
   up: "README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Oceano - Deus dos Mares

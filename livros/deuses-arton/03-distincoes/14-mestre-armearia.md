@@ -1,10 +1,11 @@
 ---
 title: "Mestre de Armearia"
-book: "Deuses de Arton"
+book: "deuses-arton"
 chapter: "03-distincoes"
-previous: "13-inquisidor-wynna"
-next: "15-numeromante"
-up: "README"
+navigation:
+  previous: "13-inquisidor-wynna.md"
+  next: "15-numeromante.md"
+  up: "README.md"
 ---
 
 # Mestre de Armearia

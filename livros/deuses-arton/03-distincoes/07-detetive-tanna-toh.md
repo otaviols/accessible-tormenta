@@ -1,10 +1,11 @@
 ---
 title: "Detetive de Tanna-Toh"
-book: "Deuses de Arton"
+book: "deuses-arton"
 chapter: "03-distincoes"
-previous: "06-dancarina-marah"
-next: "08-exegeta-akzath"
-up: "README"
+navigation:
+  previous: "06-dancarina-marah.md"
+  next: "08-exegeta-akzath.md"
+  up: "README.md"
 ---
 
 # Detetive de Tanna-Toh

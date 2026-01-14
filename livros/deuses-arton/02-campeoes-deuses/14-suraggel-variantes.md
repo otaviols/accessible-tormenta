@@ -1,10 +1,11 @@
 ---
 title: "Suraggel Variantes"
-book: "Deuses de Arton"
+book: "deuses-arton"
 chapter: "02-campeoes-deuses"
-previous: "13-nova-linhagem-abencoada.md"
-next: null
-up: "README.md"
+navigation:
+  previous: "13-nova-linhagem-abencoada.md"
+  next: null
+  up: "README.md"
 ---
 
 # Suraggel Variantes

@@ -1,10 +1,11 @@
 ---
 title: "Artefatos Divinos"
-book: "Deuses de Arton"
+book: "deuses-arton"
 chapter: "04-deuses-avatares"
-previous: "24-antigos-deuses.md"
-next: null
-up: "README.md"
+navigation:
+  previous: "24-antigos-deuses.md"
+  next: null
+  up: "README.md"
 ---
 
 # Artefatos Divinos

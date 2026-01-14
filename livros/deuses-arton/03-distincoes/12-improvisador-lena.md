@@ -1,10 +1,11 @@
 ---
 title: "Improvisador de Lena"
-book: "Deuses de Arton"
+book: "deuses-arton"
 chapter: "03-distincoes"
-previous: "11-heroi-henshin"
-next: "13-inquisidor-wynna"
-up: "README"
+navigation:
+  previous: "11-heroi-henshin.md"
+  next: "13-inquisidor-wynna.md"
+  up: "README.md"
 ---
 
 # Improvisador de Lena

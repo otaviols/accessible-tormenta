@@ -1,17 +1,11 @@
 ---
 title: "Pântano Amaldiçoado - Brejo Sobrenatural"
-type: "perigo"
-book: "Deuses de Arton"
-chapter: "Capítulo 5 - Ameaças Divinas"
-order: 2
-nd: "5"
+book: "deuses-arton"
+chapter: "05-ameacas-divinas"
 navigation:
   previous: "01-vento-abrasador.md"
   next: "03-cataclismo.md"
   up: "README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Pântano Amaldiçoado

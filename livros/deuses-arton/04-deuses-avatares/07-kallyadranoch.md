@@ -1,10 +1,11 @@
 ---
 title: Kallyadranoch - Deus dos Dragões
-book: Deuses de Arton
-chapter: 4
-previous: 06-hyninn
-next: 09-khalmyr
-up: README
+book: "deuses-arton"
+chapter: "04-deuses-avatares"
+navigation:
+  previous: "06-hyninn.md"
+  next: "09-khalmyr.md"
+  up: "README.md"
 ---
 
 # Kallyadranoch - Deus dos Dragões

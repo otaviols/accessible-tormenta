@@ -1,18 +1,11 @@
 ---
 title: "Diabrete Negociante"
-type: "creature"
-subtype: "abissal"
-book: "Deuses de Arton"
-chapter: "Capítulo 5 - Ameaças Divinas"
-order: 4
-nd: 4
+book: "deuses-arton"
+chapter: "05-ameacas-divinas"
 navigation:
   previous: "03-diabrete.md"
   next: "05-jhumariel.md"
   up: "README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Diabrete Negociante

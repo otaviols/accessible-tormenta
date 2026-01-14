@@ -1,10 +1,11 @@
 ---
 title: "Herói Henshin"
-book: "Deuses de Arton"
+book: "deuses-arton"
 chapter: "03-distincoes"
-previous: "10-guardiao-realidade"
-next: "12-improvisador-lena"
-up: "README"
+navigation:
+  previous: "10-guardiao-realidade.md"
+  next: "12-improvisador-lena.md"
+  up: "README.md"
 ---
 
 # Herói Henshin

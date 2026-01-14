@@ -1,18 +1,11 @@
 ---
 title: "Gigante Máximo - A Montanha Viva"
-type: "creature"
-subtype: "gigante"
-book: "Deuses de Arton"
-chapter: "Capítulo 5 - Ameaças Divinas"
-order: 7
-nd: "S+"
+book: "deuses-arton"
+chapter: "05-ameacas-divinas"
 navigation:
   previous: "06-gigante-real.md"
   next: "../07-perigos-tabelas/README.md"
   up: "README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Gigante Máximo

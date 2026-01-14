@@ -1,18 +1,11 @@
 ---
 title: "Aucharai"
-type: "creature"
-subtype: "abissal"
-book: "Deuses de Arton"
-chapter: "Capítulo 5 - Ameaças Divinas"
-order: 1
-nd: 6
+book: "deuses-arton"
+chapter: "05-ameacas-divinas"
 navigation:
   previous: "README.md"
   next: "02-carvarel.md"
   up: "README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Aucharai

@@ -1,10 +1,11 @@
 ---
 title: "Distinções em Jogo"
-book: "Deuses de Arton"
+book: "deuses-arton"
 chapter: "03-distincoes"
-previous: "README"
-next: "02-bufao-hyninn"
-up: "README"
+navigation:
+  previous: "README.md"
+  next: "02-bufao-hyninn.md"
+  up: "README.md"
 ---
 
 # Distinções em Jogo

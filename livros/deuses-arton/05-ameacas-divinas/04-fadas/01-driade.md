@@ -1,18 +1,11 @@
 ---
 title: "Dríade - Guardiã das Florestas"
-type: "creature"
-subtype: "fada"
-book: "Deuses de Arton"
-chapter: "Capítulo 5 - Ameaças Divinas"
-order: 1
-nd: "4"
+book: "deuses-arton"
+chapter: "05-ameacas-divinas"
 navigation:
   previous: "README.md"
   next: "02-duende.md"
   up: "README.md"
-accessibility:
-  tts_optimized: true
-  contrast_compliant: true
 ---
 
 # Dríade
