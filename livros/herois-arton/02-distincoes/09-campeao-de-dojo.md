@@ -69,6 +69,6 @@ Escolha uma manobra de combate (agarrar, derrubar, desarmar ou empurrar). Quando
 ---
 
 **Navegação:**
-- [← Anterior: Campeão da Arena](08-campeao-da-arena.md)
+- [← Anterior: Caçador de Dragões](08-cacador-de-dragoes.md)
 - [→ Próximo: Capitão do Conclave Pirata](10-capitao-do-conclave-pirata.md)
 - [↑ Voltar para Distinções](../02-distincoes/README.md)

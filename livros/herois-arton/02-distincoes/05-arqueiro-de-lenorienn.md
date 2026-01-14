@@ -13,6 +13,6 @@ navigation:
 ---
 
 **Navegação:**
-- [← Campeão de Dojo](04-campeao-de-dojo.md)
+- [← Armadilheiro Mestre](04-armadilheiro-mestre.md)
 - [Bruxo da Tormenta →](06-bruxo-da-tormenta.md)
 - [Voltar ao Índice](README.md)

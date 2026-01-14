@@ -79,6 +79,6 @@ Uma vez por rodada, quando lança uma magia arcana com alcance de toque e execu�
 ---
 
 **Navegação:**
-- [Anterior: Cozinheiro de Aventureiros](12-cozinheiro-de-aventureiros.md)
+- [Anterior: Cavaleiro do Corvo](12-cavaleiro-do-corvo.md)
 - [Próximo: Chapéu-Preto](14-chapeu-preto.md)
 - [Voltar ao Índice de Heróis de Arton](../README.md)

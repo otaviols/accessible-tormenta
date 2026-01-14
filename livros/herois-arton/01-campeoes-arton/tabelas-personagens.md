@@ -10,7 +10,7 @@ navigation:
 
 # Tabelas para Personagens
 
-**Navegação:** [← Origem 30](origem-30.md) | [Cap 2 Distinções →](../02-distincoes/README.md)
+**Navegação:** [← Origem 30: Suporte de Tropas](origem-30-suporte-de-tropas.md) | [Cap 2 Distinções →](../02-distincoes/README.md)
 
 ---
 

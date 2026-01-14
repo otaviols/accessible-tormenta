@@ -12,7 +12,7 @@ navigation:
 
 > "Você nasceu em uma família rica de comerciantes ou artesãos de uma grande cidade como Valkaria, Thartann ou Tiberus. Com acesso a boa educação, cresceu com preocupações diferentes de um aldeão ou trabalhador comum."
 
-[← Anterior: Cirurgião-Barbeiro](origem-09-cirurgiao-barbeiro.md) | [Próximo: Comerciante de Especiarias →](origem-11-comerciante-especiarias.md)
+[← Anterior: Cirurgião-Barbeiro](origem-09-cirurgiao-barbeiro.md) | [Próximo: Cocheiro →](origem-11-cocheiro.md)
 
 ## Descrição
 

@@ -12,7 +12,7 @@ navigation:
 
 > "Você extraía informações de prisioneiros, usando métodos que variavam de persuasão psicológica a tortura física."
 
-[← Anterior: Herói de Guerra](origem-20-heroi-de-guerra.md) | [Próximo: Ladrão de Túmulos →](origem-22-ladrao-de-tumulos.md)
+[← Anterior: Insciente](origem-20-insciente.md) | [Próximo: Ladrão de Túmulos →](origem-22-ladrao-de-tumulos.md)
 
 ## Descrição
 

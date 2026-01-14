@@ -49,6 +49,6 @@ Também existem casos de golens que "despertam" espontaneamente, devido a algum 
 ---
 
 **Navegação:**
-- [← Vuul'rak (Gnolls)](../gnolls/10-vuulrak.md)
+- [← Vuul'rak (Gnolls)](../gnolls/09-vuulrak.md)
 - [Gárgula →](01-gargula.md)
 - [↑ Capítulo 1](../README.md)

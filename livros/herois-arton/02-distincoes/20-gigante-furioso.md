@@ -89,4 +89,4 @@ Quando está em fúria, você pode gastar uma ação de movimento e 3 PM para pi
 **Navegação:**
 - [← Anterior: Escapista Magnífico](./19-escapista-magnifico.md)
 - [↑ Voltar para Distinções](../README.md)
-- [→ Próximo](./21-distincoes-seguintes.md)
+- [→ Próximo: Ginete de Namalkah](21-ginete-de-namalkah.md)

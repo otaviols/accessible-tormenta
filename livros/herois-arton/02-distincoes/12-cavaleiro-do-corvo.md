@@ -86,5 +86,5 @@ Você recebe +2 em testes de Iniciativa. Além disso, quando uma criatura se mov
 
 **Navegação:**
 - [← Anterior: Carteador](11-carteador.md)
-- [→ Próximo: Próxima Distinção](13-próxima-distinção.md)
+- [→ Próximo: Cavaleiro Feérico](13-cavaleiro-feerico.md)
 - [↑ Voltar para Distinções](../02-distincoes/README.md)

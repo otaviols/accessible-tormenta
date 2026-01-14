@@ -12,7 +12,7 @@ navigation:
 
 > "Você foi aprendiz de um especialista em ervas, poções e misturas alquímicas, alguém capaz de curar doenças, fabricar elixires e até criar venenos."
 
-[← Anterior: Arqueiro de Arantar](origem-01-arqueiro-arantar.md) | [Próximo: Caçador de Ratos →](origem-03-cacador-ratos.md)
+[← Anterior: Bacharel](origem-01-bacharel.md) | [Próximo: Caçador de Ratos →](origem-03-cacador-ratos.md)
 
 ## Descrição
 
