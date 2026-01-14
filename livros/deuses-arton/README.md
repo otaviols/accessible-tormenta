@@ -1,3 +1,12 @@
+---
+title: "Deuses de Arton"
+book: "deuses-arton"
+navigation:
+  previous: null
+  next: "01-introducao/README.md"
+  up: "../README.md"
+---
+
 # Deuses de Arton
 
 > Documentação completa do livro "Deuses de Arton" em formato Markdown acessível

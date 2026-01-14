@@ -83,6 +83,16 @@ Este material é ideal para jogadores que desejam interpretar personagens profun
 
 ---
 
+### Raças e Linhagens Divinas
+
+- [Nova Linhagem: Abençoada](13-nova-linhagem-abencoada.md)  
+  Linhagem especial para devotos com sangue divino.
+
+- [Suraggel: Variantes](14-suraggel-variantes.md)  
+  Variações raciais dos anjos caídos.
+
+---
+
 ## Navegação
 
 ➡️ Comece por: **[Ser Devoto](01-ser-devoto.md)**  

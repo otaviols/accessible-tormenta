@@ -26,8 +26,10 @@ Este projeto contém a conversão para Markdown dos livros do sistema Tormenta 2
 **Conteúdo:** 662 arquivos, ~2.6MB, 436 páginas  
 **Capítulos:** Introdução, Ameaças (413 criaturas em 35 categorias temáticas), Regras Avançadas (criação de ameaças customizadas), Bazar Monstruoso (armas, itens mágicos, recursos diversos), Apêndices (índices alfabético/ND, gerador de encontros aleatórios)
 
-### [Deuses de arton](livros/deuses-arton/README.md)
-**Status: **Incompleto
+### [Deuses de Arton](livros/deuses-arton/README.md)
+**Status:** 100% completo  
+**Conteúdo:** 130 arquivos, ~450KB, 324 páginas  
+**Capítulos:** Introdução, Campeões dos Deuses (devotos e classes divinas), Distinções (24 distinções), Deuses e Avatares (20 deuses maiores), Ameaças Divinas (bestiário planar)
 
 ## 📊 Estatísticas Gerais
 

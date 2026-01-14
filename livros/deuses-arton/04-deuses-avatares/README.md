@@ -1,5 +1,5 @@
 ---
-title: Deuses e Avatares
+title: "Deuses e Avatares"
 book: "deuses-arton"
 chapter: "04-deuses-avatares"
 navigation:
@@ -38,8 +38,46 @@ Conhecer os deuses é compreender Arton. Pois, em última análise, este mundo �
 
 ## Conteúdo deste Capítulo
 
-1. **História do Panteão** - A origem da Criação e dos vinte deuses
-2. **Os Vinte Deuses** - Perfis completos de cada divindade maior
-3. **Deuses Menores** - Entidades divinas de menor poder
-4. **Os Antigos Deuses** - Divindades que precederam o Panteão
-5. **Artefatos Divinos** - Objetos de poder incomensurável criados pelos deuses
+### História e Fundamentos
+
+- [História do Panteão](01-historia-panteao.md) - A origem da Criação e dos vinte deuses
+
+---
+
+### Os Vinte Deuses Maiores
+
+- [Aharadak - Deus da Agonia](02-aharadak.md)
+- [Allihanna - Deusa da Natureza](03-allihanna.md)
+- [Arsenal - Deus da Guerra](04-arsenal.md)
+- [Azgher - Deus do Sol](05-azgher.md)
+- [Hyninn - Deus da Trapaça](06-hyninn.md)
+- [Kallyadranoch - Deus dos Dragões](07-kallyadranoch.md)
+- [Khalmyr - Deus da Justiça](09-khalmyr.md)
+- [Lena - Deusa da Vida](10-lena.md)
+- [Lin-Wu - Deus da Honra](11-lin-wu.md)
+- [Marah - Deusa da Paz](12-marah.md)
+- [Megalokk - Deus dos Monstros](13-megalokk.md)
+- [Nimb - Deus do Caos](14-nimb.md)
+- [Oceano - Deus dos Mares](15-oceano.md)
+- [Sszzaas - Deus da Traição](16-sszzaas.md)
+- [Tanna-Toh - Deusa do Conhecimento](17-tanna-toh.md)
+- [Tenebra - Deusa da Noite](18-tenebra.md)
+- [Thwor - Deus da Força](19-thwor.md)
+- [Thyatis - Deus da Ressurreição](20-thyatis.md)
+- [Valkaria - Deusa da Ambição](21-valkaria.md)
+- [Wynna - Deusa da Magia](22-wynna.md)
+
+---
+
+### Outros Deuses e Artefatos
+
+- [Deuses Menores](23-deuses-menores.md) - Entidades divinas de menor poder
+- [Os Antigos Deuses](24-antigos-deuses.md) - Divindades que precederam o Panteão
+- [Artefatos Divinos](25-artefatos-divinos.md) - Objetos de poder incomensurável criados pelos deuses
+
+---
+
+## Navegação
+
+➡️ Comece por: **[História do Panteão](01-historia-panteao.md)**  
+⬆️ Retornar para: **[Deuses de Arton](../README.md)**
