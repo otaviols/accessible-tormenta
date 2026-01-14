@@ -8,7 +8,7 @@ navigation:
   up: "../README.md"
 ---
 
-# Capítulo 2: Distinções
+# Capítulo 3: Distinções
 
 Arton é um mundo de aventureiros que perseguem os mais diversos caminhos. Entretanto, há aqueles para os quais o trivial não é suficiente — não importa quanto poder venha disso. O honrado e abnegado cavaleiro de Khalmyr. O implacável e despótico tirano do Terceiro. São exemplos de aventureiros que desejam pertencer a algo maior. Eles buscam uma distinção.
 

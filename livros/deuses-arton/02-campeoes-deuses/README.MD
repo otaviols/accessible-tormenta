@@ -3,7 +3,7 @@ title: "Campeões dos Deuses"
 book: "deuses-arton"
 chapter: "02-campeoes-deuses"
 navigation:
-  previous: null
+  previous: "../01-introducao/03-a-segunda-licao.md"
   next: "01-ser-devoto.md"
   up: "../README.md"
 ---
