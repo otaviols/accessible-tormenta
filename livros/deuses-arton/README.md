@@ -31,7 +31,7 @@ Esta documentação mantém todos os padrões de acessibilidade do projeto Torme
 ### [01 - Introdução](01-introducao/README.md)
 Apresenta o livro, explica o Panteão e a Segunda Lição dos deuses.
 
-### [02 - Campeões dos Deuses](02-campeoes-deuses/leiame.md)
+### [02 - Campeões dos Deuses](02-campeoes-deuses/README.md)
 Opções de jogo para devotos: clérigos, druidas, frades, paladinos, autoridades divinas, poderes concedidos, magias divinas e itens litúrgicos.
 
 ### [03 - Distinções](03-distincoes/README.md)
