@@ -10,7 +10,7 @@ navigation:
 
 # Novos Poderes de Classe
 
-[← Anterior: Origens](../01-campeoes-arton/origem-30-suporte-de-tropas.md) | [Início: Heróis de Arton](../README.md) | [Próximo: Novos Poderes Gerais →](poderes-gerais.md)
+[← Anterior: Origens](../01-campeoes-arton/origem-30-suporte-de-tropas.md) | [Início: Heróis de Arton](../README.md) | [Próximo: Poderes de Combate →](poderes-combate.md)
 
 Este capítulo apresenta novos poderes para as 14 classes base do Tormenta20, expandindo as opções de personalização e desenvolvimento dos personagens.
 
@@ -51,7 +51,7 @@ Além dos poderes de classe, este capítulo também inclui diversos tipos de pod
 - [Poderes de Destino](poderes-destino.md) - Capacidades baseadas em personalidade e determinação
 - [Poderes de Magia](poderes-magia.md) - Habilidades místicas e aprimoramentos de magias
 - [Poderes da Tormenta](poderes-tormenta.md) - Mutações causadas pela Tempestade Rubra
-- [Poderes de Raça](poderes-raca.md) - Capacidades exclusivas de cada raça
+- [Poderes de Raça](poderes-de-raca.md) - Capacidades exclusivas de cada raça
 - [Poderes de Grupo](poderes-grupo.md) - Poderes cooperativos que funcionam em equipe
 
 ---
@@ -67,4 +67,4 @@ Alguns poderes introduzem sistemas especiais:
 
 ---
 
-[← Anterior: Origens](../01-campeoes-arton/origem-30-suporte-de-tropas.md) | [Início: Heróis de Arton](../README.md) | [Próximo: Novos Poderes Gerais →](poderes-gerais.md)
+[← Anterior: Origens](../01-campeoes-arton/origem-30-suporte-de-tropas.md) | [Início: Heróis de Arton](../README.md) | [Próximo: Poderes de Combate →](poderes-combate.md)

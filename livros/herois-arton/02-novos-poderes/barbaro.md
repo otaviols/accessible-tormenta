@@ -10,7 +10,7 @@ navigation:
 
 # Poderes de Bárbaro
 
-[← Bardo](bardo.md) | [Poderes Gerais →](poderes-gerais.md)
+[← Bardo](bardo.md) | [Poderes de Combate →](poderes-combate.md)
 
 ---
 
@@ -152,4 +152,4 @@ Poderes de brado compartilham as seguintes regras:
 
 **Navegação:**
 
-[← Bardo](bardo.md) | [Poderes Gerais →](poderes-gerais.md)
+[← Bardo](bardo.md) | [Poderes de Combate →](poderes-combate.md)

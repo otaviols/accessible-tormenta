@@ -39,19 +39,7 @@ Este capítulo apresenta sistemas opcionais e variantes de regras para tornar ca
 - [Combate Avançado](08-combate-avancado.md) - Tabelas de acertos críticos, testes de morte e falhas críticas
 - [Culinária Avançada](09-culinaria-avancada.md) - Sistema expandido de preparação de alimentos
 - [Exploração de Masmorras](10-exploracao-masmorras.md) - Regras detalhadas para aventuras em dungeons
-
-### Sistema de Domínios
-
-Regras completas para gerenciar reinos, baronatos e territórios:
-
-- [Introdução aos Domínios](11-dominios.md) - Visão geral do sistema
-- [Tornando-se Regente](11-dominios.md#tornando-se-regente) - Como adquirir um domínio
-- [Características dos Domínios](12-caracteristicas-dominios.md) - Tamanho, população, economia
-- [Construções](13-construcoes.md) - Edifícios e benfeitorias
-- [Unidades Militares](14-unidades-militares.md) - Exércitos e defesas
-- [Turnos de Domínio](15-turnos-dominio.md) - Gestão mês a mês
-- [Domínios Místicos](16-dominios-misticos.md) - Territórios com propriedades mágicas
-- [Eventos Aleatórios](17-eventos-aleatorios.md) - Acontecimentos que afetam o domínio
+- [Introdução aos Domínios](11-dominios.md) - Visão geral do sistema de gerenciamento de territórios
 
 ### Referência Rápida
 

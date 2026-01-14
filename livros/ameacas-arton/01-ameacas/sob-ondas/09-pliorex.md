@@ -12,7 +12,7 @@ next: "10-kraken"
 *"O mar não tem dono! Ou, pelo menos, não deveria ter..."*  
 — Um marinheiro bucaneiro anônimo
 
-![Pliorex e Kraken](../../_imagens/ameacas-arton/kraken-pliorex.jpg)
+![Pliorex e Kraken](../../_imagens/placeholder-criatura.png)
 
 *Descrição: Imenso lagarto de couro cinzento com listras brancas e quatro grandes nadadeiras em vez de patas. Cabeça alongada tem olhos minúsculos e mandíbulas enormes de crocodilo com dentes igualmente numerosos.*
 

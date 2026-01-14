@@ -12,7 +12,7 @@ next: "../sob-ondas/README"
 **Tipo:** Besta Mágica Colossal, N  
 **Ambiente:** Sanguinárias (abundante), qualquer região de Arton (raro, migração)
 
-![Kaiju](../../_imagens/ameacas-arton/kaiju.jpg)
+![Kaiju](../../_imagens/placeholder-criatura.png)
 *Descrição: Força da natureza personificada — criatura colossal que rivaliza montanhas em tamanho. Cada kaiju é único (não há "espécie" definida), mas todos compartilham escala titânica: 20-50m altura quando ereto, 40-100m comprimento total. Forma varia drasticamente — alguns são répteis colossais com escamas duras como adamante, outros insetos gigantescos com carapaças brilhantes, alguns híbridos impossíveis (dragão-gorila, serpente-tartaruga-mamute). Couraça espessa cobre corpo inteiro (escamas, quitina, pele rochosa, ou placas ósseas). Olhos brilham com intensidade sobrenatural (vermelho, dourado, verde). Cada passo sacode terra (tremores sísmicos detectáveis a 5km). Rugido ecoa por montanhas (ouvível a 20km). Presença inspira terror primordial — corpo inteiro grita "FUJA ou MORRA".*
 
 ---

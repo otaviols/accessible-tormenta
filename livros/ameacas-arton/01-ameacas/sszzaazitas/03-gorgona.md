@@ -12,7 +12,7 @@ As górgonas são as verdadeiras medusas — criaturas amaldiçoadas cujo olhar 
 
 ## Imagem
 
-![Górgona](../../_imagens/ameacas-arton/gorgona.jpg)
+![Górgona](../../_imagens/placeholder-criatura.png)
 
 *Descrição: Mulher de beleza terrível com serpentes vivas se contorcendo no lugar do cabelo. Seus olhos brilham com luz esverdeada mortal. A pele tem tom cinza-esverdeado, quase reptiliana. Veste armadura de escamas e empunha arco curto, cercada por estátuas de pedra que antes foram aventureiros. Uma matriarca maior e mais antiga está ao fundo, com centenas de serpentes no cabelo e aura de poder antigo.*
 

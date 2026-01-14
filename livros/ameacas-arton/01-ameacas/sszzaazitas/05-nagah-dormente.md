@@ -12,7 +12,7 @@ As nagahs dormentes são vítimas de um dos feitiços mais cruéis de Sszzaas: e
 
 ## Imagem
 
-![Nagah Dormente](../../_imagens/ameacas-arton/nagah-dormente.jpg)
+![Nagah Dormente](../../_imagens/placeholder-criatura.png)
 
 *Descrição: Uma nagah de aparência inocente vestida como aventureira comum (roupas de couro, armas simples), com expressão confusa e olhos levemente vidrados — não sabe quem realmente é. Ao lado, a mesma nagah "desperta", olhos brilhando com malícia, cauda se contorcendo, segurando adagas gotejantes de veneno enquanto encara antigos aliados com sorriso traidor. Símbolos de Sszzaas brilham brevemente em sua pele.*
 

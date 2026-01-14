@@ -12,7 +12,7 @@ next: "08-selako"
 *"Não importa se estão fugindo. Veja suas montarias. Não vamos enraivecer nenhum deus, hoje não!"*  
 — Nargom Mandíbula, humano bucaneiro
 
-![Platan](../../_imagens/ameacas-arton/platan-selako.jpg)
+![Platan](../../_imagens/placeholder-criatura.png)
 
 *Descrição: Animal tem formato de peixe mas orifício no alto da cabeça demonstra que respira ar. Tem couro liso cinza-azulado com manchas amarelas perto da cauda. Enquanto faz saltos acrobáticos perto do barco produz trinado estridente e divertido que lembra uma risada.*
 

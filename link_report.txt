@@ -1,0 +1,1154 @@
+RELATÓRIO DE LINKS MARKDOWN
+========================================================================
+
+RESUMO:
+- Arquivos .md analisados: 809
+- Links quebrados: 284
+- Arquivos órfãos: 3
+
+LINKS QUEBRADOS:
+------------------------------------------------------------------------
+
+Arquivo: README.md (linha 178)
+  Texto: [EXTRACTION_GUIDE.md]
+  Href:  (EXTRACTION_GUIDE.md)
+
+Arquivo: README.md (linha 201)
+  Texto: [EXTRACTION_GUIDE.md]
+  Href:  (EXTRACTION_GUIDE.md)
+
+Arquivo: README.md (linha 202)
+  Texto: [CHECKLIST.md]
+  Href:  (CHECKLIST.md)
+
+Arquivo: README.md (linha 203)
+  Texto: [extraction_config.json]
+  Href:  (extraction_config.json)
+
+Arquivo: README.md (linha 204)
+  Texto: [extraction_report.txt]
+  Href:  (extraction_report.txt)
+
+Arquivo: livros\README.md (linha 24)
+  Texto: [📊 Ver Progresso Detalhado]
+  Href:  (tormenta20-core/PROGRESS.md)
+
+Arquivo: livros\README.md (linha 38)
+  Texto: [📊 Ver Progresso]
+  Href:  (ameacas-arton/PROGRESS.md)
+
+Arquivo: livros\README.md (linha 55)
+  Texto: [📊 Ver Progresso]
+  Href:  (dragao-brasil/PROGRESS.md)
+
+Arquivo: livros\README.md (linha 69)
+  Texto: [📊 Ver Progresso]
+  Href:  (herois-arton/PROGRESS.md)
+
+Arquivo: livros\ameacas-arton\GUIA_INICIO.md (linha 194)
+  Texto: [Bogum]
+  Href:  (imagem.png)
+
+Arquivo: livros\ameacas-arton\GUIA_INICIO.md (linha 195)
+  Texto: [Descrição: Ilustração de um bogum, pequena criatura peluda azul com olhos grandes e expressivos, orelhas pontiagudas, sentado em posição amigável]
+  Href:  (imagem.png)
+
+Arquivo: livros\herois-arton\README.md (linha 115)
+  Texto: [PROGRESS.md]
+  Href:  (PROGRESS.md)
+
+Arquivo: livros\tormenta20-core\README.md (linha 155)
+  Texto: [PROGRESS.md]
+  Href:  (PROGRESS.md)
+
+Arquivo: livros\tormenta20-core\README.md (linha 168)
+  Texto: [Ver Progresso Detalhado]
+  Href:  (PROGRESS.md)
+
+Arquivo: livros\tormenta20-core\README.md (linha 169)
+  Texto: [Guia de Extração]
+  Href:  (../../EXTRACTION_GUIDE.md)
+
+Arquivo: livros\ameacas-arton\01-ameacas\README.md (linha 147)
+  Texto: [Chefe Final]
+  Href:  (chefe-final/README.md)
+
+Arquivo: livros\ameacas-arton\01-ameacas\areas-tormenta\08-gatzvalith.md (linha 16)
+  Texto: [Ilustração de Gatzvalith]
+  Href:  (../../_imagens/ameacas-arton/gatzvalith.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\brutos-indomaveis\01-meio-orc.md (linha 16)
+  Texto: [Ilustração de um Meio-Orc]
+  Href:  (../../_imagens/ameacas-arton/meio-orc.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\brutos-indomaveis\02-orc.md (linha 16)
+  Texto: [Ilustração de Orcs]
+  Href:  (../../_imagens/ameacas-arton/orc.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\brutos-indomaveis\03-sapo-atroz.md (linha 16)
+  Texto: [Ilustração de um Sapo Atroz]
+  Href:  (../../_imagens/ameacas-arton/sapo-atroz.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\brutos-indomaveis\04-tabrachi.md (linha 16)
+  Texto: [Ilustração de Tabrachi]
+  Href:  (../../_imagens/ameacas-arton/tabrachi.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\brutos-indomaveis\05-trog.md (linha 16)
+  Texto: [Ilustração de Trogs]
+  Href:  (../../_imagens/ameacas-arton/trog.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\brutos-indomaveis\05-trog.md (linha 205)
+  Texto: [Ilustração de Trog Anão]
+  Href:  (../../_imagens/ameacas-arton/trog-anao.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\brutos-indomaveis\06-ogro.md (linha 16)
+  Texto: [Ilustração de um Ogro]
+  Href:  (../../_imagens/ameacas-arton/ogro.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\capangas-bandoleiros\01-bandido.md (linha 16)
+  Texto: [Ilustração de Bandidos]
+  Href:  (../../_imagens/ameacas-arton/bandido.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\capangas-bandoleiros\02-capanga.md (linha 16)
+  Texto: [Ilustração de Capangas]
+  Href:  (../../_imagens/ameacas-arton/capanga.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\capangas-bandoleiros\03-chefe-crime.md (linha 16)
+  Texto: [Ilustração de Chefe do Crime]
+  Href:  (../../_imagens/ameacas-arton/chefe-crime.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\capangas-bandoleiros\04-clerigo-hyninn.md (linha 16)
+  Texto: [Ilustração de Clérigos de Hyninn]
+  Href:  (../../_imagens/ameacas-arton/clerigo-hyninn.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\capangas-bandoleiros\05-devoto-hyninn.md (linha 16)
+  Texto: [Ilustração de Devoto de Hyninn]
+  Href:  (../../_imagens/ameacas-arton/devoto-hyninn.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\capangas-bandoleiros\06-gatuno.md (linha 16)
+  Texto: [Ilustração de um Gatuno]
+  Href:  (../../_imagens/ameacas-arton/gatuno.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\capangas-bandoleiros\07-duplo.md (linha 16)
+  Texto: [Ilustração de um Duplo]
+  Href:  (../../_imagens/ameacas-arton/duplo.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\culto-aharadak\01-acolito-agonia.md (linha 16)
+  Texto: [Ilustração de um Acólito da Agonia]
+  Href:  (../../_imagens/ameacas-arton/acolito-agonia.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\culto-aharadak\02-aspecto-aharadak.md (linha 16)
+  Texto: [Ilustração de um Aspecto de Aharadak]
+  Href:  (../../_imagens/ameacas-arton/aspecto-aharadak.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\culto-aharadak\03-fanatico-lefou.md (linha 16)
+  Texto: [Ilustração de um Fanático Lefou]
+  Href:  (../../_imagens/ameacas-arton/fanatico-lefou.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\culto-aharadak\04-reishid.md (linha 16)
+  Texto: [Ilustração de um Reishid]
+  Href:  (../../_imagens/ameacas-arton/reishid.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\culto-aharadak\05-senhor-gigante-rubro.md (linha 16)
+  Texto: [Ilustração de um Senhor do Gigante Rubro]
+  Href:  (../../_imagens/ameacas-arton/senhor-gigante-rubro.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\culto-aharadak\06-zyrrinaz.md (linha 16)
+  Texto: [Ilustração de um Zyrrinaz]
+  Href:  (../../_imagens/ameacas-arton/zyrrinaz.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\culto-aharadak\07-avatar-aharadak.md (linha 16)
+  Texto: [Ilustração do Avatar de Aharadak]
+  Href:  (../../_imagens/ameacas-arton/avatar-aharadak.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\culto-aharadak\08-templos-aharadak.md (linha 16)
+  Texto: [Ilustração de um Templo de Aharadak]
+  Href:  (../../_imagens/ameacas-arton/templo-aharadak.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\dragoes\01-dragao-menor.md (linha 16)
+  Texto: [Ilustração de Dragões Menores]
+  Href:  (../../_imagens/ameacas-arton/dragao-menor.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\dragoes\02-dragao-adulto.md (linha 16)
+  Texto: [Ilustração de um Dragão Adulto]
+  Href:  (../../_imagens/ameacas-arton/dragao-adulto.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\dragoes\03-dragao-veneravel.md (linha 16)
+  Texto: [Ilustração de um Dragão Venerável]
+  Href:  (../../_imagens/ameacas-arton/dragao-veneravel.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\dragoes\04-dragao-feral.md (linha 16)
+  Texto: [Ilustração de um Dragão Feral]
+  Href:  (../../_imagens/ameacas-arton/dragao-feral.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\dragoes\05-dragao-bicefalo.md (linha 16)
+  Texto: [Ilustração de um Dragão Bicéfalo]
+  Href:  (../../_imagens/ameacas-arton/dragao-bicefalo.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\dragoes\06-dragao-real.md (linha 16)
+  Texto: [Ilustração de um Dragão-Real]
+  Href:  (../../_imagens/ameacas-arton/dragao-real.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\dragoes\07-sckhar.md (linha 12)
+  Texto: [Ilustração de Sckhar]
+  Href:  (../../_imagens/ameacas-arton/sckhar.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\duyshidakk\01-bugbear.md (linha 12)
+  Texto: [Ilustração de Bugbear]
+  Href:  (../../_imagens/ameacas-arton/bugbear.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\duyshidakk\02-bruxa-goblin.md (linha 12)
+  Texto: [Ilustração de Bruxa Goblin]
+  Href:  (../../_imagens/ameacas-arton/bruxa-goblin.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\duyshidakk\03-gangue-goblin.md (linha 12)
+  Texto: [Ilustração de Gangue Goblin]
+  Href:  (../../_imagens/ameacas-arton/gangue-goblin.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\duyshidakk\04-goblin-bomba.md (linha 12)
+  Texto: [Ilustração de Goblin-Bomba]
+  Href:  (../../_imagens/ameacas-arton/goblin-bomba.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\duyshidakk\05-goblin-ferro.md (linha 12)
+  Texto: [Ilustração de Goblin de Ferro]
+  Href:  (../../_imagens/ameacas-arton/goblin-ferro.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\duyshidakk\06-hobgoblin-atirador.md (linha 12)
+  Texto: [Ilustração de Hobgoblin Atirador]
+  Href:  (../../_imagens/ameacas-arton/hobgoblin-atirador.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\duyshidakk\07-hobgoblin-comandante.md (linha 12)
+  Texto: [Ilustração de Hobgoblin Comandante Tático]
+  Href:  (../../_imagens/ameacas-arton/hobgoblin-comandante.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\duyshidakk\08-hobgoblin-gladiador.md (linha 12)
+  Texto: [Ilustração de Hobgoblin Gladiador]
+  Href:  (../../_imagens/ameacas-arton/hobgoblin-gladiador.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\duyshidakk\09-sangue-ayrrak.md (linha 12)
+  Texto: [Ilustração de Sangue do Ayrrak]
+  Href:  (../../_imagens/ameacas-arton/sangue-ayrrak.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\elementais\01-agua-aquinne.md (linha 12)
+  Texto: [Ilustração de Aquin'ne]
+  Href:  (../../_imagens/ameacas-arton/aquinne.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\elementais\02-agua-corgann.md (linha 12)
+  Texto: [Ilustração de Corgann]
+  Href:  (../../_imagens/ameacas-arton/corgann.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\elementais\03-agua-namasqall.md (linha 12)
+  Texto: [Ilustração de Namasqall]
+  Href:  (../../_imagens/ameacas-arton/namasqall.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\elementais\04-ar-tpeel.md (linha 12)
+  Texto: [Ilustração de T'Peel]
+  Href:  (../../_imagens/ameacas-arton/tpeel.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\elementais\05-ar-rarvnaak.md (linha 12)
+  Texto: [Ilustração de Rarvnaak]
+  Href:  (../../_imagens/ameacas-arton/rarvnaak.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\elementais\06-ar-hallustir.md (linha 12)
+  Texto: [Ilustração de Hallus'tir]
+  Href:  (../../_imagens/ameacas-arton/hallustir.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\elementais\07-fogo-pakk.md (linha 12)
+  Texto: [Ilustração de Pakk]
+  Href:  (../../_imagens/ameacas-arton/pakk.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\elementais\08-fogo-berbaram.md (linha 12)
+  Texto: [Ilustração de Ber-baram]
+  Href:  (../../_imagens/ameacas-arton/ber-baram.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\elementais\09-fogo-serpentaar.md (linha 12)
+  Texto: [Ilustração de Serpentaar]
+  Href:  (../../_imagens/ameacas-arton/serpentaar.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\elementais\10-terra-terrier.md (linha 12)
+  Texto: [Ilustração de Terrier]
+  Href:  (../../_imagens/ameacas-arton/terrier.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\elementais\11-terra-pamgra.md (linha 12)
+  Texto: [Ilustração de Pamgra]
+  Href:  (../../_imagens/ameacas-arton/pamgra.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\elementais\12-terra-tanaloom.md (linha 12)
+  Texto: [Ilustração de Tanaloom]
+  Href:  (../../_imagens/ameacas-arton/tanaloom.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\elementais\13-corrompido.md (linha 12)
+  Texto: [Ilustração de Elemental Corrompido]
+  Href:  (../../_imagens/ameacas-arton/elemental-corrompido.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\ermos\01-bulette.md (linha 12)
+  Texto: [Ilustração de Bulette]
+  Href:  (../../_imagens/ameacas-arton/bulette.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\ermos\02-carrasco-lena.md (linha 12)
+  Texto: [Ilustração de Carrasco de Lena]
+  Href:  (../../_imagens/ameacas-arton/carrasco-lena.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\ermos\03-centauro.md (linha 12)
+  Texto: [Ilustração de Centauro]
+  Href:  (../../_imagens/ameacas-arton/centauro.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\ermos\04-ente.md (linha 12)
+  Texto: [Ilustração de Ente]
+  Href:  (../../_imagens/ameacas-arton/ente.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\ermos\05-estirge.md (linha 12)
+  Texto: [Ilustração de Estirge]
+  Href:  (../../_imagens/ameacas-arton/estirge.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\ermos\06-fera-cacto.md (linha 12)
+  Texto: [Ilustração de Fera-Cacto]
+  Href:  (../../_imagens/ameacas-arton/fera-cacto.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\ermos\07-lagarto-perseguidor.md (linha 12)
+  Texto: [Ilustração de Lagarto Perseguidor]
+  Href:  (../../_imagens/ameacas-arton/lagarto-perseguidor.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\ermos\08-tendriculo.md (linha 12)
+  Texto: [Ilustração de Tendrículo]
+  Href:  (../../_imagens/ameacas-arton/tendriculo.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\ermos\09-rhandomm.md (linha 12)
+  Texto: [Ilustração de Rhandomm]
+  Href:  (../../_imagens/ameacas-arton/rhandomm.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\gnolls\01-cacador-cabecas.md (linha 12)
+  Texto: [Ilustração de Gnoll Caçador de Cabeças]
+  Href:  (../../_imagens/ameacas-arton/gnoll-cacador-cabecas.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\gnolls\02-capanga.md (linha 12)
+  Texto: [Ilustração de Gnoll Capanga]
+  Href:  (../../_imagens/ameacas-arton/gnoll-capanga.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\gnolls\03-saqueador.md (linha 12)
+  Texto: [Ilustração de Gnoll Saqueador]
+  Href:  (../../_imagens/ameacas-arton/gnoll-saqueador.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\gnolls\04-filibusteiro.md (linha 12)
+  Texto: [Ilustração de Gnoll Filibusteiro]
+  Href:  (../../_imagens/ameacas-arton/gnoll-filibusteiro.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\gnolls\05-lider-alcateia.md (linha 12)
+  Texto: [Ilustração de Gnoll Líder de Alcateia]
+  Href:  (../../_imagens/ameacas-arton/gnoll-lider.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\gnolls\06-xama.md (linha 12)
+  Texto: [Ilustração de Gnoll Xamã]
+  Href:  (../../_imagens/ameacas-arton/gnoll-xama.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\gnolls\07-hiena.md (linha 12)
+  Texto: [Ilustração de Hiena]
+  Href:  (../../_imagens/ameacas-arton/hiena.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\gnolls\08-matrona.md (linha 12)
+  Texto: [Ilustração de Matrona Gnoll]
+  Href:  (../../_imagens/ameacas-arton/matrona-gnoll.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\gnolls\09-vuulrak.md (linha 12)
+  Texto: [Ilustração de Gnoll Vuul'rak]
+  Href:  (../../_imagens/ameacas-arton/gnoll-vuulrak.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\golens\01-gargula.md (linha 16)
+  Texto: [Ilustração de Gárgula]
+  Href:  (../../_imagens/ameacas-arton/gargula.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\golens\02-golem-barro.md (linha 16)
+  Texto: [Ilustração de Golem de Barro]
+  Href:  (../../_imagens/ameacas-arton/golem-barro.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\golens\03-golem-bronze.md (linha 16)
+  Texto: [Ilustração de Golem de Bronze]
+  Href:  (../../_imagens/ameacas-arton/golem-bronze.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\golens\04-golem-carne.md (linha 16)
+  Texto: [Ilustração de Golem de Carne]
+  Href:  (../../_imagens/ameacas-arton/golem-carne.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\golens\05-golem-espelhos.md (linha 16)
+  Texto: [Ilustração de Golem de Espelhos]
+  Href:  (../../_imagens/ameacas-arton/golem-espelhos.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\golens\06-golem-ferro.md (linha 16)
+  Texto: [Ilustração de Golem de Ferro]
+  Href:  (../../_imagens/ameacas-arton/golem-ferro.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\golens\07-golem-materia-vermelha.md (linha 16)
+  Texto: [Ilustração de Golem de Matéria Vermelha]
+  Href:  (../../_imagens/ameacas-arton/golem-materia-vermelha.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\golens\08-golem-pedra.md (linha 16)
+  Texto: [Ilustração de Golem de Pedra]
+  Href:  (../../_imagens/ameacas-arton/golem-pedra.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\golens\09-instrumento-divino.md (linha 16)
+  Texto: [Ilustração de Instrumento Divino]
+  Href:  (../../_imagens/ameacas-arton/instrumento-divino.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\golens\10-soldado-mecanico.md (linha 16)
+  Texto: [Ilustração de Soldado Mecânico]
+  Href:  (../../_imagens/ameacas-arton/soldado-mecanico.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\golens\README.md (linha 52)
+  Texto: [← Vuul'rak (Gnolls)]
+  Href:  (../gnolls/10-vuulrak.md)
+
+Arquivo: livros\ameacas-arton\01-ameacas\igreja-arsenal\01-coletor-arsenal.md (linha 16)
+  Texto: [Ilustração de Coletores de Arsenal]
+  Href:  (../../_imagens/ameacas-arton/coletor-arsenal.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\igreja-arsenal\02-forjador-liturgico.md (linha 16)
+  Texto: [Ilustração de Forjadores Litúrgicos]
+  Href:  (../../_imagens/ameacas-arton/forjador-liturgico.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\igreja-arsenal\03-guerreiro-perpetuo.md (linha 16)
+  Texto: [Ilustração de Guerreiro Perpétuo]
+  Href:  (../../_imagens/ameacas-arton/guerreiro-perpetuo.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\igreja-arsenal\04-kishin.md (linha 16)
+  Texto: [Ilustração de Kishin]
+  Href:  (../../_imagens/ameacas-arton/kishin.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\igreja-arsenal\05-kishinauros.md (linha 16)
+  Texto: [Ilustração de Kishinauros]
+  Href:  (../../_imagens/ameacas-arton/kishinauros.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\igreja-arsenal\06-sacerdote-guerra.md (linha 16)
+  Texto: [Ilustração de Sacerdote de Guerra]
+  Href:  (../../_imagens/ameacas-arton/sacerdote-guerra.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\igreja-kallyadranoch\01-cavaleiro-kallyadranoch.md (linha 16)
+  Texto: [Ilustração de Cavaleiro de Kallyadranoch]
+  Href:  (../../_imagens/ameacas-arton/cavaleiro-kallyadranoch.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\igreja-kallyadranoch\02-clerigo-kallyadranoch.md (linha 16)
+  Texto: [Ilustração de Clérigo de Kallyadranoch]
+  Href:  (../../_imagens/ameacas-arton/clerigo-kallyadranoch.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\igreja-kallyadranoch\03-corcel-kallyadranoch.md (linha 16)
+  Texto: [Ilustração de Corcel de Kallyadranoch]
+  Href:  (../../_imagens/ameacas-arton/corcel-kallyadranoch.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\igreja-kallyadranoch\04-dracomante.md (linha 16)
+  Texto: [Ilustração de Dracomante]
+  Href:  (../../_imagens/ameacas-arton/dracomante.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\igreja-kallyadranoch\05-kallyanach.md (linha 16)
+  Texto: [Ilustração de Kallyanach]
+  Href:  (../../_imagens/ameacas-arton/kallyanach.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\igreja-kallyadranoch\06-avatar-kallyadranoch.md (linha 16)
+  Texto: [Ilustração de Avatar de Kallyadranoch]
+  Href:  (../../_imagens/ameacas-arton/avatar-kallyadranoch.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\imperio-jade\01-kabuto.md (linha 16)
+  Texto: [Ilustração de Kabuto]
+  Href:  (../../_imagens/ameacas-arton/kabuto.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\imperio-jade\02-kappa.md (linha 16)
+  Texto: [Ilustração de Kappa]
+  Href:  (../../_imagens/ameacas-arton/kappa.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\imperio-jade\03-mashin.md (linha 16)
+  Texto: [Ilustração de Mashin]
+  Href:  (../../_imagens/ameacas-arton/mashin.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\imperio-jade\04-nezumi.md (linha 16)
+  Texto: [Ilustração de Nezumi]
+  Href:  (../../_imagens/ameacas-arton/nezumi.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\imperio-jade\05-oni.md (linha 16)
+  Texto: [Ilustração de Oni]
+  Href:  (../../_imagens/ameacas-arton/oni.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\imperio-jade\06-tengu.md (linha 16)
+  Texto: [Ilustração de Tengu]
+  Href:  (../../_imagens/ameacas-arton/tengu.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\imperio-jade\07-dragao-celestial.md (linha 16)
+  Texto: [Ilustração de Dragão Celestial]
+  Href:  (../../_imagens/ameacas-arton/dragao-celestial.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\imperio-tauron\01-arqueiro-escravo.md (linha 16)
+  Texto: [Ilustração de Arqueira Escrava]
+  Href:  (../../_imagens/ameacas-arton/arqueira-escrava.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\imperio-tauron\02-centuriao.md (linha 16)
+  Texto: [Ilustração de Centurião]
+  Href:  (../../_imagens/ameacas-arton/centuriao-legionario.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\imperio-tauron\03-furia-tauron.md (linha 16)
+  Texto: [Ilustração de Fúrias de Tauron]
+  Href:  (../../_imagens/ameacas-arton/furias-tauron.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\imperio-tauron\04-gladiador-taurico.md (linha 16)
+  Texto: [Ilustração de Gladiador Táurico]
+  Href:  (../../_imagens/ameacas-arton/gladiador-taurico.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\imperio-tauron\05-legionario.md (linha 16)
+  Texto: [Ilustração de Legionário e Centurião]
+  Href:  (../../_imagens/ameacas-arton/legionario-centuriao.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\imperio-tauron\06-legionario-insano.md (linha 16)
+  Texto: [Ilustração de Legionário Insano]
+  Href:  (../../_imagens/ameacas-arton/legionario-insano.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\imperio-tauron\07-minauro.md (linha 16)
+  Texto: [Ilustração de Minaura]
+  Href:  (../../_imagens/ameacas-arton/minaura.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\imperio-tauron\08-governador-corrupto.md (linha 16)
+  Texto: [Ilustração de Governador Corrupto]
+  Href:  (../../_imagens/ameacas-arton/governador-corrupto.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\kobolds\02-cao-kally.md (linha 11)
+  Texto: [Imagem de um Cão de Kally]
+  Href:  (../../_imagens/ameacas-arton/cao-kally.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\kobolds\03-enxame-larval.md (linha 11)
+  Texto: [Imagem de um Enxame Larval]
+  Href:  (../../_imagens/ameacas-arton/enxame-larval.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\kobolds\04-kobold.md (linha 11)
+  Texto: [Imagem de Kobolds]
+  Href:  (../../_imagens/ameacas-arton/kobold.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\kobolds\04-kobold.md (linha 148)
+  Texto: [Imagem de Kobolds Heróis]
+  Href:  (../../_imagens/ameacas-arton/kobolds-herois.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\kobolds\05-kobold-bruto.md (linha 11)
+  Texto: [Imagem de um Kobold Bruto]
+  Href:  (../../_imagens/ameacas-arton/kobold-bruto.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\kobolds\06-kobold-explosivo.md (linha 11)
+  Texto: [Imagem de um Kobold Explosivo]
+  Href:  (../../_imagens/ameacas-arton/kobold-explosivo.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\kobolds\07-kobold-xama.md (linha 11)
+  Texto: [Imagem de um Kobold Xamã]
+  Href:  (../../_imagens/ameacas-arton/kobold-xama.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\kobolds\08-kobold-mae.md (linha 11)
+  Texto: [Imagem de uma Kobold-Mãe]
+  Href:  (../../_imagens/ameacas-arton/kobold-mae.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\kobolds\09-vagalhao-kobold.md (linha 11)
+  Texto: [Imagem de um Vagalhão Kobold]
+  Href:  (../../_imagens/ameacas-arton/vagalhao-kobold.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\mascotes-familiares\01-bogum.md (linha 11)
+  Texto: [Imagem de um Bogum]
+  Href:  (../../_imagens/ameacas-arton/bogum.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\mascotes-familiares\02-escudeiro.md (linha 11)
+  Texto: [Imagem de um Escudeiro]
+  Href:  (../../_imagens/ameacas-arton/escudeiro.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\mascotes-familiares\03-fofo.md (linha 11)
+  Texto: [Imagem de um Fofo]
+  Href:  (../../_imagens/ameacas-arton/fofo.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\mascotes-familiares\04-gamba.md (linha 11)
+  Texto: [Imagem de um Gambá]
+  Href:  (../../_imagens/ameacas-arton/gamba.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\mascotes-familiares\05-homunculo.md (linha 11)
+  Texto: [Imagem de um Homúnculo]
+  Href:  (../../_imagens/ameacas-arton/homunculo.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\mascotes-familiares\06-killbone.md (linha 11)
+  Texto: [Imagem de um Kill'Bone]
+  Href:  (../../_imagens/ameacas-arton/killbone.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\mascotes-familiares\07-tentacute.md (linha 11)
+  Texto: [Imagem de um Tentacute]
+  Href:  (../../_imagens/ameacas-arton/tentacute.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\mascotes-familiares\07-tentacute.md (linha 87)
+  Texto: [Imagem de uma Tropa de Tentacutes]
+  Href:  (../../_imagens/ameacas-arton/tropa-tentacutes.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\mascotes-familiares\08-verilemur-malafex.md (linha 11)
+  Texto: [Imagem de Verilêmur e Malafex]
+  Href:  (../../_imagens/ameacas-arton/verilemur-malafex.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\masmorras\01-asa-assassina.md (linha 13)
+  Texto: [Asa-Assassina]
+  Href:  (../../_imagens/ameacas-arton/asa-assassina.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\masmorras\02-cocatriz.md (linha 13)
+  Texto: [Cocatriz]
+  Href:  (../../_imagens/ameacas-arton/cocatriz.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\masmorras\02-cocatriz.md (linha 65)
+  Texto: [Cocatriz-Real]
+  Href:  (../../_imagens/ameacas-arton/cocatriz-real.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\masmorras\03-harpia.md (linha 13)
+  Texto: [Harpia]
+  Href:  (../../_imagens/ameacas-arton/harpia.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\masmorras\04-glop.md (linha 13)
+  Texto: [Glop]
+  Href:  (../../_imagens/ameacas-arton/glop.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\masmorras\04-glop.md (linha 67)
+  Texto: [Glooop]
+  Href:  (../../_imagens/ameacas-arton/glooop.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\masmorras\04-glop.md (linha 117)
+  Texto: [Mamãe Glop]
+  Href:  (../../_imagens/ameacas-arton/mamae-glop.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\masmorras\04-glop.md (linha 242)
+  Texto: [Aberrações]
+  Href:  (../aberracoes/README.md)
+
+Arquivo: livros\ameacas-arton\01-ameacas\masmorras\05-mantor.md (linha 13)
+  Texto: [Mantor]
+  Href:  (../../_imagens/ameacas-arton/mantor.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\masmorras\06-mimico.md (linha 13)
+  Texto: [Mímico]
+  Href:  (../../_imagens/ameacas-arton/mimico.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\masmorras\07-quimera.md (linha 13)
+  Texto: [Quimera]
+  Href:  (../../_imagens/ameacas-arton/quimera.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\masmorras\07-quimera.md (linha 190)
+  Texto: [Aberrações]
+  Href:  (../aberracoes/README.md)
+
+Arquivo: livros\ameacas-arton\01-ameacas\masmorras\08-slark.md (linha 13)
+  Texto: [Slark]
+  Href:  (../../_imagens/ameacas-arton/slark.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\masmorras\09-tigre-hyninn.md (linha 13)
+  Texto: [Tigre-de-Hyninn]
+  Href:  (../../_imagens/ameacas-arton/tigre-hyninn.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\masmorras\09-tigre-hyninn.md (linha 78)
+  Texto: [Tigre-de-Hyninn Primordial]
+  Href:  (../../_imagens/ameacas-arton/tigre-hyninn-primordial.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\masmorras\09-tigre-hyninn.md (linha 241)
+  Texto: [Aberrações]
+  Href:  (../aberracoes/README.md)
+
+Arquivo: livros\ameacas-arton\01-ameacas\masmorras\10-brawar.md (linha 13)
+  Texto: [Brawar]
+  Href:  (../../_imagens/ameacas-arton/brawar.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\masmorras\10-brawar.md (linha 223)
+  Texto: [Golems]
+  Href:  (../construtos/README.md)
+
+Arquivo: livros\ameacas-arton\01-ameacas\masmorras\10-brawar.md (linha 224)
+  Texto: [Anões]
+  Href:  (../../tormenta20-core/03-racas/03-anoes.md)
+
+Arquivo: livros\ameacas-arton\01-ameacas\montarias\01-baleote.md (linha 14)
+  Texto: [Ilustração de Baleote]
+  Href:  (../../_imagens/ameacas-arton/baleote.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\montarias\02-capivara.md (linha 14)
+  Texto: [Ilustração de Capivara]
+  Href:  (../../_imagens/ameacas-arton/capivara.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\montarias\03-cavalos.md (linha 14)
+  Texto: [Ilustração de Cavalos]
+  Href:  (../../_imagens/ameacas-arton/cavalos.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\montarias\08-gorlogg.md (linha 16)
+  Texto: [Gorlogg]
+  Href:  (/_imagens/ameacas-arton/gorlogg.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\montarias\11-tatu-montanha.md (linha 15)
+  Texto: [Imagem: Tatu-Montanha]
+  Href:  (/_imagens/ameacas-arton/tatu-montanha.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\montarias\12-trobo.md (linha 15)
+  Texto: [Imagem: Trobo]
+  Href:  (/_imagens/ameacas-arton/trobo.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\montarias\13-tumarkhan.md (linha 15)
+  Texto: [Imagem: Tumarkhân]
+  Href:  (/_imagens/ameacas-arton/tumarkhan.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\mortos-vivos\01-carnical-lacedon.md (linha 12)
+  Texto: [Carniçal e Lívido]
+  Href:  (../../_imagens/ameacas-arton/carnical.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\mortos-vivos\02-esqueletos.md (linha 12)
+  Texto: [Esqueletos: Rei-Tirano, Gigante e Urso Pardo]
+  Href:  (../../_imagens/ameacas-arton/esqueletos.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\mortos-vivos\03-fantasma.md (linha 12)
+  Texto: [Fantasma]
+  Href:  (../../_imagens/ameacas-arton/fantasma.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\mortos-vivos\04-garras-zumbi.md (linha 12)
+  Texto: [Garras-Zumbi]
+  Href:  (../../_imagens/ameacas-arton/garras-zumbi.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\mortos-vivos\05-livido-mortalha.md (linha 14)
+  Texto: [Carniçal e Lívido]
+  Href:  (../../_imagens/ameacas-arton/carnical.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\mortos-vivos\05-livido-mortalha.md (linha 76)
+  Texto: [Mortalha]
+  Href:  (../../_imagens/ameacas-arton/mortalha.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\mortos-vivos\06-mumia.md (linha 14)
+  Texto: [Senhor das Múmias e Múmia]
+  Href:  (../../_imagens/ameacas-arton/mumia.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\mortos-vivos\06-mumia.md (linha 73)
+  Texto: [Senhor das Múmias]
+  Href:  (../../_imagens/ameacas-arton/mumia.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\mortos-vivos\07-necrodracos.md (linha 12)
+  Texto: [Necrodraco]
+  Href:  (../../_imagens/ameacas-arton/necrodraco.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\mortos-vivos\08-tarso.md (linha 12)
+  Texto: [Tarso, Dragão-Rei dos Mortos]
+  Href:  (../../_imagens/ameacas-arton/tarso.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\mundo-perdido\01-dinossauros-herbivoros.md (linha 11)
+  Texto: [Burafonte]
+  Href:  (../../_imagens/ameacas-arton/burafonte.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\mundo-perdido\02-dinossauros-carnivoros.md (linha 12)
+  Texto: [Deinonicos e Raagoran]
+  Href:  (../../_imagens/ameacas-arton/deinonico.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\mundo-perdido\03-seres-planta.md (linha 12)
+  Texto: [Espada-da-Floresta e Galhada]
+  Href:  (../../_imagens/ameacas-arton/espada-da-floresta.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\mundo-perdido\04-arvore-matilha.md (linha 14)
+  Texto: [Árvore-Matilha]
+  Href:  (../../_imagens/ameacas-arton/arvore-matilha.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\piratas-pistoleiros\01-piratas-mortos-vivos.md (linha 11)
+  Texto: [Afogado e Piratas Osteon]
+  Href:  (../../_imagens/ameacas-arton/afogado.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\piratas-pistoleiros\02-armeiro-tenebra.md (linha 14)
+  Texto: [Armeiros de Tenebra]
+  Href:  (../../_imagens/ameacas-arton/armeiro-tenebra.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\piratas-pistoleiros\03-demonio-polvora.md (linha 14)
+  Texto: [Demônio da Pólvora]
+  Href:  (../../_imagens/ameacas-arton/demonio-polvora.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\piratas-pistoleiros\04-bandoleiros.md (linha 12)
+  Texto: [Goblins de Sombreiro e Pistoleiros]
+  Href:  (../../_imagens/ameacas-arton/goblin-sombreiro.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\piratas-pistoleiros\05-piratas-vivos.md (linha 12)
+  Texto: [Piratas em Combate]
+  Href:  (../../_imagens/ameacas-arton/piratas.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\piratas-pistoleiros\07-sahuagin.md (linha 14)
+  Texto: [Sahuagin]
+  Href:  (../../_imagens/ameacas-arton/sahuagin.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\piratas-pistoleiros\08-lendas-gatilho.md (linha 12)
+  Texto: [Chapéu-Preto e Lobo do Mar]
+  Href:  (../../_imagens/ameacas-arton/chapeu-preto.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\sanguinarias\01-cerianthar.md (linha 15)
+  Texto: [Cerianthar]
+  Href:  (../../_imagens/placeholder-criatura.png)
+
+Arquivo: livros\ameacas-arton\01-ameacas\sanguinarias\02-tachygloss.md (linha 15)
+  Texto: [Grande Tachygloss]
+  Href:  (../../_imagens/placeholder-criatura.png)
+
+Arquivo: livros\ameacas-arton\01-ameacas\sanguinarias\03-oxxdon.md (linha 15)
+  Texto: [Oxxdon]
+  Href:  (../../_imagens/placeholder-criatura.png)
+
+Arquivo: livros\ameacas-arton\01-ameacas\sanguinarias\04-razzakham.md (linha 15)
+  Texto: [Razza'Kham]
+  Href:  (../../_imagens/placeholder-criatura.png)
+
+Arquivo: livros\ameacas-arton\01-ameacas\sanguinarias\05-serpe.md (linha 15)
+  Texto: [Serpe]
+  Href:  (../../_imagens/placeholder-criatura.png)
+
+Arquivo: livros\ameacas-arton\01-ameacas\sanguinarias\06-uraghian.md (linha 15)
+  Texto: [Uraghian]
+  Href:  (../../_imagens/placeholder-criatura.png)
+
+Arquivo: livros\ameacas-arton\01-ameacas\sanguinarias\07-kaiju.md (linha 15)
+  Texto: [Kaiju]
+  Href:  (../../_imagens/placeholder-criatura.png)
+
+Arquivo: livros\ameacas-arton\01-ameacas\sob-ondas\01-canceronte.md (linha 14)
+  Texto: [Canceronte]
+  Href:  (../../_imagens/placeholder-criatura.png)
+
+Arquivo: livros\ameacas-arton\01-ameacas\sob-ondas\02-elfo-do-mar.md (linha 15)
+  Texto: [Elfos-do-Mar e Selako]
+  Href:  (../../_imagens/placeholder-criatura.png)
+
+Arquivo: livros\ameacas-arton\01-ameacas\sob-ondas\03-enguia-rainha.md (linha 15)
+  Texto: [Enguia Rainha]
+  Href:  (../../_imagens/placeholder-criatura.png)
+
+Arquivo: livros\ameacas-arton\01-ameacas\sob-ondas\04-irukanjin.md (linha 15)
+  Texto: [Irukanjin]
+  Href:  (../../_imagens/placeholder-criatura.png)
+
+Arquivo: livros\ameacas-arton\01-ameacas\sob-ondas\05-nereida.md (linha 15)
+  Texto: [Nereida]
+  Href:  (../../_imagens/placeholder-criatura.png)
+
+Arquivo: livros\ameacas-arton\01-ameacas\sob-ondas\06-peixe-recife.md (linha 15)
+  Texto: [Peixe-Recife]
+  Href:  (../../_imagens/placeholder-criatura.png)
+
+Arquivo: livros\ameacas-arton\01-ameacas\sob-ondas\07-platan.md (linha 15)
+  Texto: [Platan]
+  Href:  (../../_imagens/placeholder-criatura.png)
+
+Arquivo: livros\ameacas-arton\01-ameacas\sob-ondas\08-selako.md (linha 15)
+  Texto: [Selako]
+  Href:  (../../_imagens/placeholder-criatura.png)
+
+Arquivo: livros\ameacas-arton\01-ameacas\sob-ondas\09-pliorex.md (linha 15)
+  Texto: [Pliorex e Kraken]
+  Href:  (../../_imagens/placeholder-criatura.png)
+
+Arquivo: livros\ameacas-arton\01-ameacas\sob-ondas\10-kraken.md (linha 15)
+  Texto: [Kraken e Pliorex]
+  Href:  (../../_imagens/placeholder-criatura.png)
+
+Arquivo: livros\ameacas-arton\01-ameacas\sszzaazitas\01-adoradores.md (linha 15)
+  Texto: [Adoradores de Sszzaas]
+  Href:  (../../_imagens/placeholder-criatura.png)
+
+Arquivo: livros\ameacas-arton\01-ameacas\sszzaazitas\02-elemental-veneno.md (linha 15)
+  Texto: [Elemental do Veneno]
+  Href:  (../../_imagens/placeholder-criatura.png)
+
+Arquivo: livros\ameacas-arton\01-ameacas\sszzaazitas\03-gorgona.md (linha 15)
+  Texto: [Górgona]
+  Href:  (../../_imagens/placeholder-criatura.png)
+
+Arquivo: livros\ameacas-arton\01-ameacas\sszzaazitas\04-nagah-arcanista.md (linha 15)
+  Texto: [Nagah Arcanista]
+  Href:  (../../_imagens/placeholder-criatura.png)
+
+Arquivo: livros\ameacas-arton\01-ameacas\sszzaazitas\05-nagah-dormente.md (linha 15)
+  Texto: [Nagah Dormente]
+  Href:  (../../_imagens/placeholder-criatura.png)
+
+Arquivo: livros\ameacas-arton\01-ameacas\sszzaazitas\06-nagah-defensor.md (linha 15)
+  Texto: [Nagah Defensor]
+  Href:  (../../_imagens/placeholder-criatura.png)
+
+Arquivo: livros\ameacas-arton\01-ameacas\sszzaazitas\07-nagah-retalhador.md (linha 17)
+  Texto: [Nagah Retalhador]
+  Href:  (../../_imagens/placeholder-criatura.png)
+
+Arquivo: livros\ameacas-arton\01-ameacas\sszzaazitas\08-nagah-sacerdotisa.md (linha 15)
+  Texto: [Nagah Sacerdotisa]
+  Href:  (../../_imagens/placeholder-criatura.png)
+
+Arquivo: livros\ameacas-arton\01-ameacas\sszzaazitas\09-rival-espelho.md (linha 15)
+  Texto: [Rival Espelho]
+  Href:  (../../_imagens/placeholder-criatura.png)
+
+Arquivo: livros\ameacas-arton\01-ameacas\sszzaazitas\10-zumbi-peconha.md (linha 15)
+  Texto: [Zumbi Peçonha]
+  Href:  (../../_imagens/placeholder-criatura.png)
+
+Arquivo: livros\ameacas-arton\01-ameacas\sszzaazitas\11-nastarrath.md (linha 15)
+  Texto: [Nastarrath]
+  Href:  (../../_imagens/placeholder-criatura.png)
+
+Arquivo: livros\ameacas-arton\01-ameacas\sszzaazitas\12-celebrante.md (linha 15)
+  Texto: [Sszzaazita Celebrante]
+  Href:  (../../_imagens/placeholder-criatura.png)
+
+Arquivo: livros\ameacas-arton\01-ameacas\trolls-nobres\README.md (linha 17)
+  Texto: [Trolls Nobres]
+  Href:  (../../_imagens/placeholder-criatura.png)
+
+Arquivo: livros\ameacas-arton\01-ameacas\trolls-nobres\README.md (linha 45)
+  Texto: [Arcanista Finntroll]
+  Href:  (01-arcanista.md)
+
+Arquivo: livros\ameacas-arton\01-ameacas\trolls-nobres\README.md (linha 48)
+  Texto: [Defeituoso]
+  Href:  (02-defeituoso.md)
+
+Arquivo: livros\ameacas-arton\01-ameacas\trolls-nobres\README.md (linha 51)
+  Texto: [Mycotann]
+  Href:  (03-mycotann.md)
+
+Arquivo: livros\ameacas-arton\01-ameacas\trolls-nobres\README.md (linha 54)
+  Texto: [Opressor Finntroll]
+  Href:  (04-opressor.md)
+
+Arquivo: livros\ameacas-arton\01-ameacas\trolls-nobres\README.md (linha 57)
+  Texto: [Perdigueiro Troll]
+  Href:  (05-perdigueiro.md)
+
+Arquivo: livros\ameacas-arton\01-ameacas\trolls-nobres\README.md (linha 60)
+  Texto: [Protetor-Refém]
+  Href:  (06-protetor-refem.md)
+
+Arquivo: livros\ameacas-arton\01-ameacas\trolls-nobres\README.md (linha 63)
+  Texto: [Cavaleiro Finntroll]
+  Href:  (07-cavaleiro.md)
+
+Arquivo: livros\ameacas-arton\01-ameacas\trolls-nobres\README.md (linha 66)
+  Texto: [Sacerdote Finntroll]
+  Href:  (08-sacerdote.md)
+
+Arquivo: livros\ameacas-arton\01-ameacas\uivantes\README.md (linha 15)
+  Texto: [Uivantes]
+  Href:  (../../_imagens/placeholder-criatura.png)
+
+Arquivo: livros\ameacas-arton\01-ameacas\uivantes\README.md (linha 42)
+  Texto: [Carcaju]
+  Href:  (carcaju.md)
+
+Arquivo: livros\ameacas-arton\01-ameacas\uivantes\README.md (linha 45)
+  Texto: [Golem de Nor]
+  Href:  (golem-nor.md)
+
+Arquivo: livros\ameacas-arton\01-ameacas\uivantes\README.md (linha 48)
+  Texto: [Mamute]
+  Href:  (mamute.md)
+
+Arquivo: livros\ameacas-arton\01-ameacas\uivantes\README.md (linha 51)
+  Texto: [Minotauro da Manada]
+  Href:  (minotauro-manada.md)
+
+Arquivo: livros\ameacas-arton\01-ameacas\uivantes\README.md (linha 54)
+  Texto: [Ogro Furioso]
+  Href:  (ogro-furioso.md)
+
+Arquivo: livros\ameacas-arton\01-ameacas\uivantes\README.md (linha 57)
+  Texto: [Soterrado]
+  Href:  (soterrado.md)
+
+Arquivo: livros\ameacas-arton\01-ameacas\uivantes\README.md (linha 60)
+  Texto: [Stagh]
+  Href:  (stagh.md)
+
+Arquivo: livros\ameacas-arton\01-ameacas\uivantes\README.md (linha 63)
+  Texto: [Urso das Neves]
+  Href:  (urso-neves.md)
+
+Arquivo: livros\ameacas-arton\01-ameacas\uivantes\README.md (linha 66)
+  Texto: [Verme do Gelo]
+  Href:  (verme-gelo.md)
+
+Arquivo: livros\ameacas-arton\01-ameacas\areas-tormenta\07-lefeu\01-veridak.md (linha 16)
+  Texto: [Ilustração de um Lefeu Veridak]
+  Href:  (../../../_imagens/ameacas-arton/lefeu-veridak.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\areas-tormenta\07-lefeu\02-hurobakk.md (linha 12)
+  Texto: [Ilustração de um Lefeu Hurobakk]
+  Href:  (../../../_imagens/ameacas-arton/lefeu-hurobakk.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\areas-tormenta\07-lefeu\03-burodron.md (linha 12)
+  Texto: [Ilustração de um Lefeu Burodron]
+  Href:  (../../../_imagens/ameacas-arton/lefeu-burodron.jpg)
+
+Arquivo: livros\ameacas-arton\01-ameacas\areas-tormenta\07-lefeu\04-morgadrel.md (linha 12)
+  Texto: [Ilustração de um Lefeu Morgadrel]
+  Href:  (../../../_imagens/ameacas-arton/lefeu-morgadrel.jpg)
+
+Arquivo: livros\dragao-brasil\01-racas\07-racas-ghanor.md (linha 13)
+  Texto: [Próximo: Bugbear →]
+  Href:  (08-bugbear.md)
+
+Arquivo: livros\dragao-brasil\01-racas\07-racas-ghanor.md (linha 175)
+  Texto: [Próximo: Bugbear →]
+  Href:  (08-bugbear.md)
+
+Arquivo: livros\dragao-brasil\05-distincoes\19-xerife-azgher.md (linha 13)
+  Texto: [Próximo: Capítulo 6 - Equipamentos →]
+  Href:  (../06-equipamentos/01-introducao.md)
+
+Arquivo: livros\dragao-brasil\05-distincoes\19-xerife-azgher.md (linha 79)
+  Texto: [Próximo: Capítulo 6 - Equipamentos →]
+  Href:  (../06-equipamentos/01-introducao.md)
+
+Arquivo: livros\herois-arton\01-campeoes-arton\01-duende.md (linha 29)
+  Texto: [Descrição: Ilustração de um duende, uma fada de aparência única e imprevisível. A imagem mostra a diversidade desta raça feérica, podendo ter formas totalmente diferentes - desde um ovo com pernas e braços até criaturas humanoides com características inusitadas. Duendes lembram personagens de histórias infantis, com traços que parecem tolos para adultos mas escondem grande poder mágico. Seus corpos não seguem padrões, refletindo a natureza caótica de Nimb]
+  Href:  (../../../_imagens/herois-arton/herois-duende.png)
+
+Arquivo: livros\herois-arton\01-campeoes-arton\02-eiradaan.md (linha 27)
+  Texto: [Descrição: Ilustração de um eiradaan, ser féerico ancestral de grande beleza e melancolia. Possui aparência similar a um elfo com orelhas pontiagudas, olhos amendoados e traços delicados, mas ostenta galhadas majestosas ramificando-se de sua cabeça como chifres de cervo. Seus olhos mostram inteligência profunda mesclada com tristeza antiga. Veste roupas elegantes de corte feérico, combinando natureza e magia. Eiradaan são seres de poder mágico fenomenal, banidos de Vitalia após falharem em proteger o reino de Lena]
+  Href:  (../../../_imagens/herois-arton/herois-eiradaan.png)
+
+Arquivo: livros\herois-arton\01-campeoes-arton\03-galokk.md (linha 23)
+  Texto: [Descrição: Ilustração de um galokk, também chamado meio-gigante. Humanoide imponente de três metros de altura com proporções humanas mas corpo duro como rocha. Possui músculos proeminentes e aparência intimidadora, mas mantém traços distintamente humanos. Seus olhos mostram inteligência, contrariando estereótipos sobre gigantes. Veste equipamento robusto adequado ao seu tamanho Grande. Galokk são manifestações do poder de Megalokk em corpos humanos, podendo ser guerreiros temíveis ou surpreendentemente arcanistas e bardos]
+  Href:  (../../../_imagens/herois-arton/herois-galokk.png)
+
+Arquivo: livros\herois-arton\01-campeoes-arton\04-meio-elfo.md (linha 25)
+  Texto: [Descrição: Ilustração de Loriane, a Estrela, famosa meia-elfa paladina. Possui altura e compleição física de humana, mas com olhos amendoados, orelhas pontudas e traços delicados élficos. Sua pele pode variar em tonalidade, mostrando herança mista. Cabelos podem ser lisos ou ondulados. Veste armadura polida e empunha arma com graça. Seu rosto mostra determinação e beleza que conquistou até Valkaria. Meios-elfos são ponte entre dois mundos, combinando intensidade humana com elegância élfica]
+  Href:  (../../../_imagens/herois-arton/herois-meio-elfo.png)
+
+Arquivo: livros\herois-arton\01-campeoes-arton\05-satiro.md (linha 23)
+  Texto: [Descrição: Ilustração de um sátiro, humanoide feérico jovial e travesso. Possui tronco, cabeça e braços humanos com pele bronzeada, mas chifres recurvados na testa, pernas de bode com cascos, e pelagem castanha cobrindo a parte inferior do corpo. Usa cavanhaque e tem expressão divertida mas selvagem. Carrega arco e aljava de flechas. Pode segurar flauta ou harpa, instrumentos para enfeitiçar. Sátiros são festeiros incansáveis, amantes de música, dança, bebida e romance, mas também caçadores hábeis]
+  Href:  (../../../_imagens/herois-arton/herois-satiro.png)
+
+Arquivo: livros\herois-arton\01-campeoes-arton\23-treinador.md (linha 31)
+  Texto: [Descrição: Ilustração de um treinador, figura heroica cercada por seus companheiros animais - um lobo feroz ao lado esquerdo, uma águia pousada no ombro direito, expressão confiante e comandante. Veste roupas práticas de aventureiro com elementos tribais. Background mostra silhuetas de outras criaturas. Treinadores comandam bestas em combate]
+  Href:  (../../_imagens/herois-arton/treinador-mestre-feras.png)
+
+Arquivo: livros\herois-arton\01-campeoes-arton\origem-02-boticario.md (linha 15)
+  Texto: [← Anterior: Arqueiro de Arantar]
+  Href:  (origem-01-arqueiro-arantar.md)
+
+Arquivo: livros\herois-arton\01-campeoes-arton\origem-02-boticario.md (linha 31)
+  Texto: [← Anterior: Arqueiro de Arantar]
+  Href:  (origem-01-arqueiro-arantar.md)
+
+Arquivo: livros\herois-arton\01-campeoes-arton\origem-10-citadino-abastado.md (linha 15)
+  Texto: [Próximo: Comerciante de Especiarias →]
+  Href:  (origem-11-comerciante-especiarias.md)
+
+Arquivo: livros\herois-arton\01-campeoes-arton\origem-10-citadino-abastado.md (linha 31)
+  Texto: [Próximo: Comerciante de Especiarias →]
+  Href:  (origem-11-comerciante-especiarias.md)
+
+Arquivo: livros\herois-arton\01-campeoes-arton\origem-11-cocheiro.md (linha 15)
+  Texto: [← Anterior: Campeão de Oceano]
+  Href:  (origem-10-campeao-oceano.md)
+
+Arquivo: livros\herois-arton\01-campeoes-arton\origem-11-cocheiro.md (linha 31)
+  Texto: [← Anterior: Campeão de Oceano]
+  Href:  (origem-10-campeao-oceano.md)
+
+Arquivo: livros\herois-arton\01-campeoes-arton\origem-21-interrogador.md (linha 15)
+  Texto: [← Anterior: Herói de Guerra]
+  Href:  (origem-20-heroi-de-guerra.md)
+
+Arquivo: livros\herois-arton\01-campeoes-arton\origem-21-interrogador.md (linha 31)
+  Texto: [← Anterior: Herói de Guerra]
+  Href:  (origem-20-heroi-de-guerra.md)
+
+Arquivo: livros\herois-arton\01-campeoes-arton\README.md (linha 92)
+  Texto: [Ladrão de Túmulos]
+  Href:  (origem-22-ladrao-tumulos.md)
+
+Arquivo: livros\herois-arton\01-campeoes-arton\README.md (linha 100)
+  Texto: [Suporte de Tropas]
+  Href:  (origem-30-suporte-tropas.md)
+
+Arquivo: livros\herois-arton\01-campeoes-arton\README.md (linha 125)
+  Texto: [Poderes Gerais]
+  Href:  (../02-novos-poderes/poderes-gerais.md)
+
+Arquivo: livros\herois-arton\01-campeoes-arton\tabelas-personagens.md (linha 13)
+  Texto: [← Origem 30]
+  Href:  (origem-30.md)
+
+Arquivo: livros\herois-arton\01-campeoes-arton\tabelas-personagens.md (linha 294)
+  Texto: [← Origem 30]
+  Href:  (origem-30.md)
+
+Arquivo: livros\herois-arton\02-distincoes\05-arqueiro-de-lenorienn.md (linha 16)
+  Texto: [← Campeão de Dojo]
+  Href:  (04-campeao-de-dojo.md)
+
+Arquivo: livros\herois-arton\02-distincoes\08-cacador-de-dragoes.md (linha 69)
+  Texto: [Carteador →]
+  Href:  (09-carteador.md)
+
+Arquivo: livros\herois-arton\02-distincoes\09-campeao-de-dojo.md (linha 72)
+  Texto: [← Anterior: Campeão da Arena]
+  Href:  (08-campeao-da-arena.md)
+
+Arquivo: livros\herois-arton\02-distincoes\12-cavaleiro-do-corvo.md (linha 89)
+  Texto: [→ Próximo: Próxima Distinção]
+  Href:  (13-próxima-distinção.md)
+
+Arquivo: livros\herois-arton\02-distincoes\13-cavaleiro-feerico.md (linha 82)
+  Texto: [Anterior: Cozinheiro de Aventureiros]
+  Href:  (12-cozinheiro-de-aventureiros.md)
+
+Arquivo: livros\herois-arton\02-distincoes\16-dracomante-real.md (linha 85)
+  Texto: [Próximo: Espadachim de Moreania]
+  Href:  (17-espadachim-de-moreania.md)
+
+Arquivo: livros\herois-arton\02-distincoes\17-drogadora.md (linha 16)
+  Texto: [← Anterior]
+  Href:  (./16-distincoes-anteriores.md)
+
+Arquivo: livros\herois-arton\02-distincoes\20-gigante-furioso.md (linha 92)
+  Texto: [→ Próximo]
+  Href:  (./21-distincoes-seguintes.md)
+
+Arquivo: livros\herois-arton\02-distincoes\21-ginete-de-namalkah.md (linha 46)
+  Texto: [← Devoto de Valkaria]
+  Href:  (20-devoto-de-valkaria.md)
+
+Arquivo: livros\herois-arton\02-distincoes\24-mago-da-ordem-do-vazio.md (linha 47)
+  Texto: [Próxima Distinção →]
+  Href:  (25-proxima-distincao.md)
+
+Arquivo: livros\herois-arton\02-distincoes\25-mago-de-batalha-de-wynlla.md (linha 42)
+  Texto: [← Anterior: Maestro das Espadas]
+  Href:  (24-maestro-das-espadas.md)
+
+Arquivo: livros\herois-arton\02-distincoes\28-mestre-cozinheiro.md (linha 43)
+  Texto: [→ Próximo: Necromante]
+  Href:  (29-necromante.md)
+
+Arquivo: livros\herois-arton\02-distincoes\29-mestre-dos-desejos.md (linha 63)
+  Texto: [Anterior: Mestre da Colheita]
+  Href:  (28-mestre-da-colheita.md)
+
+Arquivo: livros\herois-arton\02-distincoes\32-mutagenista.md (linha 71)
+  Texto: [Próximo: Necromante de Arton]
+  Href:  (33-necromante-de-arton.md)
+
+Arquivo: livros\herois-arton\02-distincoes\33-pistoleiro-de-smokestone.md (linha 99)
+  Texto: [← Anterior: Mosqueteiro de Rishantor]
+  Href:  (32-mosqueteiro-de-rishantor.md)
+
+Arquivo: livros\herois-arton\02-novos-poderes\arcanista.md (linha 13)
+  Texto: [← Paladino]
+  Href:  (../01-distincoes/paladino.md)
+
+Arquivo: livros\herois-arton\02-novos-poderes\arcanista.md (linha 141)
+  Texto: [← Paladino]
+  Href:  (../01-distincoes/paladino.md)
+
+Arquivo: livros\herois-arton\04-regras-opcionais\11-dominios.md (linha 13)
+  Texto: [➡️ Próximo: ???]
+  Href:  (12-???.md)
+
+Arquivo: livros\herois-arton\04-regras-opcionais\11-dominios.md (linha 287)
+  Texto: [➡️ Próximo: ???]
+  Href:  (12-???.md)
+
+Arquivo: livros\herois-arton\04-regras-opcionais\18-lista-regras-opcionais.md (linha 116)
+  Texto: [Anterior: 11. Culinária Avançada]
+  Href:  (11-culinaria-avancada.md)
+
+
+ARQUIVOS .MD ÓRFÃOS (não referenciados por nenhum outro .md):
+------------------------------------------------------------------------
+
+- livros\ameacas-arton\02-regras-avancadas\02-manual-criacao-NEW.md
+- livros\ameacas-arton\CATALOGAÇÃO_IMAGENS.md
+- livros\ameacas-arton\GUIA_INICIO.md

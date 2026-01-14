@@ -12,7 +12,7 @@ next: "04-irukanjin"
 *"Essa calmaria é tediosa demais. Quando vamos encontrar alguma coisa?"*  
 — Helldin, hynne bardo ladino
 
-![Enguia Rainha](../../_imagens/ameacas-arton/enguia-rainha.jpg)
+![Enguia Rainha](../../_imagens/placeholder-criatura.png)
 
 *Descrição: Mundo sob as ondas é imenso e criaturas imensas vivem nele. Moreia comum atingiu dezenas de metros, desenvolveu habilidades sobrenaturais e foi venerada por povos antigos. Titã das profundezas.*
 

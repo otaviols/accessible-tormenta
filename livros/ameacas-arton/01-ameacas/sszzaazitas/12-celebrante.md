@@ -12,7 +12,7 @@ Os celebrantes são os altos sacerdotes de Sszzaas — manipuladores supremos ca
 
 ## Imagem
 
-![Sszzaazita Celebrante](../../_imagens/ameacas-arton/celebrante.jpg)
+![Sszzaazita Celebrante](../../_imagens/placeholder-criatura.png)
 
 *Descrição: Nagah fêmea majestosa vestindo mantos sacerdotais elaborados que parecem de Khalmyr ou Valkaria, mas símbolos ocultos de Sszzaas brilham nas sombras. Está em púlpito diante de multidão devota (humanos, elfos, anões — todas raças), pregando com carisma hipnótico. Sua verdadeira forma serpentina está discretamente escondida atrás do altar. Veneno goteja de dedos enquanto abençoa seguidores ingênuos. Ao fundo, espelho mostra reflexo verdadeiro: olhos de serpente, sorriso traidor.*
 

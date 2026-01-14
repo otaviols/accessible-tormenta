@@ -12,7 +12,7 @@ next: "09-pliorex"
 *"Estou pouco ligando para como vocês chamam, tem um monte deles rondando o bote!"*  
 — Scraag, goblin lutador
 
-![Selako](../../_imagens/ameacas-arton/selako.jpg)
+![Selako](../../_imagens/placeholder-criatura.png)
 
 *Descrição: Não se consegue ver predador sob as águas exceto pela grande barbatana dorsal triangular que se aproxima rápido, muito rápido, enquanto timbre musical abafado parece ressoar ao fundo.*
 

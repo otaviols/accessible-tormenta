@@ -158,20 +158,16 @@ Sistemas modulares que permitem customizar completamente sua campanha, desde ger
 ## 🔗 Navegação
 
 - [← Voltar ao Índice de Livros](../README.md)
-- [Ver Progresso Detalhado](PROGRESS.md)
-- [Guia de Extração](../../EXTRACTION_GUIDE.md)
 
 ---
 
 ## 📝 Notas de Conversão
 
-Este suplemento foi convertido em **9 sessões de trabalho** entre 2025-2026, totalizando:
+Este suplemento foi convertido para formato acessível em Markdown, totalizando:
 - 332 páginas transcritas literalmente
 - 132 arquivos markdown criados
 - ~2.7MB de conteúdo acessível
 - Todas as tabelas, poderes, itens e regras preservados
-
-Ver [PROGRESS.md](PROGRESS.md) para histórico completo das sessões.
 
 ---
 

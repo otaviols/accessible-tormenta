@@ -12,7 +12,7 @@ next: "06-uraghian"
 **Tipo:** Besta Mágica Grande (Serpe) / Enorme (Serpe Anciã), N  
 **Ambiente:** Sanguinárias (desfiladeiros rochosos, cavernas altas), Galrasia (muito raro)
 
-![Serpe](../../_imagens/ameacas-arton/serpe.jpg)
+![Serpe](../../_imagens/placeholder-criatura.png)
 *Descrição: Lagarto bípede alado similar a dragão em forma mas completamente diferente em essência. Corpo reptiliano musculoso 6m comprimento (Grande) ou 10m (Anciã), coberto por escamas verde-acinzentadas opacas sem brilho metálico. Duas pernas traseiras musculosas terminam em garras de 4 dedos. Asas membranosas emergem do dorso, envergadura 12m (Grande) ou 20m (Anciã), couro asa rasgado e remendado. Cauda longa termina em ferrão ósseo 30cm escorrendo líquido esverdeado viscoso. Cabeça triangular com olhos amarelos sem pupilas e mandíbulas grandes mostrando dentes podres. Não possui braços frontais (diferente de dragões verdadeiros). Exala cheiro putrefação doce enjoativo.*
 
 ---

@@ -12,7 +12,7 @@ Esta região cercada de montanhas geladas no coração do continente é um mundo
 
 ## Imagem
 
-![Uivantes](../../_imagens/ameacas-arton/uivantes.jpg)
+![Uivantes](../../_imagens/placeholder-criatura.png)
 
 *Descrição: Paisagem glacial devastadora. Picos nevados eternos ao fundo. No primeiro plano, diversas criaturas adaptadas ao gelo: carcaju peludo feroz, golem de Nor translúcido, mamute colossal, minotauro da Manada coberto de pelo branco, ogro furioso ornado com crânios, soterrado esqueleto envolto em gelo azul, stagh elemental cristalino, urso das neves com cristais dorsais. Abaixo deles, imenso verme do gelo emerge do solo congelado.*
 

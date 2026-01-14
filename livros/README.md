@@ -79,13 +79,7 @@ Suplemento para personagens épicos:
 | Dragão Brasil | - | 🚧 Em andamento | ~40% |
 | Heróis de Arton | - | 🚧 Em andamento | ~30% |
 
-## 📝 Recursos Adicionais
-
-- [Guia de Extração](../EXTRACTION_GUIDE.md) - Como extrair conteúdo dos PDFs
-- [Contexto do Projeto](../PROJECT_CONTEXT.md) - Visão geral do projeto
-- [Checklist de Qualidade](../CHECKLIST.md) - Padrões de qualidade
-
-## 🔍 Pesquisa Rápida
+##  Pesquisa Rápida
 
 ### Por Tipo de Conteúdo:
 - **Magias**: [Tormenta20 Cap. 9](tormenta20-core/09-magia/README.md) | [Dragão Brasil](dragao-brasil/07-magias/README.md)

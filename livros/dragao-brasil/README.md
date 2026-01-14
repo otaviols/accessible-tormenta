@@ -64,23 +64,12 @@ Todos os 8 capítulos foram convertidos para Markdown acessível:
 
 **Total:** ~75 arquivos | ~50,000+ linhas de Markdown | 100% acessível
 
-Veja [PROGRESS.md](PROGRESS.md) para detalhes completos.
-
-Veja [PROGRESS.md](PROGRESS.md) para detalhes completos do progresso.
-
-**Resumo:**
-- 📄 Páginas: 0 de 180 (0%)
-- 📁 Arquivos: 0 de ~150 estimados
-- ✅ Status: EM PREPARAÇÃO
-
 ---
 
 ## 🔗 Navegação
 
 - **Início da leitura:** [01 - Raças](01-racas/README.md)
 - **Projeto principal:** [← Voltar ao Índice Principal](../README.md)
-- **Ver progresso:** [PROGRESS.md](PROGRESS.md)
-- **Extração original:** `extracted/dragao-brasil/`
 
 ---
 
