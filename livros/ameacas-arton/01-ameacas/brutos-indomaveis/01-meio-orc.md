@@ -13,7 +13,7 @@ next: "02-orc"
 > 
 > — Ned Kallrogan, ex-aventureiro
 
-![Ilustração de um Meio-Orc](../../_imagens/placeholder-criatura.png)
+![Ilustração de um Meio-Orc](../../../_imagens/placeholder-criatura.png)
 *Descrição: O forasteiro poderia ser descrito apenas como um "humano grande e feroz", mas é algo mais. A pele possui tom cinza-esverdeado, os caninos inferiores são maiores, as orelhas e o nariz também parecem grandes demais para o resto da face.*
 
 O forasteiro poderia ser descrito apenas como um "humano grande e feroz", mas é algo mais. A pele possui tom cinza-esverdeado, os caninos inferiores são maiores, as orelhas e o nariz também parecem grandes demais para o resto da face.

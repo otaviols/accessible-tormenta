@@ -10,7 +10,7 @@ navigation:
 
 # Poderes de Arcanista
 
-[← Paladino](../01-distincoes/paladino.md) | [Bardo →](bardo.md)
+[← Paladino](paladino.md) | [Bardo →](bardo.md)
 
 ---
 
@@ -138,4 +138,4 @@ Quando usa um pergaminho de uma magia que conheça, você recebe +2 PM para gast
 
 **Navegação:**
 
-[← Paladino](../01-distincoes/paladino.md) | [Bardo →](bardo.md)
+[← Paladino](paladino.md) | [Bardo →](bardo.md)

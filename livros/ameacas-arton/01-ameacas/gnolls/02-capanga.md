@@ -9,7 +9,7 @@ next: "03-saqueador"
 
 # Gnoll Capanga
 
-![Ilustração de Gnoll Capanga](../../_imagens/placeholder-criatura.png)
+![Ilustração de Gnoll Capanga](../../../_imagens/placeholder-criatura.png)
 *Descrição: Em meio aos goblins frenéticos, uma criatura maior se destaca. É alto, apesar da pose recurvada, e coberto de pelagem escura. Na cabeça robusta, grandes orelhas arredondadas e um focinho largo, que exibe uma boca cheia de presas amareladas.*
 
 "Viu o novo guarda-costas do chefe? Lá está ele, comendo alguma… coisa…?"

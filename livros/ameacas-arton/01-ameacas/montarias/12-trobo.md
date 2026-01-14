@@ -12,7 +12,7 @@ navigation:
 
 # Trobo
 
-![Imagem: Trobo](/_imagens/placeholder-criatura.png)
+![Imagem: Trobo](../../../_imagens/placeholder-criatura.png)
 
 > "Tem certeza? Isto é, são bichos de fazenda. Vai mesmo levar para uma aventura?"  
 > — Aldreda Tannar, kliren arcanista

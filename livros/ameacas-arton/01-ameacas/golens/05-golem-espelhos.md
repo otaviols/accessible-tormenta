@@ -13,7 +13,7 @@ next: "06-golem-ferro"
 > 
 > — Pitre, qareen bardo
 
-![Ilustração de Golem de Espelhos](../../_imagens/placeholder-criatura.png)
+![Ilustração de Golem de Espelhos](../../../_imagens/placeholder-criatura.png)
 *Descrição: O que parecia algum tipo de escultura pitoresca, angulosa e sem feições, revela-se como uma criatura metálica toda coberta de espelhos. Súbito, com um brilho mágico, ele está empunhando uma arma encantada exatamente igual a essa aí em suas mãos… Reflexos distorcidos e perigosos brilham em sua superfície espelhada.*
 
 O que parecia algum tipo de escultura pitoresca, angulosa e sem feições, revela-se como uma criatura metálica toda coberta de espelhos. Súbito, com um brilho mágico, ele está empunhando uma arma encantada exatamente igual a essa aí em suas mãos…

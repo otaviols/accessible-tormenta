@@ -13,7 +13,7 @@ next: "../kobolds/README"
 > 
 > — Alicia Niamm, medusa bucaneira
 
-![Ilustração de Governador Corrupto](../../_imagens/placeholder-criatura.png)
+![Ilustração de Governador Corrupto](../../../_imagens/placeholder-criatura.png)
 *Descrição: A figura obesa em toga elegante, transportada em uma liteira carregada por escravos, acena um comando para que se detenham. Enquanto mastiga ruidosamente as uvas recebidas de uma esposa, o minotauro leva uma mão enorme ao queixo empapado e observa vocês com interesse.*
 
 A figura obesa em toga elegante, transportada em uma liteira carregada por escravos, acena um comando para que se detenham. Enquanto mastiga ruidosamente as uvas recebidas de uma esposa, o minotauro leva uma mão enorme ao queixo empapado e observa vocês com interesse.

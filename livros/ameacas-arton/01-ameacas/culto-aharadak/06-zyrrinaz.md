@@ -13,7 +13,7 @@ next: "07-avatar-aharadak"
 > 
 > — Isadorah Gaelan, elfa caçadora
 
-![Ilustração de um Zyrrinaz](../../_imagens/placeholder-criatura.png)
+![Ilustração de um Zyrrinaz](../../../_imagens/placeholder-criatura.png)
 *Descrição: O vulto ligeiro bem poderia ser um elfo — ágil, delgado e empunhando um arco longo. Quando termina seu salto, contudo, pode-se distinguir os olhos bulbosos e a pele-armadura sangrenta dos invasores. E aquilo que parecia ser um arco, na verdade, faz parte de seu braço.*
 
 O vulto ligeiro bem poderia ser um elfo — ágil, delgado e empunhando um arco longo. Quando termina seu salto, contudo, pode-se distinguir os olhos bulbosos e a pele-armadura sangrenta dos invasores. E aquilo que parecia ser um arco, na verdade, faz parte de seu braço.

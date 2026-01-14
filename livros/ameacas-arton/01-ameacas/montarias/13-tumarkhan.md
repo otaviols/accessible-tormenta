@@ -12,7 +12,7 @@ navigation:
 
 # Tumarkhân
 
-![Imagem: Tumarkhân](/_imagens/placeholder-criatura.png)
+![Imagem: Tumarkhân](../../../_imagens/placeholder-criatura.png)
 
 > "Que lástima. Conseguiriam preços excelentes por eles nas fazendas de Sambúrdia."  
 > — Salini Alan, qareen mercador

@@ -13,7 +13,7 @@ next: "02-hurobakk"
 > 
 > — Gale Harvey, paladino de Khalmyr
 
-![Ilustração de um Lefeu Veridak](../../../_imagens/placeholder-criatura.png)
+![Ilustração de um Lefeu Veridak](../../../../_imagens/placeholder-criatura.png)
 *Descrição: Uma criatura insetoide bípede, semelhante a um louva-a-deus. Possui corpo delgado e dois pares de braços - os superiores equipados com lâminas afiadas e os inferiores com garras poderosas. Dois pares de asas batem em velocidade incrível, quase invisíveis. A cabeça diminuta é dominada por grandes olhos multifacetados.*
 
 As criaturas lembram grandes louva-a-deus bípedes, com corpos delgados e dois pares de braços. Os braços inferiores têm garras poderosas, próprias para agarrar e destroçar, enquanto os membros superiores são equipados com lâminas extremamente afiadas. Seus dois pares de asas batem em velocidade incrível, quase invisíveis. A cabeça diminuta é quase totalmente ocupada por enormes olhos multifacetados.

@@ -8,7 +8,7 @@ next_title: Fofo
 
 # Escudeiro
 
-![Imagem de um Escudeiro](../../_imagens/placeholder-criatura.png)
+![Imagem de um Escudeiro](../../../_imagens/placeholder-criatura.png)
 *Descrição: Um grande crustáceo de forma achatada, similar a um caranguejo, do tamanho de um escudo médio. Tem duas pinças, quatro patas e uma longa cauda segmentada com dentes e uma ponta afiada em forma de lança.*
 
 *"Viu aquele escudo no braço do elfo-do-mar? Pois digo que não é um escudo!"*  

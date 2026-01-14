@@ -9,7 +9,7 @@ next: "04-ar-tpeel"
 
 # Namasqall
 
-![Ilustração de Namasqall](../../_imagens/placeholder-criatura.png)
+![Ilustração de Namasqall](../../../_imagens/placeholder-criatura.png)
 *Descrição: A tempestade torrencial é causada pela criatura elemental que se aproxima. Um imenso emaranhado de tentáculos aquosos — uma coluna pulsante pairando acima das águas. O monstro pulsa e convulsiona enquanto emite o rugido constante de um rio caudaloso. Em seu interior, conjuntos de luzes azuladas intensas sugerem energias incríveis. Encimando tudo, a imitação rústica de um torso humanoide, sem face, os braços gesticulando.*
 
 A tempestade torrencial é, sem dúvida, causada pela criatura elemental que se aproxima. Um imenso emaranhado de tentáculos aquosos é uma maneira de descrever, pairando e retorcendo-se acima das águas, mas também sorvendo-as como um tornado. O monstro pulsa e convulsiona enquanto emite o rugido constante de um rio caudaloso. Em seu interior, conjuntos de luzes azuladas intensas sugerem energias incríveis, prontas a explodir. Encimando tudo, a imitação rústica de um torso humanoide, sem face, os braços gesticulando e apontando, acusadores.

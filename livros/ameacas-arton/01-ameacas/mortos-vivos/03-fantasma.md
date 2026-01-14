@@ -9,7 +9,7 @@ next: "04-garras-zumbi.md"
 > "Meu dever é proteger a vida. Mas aquilo é oposto à vida, é a antivida! Lena, o que fazer?"  
 > — Lori Sepulcri, dahllan clériga de Lena
 
-![Fantasma](../../_imagens/placeholder-criatura.png)
+![Fantasma](../../../_imagens/placeholder-criatura.png)
 *Descrição: Uma garota translúcida e embaçada, com aura luminosa ao redor. Mostra um ferimento profundo no peito — do tipo que nenhuma pessoa poderia suportar e continuar viva.*
 
 ## Descrição

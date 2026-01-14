@@ -9,7 +9,7 @@ next: "../ermos/README"
 
 # Elemental Corrompido
 
-![Ilustração de Elemental Corrompido](../../_imagens/placeholder-criatura.png)
+![Ilustração de Elemental Corrompido](../../../_imagens/placeholder-criatura.png)
 *Descrição: A criatura maciça e repugnante lembra uma enorme larva pulsante. Em vez de água limpa ou cristalina, seu corpo é formado por um líquido viscoso vermelho-escuro, como sangue coagulado. Ácido borbulha de sua superfície, liberando um vapor nauseante no ar.*
 
 A criatura maciça e repugnante lembra uma enorme larva pulsante. Em vez de água limpa ou cristalina, seu corpo é formado por um líquido viscoso vermelho-escuro, como sangue coagulado. Ácido borbulha de sua superfície, liberando um vapor nauseante no ar.

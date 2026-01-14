@@ -13,7 +13,7 @@ next: "02-kappa"
 > 
 > — Zeebernkai, sulfure guerreiro
 
-![Ilustração de Kabuto](../../_imagens/placeholder-criatura.png)
+![Ilustração de Kabuto](../../../_imagens/placeholder-criatura.png)
 *Descrição: Um olhar apressado sugere que a grande besta-inseto seja alguma aberração da Tormenta. No entanto, o robusto besouro negro com chifres enormes age como um animal natural. Sua carapaça brilha com reflexos metálicos, e sua galhada imponente se projeta para frente como uma arma letal. Três tamanhos são mostrados: um minúsculo do tamanho de um rato, um pequeno como um cão, e um grande como um rinoceronte.*
 
 Um olhar apressado sugere que a grande besta-inseto seja alguma aberração da Tormenta. No entanto, por estranho que pareça, o robusto besouro negro com chifres enormes age como um animal natural.

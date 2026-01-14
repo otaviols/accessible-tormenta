@@ -9,7 +9,7 @@ next: "08-hobgoblin-gladiador"
 
 # Hobgoblin Comandante Tático
 
-![Ilustração de Hobgoblin Comandante Tático](../../_imagens/placeholder-criatura.png)
+![Ilustração de Hobgoblin Comandante Tático](../../../_imagens/placeholder-criatura.png)
 *Descrição: Um hobgoblin imponente destacando-se entre seus soldados. Sua armadura de aço é ainda mais robusta, o elmo fechado reforça sua autoridade. Uma mão empunha uma magnífica espada longa; a outra, uma flâmula com o símbolo de Thwor.*
 
 "Estou certo disso, posso apostar, aquele deve ser o líder. Sério, quer apostar?"

@@ -92,6 +92,13 @@ Tabelas de encontros aleatórios por terreno e região de Arton.
 
 ---
 
+## 📚 Documentação para Contribuidores
+
+- [Guia de Início](GUIA_INICIO.md) - Como converter e formatar conteúdo
+- [Catalogação de Imagens](CATALOGAÇÃO_IMAGENS.md) - Lista de imagens para extração futura
+
+---
+
 ## 📝 Sobre a Conversão
 
 Este livro foi convertido para formato acessível em Markdown, preservando todo o conteúdo original.

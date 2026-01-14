@@ -9,7 +9,7 @@ next: "05-lider-alcateia"
 
 # Gnoll Filibusteiro
 
-![Ilustração de Gnoll Filibusteiro](../../_imagens/placeholder-criatura.png)
+![Ilustração de Gnoll Filibusteiro](../../../_imagens/placeholder-criatura.png)
 *Descrição: Um gnoll vestindo roupas típicas de pirata, com bandoleiras cruzadas no peito cheias de munição. Empunha um mosquete em uma mão e uma espada curta na outra. Sua postura confiante e olhar calculista revelam familiaridade com armas de fogo.*
 
 Algumas alcateias gnoll, especialmente aquelas que operam perto de regiões costeiras ou têm contato com piratas e contrabandistas, acabam adquirindo armas de fogo. O gnoll filibusteiro é treinado no uso do mosquete, tornando-se uma ameaça muito mais perigosa à distância que seus irmãos armados com arcos.

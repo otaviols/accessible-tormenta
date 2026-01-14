@@ -9,7 +9,7 @@ next: "05-ar-rarvnaak"
 
 # T'Peel
 
-![Ilustração de T'Peel](../../_imagens/placeholder-criatura.png)
+![Ilustração de T'Peel](../../../_imagens/placeholder-criatura.png)
 *Descrição: Poderia ser apenas uma brisa incomum, um fenômeno climático breve e estranho, ou não. Um pequeno amontoado de pétalas, mantido unido por um redemoinho, atravessa os campos floridos. É curioso como reúne apenas pétalas de rosa, embora os campos no caminho tenham muitas outras flores.*
 
 "Não o vemos! Matou seis dos nossos, mas não conseguimos vê-lo!"

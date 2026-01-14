@@ -13,7 +13,7 @@ next: "02-centuriao"
 > 
 > — Valhaha, elfo caçador
 
-![Ilustração de Arqueira Escrava](../../_imagens/placeholder-criatura.png)
+![Ilustração de Arqueira Escrava](../../../_imagens/placeholder-criatura.png)
 *Descrição: Uma visão estranha, perturbadora. Uma elfa trajando a armadura segmentada tapistana. Ela não traz o olhar derrotado dos escravos; em vez disso, parece resoluta em servir às legiões enquanto coloca uma nova flecha no arco.*
 
 É uma visão estranha, perturbadora. Uma elfa trajando a armadura segmentada tapistana. Ela não traz o olhar derrotado dos escravos; em vez disso, parece resoluta em servir às legiões enquanto coloca uma nova flecha no arco.

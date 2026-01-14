@@ -12,7 +12,7 @@ navigation:
 
 # Tatu-Montanha
 
-![Imagem: Tatu-Montanha](/_imagens/placeholder-criatura.png)
+![Imagem: Tatu-Montanha](../../../_imagens/placeholder-criatura.png)
 
 > "Ele é lento, muito lento mesmo. Mas quero ver esses malditos gorloggs tentarem algo!"  
 > — Hallvard de Namalkah, humano mercador

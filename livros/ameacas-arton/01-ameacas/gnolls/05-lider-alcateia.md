@@ -9,7 +9,7 @@ next: "06-xama"
 
 # Gnoll Líder de Alcateia
 
-![Ilustração de Gnoll Líder de Alcateia](../../_imagens/placeholder-criatura.png)
+![Ilustração de Gnoll Líder de Alcateia](../../../_imagens/placeholder-criatura.png)
 *Descrição: Os latidos-risadas dos gnolls são enervantes, eles estão claramente tentando abalar vocês. Ainda assim, apesar da cacofonia caótica, uma gargalhada se sobrepõe às demais. Vocês percebem um gnoll maior e mais bem armado, incitando os outros.*
 
 "Ela é grande, mas não é duas! Está comandando vários, mas... Ah, vocês entenderam!"

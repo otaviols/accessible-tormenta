@@ -10,7 +10,7 @@ next: "09-tigre-hyninn"
 
 # Slark
 
-![Slark](../../_imagens/placeholder-criatura.png)
+![Slark](../../../_imagens/placeholder-criatura.png)
 
 *Descrição: Um humanoide reptiliano bípede de estatura mediana, com pele escamosa que varia entre tons de verde-musgo e marrom-lama. Possui uma cabeça alongada lembrando um lagarto, com olhos grandes e amarelados adaptados para a escuridão, e uma boca larga repleta de pequenos dentes afiados. Suas mãos têm três dedos com garras, e uma longa cauda se arrasta atrás dele auxiliando no equilíbrio. A criatura está em uma posição de emboscada no teto de uma masmorra, pronta para soltar-se sobre presas desavisadas. Saliva esverdeada goteja de sua boca, e sua pele tem manchas que a camuflam contra pedra úmida.*
 

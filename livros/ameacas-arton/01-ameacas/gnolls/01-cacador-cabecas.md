@@ -9,7 +9,7 @@ next: "02-capanga"
 
 # Gnoll Caçador de Cabeças
 
-![Ilustração de Gnoll Caçador de Cabeças](../../_imagens/placeholder-criatura.png)
+![Ilustração de Gnoll Caçador de Cabeças](../../../_imagens/placeholder-criatura.png)
 *Descrição: Um gnoll solitário usando capuz e manto escuro, ocultando parcialmente suas feições de hiena. Empunha uma besta leve em uma mão e uma espada longa na outra. Seus olhos penetrantes avaliam cada movimento com precisão calculista.*
 
 "Pensei que gnolls só andavam em bandos. Pensei que fossem covardes."

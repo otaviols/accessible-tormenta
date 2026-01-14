@@ -9,7 +9,7 @@ next: "../elementais/README"
 
 # Sangue do Ayrrak
 
-![Ilustração de Sangue do Ayrrak](../../_imagens/placeholder-criatura.png)
+![Ilustração de Sangue do Ayrrak](../../../_imagens/placeholder-criatura.png)
 *Descrição: Um bugbear imponente que parece diferente dos outros de sua raça. Maior, mais astuto, mais confiante. Mesmo sem todos os traços físicos combinarem perfeitamente, não resta dúvida: este é um descendente direto de Thwor Khoshkothruk!*
 
 "Mas como? Pensei que ele tinha morrido. Tornado-se um deus. As duas coisas!"

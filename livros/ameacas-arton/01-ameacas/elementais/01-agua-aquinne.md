@@ -9,7 +9,7 @@ next: "02-agua-corgann"
 
 # Aquin'ne
 
-![Ilustração de Aquin'ne](../../_imagens/placeholder-criatura.png)
+![Ilustração de Aquin'ne](../../../_imagens/placeholder-criatura.png)
 *Descrição: Uma manifestação que não combina com nenhuma criatura conhecida. Pairando pouco acima do chão, flutua e rotaciona como um redemoinho, como se o conteúdo de um balde d'água tivesse perdido seu peso. Glóbulos aquosos menores orbitam em volta, como bolhas de ar na água — exceto que são bolhas de água no ar.*
 
 "Deviam ter avisado que não podiam prender a respiração por tanto tempo."

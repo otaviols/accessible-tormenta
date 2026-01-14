@@ -13,7 +13,7 @@ next: "03-dragao-veneravel"
 > 
 > — Pivarão, o Humilde
 
-![Ilustração de um Dragão Adulto](../../_imagens/placeholder-criatura.png)
+![Ilustração de um Dragão Adulto](../../../_imagens/placeholder-criatura.png)
 *Descrição: Imenso e soberano, o monstro alado mergulha dos céus, as escamas alvas brilhando como os picos nevados das Uivantes. Quando arreganha as mandíbulas, despeja uma nevasca assassina que engole a caravana e os peregrinos, matando-os antes mesmo que congelem…*
 
 Imenso e soberano, o monstro alado mergulha dos céus, as escamas alvas brilhando como os picos nevados das Uivantes. Quando arreganha as mandíbulas, despeja uma nevasca assassina que engole a caravana e os peregrinos, matando-os antes mesmo que congelem…

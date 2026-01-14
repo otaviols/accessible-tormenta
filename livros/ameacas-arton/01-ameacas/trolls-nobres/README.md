@@ -14,7 +14,7 @@ Os trolls nobres governam um **império subterrâneo** cuja real extensão é de
 
 ## Imagem
 
-![Trolls Nobres](../../_imagens/placeholder-criatura.png)
+![Trolls Nobres](../../../_imagens/placeholder-criatura.png)
 
 *Descrição: Diversos finntroll em suas diferentes castas. Um arcanista em mantos negros elegantes gesticula magias arcanas, rodeado de trolloides conjurados. Um caçador com cimitarras duplas persegue presas. Um feitor com chicote comanda trolls escravizados. Um cavaleiro majestoso cavalga troll gigante em sela luxuosa. Uma sacerdotisa de Tenebra em vestes reveladoras realiza ritual sombrio. Ao fundo, anões dominados mentalmente marcham como protetores-reféns.*
 

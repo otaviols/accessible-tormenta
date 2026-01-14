@@ -13,7 +13,7 @@ next: "03-corcel-kallyadranoch"
 > 
 > — Rohélio, clérigo de Kallyadranoch
 
-![Ilustração de Clérigo de Kallyadranoch](../../_imagens/placeholder-criatura.png)
+![Ilustração de Clérigo de Kallyadranoch](../../../_imagens/placeholder-criatura.png)
 *Descrição: Uma mulher humana altiva em trajes clericais opulentos, adornados de ouro e joias, com padrões de asas coriáceas. Ela empunha um cetro em formato de garra dracônica e seus olhos parecem expelir chamas. No peito, o grande símbolo sagrado de um dragão com asas abertas. Sua postura transmite arrogância e poder absoluto.*
 
 A mulher altiva os observa com olhos que quase expelem chamas, enquanto empunha um cetro em formato de garra. Seus trajes clericais estão longe de sugerir humildade, muito pelo contrário — são adornados de ouro e joias opulentas. A vestimenta também mostra padrões de asas coriáceas. No peito, o grande símbolo sagrado de um dragão com asas abertas.

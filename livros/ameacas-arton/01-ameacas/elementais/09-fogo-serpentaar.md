@@ -9,7 +9,7 @@ next: "10-terra-terrier"
 
 # Serpentaar
 
-![Ilustração de Serpentaar](../../_imagens/placeholder-criatura.png)
+![Ilustração de Serpentaar](../../../_imagens/placeholder-criatura.png)
 *Descrição: O primeiro pensamento evocado pelo monstro é uma imensa e gorda serpente feita de piche, com chamas furiosas explodindo de bolhas formadas ao longo do corpanzil. Uma análise mais atenta, contudo, revela vários pares de patas muito pequenas e atrofiadas — a criatura parece ser, na verdade, alguma salamandra gigante e bizarra.*
 
 O primeiro pensamento evocado pelo monstro é uma imensa e gorda serpente feita de piche, com chamas furiosas explodindo de bolhas formadas ao longo do corpanzil. Uma análise mais atenta, contudo, revela vários pares de patas muito pequenas e atrofiadas — a criatura parece ser, na verdade, alguma salamandra gigante e bizarra.

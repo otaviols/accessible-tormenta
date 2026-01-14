@@ -9,7 +9,7 @@ next: "11-terra-pamgra"
 
 # Terrier
 
-![Ilustração de Terrier](../../_imagens/placeholder-criatura.png)
+![Ilustração de Terrier](../../../_imagens/placeholder-criatura.png)
 *Descrição: Este pequeno ser poderia ser confundido com um amontoado de pedras cinzentas comuns, se ficasse quieto. O elemental, contudo, parece incapaz disso: ele corre e salta em volta de vocês, produzindo estalos surdos, com atitudes confusas entre ser brincalhão ou agressivo.*
 
 "Como ousam? Óbvio que se trata de um ser inteligente. Aqui, venha a mim, servo!"

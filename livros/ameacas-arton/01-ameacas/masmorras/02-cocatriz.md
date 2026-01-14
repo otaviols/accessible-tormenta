@@ -10,7 +10,7 @@ next: "03-harpia"
 
 # Cocatriz
 
-![Cocatriz](../../_imagens/placeholder-criatura.png)
+![Cocatriz](../../../_imagens/placeholder-criatura.png)
 
 *Descrição: Uma criatura grotesca que combina características de galo e serpente. Possui corpo de ave com penas marrons e verdes, patas escamosas de réptil, uma crista vermelha proeminente, e olhos reptilianos amarelos brilhantes. Sua cauda é longa e serpentina, terminando em escamas pontiagudas. O bico é afiado e possui uma tonalidade cinza-metálica, capaz de petrificar com uma bicada. A criatura está em postura agressiva em um ambiente de masmorra sombrio.*
 
@@ -62,7 +62,7 @@ Uma criatura petrificada por uma cocatriz pode ser curada com as magias *restaur
 
 ## 📊 Estatísticas — Cocatriz-Real
 
-![Cocatriz-Real](../../_imagens/placeholder-criatura.png)
+![Cocatriz-Real](../../../_imagens/placeholder-criatura.png)
 
 *Descrição: Uma versão muito maior e mais imponente da cocatriz comum. Este espécime tem o tamanho de um cavalo grande, com penas iridescentes que brilham em tons de verde-esmeralda e dourado. Sua crista é muito maior e mais ornamentada, parecendo uma coroa natural de penas vermelhas e douradas. Os olhos são ainda mais penetrantes, com um brilho amarelo-esverdeado hipnótico. As escamas em suas patas e cauda têm um lustro metálico, e suas asas, embora ainda desajeitadas, são poderosas o suficiente para sustentar seu enorme corpo em voos curtos.*
 

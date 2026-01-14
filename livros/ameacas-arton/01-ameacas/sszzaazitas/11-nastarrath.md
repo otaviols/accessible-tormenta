@@ -12,7 +12,7 @@ Nastarrath é uma lenda mesmo entre sszzaazitas — o esqueleto de uma serpente 
 
 ## Imagem
 
-![Nastarrath](../../_imagens/placeholder-criatura.png)
+![Nastarrath](../../../_imagens/placeholder-criatura.png)
 
 *Descrição: Esqueleto colossal de serpente com ossos branqueados e gigantescos, cada vértebra do tamanho de uma pessoa. Crânio monstruoso com presas longas gotejando veneno necrótico esverdeado. Olhos vazios brilham com luz fantasmagórica púrpura. Corpo serpentino se estende além do campo de visão. Ruínas de edifícios destruídos jazem ao redor. Símbolos de Sszzaas gravados nos ossos pulsam com energia profana.*
 

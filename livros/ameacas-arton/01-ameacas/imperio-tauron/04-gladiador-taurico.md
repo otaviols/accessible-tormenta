@@ -13,7 +13,7 @@ next: "05-legionario"
 > 
 > — Firion Liantar, elfo bucaneiro
 
-![Ilustração de Gladiador Táurico](../../_imagens/placeholder-criatura.png)
+![Ilustração de Gladiador Táurico](../../../_imagens/placeholder-criatura.png)
 *Descrição: Um guerreiro minotauro cuja armadura é elegante mas sumária, exibindo muito da musculatura oleada. O elmo fechado e ornamentado deixa expostos apenas os chifres. Traz um tridente dourado em uma mão e uma rede na outra.*
 
 É um guerreiro minotauro, mas claramente não um legionário. A armadura é elegante, mas sumária, exibindo muito da musculatura oleada. O elmo fechado e ornamentado deixa expostos apenas os chifres. Traz um tridente dourado em uma mão e uma rede na outra.

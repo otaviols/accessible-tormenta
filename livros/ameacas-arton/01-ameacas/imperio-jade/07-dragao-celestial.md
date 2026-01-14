@@ -13,7 +13,7 @@ next: "../imperio-tauron/README"
 > 
 > — Tekametsu, dragão celestial
 
-![Ilustração de Dragão Celestial](../../_imagens/placeholder-criatura.png)
+![Ilustração de Dragão Celestial](../../../_imagens/placeholder-criatura.png)
 *Descrição: A grande forma escamada e colorida lembra um dragão — e realmente é, mas também algo diferente. Muito mais alongado, como uma imensa serpente. Ostenta uma juba brilhante, alaranjada, de onde emergem galhadas. Tem barbatanas de peixe, mas grandes como velas de juncos. Mesmo sem asas, voa de forma harmoniosa, serpenteante, como que nadando no ar.*
 
 A grande forma escamada e colorida lembra um dragão — e realmente é, mas também algo diferente. Muito mais alongado, como uma imensa serpente. Ostenta uma juba brilhante, alaranjada, de onde emergem galhadas. Tem barbatanas de peixe, mas grandes como velas de juncos. Mesmo sem asas, voa de forma harmoniosa, serpenteante, como que nadando no ar.

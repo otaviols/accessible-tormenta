@@ -9,7 +9,7 @@ next: "../mundo-perdido/README.md"
 > "Você não sabe quem é o Tarsinho de verdade?"  
 > — Nielendorane de Lenórienn, elfa barda
 
-![Tarso, Dragão-Rei dos Mortos](../../_imagens/placeholder-criatura.png)
+![Tarso, Dragão-Rei dos Mortos](../../../_imagens/placeholder-criatura.png)
 *Descrição: O mais poderoso dos Dragões-Reais, um colossal dracolich de poder supremo. Pode assumir a forma de um pequeno esqueleto simpático.*
 
 ## Lendas de Tarso

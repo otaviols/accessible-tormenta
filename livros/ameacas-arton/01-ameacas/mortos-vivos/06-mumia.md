@@ -11,7 +11,7 @@ next: "07-necrodracos.md"
 > "Eu avisei para não tocar em nada! Especialmente o sarcófago!"  
 > — Aurora de Tanna-Toh, humana clériga
 
-![Senhor das Múmias e Múmia](../../_imagens/placeholder-criatura.png)
+![Senhor das Múmias e Múmia](../../../_imagens/placeholder-criatura.png)
 *Descrição: Cadáver ressequido envolto em bandagens cerimoniais. Avança de forma pesada, cambaleando com mãos estendidas, murmurando lamentos raivosos.*
 
 ### Descrição
@@ -70,7 +70,7 @@ Múmias sabem falar, mas raramente tentam alertar ou se comunicar com intrusos, 
 > "Serei clemente com sua descortesia. Receberá apenas seis chicotadas."  
 > — Setesh Raiah, múmia nobre de Aslothia
 
-![Senhor das Múmias](../../_imagens/placeholder-criatura.png)
+![Senhor das Múmias](../../../_imagens/placeholder-criatura.png)
 *Descrição: Cadáver seco e coberto de bandagens, mas de postura orgulhosa, trajando manto soberbo e portando joias impressionantes. Empunha cetro mágico faiscante.*
 
 ### Descrição

@@ -12,7 +12,7 @@ Zumbis peçonha parecem zumbis comuns — até abrirem a bocarra podre e uma ser
 
 ## Imagem
 
-![Zumbi Peçonha](../../_imagens/placeholder-criatura.png)
+![Zumbi Peçonha](../../../_imagens/placeholder-criatura.png)
 
 *Descrição: Zumbi em decomposição com pele cinza-esverdeada e olhos vazios. Veste farrapos podres. Sua mandíbula está anormalmente desarticulada, aberta em ângulo impossível. De dentro da garganta, uma serpente longa e fina com escamas negras e olhos amarelados se projeta violentamente, presas gotejando veneno. Símbolos de Sszzaas apodrecem nas paredes ao fundo.*
 

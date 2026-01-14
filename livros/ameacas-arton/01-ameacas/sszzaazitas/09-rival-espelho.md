@@ -12,7 +12,7 @@ O Rival Espelho é uma das criações mais cruéis de Sszzaas: uma cópia perfei
 
 ## Imagem
 
-![Rival Espelho](../../_imagens/placeholder-criatura.png)
+![Rival Espelho](../../../_imagens/placeholder-criatura.png)
 
 *Descrição: Duas figuras idênticas enfrentando-se — um guerreiro e sua cópia perfeita. A cópia tem olhos vazios e brilhantes com tom esverdeado, única diferença visível. Cordões etéreos conectam os dois, brilhando quando um sofre dano. Ao fundo, símbolo de Sszzaas pulsa com energia maligna, alimentando a magia espelho. Outros aventureiros observam horrorizados, percebendo o dilema impossível.*
 

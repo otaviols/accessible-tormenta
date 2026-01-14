@@ -10,7 +10,7 @@ next: "../montarias/README"
 
 # Brawar
 
-![Brawar](../../_imagens/placeholder-criatura.png)
+![Brawar](../../../_imagens/placeholder-criatura.png)
 
 *Descrição: Um golem colossal de adamante negro com aproximadamente 6 metros de altura, construído na forma de um guerreiro anão usando armadura de placas completa e portando um machado de guerra imenso. Sua superfície metálica é gravada com runas anãs brilhantes em dourado e prata, que pulsam com poder mágico. Os olhos são gemas vermelhas incandescentes que brilham com inteligência artificial. A criatura se move com peso e propósito impressionantes, cada passo fazendo o chão tremer. Está posicionada como guardião eterno na entrada de uma fortaleza ou tumba anã antiga, sua presença massiva e indestrutível comunicando a mensagem clara: "Nenhum estranho passará daqui."*
 

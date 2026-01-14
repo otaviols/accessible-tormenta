@@ -8,7 +8,7 @@ next: "02-armeiro-tenebra.md"
 
 > "Afogados formam pequenos bandos, ou grupos maiores liderados por um capitão mais habilidoso, ainda astuto o bastante para falar e usar armas."
 
-![Afogado e Piratas Osteon](../../_imagens/placeholder-criatura.png)
+![Afogado e Piratas Osteon](../../../_imagens/placeholder-criatura.png)
 *Descrição: Figuras encharcadas e decompostas emergindo das águas, pele azulada e olhos vazios brilhando com luz fantasmagórica. Água goteja constantemente de seus corpos.*
 
 ## Visão Geral

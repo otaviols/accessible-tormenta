@@ -9,7 +9,7 @@ next: "04-morgadrel"
 
 # Lefeu, Burodron
 
-![Ilustração de um Lefeu Burodron](../../../_imagens/placeholder-criatura.png)
+![Ilustração de um Lefeu Burodron](../../../../_imagens/placeholder-criatura.png)
 *Descrição: Uma criatura que lembra um enorme gorila, com braços longos e grossos, recobertos de carapaça dura, que terminam em garras poderosas. O tronco arqueado e blindado protege a cabeça pequena. Suas pernas são curtas; ele caminha apoiando-se nos braços, como um primata.*
 
 Sua aparência lembra um enorme gorila, com braços longos e grossos, recobertos de carapaça dura, que terminam em garras poderosas. O tronco arqueado e blindado protege a cabeça pequena. Suas pernas são curtas; eles caminham apoiando-se nos braços.

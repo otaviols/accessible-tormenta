@@ -13,7 +13,7 @@ next: "03-fanatico-lefou"
 > 
 > — Akalael Luxferis, feiticeiro e paladino de Thyatis
 
-![Ilustração de um Aspecto de Aharadak](../../_imagens/placeholder-criatura.png)
+![Ilustração de um Aspecto de Aharadak](../../../_imagens/placeholder-criatura.png)
 *Descrição: Difícil descrever o monstro repulsivo. Parece um estômago de porco, imenso e inchado, com inúmeras patas curtas saindo de sua base. No topo, algo que poderia ser uma bocarra circular, coroada de dentes e tentáculos. Coisas como asas, braços e garras afloram de todos os lugares.*
 
 Difícil descrever o monstro repulsivo. Parece um estômago de porco, imenso e inchado, com inúmeras patas curtas saindo de sua base. No topo, algo que poderia ser uma bocarra circular, coroada de dentes e tentáculos. Coisas como asas, braços e garras afloram de todos os lugares.

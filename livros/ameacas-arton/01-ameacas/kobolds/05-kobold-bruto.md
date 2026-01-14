@@ -8,7 +8,7 @@ next_title: Kobold Explosivo
 
 # Kobold Bruto
 
-![Imagem de um Kobold Bruto](../../_imagens/placeholder-criatura.png)
+![Imagem de um Kobold Bruto](../../../_imagens/placeholder-criatura.png)
 *Descrição: Uma criatura enorme do tamanho de um ogro, com corpo musculoso coberto de escamas avermelhadas, mas com uma cabeça desproporcionalmente pequena de kobold. Empunha uma clava gigantesca.*
 
 *"Não tenho a menor ideia! Acho que parece um kobold muito bem alimentado!"*  

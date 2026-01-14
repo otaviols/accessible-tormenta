@@ -13,7 +13,7 @@ next: "03-golem-bronze"
 > 
 > — Lorem'Ipsum, kliren clérigo de Nimb
 
-![Ilustração de Golem de Barro](../../_imagens/placeholder-criatura.png)
+![Ilustração de Golem de Barro](../../../_imagens/placeholder-criatura.png)
 *Descrição: O monstro lembra um humanoide grotesco, com feições disformes. Os olhos são buracos escuros e desiguais, acima de uma bocarra que parece ter sido cortada em sua cabeça. A "pele" de barro úmido parece sempre em movimento, escorrendo e gotejando enquanto o reconstitui continuamente. Sua forma volumosa e instável emana um ar de tormento constante.*
 
 O monstro lembra um humanoide grotesco, com feições disformes. Os olhos são buracos escuros e desiguais, acima de uma bocarra que parece ter sido cortada em sua cabeça. A "pele" parece sempre em movimento, escorrendo e gotejando enquanto o reconstitui continuamente.

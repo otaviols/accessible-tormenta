@@ -9,7 +9,7 @@ next: "07-sahuagin.md"
 > "A pirataria vem mudando bastante. Mas o Mar Negro, esse nunca muda."  
 > — Kheeroh, tritão bucaneiro
 
-![Piratas em Combate](../../_imagens/placeholder-criatura.png)
+![Piratas em Combate](../../../_imagens/placeholder-criatura.png)
 *Descrição: Bucaneiros saltando para navio com cutelos e pistolas, alguns com ganchos e lâminas em próteses. Bandeiras negras tremulam ao vento.*
 
 ## Visão Geral

@@ -13,7 +13,7 @@ next: "06-legionario-insano"
 > 
 > — Zayronn, hynne ladino
 
-![Ilustração de Legionário e Centurião](../../_imagens/placeholder-criatura.png)
+![Ilustração de Legionário e Centurião](../../../_imagens/placeholder-criatura.png)
 *Descrição: Alto e sólido como um muro, envergando uma orgulhosa loriga segmentada, o soldado minotauro avança empunhando lança e escudo. Apesar da face animalesca, bovina, pode-se notar em seus olhos uma mente astuta e disciplinada.*
 
 Alto e sólido como um muro, envergando uma orgulhosa loriga segmentada, o soldado minotauro avança empunhando lança e escudo. Apesar da face animalesca, bovina, pode-se notar em seus olhos uma mente astuta e disciplinada.

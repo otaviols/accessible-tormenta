@@ -9,7 +9,7 @@ next: "04-goblin-bomba"
 
 # Gangue Goblin
 
-![Ilustração de Gangue Goblin](../../_imagens/placeholder-criatura.png)
+![Ilustração de Gangue Goblin](../../../_imagens/placeholder-criatura.png)
 *Descrição: Uma massa compacta e caótica de dezenas de goblins, movendo-se como uma única entidade monstruosa. É impossível contá-los individualmente — formam uma onda cinzenta gritante, pontilhada pelo brilho de olhos vermelhos e facas afiadas.*
 
 "Ora pitombas, são só alguns goblins, não deve ser um combate muito difícil!"

@@ -12,7 +12,7 @@ next: "05-nereida"
 *"Eles estão vivos! Aquelas coisas os levaram! Juro por Valkaria, vou encontrá-los!"*  
 — Anders Garou, humano ladino
 
-![Irukanjin](../../_imagens/placeholder-criatura.png)
+![Irukanjin](../../../_imagens/placeholder-criatura.png)
 
 *Descrição: Criatura fantasmagórica apresenta cabeça semiesférica e segmentada, lembrando metade de abóbora sem feições. Tem torso humanoide com dois braços, transparente, deixando visíveis órgãos internos. Quatro longos tentáculos pendem de onde deveriam estar pernas.*
 

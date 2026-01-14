@@ -13,7 +13,7 @@ next: "06-ogro"
 > 
 > — Jaufweet Marauder, dono da Taverna dos Marotos
 
-![Ilustração de Trogs](../../_imagens/placeholder-criatura.png)
+![Ilustração de Trogs](../../../_imagens/placeholder-criatura.png)
 *Descrição: O humanoide reptiliano é coberto de escamas verdes, com cabeça de lagarto e uma crista que começa na testa e continua até a base do pescoço. Seus olhos são amarelos, com pupilas verticais negras e profundas.*
 
 O humanoide reptiliano é coberto de escamas verdes, com cabeça de lagarto e uma crista que começa na testa e continua até a base do pescoço. Seus olhos são amarelos, com pupilas verticais negras e profundas.
@@ -202,7 +202,7 @@ Todos os trogs possuem as seguintes habilidades:
 > 
 > — Tork, trog anão
 
-![Ilustração de Trog Anão](../../_imagens/placeholder-criatura.png)
+![Ilustração de Trog Anão](../../../_imagens/placeholder-criatura.png)
 *Descrição: A criatura parece uma estranha combinação entre um anão e um homem-lagarto. Tem a estatura atarracada do primeiro, a face reptiliana escamada do segundo e a rabugice somada de ambos! Usa armadura metálica e empunha um machado, parecendo muito disposto a enterrá-lo nas tripas de quem chegar perto.*
 
 A criatura parece uma estranha combinação entre um anão e um homem-lagarto. Tem a estatura atarracada do primeiro, a face reptiliana escamada do segundo e a rabugice somada de ambos! Usa armadura metálica e empunha um machado, parecendo muito disposto a enterrá-lo nas tripas de quem chegar perto.

@@ -9,7 +9,7 @@ next: "05-ezzayn"
 
 # Lefeu, Morgadrel
 
-![Ilustração de um Lefeu Morgadrel](../../../_imagens/placeholder-criatura.png)
+![Ilustração de um Lefeu Morgadrel](../../../../_imagens/placeholder-criatura.png)
 *Descrição: Um monstro que lembra um imenso caranguejo, com carapaça extremamente grossa e corpo largo como uma estrada. Possui dez patas e dois pares de enormes pinças afiadas, além de longas antenas. Não tem olhos aparentes. É totalmente recoberto de espinhos pontiagudos.*
 
 Estes monstros lembram imensos caranguejos, com carapaças extremamente grossas e corpos largos como estradas. Têm dez patas e dois pares de enormes pinças afiadas, além de longas antenas, sem olhos aparentes. São totalmente recobertos de espinhos pontiagudos.

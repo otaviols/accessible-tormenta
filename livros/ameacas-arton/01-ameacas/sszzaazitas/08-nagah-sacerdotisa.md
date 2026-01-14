@@ -12,7 +12,7 @@ As nagahs sacerdotisas são as líderes espirituais e políticas da sociedade na
 
 ## Imagem
 
-![Nagah Sacerdotisa](../../_imagens/placeholder-criatura.png)
+![Nagah Sacerdotisa](../../../_imagens/placeholder-criatura.png)
 
 *Descrição: Nagah fêmea elegante com metade superior humanoide refinada e metade inferior de serpente com escamas iridescentes. Veste mantos sacerdotais adornados com símbolos velados de Sszzaas. Segura bastão serpenteante que goteja veneno enquanto símbolos sagrados brilham ao redor. Ao fundo, seguidores ajoelhados (humanos, elfos, outras raças) não percebem os verdadeiros símbolos nos rituais.*
 

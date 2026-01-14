@@ -13,7 +13,7 @@ next: "03-furia-tauron"
 > 
 > — Selginn Lan'ze, osteon bardo
 
-![Ilustração de Centurião](../../_imagens/placeholder-criatura.png)
+![Ilustração de Centurião](../../../_imagens/placeholder-criatura.png)
 *Descrição: Um minotauro maior e mais orgulhoso, ostentando um manto tinto sobre os ombros largos e uma crista emplumada no elmo de bronze. Quando ergue o gládio para ordenar o ataque, fica claro que não pretende apenas liderar, mas também lutar.*
 
 Ainda que as legiões pareçam formadas por soldados absolutamente iguais, com as mesmas armaduras, lanças e escudos, um deles se adianta. Um minotauro ainda maior e mais orgulhoso, ostentando um manto tinto sobre os ombros largos e uma crista emplumada no elmo de bronze. Quando ergue o gládio para ordenar o ataque, fica claro que não pretende apenas liderar, mas também lutar.

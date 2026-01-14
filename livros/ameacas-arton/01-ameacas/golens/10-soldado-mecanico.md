@@ -13,7 +13,7 @@ next: "../igreja-arsenal/README"
 > 
 > — Hop, humano arcanista
 
-![Ilustração de Soldado Mecânico](../../_imagens/placeholder-criatura.png)
+![Ilustração de Soldado Mecânico](../../../_imagens/placeholder-criatura.png)
 *Descrição: A criatura é claramente uma máquina. Tem a aparência de um guerreiro humano em roupas de cores vivas, mas com engrenagens e pistões à mostra. Seus movimentos são lentos e, devido ao clangor do metal e chiar do vapor, bastante barulhentos. Vapor escapa de válvulas em seu corpo, e suas articulações revelam mecanismos complexos.*
 
 A criatura é claramente uma máquina. Tem a aparência de um guerreiro humano em roupas de cores vivas, mas com engrenagens e pistões à mostra. Seus movimentos são lentos e, devido ao clangor do metal e chiar do vapor, bastante barulhentos.

@@ -9,7 +9,7 @@ next: "09-sangue-ayrrak"
 
 # Hobgoblin Gladiador
 
-![Ilustração de Hobgoblin Gladiador](../../_imagens/placeholder-criatura.png)
+![Ilustração de Hobgoblin Gladiador](../../../_imagens/placeholder-criatura.png)
 *Descrição: Um hobgoblin musculoso usando armadura que deixa entrever uma musculatura possante e elástica. Seus passos são precisos e a forma como movimenta suas armas demonstra ser um guerreiro extraordinário. Empunha uma corrente de espinhos com maestria letal.*
 
 "Então eles também têm combates gladiatórios. Pois quero duelar com aquele ali!"

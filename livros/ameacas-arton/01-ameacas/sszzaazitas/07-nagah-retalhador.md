@@ -14,7 +14,7 @@ Os nagahs retalhadores são mutações ocasionais entre os machos: nascem com qu
 
 ## Imagem
 
-![Nagah Retalhador](../../_imagens/placeholder-criatura.png)
+![Nagah Retalhador](../../../_imagens/placeholder-criatura.png)
 
 *Descrição: Nagah macho imponente com quatro braços musculosos, cada um empunhando cimitarra curva reluzente. A metade superior é humanoide musculosa coberta de escamas douradas, enquanto a metade inferior é cauda de serpente massiva e poderosa. Seus olhos brilham com inteligência tática enquanto as lâminas criam barreira defensiva rotativa. Estátuas de pedra de inimigos derrotados decoram o fundo.*
 

@@ -9,7 +9,7 @@ next: "02-carrasco-lena"
 
 # Bulette
 
-![Ilustração de Bulette](../../_imagens/placeholder-criatura.png)
+![Ilustração de Bulette](../../../_imagens/placeholder-criatura.png)
 *Descrição: Uma criatura monstruosa que parece um cruzamento entre um tubarão e um tatu gigante. Tem corpo maciço coberto por placas de couro extremamente duro, cabeça com mandíbulas poderosas repletas de dentes afiados, e patas atarracadas com garras grossas. O dorso é protegido por uma carapaça segmentada que lembra a de um tatu, mas muito mais robusta e ameaçadora.*
 
 "Atenção, todos! O chão está tremendo. Devem ser nossos aliados kobolds explodindo as minas… não, espera, É UM BULETTE!"

@@ -12,7 +12,7 @@ next: "05-serpe"
 **Tipo:** Besta Mágica Enorme, N  
 **Ambiente:** Sanguinárias (planícies rochosas, vales profundos), Galrasia (muito raro)
 
-![Razza'Kham](../../_imagens/placeholder-criatura.png)
+![Razza'Kham](../../../_imagens/placeholder-criatura.png)
 *Descrição: Monstruosidade centauróide combinando pior de réptil e inseto gigante. Metade inferior é corpo de gafanhoto colossal — seis patas articuladas blindadas por quitina negra-esverdeada iridescente, patas traseiras saltadoras musculosas. Metade superior emerge onde seria cabeça do gafanhoto: torso reptiliano humanoide com dois braços terminando em garras curvas de 30cm. Cabeça triangular com mandíbulas de lagarto, mas duas antenas longas de inseto emergem do topo do crânio, constantemente se movendo captando vibrações. Corpo inteiro coberto por carapaça quitinosa segmentada brilhante. Olhos compostos negros multifacetados. Altura total 6m quando ereta.*
 
 ---

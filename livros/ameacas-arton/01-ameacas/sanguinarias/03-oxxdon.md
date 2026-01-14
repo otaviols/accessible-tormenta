@@ -12,7 +12,7 @@ next: "04-razzakham"
 **Tipo:** Aberração Média (Oxxdon) / Enorme (Oxxdon Imenso), N  
 **Ambiente:** Sanguinárias (ruínas darash), masmorras antigas, túneis abandonados
 
-![Oxxdon](../../_imagens/placeholder-criatura.png)
+![Oxxdon](../../../_imagens/placeholder-criatura.png)
 *Descrição: Criatura insectóide do tamanho de um grande cão, corpo segmentado coberto por carapaça oxidada marrom-avermelhada. Duas antenas longas emergem da cabeça, terminando em pontas que brilham com luz esverdeada corrosiva. Seis patas articuladas, cada uma terminando em garra pontiaguda. Mandíbulas grandes podem abrir até 90 graus. Corpo exala vapor ferrugem-tingido. Versão Imensa é do tamanho de pequeno dragão, 6m comprimento, aura visível de oxidação verde-amarelada pulsante.*
 
 ---

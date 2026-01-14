@@ -13,7 +13,7 @@ next: "../README"
 > 
 > — Horatikk, bardo goblin
 
-![Ilustração de um Ogro](../../_imagens/placeholder-criatura.png)
+![Ilustração de um Ogro](../../../_imagens/placeholder-criatura.png)
 *Descrição: Quando ouvia que algo é "grande como um ogro", talvez você não soubesse o significado exato da comparação — mas agora sabe. Aquilo que se aproxima a passadas pesadas é alto e robusto como um antigo carvalho, uma montanha de músculos em forma humanoide, encimada por uma cabeça diminuta. Tão feio quanto forte, coberto de pelos desgrenhados, verrugas e manchas. Veste peles e couro de animais que matou, e empunha uma clava grande como uma tora.*
 
 Quando ouvia que algo é "grande como um ogro", talvez você não soubesse o significado exato da comparação — mas agora sabe. Aquilo que se aproxima a passadas pesadas é alto e robusto como um antigo carvalho, uma montanha de músculos em forma humanoide, encimada por uma cabeça diminuta. Tão feio quanto forte, coberto de pelos desgrenhados, verrugas e manchas. Veste peles e couro de animais que matou, e empunha uma clava grande como uma tora.

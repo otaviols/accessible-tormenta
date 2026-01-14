@@ -191,8 +191,8 @@ Este arquivo mostra:
 ✅ "Bugbears são goblinoides grandes e peludos conhecidos por sua força bruta"
 
 ### 2. ALT-TEXT DESCRITIVO
-❌ `![Bogum](../../_imagens/placeholder-criatura.png)`  
-✅ `![Descrição: Ilustração de um bogum, pequena criatura peluda azul com olhos grandes e expressivos, orelhas pontiagudas, sentado em posição amigável](../../_imagens/placeholder-criatura.png)`
+❌ `![Bogum](../_imagens/placeholder-criatura.png)`  
+✅ `![Descrição: Ilustração de um bogum, pequena criatura peluda azul com olhos grandes e expressivos, orelhas pontiagudas, sentado em posição amigável](../_imagens/placeholder-criatura.png)`
 
 ### 3. FRONTMATTER COMPLETO
 Todos os arquivos DEVEM ter:
