@@ -3,8 +3,8 @@ title: "Ermos Púrpuras"
 book: "tormenta20-core"
 chapter: "11-ambientacao"
 navigation:
-  previous: null
-  next: null
+  previous: "16-montanhas-uivantes.md"
+  next: "18-cidades-notaveis.md"
   up: "README.md"
 ---
 

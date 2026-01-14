@@ -3,8 +3,8 @@ title: "Wynlla - O Reino da Magia"
 book: "tormenta20-core"
 chapter: "11-ambientacao"
 navigation:
-  previous: null
-  next: null
+  previous: "03-bielefeld.md"
+  next: "05-namalkah.md"
   up: "README.md"
 ---
 

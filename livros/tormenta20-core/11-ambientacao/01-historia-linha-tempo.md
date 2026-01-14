@@ -3,8 +3,8 @@ title: "História de Arton - Linha do Tempo"
 book: "tormenta20-core"
 chapter: "11-ambientacao"
 navigation:
-  previous: null
-  next: null
+  previous: "README.md"
+  next: "02-deheon.md"
   up: "README.md"
 ---
 

@@ -3,8 +3,8 @@ title: "Cidades Notáveis de Arton"
 book: "tormenta20-core"
 chapter: "11-ambientacao"
 navigation:
-  previous: null
-  next: null
+  previous: "17-ermos-purpuras.md"
+  next: "19-geografia-geral.md"
   up: "README.md"
 ---
 

@@ -3,8 +3,8 @@ title: "Bielefeld - O Reino dos Cavaleiros"
 book: "tormenta20-core"
 chapter: "11-ambientacao"
 navigation:
-  previous: null
-  next: null
+  previous: "02-deheon.md"
+  next: "04-wynlla.md"
   up: "README.md"
 ---
 

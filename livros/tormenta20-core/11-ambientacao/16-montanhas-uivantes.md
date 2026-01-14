@@ -3,8 +3,8 @@ title: "Montanhas Uivantes"
 book: "tormenta20-core"
 chapter: "11-ambientacao"
 navigation:
-  previous: null
-  next: null
+  previous: "15-montanhas-sanguinarias.md"
+  next: "17-ermos-purpuras.md"
   up: "README.md"
 ---
 

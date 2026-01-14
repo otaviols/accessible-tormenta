@@ -3,7 +3,7 @@ title: "Geografia Geral de Arton"
 book: "tormenta20-core"
 chapter: "11-ambientacao"
 navigation:
-  previous: null
+  previous: "18-cidades-notaveis.md"
   next: null
   up: "README.md"
 ---

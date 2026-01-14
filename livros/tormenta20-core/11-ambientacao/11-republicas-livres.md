@@ -3,8 +3,8 @@ title: "Repúblicas Livres de Sambúrdia"
 book: "tormenta20-core"
 chapter: "11-ambientacao"
 navigation:
-  previous: null
-  next: null
+  previous: "10-aslothia.md"
+  next: "12-feudos-trebuck.md"
   up: "README.md"
 ---
 

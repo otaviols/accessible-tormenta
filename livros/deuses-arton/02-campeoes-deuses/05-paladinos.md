@@ -6,7 +6,7 @@ section: "paladinos"
 page: 26-29
 navigation:
   previous: "04-druidas.md"
-  next: "06-autoridades-divinas.md"
+  next: "06-frade-classe.md"
   up: "README.md"
 ---
 

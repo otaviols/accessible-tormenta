@@ -3,8 +3,8 @@ title: "Namalkah - O Reino dos Cavalos"
 book: "tormenta20-core"
 chapter: "11-ambientacao"
 navigation:
-  previous: null
-  next: null
+  previous: "04-wynlla.md"
+  next: "06-ahlen.md"
   up: "README.md"
 ---
 

@@ -3,8 +3,8 @@ title: "Ahlen - O Reino da Intriga"
 book: "tormenta20-core"
 chapter: "11-ambientacao"
 navigation:
-  previous: null
-  next: null
+  previous: "05-namalkah.md"
+  next: "07-zakharov.md"
   up: "README.md"
 ---
 

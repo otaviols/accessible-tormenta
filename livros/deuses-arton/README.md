@@ -6,7 +6,7 @@
 
 ## 📖 Sobre Este Livro
 
-Deuses de Arton é [DESCRIÇÃO DO LIVRO - PREENCHER].
+Deuses de Arton é o suplemento que expande as regras para devotos e apresenta os vinte e dois deuses maiores do Panteão de Arton. Contém opções para clérigos, druidas, frades e paladinos, novas distinções, poderes concedidos, magias divinas, itens litúrgicos, e um bestiário completo de criaturas planares e divinas.
 
 Esta documentação mantém todos os padrões de acessibilidade do projeto Tormenta 20:
 
@@ -20,34 +20,19 @@ Esta documentação mantém todos os padrões de acessibilidade do projeto Torme
 ## 📚 Índice de Capítulos
 
 ### [01 - Introdução](01-introducao/README.md)
-[DESCRIÇÃO DO CAPÍTULO]
+Apresenta o livro, explica o Panteão e a Segunda Lição dos deuses.
 
-### [02 - Campeões dos deuses](02-campeoes-deuses/README.md)
-[DESCRIÇÃO DO CAPÍTULO]
+### [02 - Campeões dos Deuses](02-campeoes-deuses/README.md)
+Opções de jogo para devotos: clérigos, druidas, frades, paladinos, autoridades divinas, poderes concedidos, magias divinas e itens litúrgicos.
 
-### [03 - Raças](03-racas/README.md)
-[DESCRIÇÃO DO CAPÍTULO]
+### [03 - Distinções](03-distincoes/README.md)
+Vinte e quatro distinções exclusivas para devotos dos deuses.
 
-### [04 - Classes](04-classes/README.md)
-[DESCRIÇÃO DO CAPÍTULO]
+### [04 - Deuses e Avatares](04-deuses-avatares/README.md)
+Descrição completa dos vinte e dois deuses maiores, deuses menores, antigos deuses caídos e artefatos divinos lendários.
 
-### [05 - Perícias e Poderes](05-pericias-poderes/README.md)
-[DESCRIÇÃO DO CAPÍTULO]
-
-### [06 - Equipamento](06-equipamento/README.md)
-[DESCRIÇÃO DO CAPÍTULO]
-
-### [07 - Regras](07-regras/README.md)
-[DESCRIÇÃO DO CAPÍTULO]
-
-### [08 - Combate](08-combate/README.md)
-[DESCRIÇÃO DO CAPÍTULO]
-
-### [09 - Magia](09-magia/README.md)
-[DESCRIÇÃO DO CAPÍTULO]
-
-### [10 - Mestre](10-mestre/README.md)
-[DESCRIÇÃO DO CAPÍTULO]
+### [05 - Ameaças Divinas](05-ameacas-divinas/README.md)
+Bestiário completo com abissais, aspectos divinos, celestiais, fadas, gênios, gigantes e perigos planares.
 
 ---
 
@@ -56,8 +41,8 @@ Esta documentação mantém todos os padrões de acessibilidade do projeto Torme
 Veja [PROGRESS.md](PROGRESS.md) para detalhes completos do progresso.
 
 **Resumo:**
-- 📄 Páginas: 0 de XXX (0%)
-- 📁 Arquivos: 0 de ~XXX
+- 📄 Páginas: 324 de 324 (100%)
+- 📁 Arquivos: 130 de 130 (100%)
 - ✅ Status: EM PREPARAÇÃO
 
 ---

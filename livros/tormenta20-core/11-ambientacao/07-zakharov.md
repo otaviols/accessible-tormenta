@@ -3,8 +3,8 @@ title: "Zakharov - O Reino das Armas"
 book: "tormenta20-core"
 chapter: "11-ambientacao"
 navigation:
-  previous: null
-  next: null
+  previous: "06-ahlen.md"
+  next: "08-pondsmania.md"
   up: "README.md"
 ---
 

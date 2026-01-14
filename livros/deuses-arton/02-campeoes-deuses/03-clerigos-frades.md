@@ -6,7 +6,7 @@ section: "clerigos-frades"
 page: 14-23
 navigation:
   previous: "02-classes-divinas.md"
-  next: "04-autoridades-divinas.md"
+  next: "04-druidas.md"
   up: "README.md"
 ---
 

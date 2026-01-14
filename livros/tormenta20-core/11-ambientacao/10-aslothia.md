@@ -3,8 +3,8 @@ title: "Aslothia - O Reino dos Mortos"
 book: "tormenta20-core"
 chapter: "11-ambientacao"
 navigation:
-  previous: null
-  next: null
+  previous: "09-supremacia-purista.md"
+  next: "11-republicas-livres.md"
   up: "README.md"
 ---
 

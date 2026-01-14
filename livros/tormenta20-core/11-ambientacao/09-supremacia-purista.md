@@ -3,8 +3,8 @@ title: "Supremacia Purista"
 book: "tormenta20-core"
 chapter: "11-ambientacao"
 navigation:
-  previous: null
-  next: null
+  previous: "08-pondsmania.md"
+  next: "10-aslothia.md"
   up: "README.md"
 ---
 

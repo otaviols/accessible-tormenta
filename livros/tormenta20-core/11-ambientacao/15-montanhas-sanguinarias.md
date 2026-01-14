@@ -3,8 +3,8 @@ title: "Montanhas Sanguinárias"
 book: "tormenta20-core"
 chapter: "11-ambientacao"
 navigation:
-  previous: null
-  next: null
+  previous: "14-imperio-tauron.md"
+  next: "16-montanhas-uivantes.md"
   up: "README.md"
 ---
 

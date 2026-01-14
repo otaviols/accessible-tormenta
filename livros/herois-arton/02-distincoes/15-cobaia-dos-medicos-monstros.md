@@ -8,77 +8,101 @@ navigation:
 
 # Cobaia dos Médicos Monstros
 
-Sejamos honestos: nem sempre é difícil enganar alguém. Uma palavra doce no momento certo pode render uns tibares a mais, uma verdade inconveniente é capaz de garantir a fuga de uma masmorra e um boato maldoso bem aplicado pode despistar um mercenário particularmente obstinado de seu rastro. Mas não chamamos esses feitos de "vigarice". Essas são apenas desonestidades banais. A palavra está reservada para golpes e falcatruas em um patamar mais elevado.
+Em Vectora, no bairro de Numen, existe uma pequena casa numa ruela escura. Ao bater na porta, um visitante será atendido por uma pessoa de aparência comum, que dirá que ali não existe nenhum negócio. Se existisse, não seria o que o visitante procura. Se fosse, ele não poderia entrar. Se pudesse, não teria dinheiro suficiente para pagar por seus serviços.
 
-Golpes que esvaziam os bolsos de uma multidão — ou de uma pessoa com tantos tibares que vale por uma vila inteira. Esquemas de trapaça que movimentam pequenas fortunas, sustentados por preparação, intelecto e muita cara de pau. Isso sim é vigarice. Essa sim é a freguesia do vigarista.
+Contudo, caso o visitante tenha sido recomendado por um freguês, a porta se abrirá e ele adentrará o misterioso Grêmio dos Médicos Monstros.
 
-O vigarista é um vendedor de "tônicos miraculosos", um "sábio que descobriu a cura para a Praga Coral", um "pioneiro de um esquema de funil invertido", entre outros títulos, ahem, criativos. Com ousadia de sobra e pouca vergonha na cara, o vigarista encontra uma pedra em formato esquisito e garante que é uma relíquia sagrada de Allihanna. Espadas quebradas se tornam rapidamente as últimas armas usadas por Arsenal quando era mortal. Um pergaminho rasgado, depois de receber um belo trato de mãos habilidosas, parece uma litania perdida do clero de Tanna-Toh. Vigaristas não temem a retribuição divina, pois não acham que estejam fazendo nada realmente errado... Se alguém acredita que vai mesmo comprar o Olho de Sszzaas por dez tibares, a culpa é de quem vende?
+O Grêmio dos Médicos Monstros é uma clínica sinistra que realiza um serviço único: enxertar partes de criaturas monstruosas em seus clientes. As cirurgias não têm nada de ilegal — não apenas os pacientes são voluntários, pagam muito caro e passam meses ou anos numa lista de espera pelo privilégio de trocar seu braço por uma pata de ganchador, ou de ter uma cauda de escorpião gigante costurada a suas costas, ou ainda de substituir sua boca por um bico de cocatriz. Tornam-se monstruosos, mas adquirem habilidades muito além dos artonianos comuns.
 
-A alquimia não escapa destes golpistas, servindo de desculpa para diversificar suas falcatruas. Frascos de água com açúcar se transformam em tônicos para a saúde e aquela gororoba malcheirosa do muquifo na esquina só precisa ser misturada com alguma tinta para se transformar em um unguento rejuvenescedor. E hoje — só hoje! — um frasco sai por dois tibares e três saem por apenas sete!
+A maneira como as partes de monstros são adquiridas, no entanto, entra numa área nebulosa da lei de Vectora, pois a legalidade de comercializar pedaços de corpos de criaturas talvez inteligentes é incerta. Sempre que Vectora atraca em grandes cidades ou locais com muitos aventureiros, o Grêmio dos Médicos Monstros recebe novas remessas de partes contrabandeadas — algumas solicitadas de antemão, outras apenas ofertadas.
 
-Pode parecer uma vida fácil, mas o processo de elaborar e aplicar um golpe (além de estar bem longe quando ele for notado) é complexo. Quando começam a anunciar seus produtos, vigaristas têm um comparsa pronto para bancar o laranja — ser o primeiro a comprar e professar em voz alta sua qualidade. Normalmente esse comparsa é só um qualquer que recebeu meia dúzia de tibares sem entender direito no que estava se metendo. E o melhor de tudo: se for descoberto, o vigarista pode se escafeder dali e deixar o rojão para explodir na mão de seu "colega"!
+O Grêmio dos Médicos Monstros é muito mais do que a casinha humilde que aparenta ser. Todas as casas e prédios do quarteirão são interligados e fazem parte do complexo. O interior é escuro mas luxuoso. A clínica também se estende ao subterrâneo, onde se localizam os laboratórios e salas de cirurgia. O Grêmio conta com muitos funcionários, desde médicos até guardas armados.
 
-Quanto mais remoto o povoado, maior é a quantidade de tibares que um vigarista consegue espremer da ignorância alheia. Grandes centros como Valkaria ou Vectora têm muito mais parvos a serem enganados, claro, mas também contam com mais pessoas para apontar o golpe — além de aventureiros prontos para se meter onde não foram chamados! Além disso, é mais difícil vender uma poção mágica falsa para um público que sabe como uma poção mágica verdadeira se parece…
+O Grêmio foi fundado por três pessoas com histórias perturbadoras. Sharith é uma maga humana que foi capturada por um culto e sofreu experimentos destinados a "aperfeiçoá-la". Conseguiu fugir, mas aprendeu as práticas de seus captores. Bharakus nasceu numa família humana, mas parecia um intermediário entre humano e lobo. Rejeitado por seus pais, foi criado por clérigos de Tanna-Toh e se dedica a tornar outras pessoas mais parecidas com ele mesmo. Osborn é um hynne que viajou a Salistick para estudar no Colégio Real de Médicos, mas foi expulso por suas práticas sádicas. Os três se encontraram como párias e decidiram transformar em lucro aquilo que os tornava excluídos.
 
-Uma coisa bastante curiosa sobre essas trambicagens é que, algumas vezes, os frascos cheios de água colorida e os cetros ornamentados exaltando deuses realmente funcionam! Ninguém sabe explicar exatamente como isso acontece. Talvez o próprio Hyninn esteja concedendo uma dádiva aos que cumprem seus desígnios? Quem sabe o Deus da Trapaça faça isso para criar uma sensação falsa de segurança e aplicar golpes nos golpistas? Pior ainda, será possível que estes trambiqueiros são tão habilidosos em seus esquemas que enganam até os deuses, convencendo-os a realizar suas vontades?
+Alguns clientes do Grêmio, apelidados de "cobaias", parecem ser viciados nas cirurgias monstruosas. Têm preferência acima dos demais pacientes, submetem-se a procedimentos experimentais, modificam o próprio corpo até torná-lo irreconhecível. Existem cobaias que gastam quase tudo que ganham com os procedimentos. São recebidos de portas abertas e às vezes atendidos pelos três Médicos Monstros originais.
 
-Apesar de claramente desonesto, o vigarista não se considera um criminoso. Afinal, não está forçando ninguém a fazer nada. Se o dinheiro é entregue a ele de forma totalmente voluntária, também estaria mentindo quem o chamasse de ladrão! E, no frigir dos ovos, quem poderia provar que ele mesmo não acredita em todas as sandices que diz?
+Não há nada inerentemente vilanesco nas cobaias dos Médicos Monstros. Contudo, alguns clientes do Grêmio usam seus implantes como ferramentas para se tornar assassinos terríveis, caçando plebeus como aventureiros caçam monstros...
 
 ## Admissão
 
-Não existe nenhuma organização de vigaristas, e normalmente não há camaradagem suficiente para que um deles ensine o ofício a um candidato. Não costuma haver treinamento formal — a vocação de vigarista simplesmente acaba acontecendo, por necessidade ou malícia.
+Para ser recebido no Grêmio, um candidato precisa ir até Vectora. Contudo, mesmo antes disso precisa ter conhecido um antigo paciente dos Médicos Monstros e convencido-o a ser seu "padrinho". Isso por si só costuma ser uma busca, pois clientes do Grêmio costumam ser pessoas discretas e perigosas. O padrinho em geral cobra algum favor ou serviço do candidato para apadrinhá-lo. Candidatos muito famosos, em alguma posição de autoridade ou que tenham ligação com a lei são rejeitados. Não se sabe o que acontece com pacientes que levam autoridades ao Grêmio, mas a clínica tem contato com vários aventureiros poderosos e inescrupulosos…
 
-No entanto, aqueles que acham que podem se tornar vigaristas espontaneamente, apenas com seu talento natural, invariavelmente acabam do outro lado de algum golpe, ou vários. São os espertalhões que garantem que dessa vez vão enriquecer rápido, os malandros que acham estar passando a perna naquela velhinha desavisada...
+O candidato deve citar o nome de seu padrinho para ter acesso ao Grêmio. Então deve aguardar até que a indicação seja confirmada. Depois é levado a um consultório, onde conversa com um cirurgião sobre as modificações que deseja.
 
-Para ser um vigarista, o candidato precisa antes de mais nada aceitar que, por enquanto, é um otário. Quem acha que já está por cima nunca vai aprender. O candidato deve buscar um ou mais golpistas e tentar aprender seus truques da única forma possível: caindo neles. Não é incomum que clérigos de Hyninn acabem fazendo o favor de enganar o candidato e tirar dele tudo que tem.
+Nem sempre todas as modificações estão disponíveis. O Grêmio costuma ter um pequeno estoque de partes de monstros como asas, braços de ogro e tentáculos. Partes mais inusitadas, como patas de aranha gigante, cabeças secundárias ou chifres de oni, podem estar disponíveis apenas por encomenda. O mesmo acontece com partes de monstros especialmente poderosos. Depois que o candidato paga, é levado para as salas de preparação, então sedado e operado.
 
-O candidato deve realmente cair em vários golpes, de um ou mais golpistas. Não basta fingir que está caindo, entregar dinheiro voluntariamente — ele só vai entender como funciona a vigarice ao vê-la na prática. Em determinado momento, o próprio candidato deve julgar que está pronto para o próximo passo. Deve pensar com cuidado se ainda é um otário que se acha esperto ou se já passou para o outro lado. É uma linha que precisa ser cruzada para que um mero trapaceiro se transforme em um vigarista de verdade.
-
-Na teoria, é muito simples. O candidato deve aplicar um grande golpe. Esse esquema normalmente tem várias etapas e envolve muitas pessoas, com detalhes variando imensamente de vigarista para vigarista. Talvez ele convença uma cidade inteira da existência de uma divindade e fuja levando todo o dinheiro das oferendas. Quem sabe prepare uma bolsa cheia de contas coloridas e venda para uma escola de magia, fingindo serem os Rubis da Virtude. Pode ainda convencer suas vítimas a venderem os mesmos produtos falsos para outras vítimas, sempre comprando da fonte — o próprio candidato. As possibilidades são infinitas.
-
-Se o candidato tiver sucesso, torna-se um vigarista. Caso contrário, ele acha que se tornou um vigarista, mas isso é falso. Nos próximos dias, vai perder seus "lucros" (como parte de um golpe de outro vigarista) e terá ainda mais prejuízo em cima. Ele mesmo deve perceber que ainda não estava pronto e recomeçar o processo do zero.
-
-Mas não se preocupe, isso não vai acontecer com você. Você é inteligente demais, esperto demais, não é como os outros. Você é um herói aventureiro, não? Eu nunca mentiria para você.
+Depois da operação, o candidato nunca mais será o mesmo… o que era seu exato objetivo.
 
 ## Marca da Distinção
 
-### Tirar Leite de Pedra
+### Procedimento Inicial
 
-Onde os outros veem miséria, o vigarista vê oportunidade.
+A cobaia se entrega de corpo, literalmente, à ciência dos Médicos Monstros.
 
-Quando está em qualquer tipo de comunidade, você pode usar Enganação para fazer testes de sustento (Tormenta20, p. 128) com pequenos golpes: vendendo poções falsas, lixo como relíquias sagradas ou qualquer outro produto enganoso. Você leva 1 dia, em vez de uma semana, para fazer esse teste, e recebe um bônus de +2 em cidades, +5 em vilas e +10 em aldeias. Se falhar em um teste, não pode tentar de novo na mesma comunidade durante um mês… e, se rolar 1 natural no teste, é desmascarado pela população!
+Você se torna um monstro em adição ao seu tipo. Além disso, a penalidade em perícias que sofre por receber implantes diminui de –2 por implante para –1 (veja adiante) e você paga 20% a menos pelos implantes enxertados em seu corpo.
 
 ## Poderes da Distinção
 
-### Aquele Papinho
+### Enxerto Experimental
 
-Uma boa conversa, uma cara inocente… e o vigarista tem seu alvo na palma da sua mão.
+Em busca de aperfeiçoamento, a cobaia se submete a procedimentos altamente experimentais.
 
-Você recebe +1 em Diplomacia, Enganação e Intuição e na CD de suas habilidades (exceto magias) baseadas em Carisma. Esses bônus aumentam em +1 para cada outro poder da distinção que você possuir. **Pré-requisitos:** treinado em Enganação, Aparência Inofensiva.
+Você recebe um implante de até T$ 18.000. Ele não conta em seu limite de implantes, mas foi enxertado de forma experimental. No início de cada cena, role 1d4. Em um resultado 1, o implante não funciona nessa cena. Para cada outro poder da distinção, esse dado aumenta em um passo. **Pré-requisito:** Foco em Perícia (Fortitude).
 
-### Calma Lá
+### Corpo Resiliente
 
-Uma língua rápida é vital para quem vive de passar os outros para trás.
+Sucessivas cirurgias resultaram em um fortalecimento inesperado do organismo da cobaia.
 
-Você não sofre a penalidade de –10 por fazer um teste de Diplomacia para mudar atitude como uma ação completa e, quando a primeira rodada de combate se inicia, pode fazer um desses testes antes de todos os participantes agirem. Se mudar a atitude de algum inimigo para indiferente ou melhor dessa forma, em vez disso ele fica pasmo por 1 rodada. **Pré-requisito:** Aquele Papinho.
+Você não sofre a penalidade em Fortitude por implantes e seu limite de implantes aumenta em +1, +1 para cada dois outros poderes da distinção. **Pré-requisito:** Enxerto Experimental.
 
-### Efeito Placebo
+### Extrapolar o próprio Corpo
 
-"Mas é claro que funciona! Eu mentiria para você?"
+Implantes convencionais extraídos de monstros não satisfazem mais a sede de alterações da cobaia.
 
-Para cada poder da distinção, escolha uma magia de 1º círculo, arcana ou divina, que possa ser transformada em poção. Você pode gastar uma ação completa e 3 PM para transformar um de seus misteriosos elixires de água com açúcar em uma poção de uma dessas magias instantaneamente (atributo-chave Carisma). O custo do item é reduzido à metade e você não precisa fazer o teste de Ofício (alquimista), mas a poção só dura até o fim da cena. **Pré-requisito:** Aquele Papinho.
+Escolha um poder racial (p. 84) cujos pré-requisitos você cumpra (ignorando requisitos de raça) e que seja aprovado pelo mestre. Você recebe um implante que fornece o benefício do poder escolhido. **Pré-requisito:** Implante Exclusivo.
 
-### Na Cara Não!
+### Glândula de Infusão
 
-A melhor forma de vencer uma briga é nunca entrar nela… Mas, se o trobo já foi para o brejo, o vigarista sabe pelo menos evitar o pior.
+Como um verdadeiro experimento, a cobaia recebe a vanguarda dos procedimentos do Grêmio.
 
-Quando usa Rolamento Defensivo, você recebe um uso adicional de Aparência Inofensiva nessa cena. **Pré-requisitos:** Aquele Papinho, Rolamento Defensivo.
+Escolha uma magia de até 2º círculo com alvo você ou 1 criatura. Você recebe um implante que permite lançar essa magia seguindo as regras de engenhocas (Tormenta20, p. 70), mas você usa Constituição e Fortitude respectivamente no lugar de Inteligência e Ofício (engenhoqueiro) e só pode ter você como alvo. Este é um efeito orgânico e não é afetado por efeitos que afetem especificamente engenhocas. **Pré-requisito:** Enxerto Experimental.
 
-### Relíquias Sagradas
+### Implante Exclusivo
 
-Certos vigaristas conseguem enredar até os deuses em sua teia de mentiras.
+Uma cobaia tem acesso a serviços exclusivos, reservados apenas aos melhores clientes do Grêmio.
 
-Você pode enfeitar um item mundano com motivos religiosos para que ele se pareça com um acessório mágico menor a sua escolha. Fazer isso gasta 1 hora de trabalho e 1/100 do preço do acessório. Para usar a "relíquia" primeiro você precisa empunhá-la (ou vesti-la) e gastar uma ação de movimento e 2 PM para professar seus poderes em voz alta. Se fizer isso, ela funciona como se fosse verdadeira até o fim da cena, ou até você ativar outra de suas relíquias. Você pode ter até uma relíquia sagrada por poder da distinção que possuir. **Pré-requisitos:** Calma Lá, Efeito Placebo.
+Escolha um encanto de armas sem nenhum pré-requisito. Você pode gastar uma ação de movimento e 1 PM para colocar esse encanto em uma arma que esteja empunhando. Ele não conta no limite de encantos da arma, e termina se você soltar o item ou no fim da cena. **Pré-requisito:** Enxerto Experimental.
+
+## Implantes
+
+Implantes são enxertos de partes de outras criaturas que concedem habilidades especiais ao seu receptor. Para receber um implante, é necessário visitar a clínica do Grêmio dos Médicos Monstros e se submeter à cirurgia apropriada. Além, é claro, de pagar o preço do implante (que inclui o custo da cirurgia). Alguns aventureiros preferem levar suas próprias partes de criaturas para serem implantadas. Nesse caso, o preço é reduzido pela metade.
+
+A cirurgia de enxerto demora um dia. Já a recuperação é um teste estendido de Fortitude (CD 25, 3 sucessos), em que cada teste representa um dia. Em uma falha total, o corpo rejeita o implante, que deve ser removido (o que o destrói) ou levará à morte do paciente.
+
+Implantes conferem uma aparência monstruosa e desconcertante, e podem fragilizar a saúde do paciente. Para cada implante, você sofre uma penalidade de –2 em Adestramento, Diplomacia e Fortitude. O máximo de implantes que você pode receber é igual à sua Constituição (mínimo 1).
+
+Os implantes disponíveis no Grêmio são descritos a seguir. Implantes contam como poderes para todos os efeitos.
+
+**Asas.** Asas monstruosas de tamanho correspondente ao paciente. Você pode voar com deslocamento igual ao seu deslocamento base mas, enquanto estiver voando dessa forma, fica vulnerável. Preço T$ 20.000.
+
+**Braço de Ogro.** Um enorme braço pertencente a uma criatura humanoide maior que o paciente. Você recebe +2 em Força e, com este braço, seu alcance natural aumenta em +1,5m. Este implante substitui um dos braços do paciente. Preço T$ 36.000.
+
+**Cauda com Ferrão.** Você recebe uma arma natural de ferrão (dano 1d6, crítico x2, perfuração). Uma vez por rodada, quando usa a ação agredir para atacar com outra arma, pode gastar 1 PM para fazer um ataque corpo a corpo extra com o ferrão. Quando causa dano com ele, você pode gastar 1 PM para inocular veneno na vítima, que perde 1d12 PV. Preço T$ 27.000.
+
+**Escamas.** Extraídas de vários monstros, formam uma armadura leve e poderosa. Fornecem +2 na Defesa. É possível enxertar este implante uma segunda vez, para aumentar o bônus na Defesa para +5. Preço T$ 12.000.
+
+**Garras.** Suas mãos se transformam em armas naturais de garra (dano 1d6 cada, crítico x2, corte). Uma vez por rodada, quando usa a ação agredir para atacar com uma arma, você pode gastar 1 PM para fazer um ataque corpo a corpo extra com uma das garras, desde que ela esteja livre e não tenha sido usada para atacar nesse turno. Como alternativa, se tiver habilidades que exijam uma arma secundária (como Estilo de Duas Armas), você pode usá-las com suas garras. Preço T$ 27.000.
+
+**Olho Anulador.** Extraído de tiranos oculares e implantado no peito do paciente, este olho projeta um campo antimagia. Você pode lançar Dissipar Magia, mas apenas em um cone de 9m e usando Vontade no lugar do teste de Misticismo. Preço T$ 30.000.
+
+**Olho Desintegrador.** Também retirado de um tirano ocular, este olho monstruoso fica na ponta de uma haste carnosa, em geral implantada nas costas do paciente. Você pode lançar a magia Desintegrar (atributo-chave Constituição). Preço T$ 50.000.
+
+**Olho Petrificante.** Um olho amarelo reptiliano, extraído de um basilisco. Você recebe a habilidade Olhar Atordoante (Tormenta20, p. 29). Caso já tenha essa habilidade, a CD para resistir a ela aumenta em +2. Preço T$ 18.000.
+
+**Patas de Aranha.** Extraídos de uma aranha gigante, estes dois pares de patas são implantados no tronco. Não servem para atacar, mas fornecem deslocamento de escalada igual ao seu deslocamento base. Se já tiver um deslocamento de escalada, ele aumenta em +6m. Preço T$ 12.000.
+
+**Tentáculo com Garras.** Extraído de monstros como otyughs e tigres-de-Hyninn, fornece uma arma natural de tentáculo (dano 1d4, crítico x2, impacto) com a qual seu alcance natural aumenta em +1,5m. Uma vez por rodada, quando usa a ação agredir para atacar com outra arma, você pode gastar 1 PM para fazer um ataque corpo a corpo extra com o tentáculo. Preço T$ 27.000.
 
 ---
 

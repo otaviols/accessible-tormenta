@@ -3,8 +3,8 @@ title: "Império de Tauron"
 book: "tormenta20-core"
 chapter: "11-ambientacao"
 navigation:
-  previous: null
-  next: null
+  previous: "13-reino-dragao.md"
+  next: "15-montanhas-sanguinarias.md"
   up: "README.md"
 ---
 

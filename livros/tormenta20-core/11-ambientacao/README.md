@@ -4,8 +4,8 @@ book: "tormenta20-core"
 chapter: "11-ambientacao"
 navigation:
   previous: null
-  next: null
-  up: "README.md"
+  next: "01-historia-linha-tempo.md"
+  up: "../README.md"
 ---
 
 # Mundo de Arton

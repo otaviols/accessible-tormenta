@@ -3,8 +3,8 @@ title: "Pondsmânia - O Reino das Fadas"
 book: "tormenta20-core"
 chapter: "11-ambientacao"
 navigation:
-  previous: null
-  next: null
+  previous: "07-zakharov.md"
+  next: "09-supremacia-purista.md"
   up: "README.md"
 ---
 

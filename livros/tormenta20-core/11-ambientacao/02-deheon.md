@@ -3,8 +3,8 @@ title: "Deheon - O Reino Capital"
 book: "tormenta20-core"
 chapter: "11-ambientacao"
 navigation:
-  previous: null
-  next: null
+  previous: "01-historia-linha-tempo.md"
+  next: "03-bielefeld.md"
   up: "README.md"
 ---
 

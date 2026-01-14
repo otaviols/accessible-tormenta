@@ -1,0 +1,40 @@
+RELATÓRIO DE LINKS MARKDOWN
+========================================================================
+
+RESUMO:
+- Arquivos .md analisados: 130
+- Links quebrados: 0
+- Arquivos órfãos: 26
+
+Nenhum link quebrado encontrado.
+
+
+ARQUIVOS .MD ÓRFÃOS (não referenciados por nenhum outro .md):
+------------------------------------------------------------------------
+
+- 02-campeoes-deuses\13-nova-linhagem-abencoada.md
+- 02-campeoes-deuses\14-suraggel-variantes.md
+- 04-deuses-avatares\01-historia-panteao.md
+- 04-deuses-avatares\02-aharadak.md
+- 04-deuses-avatares\03-allihanna.md
+- 04-deuses-avatares\04-arsenal.md
+- 04-deuses-avatares\05-azgher.md
+- 04-deuses-avatares\06-hyninn.md
+- 04-deuses-avatares\07-kallyadranoch.md
+- 04-deuses-avatares\09-khalmyr.md
+- 04-deuses-avatares\10-lena.md
+- 04-deuses-avatares\11-lin-wu.md
+- 04-deuses-avatares\12-marah.md
+- 04-deuses-avatares\13-megalokk.md
+- 04-deuses-avatares\14-nimb.md
+- 04-deuses-avatares\15-oceano.md
+- 04-deuses-avatares\16-sszzaas.md
+- 04-deuses-avatares\17-tanna-toh.md
+- 04-deuses-avatares\18-tenebra.md
+- 04-deuses-avatares\19-thwor.md
+- 04-deuses-avatares\20-thyatis.md
+- 04-deuses-avatares\21-valkaria.md
+- 04-deuses-avatares\22-wynna.md
+- 04-deuses-avatares\23-deuses-menores.md
+- 04-deuses-avatares\24-antigos-deuses.md
+- 04-deuses-avatares\25-artefatos-divinos.md

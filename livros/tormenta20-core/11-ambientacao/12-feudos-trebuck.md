@@ -3,8 +3,8 @@ title: "Feudos de Trebuck"
 book: "tormenta20-core"
 chapter: "11-ambientacao"
 navigation:
-  previous: null
-  next: null
+  previous: "11-republicas-livres.md"
+  next: "13-reino-dragao.md"
   up: "README.md"
 ---
 

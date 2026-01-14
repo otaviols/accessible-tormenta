@@ -3,8 +3,8 @@ title: "Reino do Dragão - Sckharshantallas"
 book: "tormenta20-core"
 chapter: "11-ambientacao"
 navigation:
-  previous: null
-  next: null
+  previous: "12-feudos-trebuck.md"
+  next: "14-imperio-tauron.md"
   up: "README.md"
 ---
 
