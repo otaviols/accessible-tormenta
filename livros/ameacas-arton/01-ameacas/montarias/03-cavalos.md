@@ -11,7 +11,7 @@ navigation:
 
 # Cavalos
 
-![Ilustração de Cavalos](../../_imagens/ameacas-arton/cavalos.jpg)
+![Ilustração de Cavalos](../../_imagens/placeholder-criatura.png)
 *Descrição: Diversos cavalos magníficos em diferentes poses - um cavalo de montaria galoband o livremente, um robusto cavalo de carga puxando equipamentos, um imponente cavalo de guerra com armadura e barda, e um elegante cavalo de Namalkah com pelagem brilhante. Cada um demonstra características distintas de sua categoria.*
 
 > "Assim, é como um centauro, mas sem a parte gente. Bem doido, né?"

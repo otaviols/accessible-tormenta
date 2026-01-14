@@ -11,7 +11,7 @@ navigation:
 
 # Baleote
 
-![Ilustração de Baleote](../../_imagens/ameacas-arton/baleote.jpg)
+![Ilustração de Baleote](../../_imagens/placeholder-criatura.png)
 *Descrição: Uma grande criatura com aspecto de golfinho ou baleia flutuando majestosamente no ar como se "nadasse" através das nuvens. Possui couro branco-azulado brilhante e grandes barbatanas peitorais que se assemelham a asas. Um cavaleiro com a indumentária da Milícia de Vectora está montado em seu dorso, controlando a criatura através dos céus.*
 
 > "Não é um peixe voador? Muito bem, espertalhão, então diga o que é!"

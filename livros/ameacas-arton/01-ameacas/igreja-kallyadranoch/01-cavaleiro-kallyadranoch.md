@@ -13,7 +13,7 @@ next: "02-clerigo-kallyadranoch"
 > 
 > — Wyatt Gray, humano paladino de Valkaria
 
-![Ilustração de Cavaleiro de Kallyadranoch](../../_imagens/ameacas-arton/cavaleiro-kallyadranoch.jpg)
+![Ilustração de Cavaleiro de Kallyadranoch](../../_imagens/placeholder-criatura.png)
 *Descrição: Um guerreiro humano em armadura completa feita de couro de dragão escamado, montado em um corcel alado com corpo escamoso e asas coriáceas. O cavaleiro empunha uma lança montada enquanto o corcel bate suas asas dracônicas, ambos preparados para um mergulho devastador. A armadura do cavaleiro brilha com padrões que imitam escamas de dragão.*
 
 Vocês chegam a tempo de ver um pequeno grupo de homens em armaduras voando para longe em cavalos alados, escamados. Um deles leva consigo a clériga local, prisioneira.

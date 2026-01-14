@@ -8,7 +8,7 @@ next_title: Voltar para Ameaças
 
 # Vagalhão Kobold
 
-![Imagem de um Vagalhão Kobold](../../_imagens/ameacas-arton/vagalhao-kobold.jpg)
+![Imagem de um Vagalhão Kobold](../../_imagens/placeholder-criatura.png)
 *Descrição: Uma onda massiva e caótica de kobolds preenchendo completamente um vasto espaço. Eles surgem de todos os lados - do chão, das paredes, do teto - como uma inundação viva de criaturas reptilianas gritando.*
 
 *"Estão vindo de todos os lados! Não acabam! Khalmyr e Tenebra, os malditos nunca acabam!"*  

@@ -9,7 +9,7 @@ next: "03-burodron"
 
 # Lefeu, Hurobakk
 
-![Ilustração de um Lefeu Hurobakk](../../../_imagens/ameacas-arton/lefeu-hurobakk.jpg)
+![Ilustração de um Lefeu Hurobakk](../../../_imagens/placeholder-criatura.png)
 *Descrição: Um demônio insetoide quadrúpede com um segundo tronco ereto emergindo do primeiro, de forma similar a um centauro. Possui quatro braços adicionais e cabeça insetoide. Seus braços anteriores têm a forma de imensas garras de lagosta, que parecem capazes de dilacerar aço. A criatura é recoberta por uma carapaça extremamente resistente.*
 
 O demônio lembra um inseto quadrúpede, com um segundo tronco ereto emergindo do primeiro, de forma similar a um centauro, mas com quatro braços adicionais e cabeçorra insetoide. Seus braços anteriores têm a forma de imensas garras de lagosta, que parecem capazes de dilacerar aço.

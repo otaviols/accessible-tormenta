@@ -9,7 +9,7 @@ next: "../povos-trovao/README.md"
 > "James K.! O som de seu nome troveja como o céu da Tormenta que vermelheja!"  
 > — James K., lobo do mar
 
-![Chapéu-Preto e Lobo do Mar](../../_imagens/ameacas-arton/chapeu-preto.jpg)
+![Chapéu-Preto e Lobo do Mar](../../_imagens/placeholder-criatura.png)
 *Descrição: À esquerda, um elfo de feições embrutecidas vestindo chapéu negro largo, cintos de couro cruzados no peito e pistolas desgastadas. À direita, um capitão pirata em convés de navio, florete em punho e olhar desafiador.*
 
 ## Visão Geral

@@ -1,7 +1,7 @@
 ---
 title: "Mago de Batalha de Wynlla"
 navigation:
-  previous: 24-maestro-das-espadas
+  previous: 24-mago-da-ordem-do-vazio
   next: 26-medico-de-salistick
 ---
 
@@ -39,6 +39,6 @@ Ao se tornar um mago de batalha de Wynlla, você recebe a seguinte habilidade:
 
 **Navegação:**
 
-- [← Anterior: Maestro das Espadas](24-maestro-das-espadas.md)
+- [← Anterior: Mago da Ordem do Vazio](24-mago-da-ordem-do-vazio.md)
 - [→ Próximo: Médico de Salistick](26-medico-de-salistick.md)
 - [↑ Voltar para Distinções](README.md)

@@ -10,7 +10,7 @@ next: "07-quimera"
 
 # Mímico
 
-![Mímico](../../_imagens/ameacas-arton/mimico.jpg)
+![Mímico](../../_imagens/placeholder-criatura.png)
 
 *Descrição: O que parece ser um baú de tesouro ornamentado de madeira escura com fechaduras de bronze. Mas quando inspecionado de perto, detalhes perturbadores se revelam: a madeira tem textura ligeiramente orgânica, como couro curtido; pequenas veias pulsam sutilmente sob a "superfície"; e o que pareciam dobradiças metálicas são na verdade articulações carnudas. Quando o mímico ataca, o baú se abre revelando fileiras de dentes afiados dentro de uma boca cavernosa, e tentáculos pegajosos emergem dos lados para capturar presas. Olhos se formam na superfície da criatura, observando com inteligência predatória.*
 

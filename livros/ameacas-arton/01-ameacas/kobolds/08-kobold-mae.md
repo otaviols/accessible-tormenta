@@ -8,7 +8,7 @@ next_title: Vagalhão Kobold
 
 # Kobold-Mãe
 
-![Imagem de uma Kobold-Mãe](../../_imagens/ameacas-arton/kobold-mae.jpg)
+![Imagem de uma Kobold-Mãe](../../_imagens/placeholder-criatura.png)
 *Descrição: Uma criatura kobold enorme e grotesca, com abdome descomunal e translúcido repleto de massas de ovos gelatinosos pulsantes. Seu corpo está inchado e imóvel, cercado por centenas de kobolds menores.*
 
 *"Esperem, essa coisa é uma mãe. Tem família. Será que devemos mesmo fazer isso?"*  

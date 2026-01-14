@@ -13,7 +13,7 @@ next: "08-templos-aharadak"
 > 
 > — Allanthar, humano arcanista
 
-![Ilustração do Avatar de Aharadak](../../_imagens/ameacas-arton/avatar-aharadak.jpg)
+![Ilustração do Avatar de Aharadak](../../_imagens/placeholder-criatura.png)
 *Descrição: Grande como um castelo, a monstruosidade parece formada por incontáveis camadas de gordura e crostas vermelhas, rasgadas por fístulas que revelam carne esponjosa e vazam muco oleoso. Muitas pequenas asas agitam-se nervosas, inúteis, incapazes de erguer o corpanzil grotesco. No alto, bocarras que mudam de quantidade a cada olhar, todas com várias fileiras de dentes afiados. Em meio a esse caos, um único e imenso olho vermelho. O olho de Aharadak.*
 
 Grande como um castelo, a monstruosidade parece formada por incontáveis camadas de gordura e crostas vermelhas, rasgadas por fístulas que revelam carne esponjosa e vazam muco oleoso. Muitas pequenas asas agitam-se nervosas, inúteis, incapazes de erguer o corpanzil grotesco. No alto, bocarras que mudam de quantidade a cada olhar, todas com várias fileiras de dentes afiados. Em meio a esse caos, um único e imenso olho vermelho. O olho de Aharadak.

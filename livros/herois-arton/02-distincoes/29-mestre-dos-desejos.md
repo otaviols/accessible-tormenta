@@ -1,7 +1,7 @@
 ---
 title: "Mestre dos Desejos"
 navigation:
-  previous: 28-mestre-da-colheita
+  previous: 28-mestre-cozinheiro
   next: 30-mestre-mahou-jutsu
   back: README
 ---
@@ -60,6 +60,6 @@ Seu receptáculo abriga um gênio particularmente poderoso. A CD para resistir a
 ---
 
 **Navegação:**
-- [Anterior: Mestre da Colheita](28-mestre-da-colheita.md)
+- [Anterior: Mestre Cozinheiro](28-mestre-cozinheiro.md)
 - [Próximo: Mestre Mahou-Jutsu](30-mestre-mahou-jutsu.md)
 - [Voltar para Distinções](README.md)

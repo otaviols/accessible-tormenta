@@ -9,7 +9,7 @@ next: "02-esqueletos.md"
 > "Vou reerguer seus parentes mortos para a luta que salvará sua cidade."  
 > — Lothor Aranlië, elfo mago necromante
 
-![Carniçal e Lívido](../../_imagens/ameacas-arton/carnical.jpg)
+![Carniçal e Lívido](../../_imagens/placeholder-criatura.png)
 *Descrição: Humanoides repulsivos e muito magros, com ossos salientes sob pele seca e apodrecida. Sem cabelos ou pelos, mas bocas com dentes proeminentes, afiados e ameaçadores.*
 
 ## Descrição

@@ -9,7 +9,7 @@ next: "07-hiena"
 
 # Gnoll Xamã
 
-![Ilustração de Gnoll Xamã](../../_imagens/ameacas-arton/gnoll-xama.jpg)
+![Ilustração de Gnoll Xamã](../../_imagens/placeholder-criatura.png)
 *Descrição: Os gnolls estão bastante feridos pelos golpes, alguns já esboçando sinais de rendição. Antes que isso aconteça, contudo, seus corpos são restaurados e seus ferimentos se fecham. A mágica luminosa de cura foi conjurada por um gnoll na retaguarda, em mantos esfarrapados, exibindo algo que poderia ser um símbolo sagrado de… Não, não é possível!*
 
 "Tem algo errado, por que eles não desistem? Ali, ALI! Um deles está curando os outros!"

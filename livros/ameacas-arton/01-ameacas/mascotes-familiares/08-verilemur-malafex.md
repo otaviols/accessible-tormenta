@@ -8,7 +8,7 @@ next_title: Voltar para Ameaças
 
 # Verilêmur & Malafex
 
-![Imagem de Verilêmur e Malafex](../../_imagens/ameacas-arton/verilemur-malafex.jpg)
+![Imagem de Verilêmur e Malafex](../../_imagens/placeholder-criatura.png)
 *Descrição: Um corvo com manchas brancas crocita furiosamente contra um pequeno animal que lembra um macaco com focinho de raposa e cauda longa. Os dois se enfrentam em um confronto que representa a batalha entre Ordem e Caos.*
 
 *"Mas essa moeda PRECISA cair com a outra face para cima ALGUM DIA!"*  

@@ -13,7 +13,7 @@ next: "07-duplo"
 > 
 > — Kira, medusa ladina
 
-![Ilustração de um Gatuno](../../_imagens/ameacas-arton/gatuno.jpg)
+![Ilustração de um Gatuno](../../_imagens/placeholder-criatura.png)
 *Descrição: O guarda do portão cai inconsciente, um pequeno dardo cravado no pescoço. Nenhum sinal do atacante, exceto por um breve farfalhar da folhagem na copa da árvore ao longe.*
 
 O guarda do portão cai inconsciente, um pequeno dardo cravado no pescoço. Nenhum sinal do atacante, exceto por um breve farfalhar da folhagem na copa da árvore ao longe.

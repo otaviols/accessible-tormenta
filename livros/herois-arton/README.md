@@ -112,8 +112,6 @@ Sistemas avançados e regras alternativas para personalizar seu jogo.
 
 ## 📊 Status da Conversão
 
-Veja [PROGRESS.md](PROGRESS.md) para detalhes completos do progresso.
-
 **Resumo:**
 - 📄 Páginas: 332 de 332 (100%) ✅
 - 📁 Arquivos: 132 arquivos markdown

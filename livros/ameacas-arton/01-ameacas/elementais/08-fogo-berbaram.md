@@ -9,7 +9,7 @@ next: "09-fogo-serpentaar"
 
 # Ber-baram
 
-![Ilustração de Ber-baram](../../_imagens/ameacas-arton/ber-baram.jpg)
+![Ilustração de Ber-baram](../../_imagens/placeholder-criatura.png)
 *Descrição: Os cascos bipartidos dessas criaturas quadrúpedes, do tamanho de touros, reverberam pelo solo em ritmo inquietante. Seus corpos emitem calor e seus pelos são avermelhados. As cabeças têm focinhos curtos, com um par de chifres dourados retorcidos no topo do crânio e olhos vermelhos brilhantes como rubis.*
 
 Os cascos bipartidos dessas criaturas quadrúpedes, do tamanho de touros, reverberam pelo solo em ritmo inquietante. Seus corpos emitem calor e seus pelos são avermelhados. As cabeças têm focinhos curtos, com um par de chifres dourados retorcidos no topo do crânio e olhos vermelhos brilhantes como rubis.

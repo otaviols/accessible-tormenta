@@ -1,0 +1,13 @@
+Procurando arquivos Markdown (.md) a partir da raiz do projeto...
+Encontrados 809 arquivos .md.
+
+Verificando links internos em cada arquivo...
+Construindo grafo de referÛncias entre arquivos .md...
+
+=== RESUMO DE LINKS ===
+Total de arquivos .md: 809
+Links quebrados encontrados: 263
+Arquivos .md nÒo referenciados (¾rfÒos): 3
+
+Gerando relat¾rio detalhado em D:\git\accessible-tormenta\link_report.txt...
+ConcluÝdo. Revise link_report.txt para detalhes de correþ§es manuais.

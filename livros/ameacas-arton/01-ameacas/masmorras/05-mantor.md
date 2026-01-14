@@ -10,7 +10,7 @@ next: "06-mimico"
 
 # Mantor
 
-![Mantor](../../_imagens/ameacas-arton/mantor.jpg)
+![Mantor](../../_imagens/placeholder-criatura.png)
 
 *Descrição: Uma criatura que se assemelha a uma capa ou manto negro flutuante, com textura que lembra couro curtido e sombrio. A criatura tem forma aproximadamente circular quando aberta, medindo cerca de 2 metros de diâmetro, com bordas irregulares que se movem como tentáculos suaves. Quando fecha-se sobre uma vítima, revela um interior forrado de ventosas e um ferrão retratil central que goteja veneno. Nos cantos escuros de uma masmorra, o mantor é quase invisível, parecendo apenas uma sombra ou pedaço de tecido pendurado na parede.*
 

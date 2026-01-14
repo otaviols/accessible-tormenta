@@ -13,7 +13,7 @@ next: "03-guerreiro-perpetuo"
 > 
 > — Daxos, qareen arcanista
 
-![Ilustração de Forjadores Litúrgicos](../../_imagens/ameacas-arton/forjador-liturgico.jpg)
+![Ilustração de Forjadores Litúrgicos](../../_imagens/placeholder-criatura.png)
 *Descrição: Todos no grupo trajam mantos escuros, armaduras pesadas e grandes elmos fechados — trazendo, na fronte, a espada e o martelo cruzados. Pendendo à cintura, mais armas do que poderiam usar. Todas parecem ser de qualidade excepcional, brilhando com encantos mágicos.*
 
 Todos no grupo trajam mantos escuros, armaduras pesadas e grandes elmos fechados — trazendo, na fronte, a espada e o martelo cruzados. Pendendo à cintura, mais armas do que poderiam usar. Todas parecem ser de qualidade excepcional.

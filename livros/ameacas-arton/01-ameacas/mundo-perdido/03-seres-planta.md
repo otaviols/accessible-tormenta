@@ -9,7 +9,7 @@ next: "04-arvore-matilha.md"
 > "Em Galrasia, até as árvores têm dentes."  
 > — Ditado dos exploradores
 
-![Espada-da-Floresta e Galhada](../../_imagens/ameacas-arton/espada-da-floresta.jpg)
+![Espada-da-Floresta e Galhada](../../_imagens/placeholder-criatura.png)
 *Descrição: Criaturas vegetais humanoides, com troncos de madeira escura, galhos como braços e flores brilhantes crescendo de seus corpos.*
 
 ## Visão Geral

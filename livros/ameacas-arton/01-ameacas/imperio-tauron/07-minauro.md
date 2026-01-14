@@ -13,7 +13,7 @@ next: "08-governador-corrupto"
 > 
 > — Minara Minostini, minaura guerreira
 
-![Ilustração de Minaura](../../_imagens/ameacas-arton/minaura.jpg)
+![Ilustração de Minaura](../../_imagens/placeholder-criatura.png)
 *Descrição: Ela lembra uma humana robusta, como a maioria dos minotauros. Também tem cabeça bovina, mas com olhos grandes e expressivos, focinho curto e chifres menores que aqueles vistos em minotauros. Tem pés humanos calçando sandálias. Veste armadura de couro e empunha algo que, se não fosse absurdo, poderia ser um canhão.*
 
 Ela lembra uma humana robusta, como a maioria dos minotauros. Também tem cabeça bovina, mas com olhos grandes e expressivos, focinho curto e chifres menores que aqueles vistos em minotauros. Tem pés humanos calçando sandálias. Veste armadura de couro e empunha algo que, se não fosse absurdo, poderia ser um canhão.

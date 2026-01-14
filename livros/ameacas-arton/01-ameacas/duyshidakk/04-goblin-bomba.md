@@ -9,7 +9,7 @@ next: "05-goblin-ferro"
 
 # Goblin-Bomba
 
-![Ilustração de Goblin-Bomba](../../_imagens/ameacas-arton/goblin-bomba.jpg)
+![Ilustração de Goblin-Bomba](../../_imagens/placeholder-criatura.png)
 *Descrição: Um pequeno goblin cinzento carregado de frascos, potes e pacotes de vários tipos e tamanhos — alguns brilhando, outros fumegando, outros borbulhando. Com um sorriso de dentes afiados, ele arremessa vários projéteis explosivos.*
 
 "Conheço esses tipos. O segredo é explodir eles antes que eles explodam a gente."

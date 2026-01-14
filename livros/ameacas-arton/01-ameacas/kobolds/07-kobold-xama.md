@@ -8,7 +8,7 @@ next_title: Kobold-Mãe
 
 # Kobold Xamã
 
-![Imagem de um Kobold Xamã](../../_imagens/ameacas-arton/kobold-xama.jpg)
+![Imagem de um Kobold Xamã](../../_imagens/placeholder-criatura.png)
 *Descrição: Um kobold vestindo mantos esfarrapados e empunhando um cajado rústico. Na extremidade do cajado, um emaranhado tosco de galhos e barbante imitando a cabeça de um dragão. Seus olhos brilham com fervor religioso.*
 
 *"Mim Auk. Auk xamã. O que querer com Auk?"*  

@@ -13,7 +13,7 @@ next: "05-oni"
 > 
 > — George Ruud, prefeito de Nova Malpetrim
 
-![Ilustração de Nezumi](../../_imagens/ameacas-arton/nezumi.jpg)
+![Ilustração de Nezumi](../../_imagens/placeholder-criatura.png)
 *Descrição: Os recém-chegados podem ser facilmente descritos como pessoas-ratos. Seres de pelagem cinzenta com grandes orelhas, focinhos alongados, olhos vermelhos e garras ameaçadoras. Quase todos têm cicatrizes e pedaços das orelhas e caudas faltando. Embora pequenos, parecem perigosos, prontos a explodir em fúria e arrancar os olhos de seus inimigos.*
 
 Os recém-chegados podem ser facilmente descritos como pessoas-ratos. Seres de pelagem cinzenta com grandes orelhas, focinhos alongados, olhos vermelhos e garras ameaçadoras. Quase todos têm cicatrizes e pedaços das orelhas e caudas faltando. Embora pequenos, parecem perigosos, prontos a explodir em fúria e arrancar os olhos de seus inimigos.

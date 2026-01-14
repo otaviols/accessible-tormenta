@@ -9,7 +9,7 @@ next: "07-fogo-pakk"
 
 # Hallus'tir
 
-![Ilustração de Hallus'tir](../../_imagens/ameacas-arton/hallustir.jpg)
+![Ilustração de Hallus'tir](../../_imagens/placeholder-criatura.png)
 *Descrição: "Uma coluna de templo sustentando o próprio céu" é como a manifestação poderia ser descrita. Feita de um tornado rodopiante, mas ainda assim sólida, densa, em escuridão de tempestade. Vendaval violento rugindo por toda a volta. Em seu interior, relâmpagos azulados explodem sem cessar, desenhando padrões que por vezes lembram faces raivosas.*
 
 "Uma coluna de templo sustentando o próprio céu" é como a manifestação poderia ser descrita. Feita de um tornado rodopiante, mas ainda assim sólida, densa, em escuridão de tempestade. Vendaval violento rugindo por toda a volta, tudo que não esteja bem preso ao chão é arrastado e engolido. Em seu interior, relâmpagos azulados explodem sem cessar, desenhando padrões que por vezes lembram faces raivosas. Alguns desses raios, como que guiados por alguma fúria ancestral, escapam e atingem alvos por perto.

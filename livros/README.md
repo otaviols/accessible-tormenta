@@ -21,8 +21,6 @@ O livro básico contém todas as regras fundamentais do sistema Tormenta20:
 - Ambientação de Arton
 - Apêndices
 
-[📊 Ver Progresso Detalhado](tormenta20-core/PROGRESS.md)
-
 ---
 
 ### [Ameaças de Arton](ameacas-arton/README.md)
@@ -34,8 +32,6 @@ Bestiário completo com criaturas, monstros e NPCs:
 - Bazar monstruoso
 - Raças parceiras
 - Apêndices organizados por ND e alfabético
-
-[📊 Ver Progresso](ameacas-arton/PROGRESS.md)
 
 ---
 
@@ -52,8 +48,6 @@ Conteúdo exclusivo da revista Dragão Brasil:
 - Magias extras
 - Regras opcionais
 
-[📊 Ver Progresso](dragao-brasil/PROGRESS.md)
-
 ---
 
 ### [Heróis de Arton](herois-arton/README.md)
@@ -65,8 +59,6 @@ Suplemento para personagens épicos:
 - Novos poderes
 - Arsenal expandido
 - Regras opcionais avançadas
-
-[📊 Ver Progresso](herois-arton/PROGRESS.md)
 
 ---
 

@@ -13,7 +13,7 @@ next: "../imperio-jade/README"
 > 
 > — Mestre Arsenal
 
-![Ilustração de Avatar de Kallyadranoch](../../_imagens/ameacas-arton/avatar-kallyadranoch.jpg)
+![Ilustração de Avatar de Kallyadranoch](../../_imagens/placeholder-criatura.png)
 *Descrição: Seu olhar é atraído para a criatura prostrada no cume da montanha de riquezas. Tão grande que as asas abertas escondem o céu, tão grande que o menor movimento estremece o mundo. Aquele só pode ser o maior dragão em todos os reinos — maior que Beluhga, Benthos ou Sckhar, maior que todos os Dragões-Reais. Em suas escamas, correndo como água, as seis cores dos seis dragões. As seis cores das tranças de Kallyadranoch.*
 
 Seu olhar é atraído para a criatura prostrada no cume da montanha de riquezas. Tão grande que as asas abertas escondem o céu, tão grande que o menor movimento estremece o mundo. Aquele só pode ser o maior dragão em todos os reinos — maior que Beluhga, Benthos ou Sckhar, maior que todos os Dragões-Reais. Em suas escamas, correndo como água, as seis cores dos seis dragões. As seis cores das tranças de Kallyadranoch.

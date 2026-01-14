@@ -8,7 +8,7 @@ next: "02-dinossauros-carnivoros.md"
 
 > "Quase nada consigue assustá-los, o ataque de um grande carnívoro ou outro tipo de ameaça pode provocar um estouro de manada. Quando isso acontece, pouca coisa sobrevive ao estrago…"
 
-![Burafonte](../../_imagens/ameacas-arton/burafonte.jpg)
+![Burafonte](../../_imagens/placeholder-criatura.png)
 *Descrição: Enormes lagartos-trovão com chifres brancos seguindo da cabeça à cauda, alguns quase do tamanho de um homem. Olhar carrancudo e mal-humorado.*
 
 ## Visão Geral

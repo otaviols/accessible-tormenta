@@ -40,5 +40,5 @@ Ao se tornar um mestre cozinheiro, você recebe a seguinte habilidade:
 **Navegação:**
 
 - [← Anterior: Mestre Bêbado](27-mestre-bebado.md)
-- [→ Próximo: Necromante](29-necromante.md)
+- [→ Próximo: Mestre dos Desejos](29-mestre-dos-desejos.md)
 - [↑ Voltar para Distinções](README.md)

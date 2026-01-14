@@ -9,7 +9,7 @@ next: "03-agua-namasqall"
 
 # Corgann
 
-![Ilustração de Corgann](../../_imagens/ameacas-arton/corgann.jpg)
+![Ilustração de Corgann](../../_imagens/placeholder-criatura.png)
 *Descrição: À primeira vista, o que se aproxima parece algum tipo de peixe-fantasma voador, movendo-se no ar como faria na água. De transparência macabra, deixando entrever órgãos internos luminosos. Conjuntos de bulbos frontais fazem o papel de olhos, enquanto grandes nadadeiras lembram véus luminosos.*
 
 À primeira vista, o que se aproxima parece algum tipo de peixe-fantasma voador, movendo-se no ar como faria na água. De transparência macabra, deixando entrever órgãos internos luminosos. Conjuntos de bulbos frontais fazem o papel de olhos, enquanto grandes nadadeiras lembram véus luminosos.

@@ -9,7 +9,7 @@ next: "03-gangue-goblin"
 
 # Bruxa Goblin
 
-![Ilustração de Bruxa Goblin](../../_imagens/ameacas-arton/bruxa-goblin.jpg)
+![Ilustração de Bruxa Goblin](../../_imagens/placeholder-criatura.png)
 *Descrição: Uma criatura pequena e horrenda montada em uma velha vassoura voadora. Usa um enorme chapéu pontudo e manto esfarrapado que não conseguem esconder sua feiura. Sua mão verruguenta segura o que parece ser um coração humano ainda sangrando.*
 
 "Acham que é 'apenas uma goblin'? Parvos ignorantes! Como acham que EU acabei assim?"

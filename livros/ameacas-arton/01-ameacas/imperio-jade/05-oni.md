@@ -13,7 +13,7 @@ next: "06-tengu"
 > 
 > — Frase escutada dentro de uma taverna em Tamu-ra
 
-![Ilustração de Oni](../../_imagens/ameacas-arton/oni.jpg)
+![Ilustração de Oni](../../_imagens/placeholder-criatura.png)
 *Descrição: Humanoides imponentes com pele vermelho-ferrugem marcada com cicatrizes e tatuagens impressionantes em negro. Possuem cornos grotescos que emergem da testa, olhos negros como breu e uma boca repleta de dentes afiados. Vestem armaduras orientais de placas laqueadas ou andam com o tronco nu para exibir suas tatuagens de guerra.*
 
 Os oni são o completo oposto da honra, seu nome é sinônimo de covardia. Os tamuraneses acreditam que quando uma criatura age com desonra, suas ações vão se acumulando dentro dela, aos poucos a corrompendo. Chegando ao ponto de deturpar até mesmo a aparência física. Quando um guerreiro finalmente quebra algum código ou protocolo de honra, os chifres brotam de sua testa e seus pensamentos ficam tomados por impurezas. Esse guerreiro desonrado recebe o nome oni.

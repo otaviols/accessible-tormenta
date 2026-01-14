@@ -13,7 +13,7 @@ next: "05-devoto-hyninn"
 > 
 > — Herrig, suraggel clérigo de Hyninn
 
-![Ilustração de Clérigos de Hyninn](../../_imagens/ameacas-arton/clerigo-hyninn.jpg)
+![Ilustração de Clérigos de Hyninn](../../_imagens/placeholder-criatura.png)
 *Descrição: Em seu manto puído, o goblin tem o aspecto de um ladrão maltrapilho comum, até dizer sutilmente algo como "fazei-me mais esperto que os mais espertos" e começar a conjuração de uma magia.*
 
 Em seu manto puído, o goblin tem o aspecto de um ladrão maltrapilho comum, até dizer sutilmente algo como "fazei-me mais esperto que os mais espertos" e começar a conjuração de uma magia.

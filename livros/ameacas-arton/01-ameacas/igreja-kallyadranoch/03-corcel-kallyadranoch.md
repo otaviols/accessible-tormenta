@@ -13,7 +13,7 @@ next: "04-dracomante"
 > 
 > — Laxann Helataxx, meio-elfo guerreiro devoto de Kallyadranoch
 
-![Ilustração de Corcel de Kallyadranoch](../../_imagens/ameacas-arton/corcel-kallyadranoch.jpg)
+![Ilustração de Corcel de Kallyadranoch](../../_imagens/placeholder-criatura.png)
 *Descrição: A criatura tem o tamanho e forma de um cavalo, mas claramente não é. O corpo escamado, a longa cauda reptiliana, as grandes asas coriáceas de dragão, as mandíbulas com dentes afiados de onde pingam chamas — tudo isso deixa pouca dúvida sobre sua real natureza dracônica. É uma montaria que inspira tanto admiração quanto medo.*
 
 A criatura tem o tamanho e forma de um cavalo, mas claramente não é. O corpo escamado, a longa cauda, as grandes asas coriáceas, as mandíbulas com dentes afiados de onde pingam chamas — tudo isso deixa pouca dúvida sobre sua real natureza.

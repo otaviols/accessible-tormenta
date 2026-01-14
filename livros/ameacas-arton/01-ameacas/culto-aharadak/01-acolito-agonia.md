@@ -13,7 +13,7 @@ next: "02-aspecto-aharadak"
 > 
 > — Saystar Windwalker, sílfide abençoada de Wynna
 
-![Ilustração de um Acólito da Agonia](../../_imagens/ameacas-arton/acolito-agonia.jpg)
+![Ilustração de um Acólito da Agonia](../../_imagens/placeholder-criatura.png)
 *Descrição: A figura em mantos ensanguentados, empunhando uma lâmina enferrujada, bem poderia ser um açougueiro saindo do abatedouro. A loucura da Tormenta é clara em seus olhos injetados. Mas o mais assustador são as cicatrizes em seu rosto e braços; de alguma forma, vocês sabem que foram infligidas por ele próprio.*
 
 A figura em mantos ensanguentados, empunhando uma lâmina enferrujada, bem poderia ser um açougueiro saindo do abatedouro. A loucura da Tormenta é clara em seus olhos injetados. Mas o mais assustador são as cicatrizes em seu rosto e braços; de alguma forma, vocês sabem que foram infligidas por ele próprio.

@@ -13,7 +13,7 @@ next: "06-gatuno"
 > 
 > — Adalbert de Deheon, patrulheiro de Valkaria
 
-![Ilustração de Devoto de Hyninn](../../_imagens/ameacas-arton/devoto-hyninn.jpg)
+![Ilustração de Devoto de Hyninn](../../_imagens/placeholder-criatura.png)
 *Descrição: O ladrão está cercado, sua fuga parece impossível, até que ele murmura uma oração ligeira. Diante de seus olhares incrédulos, ele se transforma em um pequeno macaco e escala a muralha, sumindo do outro lado.*
 
 O ladrão está cercado, sua fuga parece impossível, até que ele murmura uma oração ligeira. Diante de seus olhares incrédulos, ele se transforma em um pequeno macaco e escala a muralha, sumindo do outro lado.

@@ -9,7 +9,7 @@ next: "04-filibusteiro"
 
 # Gnoll Saqueador
 
-![Ilustração de Gnoll Saqueador](../../_imagens/ameacas-arton/gnoll-saqueador.jpg)
+![Ilustração de Gnoll Saqueador](../../_imagens/placeholder-criatura.png)
 *Descrição: Humanoide com corpo esguio mas musculoso coberto por pelagem manchada, cabeça de hiena com orelhas arredondadas e focinho alongado. Empunha uma lança com uma mão enquanto segura um arco curto com a outra, pronto para atacar à distância ou corpo a corpo conforme necessário.*
 
 Gnoll Saqueador representa o guerreiro típico das alcateias gnoll — predador versátil, capaz de atacar tanto à distância com arcos quanto em combate próximo com lanças. Estes são os membros mais comuns dos bandos que espreitam rotas comerciais e atacam viajantes desprotegidos.

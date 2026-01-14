@@ -11,7 +11,7 @@ next: "04-bandoleiros.md"
 > "Que mal pode fazer negociar com um demônio?"  
 > — Sathy, qareen barda
 
-![Demônio da Pólvora](../../_imagens/ameacas-arton/demonio-polvora.jpg)
+![Demônio da Pólvora](../../_imagens/placeholder-criatura.png)
 *Descrição: Figura demoníaca de pele cinzenta com vestes extravagantes, orelhas agudas e chifres caprinos. Braços anormalmente longos com múltiplos cotovelos, mãos de nove dedos empunhando pistolas sofisticadas. Queixo alongado com três bocas de dentes afiados.*
 
 ## Descrição

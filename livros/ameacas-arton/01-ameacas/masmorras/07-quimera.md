@@ -10,7 +10,7 @@ next: "08-slark"
 
 # Quimera
 
-![Quimera](../../_imagens/ameacas-arton/quimera.jpg)
+![Quimera](../../_imagens/placeholder-criatura.png)
 
 *Descrição: Uma criatura monstruosa de aspecto draconico com o tamanho de um cavalo grande. Possui um corpo leonino musculoso coberto de pelos dourados e escamas em certas áreas. Três cabeças emergem do torso: uma de leão com juba flamejante ao centro, uma de cabra com chifres retorcidos à esquerda, e uma de dragão com escamas vermelhas e presas gotejando fogo à direita. Uma cauda serpentina com cabeça própria se ergue atrás do corpo, sibilando ameaçadoramente. Asas de dragão poderosas crescem de suas costas. A criatura está em postura de batalha em uma câmara de masmorra iluminada por tochas, cada cabeça olhando em direção diferente simultaneamente.*
 

@@ -13,7 +13,7 @@ next: "02-dragao-adulto"
 > 
 > — Hyakunen, o Imortal (incinerado)
 
-![Ilustração de Dragões Menores](../../_imagens/ameacas-arton/dragao-menor.jpg)
+![Ilustração de Dragões Menores](../../_imagens/placeholder-criatura.png)
 *Descrição: O lagarto escamoso e colorido, do tamanho de um grande cão, emerge da caverna com um olhar ansioso. Então urra, um rugido animalesco que atrai outros iguais. Logo formam uma revoada estridente que avança sobre vocês, as mandíbulas gotejantes de ácido.*
 
 O lagarto escamoso e colorido, do tamanho de um grande cão, emerge da caverna com um olhar ansioso. Então urra, um rugido animalesco que atrai outros iguais. Logo formam uma revoada estridente que avança sobre vocês, as mandíbulas gotejantes de ácido.

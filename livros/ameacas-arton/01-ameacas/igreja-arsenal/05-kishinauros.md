@@ -13,7 +13,7 @@ next: "06-sacerdote-guerra"
 > 
 > — Yuna Minazaki, lefeu erudita
 
-![Ilustração de Kishinauros](../../_imagens/ameacas-arton/kishinauros.jpg)
+![Ilustração de Kishinauros](../../_imagens/placeholder-criatura.png)
 *Descrição: A versão extrema do kishin. Um avatar divino colossalmente maior. O construto respira autoridade bélica através de sua forma de metal negro altíssima, cravejada com centenas de lanças, lâminas e canhões místicos. Suas enormes lâminas integradas parecem capazes de cortar montanhas. Os tubos de seu corpo expelem vapor e energia, e sua presença é tão intensa que distorce o ar ao redor.*
 
 A versão extrema do kishin. Um avatar divino colossalmente maior.

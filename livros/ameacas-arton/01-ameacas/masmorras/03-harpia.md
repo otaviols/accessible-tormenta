@@ -10,7 +10,7 @@ next: "04-glop"
 
 # Harpia
 
-![Harpia](../../_imagens/ameacas-arton/harpia.jpg)
+![Harpia](../../_imagens/placeholder-criatura.png)
 
 *Descrição: Uma criatura que mistura características femininas humanas com traços de ave de rapina. Possui torso e rosto de mulher com feições belas mas marcadas por crueldade, com olhos amarelos predatórios. Seus cabelos são emaranhados e escuros, quase como penas desgrenhadas. Do torso para baixo, o corpo transforma-se em pernas aviar musculosas terminando em garras afiadas de ave de rapina. Asas grandes e poderosas crescem de suas costas. A criatura voa ameaçadoramente em uma masmorra escura, emitindo um grito ensurdecedor, com expressão de sadismo no rosto.*
 

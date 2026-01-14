@@ -9,7 +9,7 @@ next: "07-hobgoblin-comandante"
 
 # Hobgoblin Atirador
 
-![Ilustração de Hobgoblin Atirador](../../_imagens/ameacas-arton/hobgoblin-atirador.jpg)
+![Ilustração de Hobgoblin Atirador](../../_imagens/placeholder-criatura.png)
 *Descrição: Um hobgoblin de armadura leve recuando para trás da linha de frente. Ele empunha uma lança metálica robusta e peculiar, cheia de mecanismos incomuns — na verdade, uma arma de fogo avançada.*
 
 "Serei morto um dia, é certo que sim. Mas não agora. Nem por você!"

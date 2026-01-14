@@ -13,7 +13,7 @@ next: "02-forjador-liturgico"
 > 
 > — Thallus Rozendus, o Historiador
 
-![Ilustração de Coletores de Arsenal](../../_imagens/ameacas-arton/coletor-arsenal.jpg)
+![Ilustração de Coletores de Arsenal](../../_imagens/placeholder-criatura.png)
 *Descrição: O bando usa armaduras que de certa forma lembram a célebre couraça de Mestre Arsenal, com as características aletas no elmo fechado. Mesmo que os rostos estejam ocultos, quase se consegue notar sua cobiça quando percebem que vocês têm boas armas. Suas armaduras são decoradas com o símbolo da espada e martelo cruzados.*
 
 O bando usa armaduras que de certa forma lembram a célebre couraça de Mestre Arsenal, com as características aletas no elmo fechado. Mesmo que os rostos estejam ocultos, quase se consegue notar sua cobiça quando percebem que vocês têm boas armas.

@@ -13,7 +13,7 @@ next: "04-reishid"
 > 
 > — Ogmond Andarr, cavaleiro de Khalmyr
 
-![Ilustração de um Fanático Lefou](../../_imagens/ameacas-arton/fanatico-lefou.jpg)
+![Ilustração de um Fanático Lefou](../../_imagens/placeholder-criatura.png)
 *Descrição: À primeira vista, parece um bárbaro empunhando um tacape e vestindo uma armadura rústica, ambas feitas com carapaça de algum monstro. Um olhar atento revela a terrível verdade: não são arma e armadura, mas crostas em seu próprio corpo. Ele tem a mácula!*
 
 À primeira vista, parece um bárbaro empunhando um tacape e vestindo uma armadura rústica, ambas feitas com carapaça de algum monstro. Um olhar atento revela a terrível verdade: não são arma e armadura, mas crostas em seu próprio corpo. Ele tem a mácula!

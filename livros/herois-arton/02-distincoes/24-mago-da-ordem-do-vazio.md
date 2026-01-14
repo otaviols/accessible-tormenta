@@ -44,5 +44,5 @@ A partir do 2º nível, você pode escolher os seguintes poderes:
 
 **Navegação:**
 - [← Infiltrador de Wynlla](23-infiltrador-de-wynlla.md)
-- [Próxima Distinção →](25-proxima-distincao.md)
+- [Próxima Distinção →](25-mago-de-batalha-de-wynlla.md)
 - [↑ Voltar para Distinções](../README.md)

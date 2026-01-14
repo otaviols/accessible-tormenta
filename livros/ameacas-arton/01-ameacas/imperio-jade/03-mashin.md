@@ -13,7 +13,7 @@ next: "04-nezumi"
 > 
 > — Makoto Tsume, mashin samurai
 
-![Ilustração de Mashin](../../_imagens/ameacas-arton/mashin.jpg)
+![Ilustração de Mashin](../../_imagens/placeholder-criatura.png)
 *Descrição: À primeira vista, lembra um ser humano esbelto em armadura metálica, ou uma estátua de manufatura sofisticada. A cabeça parece um elmo fechado, sem rosto, com gemas luzindo como olhos. Placas metálicas em formas elegantes deslizam sobre o corpo com precisão impecável, deixando entrever uma musculatura interna de fibras mágicas sedosas, milimetricamente trançadas. Gravuras e ideogramas grafados no metal brilham e lampejam com a energia elemental interior.*
 
 À primeira vista, lembra um ser humano esbelto em armadura metálica, ou uma estátua de manufatura sofisticada. A cabeça parece um elmo fechado, sem rosto, com gemas luzindo como olhos. Placas metálicas em formas elegantes deslizam sobre o corpo com precisão impecável, deixando entrever uma musculatura interna de fibras mágicas sedosas, milimetricamente trançadas. Gravuras e ideogramas grafados no metal brilham e lampejam com a energia elemental interior.

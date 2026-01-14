@@ -10,7 +10,7 @@ next: "02-cocatriz"
 
 # Asa-Assassina
 
-![Asa-Assassina](../../_imagens/ameacas-arton/asa-assassina.jpg)
+![Asa-Assassina](../../_imagens/placeholder-criatura.png)
 
 *Descrição: Um inseto minúsculo com corpo semelhante a uma abelha metálica, possuindo asas triangulares afiadas como navalhas que brilham com um tom metálico. Suas asas são desproporcionalmente grandes em relação ao corpo compacto. O inseto paira no ar com movimentos precisos e ameaçadores, suas asas cortantes prontas para decapitar presas incautas em masmorras escuras.*
 

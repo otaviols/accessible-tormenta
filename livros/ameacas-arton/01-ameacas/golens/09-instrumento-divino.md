@@ -13,7 +13,7 @@ next: "10-soldado-mecanico"
 > 
 > — Solvarr, lefou bucaneiro
 
-![Ilustração de Instrumento Divino](../../_imagens/ameacas-arton/instrumento-divino.jpg)
+![Ilustração de Instrumento Divino](../../_imagens/placeholder-criatura.png)
 *Descrição: O ser luminoso parece um guerreiro sagrado trajando uma couraça de cristal, sob a qual circula algo que parece luz líquida. Uma auréola cristalina flutua acima da cabeça. Empunha espada e escudo feitos do mesmo material, trazendo o símbolo do Deus da Justiça. Luz divina emana de cada movimento, revelando um propósito sagrado.*
 
 O ser luminoso parece um guerreiro sagrado trajando uma couraça de cristal, sob a qual circula algo que parece luz líquida. Uma auréola cristalina flutua acima da cabeça. Empunha espada e escudo feitos do mesmo material, trazendo o símbolo do Deus da Justiça.

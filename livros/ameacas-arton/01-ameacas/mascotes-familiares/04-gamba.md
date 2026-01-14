@@ -8,7 +8,7 @@ next_title: Homúnculo
 
 # Gambá
 
-![Imagem de um Gambá](../../_imagens/ameacas-arton/gamba.jpg)
+![Imagem de um Gambá](../../_imagens/placeholder-criatura.png)
 *Descrição: Um pequeno animal pouco maior que um gato, com pelagem manchada de preto e branco e uma cauda longa e escamosa. Está virado de costas com a cauda erguida em posição de ataque.*
 
 *"Amigos, enfim consegui um bichinho! Amigos? Cadê todo mundo?"*  

@@ -13,7 +13,7 @@ next: "03-mashin"
 > 
 > — Yellsew Sadlac, qareen bucaneiro
 
-![Ilustração de Kappa](../../_imagens/ameacas-arton/kappa.jpg)
+![Ilustração de Kappa](../../_imagens/placeholder-criatura.png)
 *Descrição: Os estranhos seres aquáticos têm o aspecto de tartarugas bípedes, com faces reptilianas, olhos redondos e vermelhos, escamas verde-amareladas e uma grande carapaça às costas. Têm pés com três dedos e mãos com quatro. Seus movimentos demonstram serem mais rápidos e ágeis do que sugere o parentesco animal. No topo da cabeça, há uma depressão como uma tigela contendo água.*
 
 Os estranhos seres aquáticos têm o aspecto de tartarugas bípedes, com faces reptilianas, olhos redondos e vermelhos, escamas verde-amareladas e uma grande carapaça às costas. Têm pés com três dedos e mãos com quatro. Seus movimentos demonstram ser mais rápidos e ágeis do que sugere o parentesco animal.

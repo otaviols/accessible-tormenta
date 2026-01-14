@@ -13,7 +13,7 @@ next: "05-kishinauros"
 > 
 > — Arwan Ystamen, estrategista salistiense
 
-![Ilustração de Kishin](../../_imagens/ameacas-arton/kishin.jpg)
+![Ilustração de Kishin](../../_imagens/placeholder-criatura.png)
 *Descrição: Grande e robusto de tanta blindagem, o engenho humanoide parece ainda maior. Mesmo sem armas, sua própria forma já exalaria violência. Mas ele TEM armas! Lâminas, lanças e canhões integrados a seu corpo maciço de metal escuro. Um construto de guerra divino em toda sua imponência.*
 
 Grande e robusto de tanta blindagem, o engenho humanoide parece ainda maior. Mesmo sem armas, sua própria forma já exalaria violência. Mas ele TEM armas!

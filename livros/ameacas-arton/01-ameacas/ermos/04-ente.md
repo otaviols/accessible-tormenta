@@ -9,7 +9,7 @@ next: "05-estirge"
 
 # Ente
 
-![Ilustração de Ente](../../_imagens/ameacas-arton/ente.jpg)
+![Ilustração de Ente](../../_imagens/placeholder-criatura.png)
 *Descrição: A criatura é alta como uma árvore e também muito parecida com uma. Tem pele grossa e marrom, braços como galhos retorcidos e pernas que lembram um tronco bipartido, com pés semelhantes a raízes. No topo da cabeça brota farta folhagem verde, formando uma copa densa. Os olhos, que lembram gotas de seiva, brilham com sabedoria e tranquilidade.*
 
 "Juro por Nimb, a árvore se mexeu! E está andando! E está vindo PRA CÁ!"

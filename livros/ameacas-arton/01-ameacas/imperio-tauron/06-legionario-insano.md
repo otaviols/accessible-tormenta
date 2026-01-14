@@ -13,7 +13,7 @@ next: "07-minauro"
 > 
 > — Werner Brahmorim, anão inventor
 
-![Ilustração de Legionário Insano](../../_imagens/ameacas-arton/legionario-insano.jpg)
+![Ilustração de Legionário Insano](../../_imagens/placeholder-criatura.png)
 *Descrição: Parece apenas mais uma patrulha de legionários, como tantas outras nas estradas imperiais. No entanto, mesmo à distância, algo está errado. Os minotauros movem-se trôpegos, cambaleantes. Rosnam palavras e maldições ininteligíveis. E quando erguem a cabeça, na escuridão dos elmos, os olhos brilham como brasas vermelhas.*
 
 Parece apenas mais uma patrulha de legionários, como tantas outras nas estradas imperiais. No entanto, mesmo à distância, vocês percebem algo errado. Os minotauros movem-se trôpegos, cambaleantes. Rosnam palavras e maldições ininteligíveis. E quando erguem a cabeça, na escuridão dos elmos, os olhos brilham como brasas vermelhas.

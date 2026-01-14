@@ -9,7 +9,7 @@ next: "02-bruxa-goblin"
 
 # Bugbear
 
-![Ilustração de Bugbear](../../_imagens/ameacas-arton/bugbear.jpg)
+![Ilustração de Bugbear](../../_imagens/placeholder-criatura.png)
 *Descrição: Uma criatura enorme e abrutalhada, com corpo imenso aparentemente desajeitado sobre pernas curtas e desproporcionais. Sua expressão facial parece bestial e lenta, mas seus olhos vermelhos brilham com inteligência cruel.*
 
 "Cuidado! Esse monstrengo feioso é muito mais perigoso do que parece!"

@@ -8,7 +8,7 @@ next_title: Escudeiro
 
 # Bogum
 
-![Imagem de um Bogum](../../_imagens/ameacas-arton/bogum.jpg)
+![Imagem de um Bogum](../../_imagens/placeholder-criatura.png)
 *Descrição: Um pequeno construto feito de materiais naturais — gravetos, cascas, conchas e ossos. Tem duas perninhas de galhos, dois bracinhos de gravetos, e olhinhos brilhantes sob uma concha de caramujo que lhe serve de cabeça.*
 
 *"Sim, eu mesma o fiz. Com presentes da deusa. Não, ele não morde, deixa de ser besta!"*  

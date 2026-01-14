@@ -13,7 +13,7 @@ next: "05-dragao-bicefalo"
 > 
 > — Leuric Glörufindel, o Trovador Triste
 
-![Ilustração de um Dragão Feral](../../_imagens/ameacas-arton/dragao-feral.jpg)
+![Ilustração de um Dragão Feral](../../_imagens/placeholder-criatura.png)
 *Descrição: O corpanzil exibe musculatura poderosa sob o couro blindado e asas que fariam sombra a um celeiro. Não parece haver emoção na face coriácea, exceto selvageria.*
 
 O corpanzil exibe musculatura poderosa sob o couro blindado e asas que fariam sombra a um celeiro. Não parece haver emoção na face coriácea, exceto selvageria.

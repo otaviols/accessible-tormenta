@@ -11,7 +11,7 @@ navigation:
 
 # Capivara
 
-![Ilustração de Capivara](../../_imagens/ameacas-arton/capivara.jpg)
+![Ilustração de Capivara](../../_imagens/placeholder-criatura.png)
 *Descrição: Uma capivara robusta de porte médio, com pelagem marrom-avermelhada e focinho largo característico. O grande roedor está em postura alerta próximo a um corpo d'água, mostrando sua natureza dócil mas atenta. Algumas capivaras são montadas por hynne e outras raças de baixa estatura, conhecidos curiosamente como "capivaleiros".*
 
 > "Um goblin cavalgando um rato!? Não, eu não vi. Você também não."

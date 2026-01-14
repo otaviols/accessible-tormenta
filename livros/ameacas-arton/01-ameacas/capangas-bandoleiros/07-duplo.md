@@ -13,7 +13,7 @@ next: "../README"
 > 
 > — Marenn Loramis, sereia clériga de Oceano (últimas palavras)
 
-![Ilustração de um Duplo](../../_imagens/ameacas-arton/duplo.jpg)
+![Ilustração de um Duplo](../../_imagens/placeholder-criatura.png)
 *Descrição: Quando seu disfarce é enfim desmascarado, a sacerdotisa élfica sorri com malícia — e se transforma em algo muito diferente. Lembra um boneco ou manequim de pele branca, sem feições. Sem nariz, orelhas ou cabelo; apenas olhos negros e uma pequena boca redonda, sem qualquer expressão. As mãos agora possuem longas garras negras, que a criatura parece disposta a usar.*
 
 Quando seu disfarce é enfim desmascarado, a sacerdotisa élfica sorri com malícia — e se transforma em algo muito diferente. Lembra um boneco ou manequim de pele branca, sem feições. Sem nariz, orelhas ou cabelo; apenas olhos negros e uma pequena boca redonda, sem qualquer expressão. As mãos agora possuem longas garras negras, que a criatura parece disposta a usar.

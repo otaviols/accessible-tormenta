@@ -13,7 +13,7 @@ next: "04-kishin"
 > 
 > — Kaava Ezzilok, lefou caçadora
 
-![Ilustração de Guerreiro Perpétuo](../../_imagens/ameacas-arton/guerreiro-perpetuo.jpg)
+![Ilustração de Guerreiro Perpétuo](../../_imagens/placeholder-criatura.png)
 *Descrição: Visto à distância, poderia ser um clérigo ou guerreiro em armadura completa. Conforme se aproxima, no entanto, percebe-se que a couraça está vazia e não há mãos empunhando o martelo e o escudo. A armadura se move sozinha, animada por uma força espectral invisível, seus movimentos ecoando os de um guerreiro fantasma aprisionado em seu interior.*
 
 Visto à distância, poderia ser um clérigo ou guerreiro em armadura completa. Conforme se aproxima, no entanto, percebe-se que a couraça está vazia e não há mãos empunhando o martelo e o escudo.

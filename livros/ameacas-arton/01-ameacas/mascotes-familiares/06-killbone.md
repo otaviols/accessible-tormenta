@@ -8,7 +8,7 @@ next_title: Tentacute
 
 # Kill'Bone
 
-![Imagem de um Kill'Bone](../../_imagens/ameacas-arton/killbone.jpg)
+![Imagem de um Kill'Bone](../../_imagens/placeholder-criatura.png)
 *Descrição: Um canídeo selvagem com armadura óssea revestida de espinhos e uma longa cauda também espinhosa. A cabeça ossuda lembra um crânio, com olhos pouco visíveis através de orifícios que lembram órbitas vazias.*
 
 *"Viajar pelos túneis dos finntroll sem levar um destes é a marca do completo imbecil."*  

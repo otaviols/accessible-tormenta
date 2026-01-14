@@ -13,7 +13,7 @@ next: "07-golem-materia-vermelha"
 > 
 > — Jaimim da Brigada Rubra, hynne ladino
 
-![Ilustração de Golem de Ferro](../../_imagens/ameacas-arton/golem-ferro.jpg)
+![Ilustração de Golem de Ferro](../../_imagens/placeholder-criatura.png)
 *Descrição: O titã se assemelha a um gigante vestindo armadura pesada e elmo fechado, com punhos descomunais. Contudo, quando se movimenta, parece muito mais forte e denso que uma criatura de carne e osso. Ainda, as frestas da armadura derramam fogo elemental, deixando claro que o adversário não é algo criado pelos deuses. Sua presença massiva domina o campo de batalha.*
 
 O titã se assemelha a um gigante vestindo armadura pesada e elmo fechado, com punhos descomunais. Contudo, quando se movimenta, parece muito mais forte e denso que uma criatura de carne e osso. Ainda, as frestas da armadura derramam fogo elemental, deixando claro que o adversário não é algo criado pelos deuses.

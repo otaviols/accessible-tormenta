@@ -8,7 +8,7 @@ next_title: Enxame Larval
 
 # Cão de Kally
 
-![Imagem de um Cão de Kally](../../_imagens/ameacas-arton/cao-kally.jpg)
+![Imagem de um Cão de Kally](../../_imagens/placeholder-criatura.png)
 *Descrição: Uma criatura híbrida entre lobo e dragão, com escamas avermelhadas, presas afiadas e asas vestigiais. Seus olhos brilham com uma luz ameaçadora.*
 
 *"Já enfrentei cães de guarda, mastins de guerra, até lobos invernais. Mas isso... isso é outra coisa completamente diferente."*  

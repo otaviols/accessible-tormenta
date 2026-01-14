@@ -68,5 +68,5 @@ Você criou um mutagênico especialmente poderoso e perigoso. Uma vez por dia, p
 
 **Navegação:**
 - [Anterior: Mosqueteiro de Rishantor](31-mosqueteiro-de-rishantor.md)
-- [Próximo: Necromante de Arton](33-necromante-de-arton.md)
+- [Próximo: Pistoleiro de Smokestone](33-pistoleiro-de-smokestone.md)
 - [Voltar para Distinções](README.md)

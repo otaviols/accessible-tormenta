@@ -9,7 +9,7 @@ next: "09-rhandomm"
 
 # Tendrículo
 
-![Ilustração de Tendrículo](../../_imagens/ameacas-arton/tendriculo.jpg)
+![Ilustração de Tendrículo](../../_imagens/placeholder-criatura.png)
 *Descrição: Grande como uma cabana, a coisa parece um amontoado de vegetação úmida, emaranhada com vinhas e cipós. Tem dois longos tentáculos feitos de galhos e uma abertura cavernosa no centro do corpo, similar a uma bocarra circular, com "dentes" feitos de espinhos.*
 
 "'Não mate a plantinha, ela é filha do deus Não-Sei-das-Quantas, blablablá', disse o druida… E morreu."

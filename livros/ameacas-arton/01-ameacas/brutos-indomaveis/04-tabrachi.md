@@ -13,7 +13,7 @@ next: "05-trog"
 > 
 > — Hyakunen, o Imortal (emboscado)
 
-![Ilustração de Tabrachi](../../_imagens/ameacas-arton/tabrachi.jpg)
+![Ilustração de Tabrachi](../../_imagens/placeholder-criatura.png)
 *Descrição: Embora humanoide, a criatura tem o aspecto de um grande sapo. Veste uma armadura rústica de couro e empunha uma lança. Da boca larga e rasgada pende uma língua grossa, mas ligeira, que lambe um dos olhos grandes e salientes.*
 
 Embora humanoide, a criatura tem o aspecto de um grande sapo. Veste uma armadura rústica de couro e empunha uma lança. Da boca larga e rasgada pende uma língua grossa, mas ligeira, que lambe um dos olhos grandes e salientes.

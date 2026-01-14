@@ -8,7 +8,7 @@ next_title: Kobold
 
 # Enxame Larval
 
-![Imagem de um Enxame Larval](../../_imagens/ameacas-arton/enxame-larval.jpg)
+![Imagem de um Enxame Larval](../../_imagens/placeholder-criatura.png)
 *Descrição: Uma massa agitada de pequenas criaturas larvárias, com corpos translúcidos e garras minúsculas, cobrindo o chão como uma onda viva.*
 
 *"Não são perigosos individualmente, mas quando vêm aos milhares..."*  

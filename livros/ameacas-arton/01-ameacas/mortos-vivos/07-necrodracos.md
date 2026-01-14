@@ -9,7 +9,7 @@ next: "08-tarso.md"
 > "Veja bem, matar um dragão não significa necessariamente o fim de todos os problemas."  
 > — Vladislav Tpish, reitor da Academia Arcana
 
-![Necrodraco](../../_imagens/ameacas-arton/necrodraco.jpg)
+![Necrodraco](../../_imagens/placeholder-criatura.png)
 *Descrição: Gigantesco cadáver de dragão que se move e voa, mesmo sem couro nas asas. Luzes intensas e gélidas nas órbitas vazias do crânio.*
 
 ## Descrição

@@ -13,7 +13,7 @@ next: "04-golem-carne"
 > 
 > — Joe del Nileppez, elfo ladino
 
-![Ilustração de Golem de Bronze](../../_imagens/ameacas-arton/golem-bronze.jpg)
+![Ilustração de Golem de Bronze](../../_imagens/placeholder-criatura.png)
 *Descrição: O vulto em couraça cobreada bem poderia ser algum legionário tapistano. Conforme se torna mais visível, no entanto, vocês percebem algo não natural em seus movimentos. A verdade fica mais evidente quando brilhos flamejantes vazam das frestas em sua armadura. Sua postura marcial e construção metálica revelam um guerreiro autômato pronto para o combate.*
 
 O vulto em couraça cobreada bem poderia ser algum legionário tapistano. Conforme se torna mais visível, no entanto, vocês percebem algo não natural em seus movimentos. A verdade fica mais evidente quando brilhos flamejantes vazam das frestas em sua armadura.

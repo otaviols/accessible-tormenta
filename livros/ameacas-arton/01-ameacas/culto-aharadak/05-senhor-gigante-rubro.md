@@ -13,7 +13,7 @@ next: "06-zyrrinaz"
 > 
 > — Engelisa, golem clériga de Lena
 
-![Ilustração de um Senhor do Gigante Rubro](../../_imagens/ameacas-arton/senhor-gigante-rubro.jpg)
+![Ilustração de um Senhor do Gigante Rubro](../../_imagens/placeholder-criatura.png)
 *Descrição: O humanoide bruto em carapaça espinhosa e gotejante bem poderia ser apenas outra abominação da Tormenta. No entanto, através de frestas e transparências, pode-se entrever um humano sendo devorado pela aberração… ou usando-a como armadura.*
 
 O humanoide bruto em carapaça espinhosa e gotejante bem poderia ser apenas outra abominação da Tormenta. No entanto, através de frestas e transparências, pode-se entrever um humano sendo devorado pela aberração… ou usando-a como armadura.
