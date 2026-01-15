@@ -69,6 +69,7 @@ navigation:
 
 Quando usa uma **arma corpo a corpo leve** ou uma **arma de arremesso**, você pode usar sua **Destreza em vez de Força** nos testes de ataque e rolagens de dano.
 
+**Uso típico:** Espadachins ágeis, duelistas, ladinos.
 
 ---
 
@@ -88,6 +89,7 @@ Você pode empunhar **duas armas de uma mão** com o poder Estilo de Duas Armas.
 
 **Uma vez por rodada**, quando faz um ataque com uma arma de arremesso, você pode gastar **1 PM** para fazer um **ataque adicional** contra o mesmo alvo, arremessando outra arma de arremesso.
 
+**Uso típico:** Especialista em facas arremessadas, ninja.
 
 ---
 
@@ -98,6 +100,7 @@ Quando usa uma arma de arremesso, você pode usar sua **Força em vez de Destrez
 
 **Bônus:** Se você possuir o poder **Ataque Poderoso**, poderá usá-lo com armas de arremesso.
 
+**Uso típico:** Bárbaro que arremessa machados, guerreiro que usa azagaias.
 
 ---
 
@@ -108,6 +111,7 @@ Quando usa uma arma de arremesso, você pode usar sua **Força em vez de Destrez
 
 **Importante:** Este ataque **não faz você perder** o bônus do escudo na Defesa.
 
+**Uso típico:** Guerreiros defensivos que também atacam.
 
 ---
 
@@ -118,6 +122,7 @@ Quando faz um ataque corpo a corpo com uma **arma de duas mãos**, você pode pa
 
 **Se acertar:** Além do dano, você faz uma **manobra derrubar ou empurrar** contra o alvo como uma **ação livre** (use o resultado do ataque como o teste de manobra).
 
+**Uso típico:** Guerreiros com martelos, machados grandes.
 
 ---
 
@@ -128,6 +133,7 @@ Sempre que faz um ataque corpo a corpo, você pode sofrer **–2 no teste de ata
 
 **Importante:** A decisão deve ser feita **antes** de rolar o ataque.
 
+**Uso típico:** Guerreiros de força, bárbaros.
 
 ---
 
@@ -140,6 +146,7 @@ Se estiver empunhando uma arma corpo a corpo em uma das mãos e **nada na outra*
 
 **Exemplo:** Espada longa (19-20/x2) vira (17-20/x3).
 
+**Uso típico:** Duelistas, espadachins refinados.
 
 ---
 
@@ -152,6 +159,7 @@ Quando sofre dano, você pode gastar **1 PM** para receber **redução de dano**
 
 **Importante:** Você só pode usar este poder **se estiver usando um escudo**.
 
+**Uso típico:** Tanques defensivos, paladinos.
 
 ---
 
@@ -162,6 +170,7 @@ Quando faz uma **investida montada**, você causa **+2d8 pontos de dano**.
 
 **Bônus:** Pode **continuar se movendo** depois do ataque. Você deve se mover em linha reta e seu movimento máximo ainda é o dobro do seu deslocamento.
 
+**Uso típico:** Cavaleiros, guerreiros montados.
 
 ---
 
@@ -174,6 +183,7 @@ Quando usa a ação agredir, você pode usar este poder.
 - Sofre **–2 em todos os testes de ataque**
 - Recebe **+5 na Defesa**
 
+**Uso típico:** Lutadores táticos, guerreiros inteligentes.
 
 ---
 
@@ -184,6 +194,7 @@ Você recebe **+2 em testes de ataque** para derrubar.
 
 **Bônus:** Quando derruba uma criatura com essa manobra, pode gastar **1 PM** para fazer um **ataque extra** contra ela.
 
+**Uso típico:** Lutadores de solo, guerreiros táticos.
 
 ---
 
@@ -198,6 +209,7 @@ Você recebe **+2 em testes de ataque** para desarmar.
 - Role **1d8** para a direção (sendo "1" diretamente à sua frente, "2" à frente e à direita, e assim por diante)
 - Role **1d6** para a distância (medida em quadrados de 1,5m a partir da criatura desarmada)
 
+**Uso típico:** Duelistas, guerreiros táticos.
 
 ---
 
@@ -206,6 +218,7 @@ Você recebe **+2 em testes de ataque** para desarmar.
 
 Você pode fazer **ataques à distância** contra oponentes **envolvidos em combate corpo a corpo** sem sofrer a penalidade de **–5** no teste de ataque.
 
+**Uso típico:** Arqueiros, arremessadores.
 
 ---
 
@@ -216,6 +229,7 @@ Se estiver empunhando uma arma de disparo que possa **recarregar como ação liv
 
 **Custo:** Se fizer isso, sofre **–2 em todos os testes de ataque** até o seu próximo turno.
 
+**Uso típico:** Arqueiros experientes.
 
 ---
 
@@ -226,6 +240,7 @@ Ao usar uma arma feita para uma **categoria de tamanho maior** que a sua, a pena
 
 **Normalmente:** Usar uma arma de uma categoria de tamanho maior impõe **–5** nos testes de ataque.
 
+**Uso típico:** Guerreiros de força brutal, bárbaro gigante.
 
 ---
 
@@ -240,6 +255,7 @@ Se estiver usando uma **armadura pesada**, você recebe **+2 na Defesa**.
 - **Inexpugnável:** +2 adicional (total +4)
 - **Fanático:** +2 adicional (total +6)
 
+**Uso típico:** Tanques pesados, guerreiros de linha de frente.
 
 ---
 
@@ -248,6 +264,7 @@ Se estiver usando uma **armadura pesada**, você recebe **+2 na Defesa**.
 
 Você recebe **+2 na Defesa** e **+2 em Reflexos**.
 
+**Uso típico:** Personagens ágeis, evitadores.
 
 ---
 
@@ -258,6 +275,7 @@ Se você estiver usando um **escudo**, o bônus na Defesa que ele fornece **aume
 
 **Exemplo:** Escudo leve (+2) vira +4, escudo pesado (+3) vira +5.
 
+**Uso típico:** Guerreiros defensivos.
 
 ---
 
@@ -268,6 +286,7 @@ Você pode **sacar armas de arremesso** como uma **ação livre** e recebe **+2 
 
 **Bônus:** Se também possuir o poder **Saque Rápido**, também recebe **+2 nos testes de ataque** com essas armas.
 
+**Uso típico:** Especialistas em facas, machados arremessados.
 
 ---
 
@@ -276,6 +295,7 @@ Você pode **sacar armas de arremesso** como uma **ação livre** e recebe **+2 
 
 Se estiver usando uma **arma de disparo**, você soma sua **Destreza nas rolagens de dano**.
 
+**Uso típico:** Arqueiros, besteiros.
 
 ---
 
@@ -288,6 +308,7 @@ Se estiver empunhando **duas armas** (e pelo menos uma delas for leve) e fizer a
 
 **Bônus:** Se possuir **Ambidestria** (raça qareen), em vez disso **não sofre penalidade** para usá-lo.
 
+**Uso típico:** Ladinos, rangers, duelistas de duas armas.
 
 ---
 
@@ -298,6 +319,7 @@ Se estiver usando uma arma corpo a corpo com **as duas mãos**, você recebe **+
 
 **Importante:** Este poder não pode ser usado com armas leves.
 
+**Uso típico:** Guerreiros de armas grandes, bárbaros.
 
 ---
 
@@ -308,6 +330,7 @@ Se estiver usando uma arma corpo a corpo em uma das mãos e **nada na outra**, v
 - **+2 na Defesa**
 - **+2 nos testes de ataque** com essa arma (exceto ataques desarmados)
 
+**Uso típico:** Duelistas clássicos.
 
 ---
 
@@ -316,6 +339,7 @@ Se estiver usando uma arma corpo a corpo em uma das mãos e **nada na outra**, v
 
 Seus **ataques desarmados** causam **1d6 pontos de dano** e podem causar **dano letal ou não letal** (sem penalidades).
 
+**Uso típico:** Monges, lutadores, bárbaros tribais.
 
 ---
 
@@ -328,6 +352,7 @@ Seu deslocamento **não é reduzido** por usar armaduras pesadas.
 
 **Bônus:** Também conta para o bônus escalar de **Encouraçado** (+2 Defesa adicional).
 
+**Uso típico:** Campeões de armadura completa.
 
 ---
 
@@ -336,6 +361,7 @@ Seu deslocamento **não é reduzido** por usar armaduras pesadas.
 
 Você recebe **+2 em testes de Enganação** para fintar e pode fintar como uma **ação de movimento** (em vez de ação padrão).
 
+**Uso típico:** Ladinos, duelistas astuciosos.
 
 ---
 
@@ -346,6 +372,7 @@ Escolha uma arma. Você recebe **+2 em testes de ataque** com essa arma.
 
 **Múltiplas Escolhas:** Você pode escolher este poder outras vezes para armas diferentes.
 
+**Uso típico:** Especialistas em uma arma específica.
 
 ---
 
@@ -356,6 +383,7 @@ Você passa **automaticamente** em testes de Cavalgar para não cair da montaria
 
 **Bônus:** Não sofre penalidades para **atacar à distância** ou **lançar magias** quando montado.
 
+**Uso típico:** Cavaleiros, arqueiros montados.
 
 ---
 
@@ -366,6 +394,7 @@ Se estiver usando uma **armadura pesada**, você recebe **+2 em todos os testes 
 
 **Bônus:** Também conta para o bônus escalar de **Encouraçado** (+2 Defesa adicional).
 
+**Uso típico:** Tanques supremos, paladinos.
 
 ---
 
@@ -378,6 +407,7 @@ Quando usa a **ação mirar**, você recebe:
 
 **Duração:** Até o fim do turno.
 
+**Uso típico:** Atiradores de elite, snipers.
 
 ---
 
@@ -390,6 +420,7 @@ Se estiver empunhando uma **arma alongada**, **uma vez por rodada**, sempre que 
 
 **Exemplo:** Lança (1d8) causa 3d8 contra investida.
 
+**Uso típico:** Guardas, defensores de choke points.
 
 ---
 
@@ -402,6 +433,7 @@ Você pode gastar uma **ação padrão** e **1 PM** para **assustar** todas as c
 
 **Recordando:** Teste oposto de Intimidação vs Vontade, abalado ou apavorado.
 
+**Uso típico:** Guerreiros intimidadores, líderes aterrorizantes.
 
 ---
 
@@ -419,6 +451,7 @@ Você recebe essa proficiência.
 
 **Múltiplas Escolhas:** Você pode escolher este poder outras vezes para proficiências diferentes.
 
+**Uso típico:** Qualquer personagem querendo expandir opções de equipamento.
 
 ---
 
@@ -431,6 +464,7 @@ Você recebe **+2 em testes de ataque** para quebrar.
 
 **Detalhe:** O ataque adicional usa os mesmos valores de ataque e dano, mas os dados devem ser **rolados novamente**.
 
+**Uso típico:** Destruidores de equipamento, quebradores.
 
 ---
 
@@ -439,6 +473,7 @@ Você recebe **+2 em testes de ataque** para quebrar.
 
 Você ganha uma **ação de movimento extra** no seu **primeiro turno** de cada combate.
 
+**Uso típico:** Personagens ágeis que querem agir primeiro.
 
 ---
 
@@ -452,6 +487,7 @@ Você recebe **+2 em Iniciativa** e pode **sacar ou guardar itens** como uma **a
 - Ação padrão → ação de movimento
 - Ação de movimento → ação livre
 
+**Uso típico:** Atiradores, personagens que trocam de armas frequentemente.
 
 ---
 
@@ -460,6 +496,7 @@ Você recebe **+2 em Iniciativa** e pode **sacar ou guardar itens** como uma **a
 
 Quando você faz um ataque corpo a corpo e reduz os pontos de vida do alvo para **0 ou menos**, pode gastar **1 PM** para fazer um **ataque adicional** contra outra criatura **dentro do seu alcance**.
 
+**Uso típico:** Guerreiros cleave, destruidores em massa.
 
 ---
 
@@ -471,6 +508,104 @@ Você recebe:
 - **+2 em Fortitude**
 
 **Exemplo:** Personagem de 5º nível ganha +5 PV imediatamente.
+
+**Uso típico:** Personagens que querem mais sobrevivência.
+
+---
+
+## Cadeias de Poderes Comuns
+
+### Cadeia do Escudo
+1. **Estilo de Arma e Escudo** (base)
+2. **Ataque com Escudo** (ofensivo)
+3. **Bloqueio com Escudo** (defensivo)
+
+### Cadeia da Armadura Pesada
+1. **Encouraçado** (base, +2 Defesa)
+2. **Inexpugnável** (6º nível, +2 resistências, +2 Defesa total)
+3. **Fanático** (12º nível, sem redução deslocamento, +2 Defesa total)
+
+**Total final:** +6 Defesa, +2 todas resistências, sem penalidade deslocamento!
+
+### Cadeia do Combate Tático
+1. **Combate Defensivo** (base)
+2. **Derrubar Aprimorado** (especialização derrubar)
+3. **Desarmar Aprimorado** (especialização desarmar)
+
+### Cadeia do Arqueiro
+1. **Estilo de Disparo** (base, Des no dano)
+2. **Disparo Preciso** (atirar em combate corpo a corpo)
+3. **Mira Apurada** (bônus ao mirar)
+4. **Disparo Rápido** (ataque extra)
+
+### Cadeia do Ataque Poderoso
+1. **Ataque Poderoso** (base, –2 ataque/+5 dano)
+2. **Quebrar Aprimorado** (destruir equipamento)
+3. **Trespassar** (matar múltiplos inimigos)
+
+---
+
+## Dicas de Uso
+
+### Para Guerreiros
+
+**Tanque Defensivo:**
+- Estilo de Arma e Escudo → Bloqueio com Escudo
+- Encouraçado → Inexpugnável → Fanático
+- Vitalidade
+
+**Destruidor Ofensivo:**
+- Estilo de Duas Mãos → Ataque Pesado
+- Ataque Poderoso → Trespassar
+- Foco em Arma (arma favorita)
+
+**Duelista Técnico:**
+- Estilo de Uma Arma → Ataque Preciso
+- Combate Defensivo → Finta Aprimorada
+- Acuidade com Arma (se Des alto)
+
+### Para Lutadores/Monges
+- Estilo Desarmado (base essencial)
+- Combate Defensivo → Derrubar Aprimorado
+- Reflexos de Combate
+- Esquiva
+
+### Para Arqueiros
+- Estilo de Disparo (essencial)
+- Disparo Preciso (essencial)
+- Foco em Arma (arco/besta)
+- Disparo Rápido (nível alto)
+
+### Para Cavaleiros
+- Ginete (essencial)
+- Carga de Cavalaria
+- Estilo de Arma e Escudo (defensivo)
+- ou Estilo de Uma Arma (ofensivo)
+
+---
+
+## Resumo por Conceito
+
+### Defensores
+Encouraçado, Inexpugnável, Fanático, Estilo de Arma e Escudo, Bloqueio com Escudo, Vitalidade
+
+### Destruidores
+Ataque Poderoso, Estilo de Duas Mãos, Trespassar, Foco em Arma, Ataque Pesado
+
+### Duelistas
+Estilo de Uma Arma, Ataque Preciso, Finta Aprimorada, Acuidade com Arma, Esquiva
+
+### Táticos
+Combate Defensivo, Derrubar Aprimorado, Desarmar Aprimorado, Quebrar Aprimorado
+
+### Atiradores
+Estilo de Disparo, Disparo Preciso, Disparo Rápido, Mira Apurada, Saque Rápido
+
+### Dois Armas
+Estilo de Duas Armas, Arma Secundária Grande, Acuidade com Arma
+
+### Cavaleiros
+Ginete, Carga de Cavalaria, Proficiência, Reflexos de Combate
 
 ---
 

@@ -74,7 +74,7 @@ Contudo, também há incontáveis guerreiros **idealistas** e **ingênuos**, **c
 ## Características de Classe
 
 ### Pontos de Vida
-- **Inicial**: 20 PV + Constituição (**maior de todas as classes**)
+- **Inicial**: 20 PV + Constituição
 - **Por nível**: +5 PV + Constituição
 
 ### Pontos de Mana
