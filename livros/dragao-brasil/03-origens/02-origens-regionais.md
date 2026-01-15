@@ -40,7 +40,7 @@ Você é uma das orgulhosas amazonas de Hippion, um dos povos nativos de Arton N
 
 ## Morador dos Ermos Púrpuras
 
-Raiva compele os golpes de guerreiros por todo o mundo, mas nos Ermos Púrpuras a prática é refinada ao limite. Você cresceu entre esses lutadores imprevisíveis.
+Raiga compele os golpes de guerreiros por todo o mundo, mas nos Ermos Púrpuras a prática é refinada ao limite. Você cresceu entre esses lutadores imprevisíveis.
 
 **Benefício.** Você é treinado em Intimidação e, quando está sob efeito de Fúria, Fúria Divina ou Poder Oculto, recebe +2 em rolagens de dano.
 
@@ -96,6 +96,26 @@ Você era discípula de uma voracis drogadora e estudou as artes de cura em Galr
 **Benefício.** Você é treinada em Cura e Ofício (alquimista). Como usa partes de seu corpo para fabricar preparados alquímicos e poções, você gasta apenas 1/4 do preço dos itens em matérias-primas.
 
 **Itens.** Bálsamo restaurador x2, poção de curar ferimentos x2, maleta de medicamentos.
+
+---
+
+## Investigador de Salistick
+
+Você cresceu em Salistick, onde teve contato com o que a ciência tem de mais avançado para a detecção e solução de crimes. Suas capacidades de dedução e análise se tornaram profundamente aguçadas.
+
+**Benefício.** Você é treinado em Investigação e pode usar esta perícia para necropsia, identificar itens alquímicos e rastrear (veja as perícias Cura, Ofício e Sobrevivência, em Tormenta20). Além disso, pode identificar criaturas em uma cena de crime ou equivalente mesmo que elas não estejam mais presentes. Isso funciona como um teste de identificar criatura, com uma penalidade de –1 para cada dia decorrido. Se passar, além do normal, você identifica a raça da criatura.
+
+**Itens.** Lupa (conta como uma ferramenta que fornece +1 em Investigação).
+
+---
+
+## Menor de Khalifor
+
+Você cresceu se esgueirando pelos becos de Khalifor, vendo o pior que humanos e duyshidakk têm a oferecer.
+
+**Benefício.** Você é treinado em Furtividade e Intimidação, e recebe resistência a medo +5.
+
+**Itens.** Adaga, gazua, manto camuflado (urbano).
 
 ---
 
@@ -199,29 +219,7 @@ Ainda jovem, você foi encontrado por um grupo de voracis em Galrasia. Elas o ad
 
 ---
 
-## Origens de Outros Mundos
-
-### Investigador de Salistick
-
-Você cresceu em Salistick, onde teve contato com o que a ciência tem de mais avançado para a detecção e solução de crimes. Suas capacidades de dedução e análise se tornaram profundamente aguçadas.
-
-**Benefício.** Você é treinado em Investigação e pode usar esta perícia para necropsia, identificar itens alquímicos e rastrear (veja as perícias Cura, Ofício e Sobrevivência, em Tormenta20). Além disso, pode identificar criaturas em uma cena de crime ou equivalente mesmo que elas não estejam mais presentes. Isso funciona como um teste de identificar criatura, com uma penalidade de –1 para cada dia decorrido. Se passar, além do normal, você identifica a raça da criatura.
-
-**Itens.** Lupa (conta como uma ferramenta que fornece +1 em Investigação).
-
----
-
-### Menor de Khalifor
-
-Você cresceu se esgueirando pelos becos de Khalifor, vendo o pior que humanos e duyshidakk têm a oferecer.
-
-**Benefício.** Você é treinado em Furtividade e Intimidação, e recebe resistência a medo +5.
-
-**Itens.** Adaga, gazua, manto camuflado (urbano).
-
----
-
-### Guerreiro Purista
+## Guerreiro Purista
 
 Você passou pelo treinamento padrão dos batalhões puristas e talvez tenha visto de perto as atrocidades desses vilões. Seja como for, decidiu que não podia ficar neutro frente à Supremacia.
 
@@ -231,7 +229,7 @@ Você passou pelo treinamento padrão dos batalhões puristas e talvez tenha vis
 
 ---
 
-### Viajante Planar
+## Viajante Planar
 
 Você veio de outro mundo através do Éter Divino. Como alternativa, pode ter chegado a Arton por uma tempestade de areia do Deserto da Perdição, via uma viagem planar de Vectora ou por qualquer outra forma mágica ou maluca.
 
@@ -241,11 +239,11 @@ Você veio de outro mundo através do Éter Divino. Como alternativa, pode ter c
 
 ---
 
-### Descendente de Collen
+## Descendente de Collen
 
 Você descende do povo de Collen, um antigo reino insular absorvido por Ahlen. Sua linhagem tem olhos de cores incomuns, com alguns poucos chegando a apresentar poderes mágicos ligados à visão. Você é um desses poucos.
 
-**Benefício.** Você recebe +2 em Percepção e pode lançar a magia _Visão Mística_. Caso aprenda essa magia novamente, seu custo diminui em –1 PM. 
+**Benefício.** Você recebe +2 em Percepção e pode lançar a magia Visão Mística. Caso aprenda essa magia novamente, seu custo diminui em –1 PM.
 
 **Descritor:** Habilidade Mágica.
 
@@ -253,7 +251,7 @@ Você descende do povo de Collen, um antigo reino insular absorvido por Ahlen. S
 
 ---
 
-### Duplo Feérico
+## Duplo Feérico
 
 Em algum lugar de Arton, há alguém igual a você. Com a mesma aparência, as mesmas capacidades, os mesmos ideais. Talvez isso rendesse uma boa amizade, mas esse alguém veio primeiro. Você é apenas a cópia feita por uma fada.
 
@@ -261,7 +259,7 @@ Em algum lugar de Arton, há alguém igual a você. Com a mesma aparência, as m
 
 **Itens.** Essência de mana, marca no corpo ou característica física não possuída pela sua versão original.
 
-#### O Encontro
+### O Encontro
 
 Quando um duplo encontra sua versão original, tem extrema dificuldade em lidar com o fato de ser uma cópia. Quando isso ocorre, deve passar em um teste de Vontade (CD seu próprio Car). Se falhar, o duplo entra em um frenesi homicida até o fim da cena, tendo como único propósito matar sua versão original.
 
@@ -269,7 +267,7 @@ Caso uma das duas criaturas morra nesse encontro, a versão sobrevivente herda t
 
 ---
 
-### Espião Goblinoide
+## Espião Goblinoide
 
 Você viveu entre o povo do Reinado por muito tempo, absorvendo seu modo de vida… mas secretamente devotado a construir O Mundo Como Deve Ser.
 
@@ -279,7 +277,7 @@ Você viveu entre o povo do Reinado por muito tempo, absorvendo seu modo de vida
 
 ---
 
-### Emissário Ubaneri
+## Emissário Ubaneri
 
 Você foi preparado para percorrer as terras distantes e conhecer mais sobre o mundo além da Savana. Você nunca fica solitário, pois está acompanhado de um alikunhá, um pequeno pedaço de Ubani.
 
@@ -289,7 +287,7 @@ Você foi preparado para percorrer as terras distantes e conhecer mais sobre o m
 
 ---
 
-### Escudeiro da Luz
+## Escudeiro da Luz
 
 Você não serviu a um cavaleiro errante qualquer, mas a um nobre e honrado cavaleiro da Luz. Ao lado dele, aprendeu todas as tarefas diárias desse ofício, além dos valores da nobreza e da justiça.
 
@@ -299,7 +297,7 @@ Você não serviu a um cavaleiro errante qualquer, mas a um nobre e honrado cava
 
 ---
 
-### Cupincha do Chapéu-Preto
+## Cupincha do Chapéu-Preto
 
 Ninguém sabe, mas você foi escudeiro de um cavaleiro de Bielefeld… ou cupincha de um trambiqueiro. Seu mestre era membro dos Cavaleiros Solitários, disposto a todo tipo de subterfúgio, intriga e traição para ajudar os verdadeiros heróis.
 
@@ -309,7 +307,7 @@ Ninguém sabe, mas você foi escudeiro de um cavaleiro de Bielefeld… ou cupinc
 
 ---
 
-### Sobrevivente dos Ermos
+## Sobrevivente dos Ermos
 
 Muitas tribos dos Ermos Púrpuras acabaram extintas — por guerra, por doença ou pela corrupção da Tormenta. Sua tribo se foi, mas você permanece, uma prova viva de que um dia seu povo existiu.
 
@@ -319,7 +317,7 @@ Muitas tribos dos Ermos Púrpuras acabaram extintas — por guerra, por doença 
 
 ---
 
-### Acadêmico de Arcádia
+## Acadêmico de Arcádia
 
 Você frequentou a Academia Arcana. Pode ou não ter se tornado um arcanista, mas com certeza aprendeu algo sobre lançar magias.
 
@@ -329,709 +327,371 @@ Você frequentou a Academia Arcana. Pode ou não ter se tornado um arcanista, ma
 
 ---
 
-### Estudante do Colégio Real
+## Estudante do Colégio Real
 
-Você teve a oportunidade de estudar no ilustríssimo Colégio Real de Médicos de Salistick. Seu
+Você teve a oportunidade de estudar no ilustríssimo Colégio Real de Médicos de Salistick. Seu ceticismo e rigor científico o afastam dos deuses e o aproximam da compreensão da vida.
 
+**Benefício.** Você é treinado em Cura. Além disso, seus efeitos de cura recuperam +2 PV por dado. Você perde esse benefício caso se torne um devoto de qualquer tipo.
 
+**Itens.** Bálsamo restaurador x3, maleta de medicamentos.
 
+---
 
-## Página 55
+## Cavaleiro de Tumarkhân
 
+O povo de Khubar usa o lagarto tumarkhân como montaria. Você estabeleceu um elo com um desses animais, que o acompanha em suas jornadas.
 
-ceticismo e rigor científico o afastam dos deuses Itens. Arma simples ou marcial com nome
-e o aproximam da compreensão da vida. pomposo (e nenhuma melhoria), essência de
-Benefício. Você é treinado em Cura. Além dis- mana x2.
-so, seus efeitos de cura recuperam +2 PV por
-dado. Você perde esse benefício caso se torne
-um devoto de qualquer tipo.
-O povo de Khubar usa o lagarto tumarkhân
-Itens. Bálsamo restaurador x3, maleta de me-
-como montaria. Você estabeleceu um elo
-dicamentos.
-com um desses animais, que o acompanha
-em suas jornadas.
-Benefício. Você é treinado em Cavalgar e possui
-A destruição de Tyrondir atraiu exploradores um parceiro tumarkhân iniciante, com quem re-
-em busca de riquezas que possam ter sobre- cebe +2 em testes de Adestramento e Cavalgar.
-vivido à queda da Flecha de Fogo. Após um Se receber outra montaria especial (como pelos
-tempo nessa atividade, você aprendeu alguns poderes Montaria ou Montaria Sagrada), você
-pode usar seu tumarkhân como essa montaria,
-truques úteis.
-acumulando o bônus em perícias com os benefí-
-Benefício. Você recebe +2 em Ladinagem,
-cios da montaria especial.
-Percepção e Reflexos e +3m em seu deslo-
-Itens. Bálsamo restaurador, sela.
-camento.
-Itens. Mochila de aventureiro, tocha, vara de
-madeira (3m).
-Por paixão, sede de liberdade ou pura neces-
-sidade, você serviu em uma embarcação pi-
-rata.
-Você passou grande parte de sua juventude
-Benefício. Você é treinado em Acrobacia,
-entre a Revoada Carnívora e seus perigosos e
-Atletismo e Reflexos e, se estiver se equili-
-fantásticos engenhos voadores. Você ainda
-brando, escalando ou nadando, só cai ou
-não tem seu próprio veículo, mas aprendeu
-afunda se falhar no teste de perícia por 10 ou
-duras lições entre voos e quedas.
-mais (em vez de 5 ou mais).
-Benefício. Você é treinado em Acrobacia e Pilo-
-Itens. Adaga, corda, tatuagem de sua antiga
-tagem. Quando faz um teste de uma dessas perí-
-tripulação (+1 em Intimidação).
-cias, pode gastar 1 PM para rolar um dado adicio-
-nal e usar o melhor resultado.
-Itens. Instrumentos de Ofício (artesão), T$
-100 (que você está juntando para fabricar seu
-As Uivantes são inclementes, mas também
-primeiro veículo aéreo).
-precisam de seus protetores. Você treinou
-com eles e aprendeu como afugentar intro-
-metidos.
-Você nasceu ouvindo histórias sobre heróis, Benefício. Você recebe redução de frio 5 e
-talvez tenha sido batizado com o nome de um proficiência em arco longo e machado de
-deles e por fim decidiu fazer a única coisa que batalha. Caso já possua proficiência com
-tinha sentido: superá-los! essas armas, você recebe +2 em rolagens de
-Benefício. Escolha um dos poderes de sua dano com elas.
-classe, normalmente disponíveis a partir do 2º Itens. Casaco longo, cavalo glacial.
-nível. Você recebe esse poder.
+**Benefício.** Você é treinado em Cavalgar e possui um parceiro tumarkhân iniciante, com quem recebe +2 em testes de Adestramento e Cavalgar. Se receber outra montaria especial (como pelos poderes Montaria ou Montaria Sagrada), você pode usar seu tumarkhân como essa montaria, acumulando o bônus em perícias com os benefícios da montaria especial.
 
+**Itens.** Bálsamo restaurador, sela.
 
+---
 
-## Página 56
+## Explorador de Tyrondir
 
+A destruição de Tyrondir atraiu exploradores em busca de riquezas que possam ter sobrevivido à queda da Flecha de Fogo. Após um tempo nessa atividade, você aprendeu alguns truques úteis.
 
-onário. Agora que seu serviço terminou, você es-
-pera usar as técnicas aprendidas para dar um
-novo rumo a Tapista.
-Você foi iniciado na Guilda dos Caça-
-Benefício. Você é treinado em Guerra e recebe
-Monstros. Mesmo que ainda não seja capaz
-proficiência com gládios (veja Ameaças de Arton)
-de vencer todas as criaturas, consegue ao
-e escudos. Se estiver empunhando um gládio e
-menos identificá-las! um escudo pesado, recebe +1 na margem de
-Benefício. Você pode fazer testes para identi- ameaça e +1 na Defesa.
-ficar criaturas com uma ação de movimento Itens. Brunea com símbolo de sua legião, es-
-e, quando acerta um ataque em uma criatura cudo pesado, gládio, ração de viagem x10.
-não humanoide, pode gastar 1 PM para cau-
-sar +1d8 pontos de dano.
-Itens. Arma simples ou marcial, gibão de peles.
-Você foi criado entre as imponentes árvores da
-Floresta de Tollon, que lhe serviram tanto como
-casa quanto como fonte de sustento.
-Benefício. Você é treinado em Ofício (artesão)
-O Império de Tauron está ruindo. O Deus da
-e recebe +5 em testes de perícias (exceto tes-
-Força está morto. Para você, isso ainda não é
-tes de ataque) relacionados a madeira. Além
-suficiente. O povo só estará satisfeito quando
-disso, você recebe proficiência com machadi-
-todos os antigos generais e escravagistas forem
-nhas e machados de batalha; caso já possua
-punidos.
-proficiência com essas armas, recebe +2 em
-Benefício. Você recebe +1 em Fortitude, Reflexos
-rolagens de dano com elas.
-e Vontade. Além disso, recebe +3 pontos de vida
-no 1º nível e +1 PV por nível seguinte. Itens. Item superior de madeira Tollon.
-Itens. Amuleto com um símbolo da resistên-
-cia reconhecível por outros rebeldes, arma
-simples.
-Mesmo não tendo vivido o auge do Reino dos
-Elfos, você ouviu histórias suficientes para
-admirá-lo. Inspirado pelas tradições élficas,
-Você possui um cavalo que o acompanha você aprendeu a transformar sua magia em
-desde a infância; vocês cresceram juntos, arte.
-tornando-se verdadeiros irmãos. Benefício. Você é treinado em Atuação e re-
-Benefício. Você possui um irmão cavalo, um ca- cebe +2 nessa perícia. Além disso, pode usar
-valo de guerra parceiro iniciante que fornece +1 Carisma como atributo-chave de Misticismo
-em testes de ataque e Reflexos. Se receber outra (no lugar de Inteligência).
-montaria especial (como aquela concedida pelos
-Itens. Alaúde élfico, réplica de uma peça ar-
-poderes Montaria ou Montaria Sagrada), você
-tística élfica (1 espaço, T$ 50).
-pode usar seu irmão cavalo como essa montaria,
-acumulando o bônus em perícias com os benefí-
-cios da montaria especial.
-Itens. Bálsamo restaurador, sela. Você faz parte do Principado Mercante, uma
-das organizações mais poderosas das Repú-
-blicas Livres. Ainda está longe do topo, mas
-até mesmo os Príncipes Mercantes começa-
-Você serviu nas legiões do Império de Tauron,
-ram em algum lugar.
-onde aprendeu a usar o equipamento de um legi-
+**Benefício.** Você recebe +2 em Ladinagem, Percepção e Reflexos e +3m em seu deslocamento.
 
+**Itens.** Mochila de aventureiro, tocha, vara de madeira (3m).
 
+---
 
-## Página 57
+## Pirata de Tollon
 
+Por paixão, sede de liberdade ou pura necessidade, você serviu em uma embarcação pirata.
 
-Benefício. Você é treinado em Diplomacia e In- Itens. Arma simples ou marcial, corcel do deserto
-tuição. Quando chega em uma cidade pela pri- ou dromedário (veja Ameaças de Arton), manto
-meira vez em cada aventura, pode fazer um teste camuflado (deserto).
-de Diplomacia (CD 20). Se passar, recebe 10% de
-desconto em todos os itens que comprar neste
-lugar (cumulativo com barganha).
-Desde criança, você pesca nas águas profundas
-Itens. Carroça, mercadorias sortidas (8 espaços,
-de Khubar. Tal atividade deixou seu corpo forte e
-T$ 400).
-resistente.
-Benefício. Você recebe +2 em Atletismo, Fortitu-
-de e Sobrevivência e +3 PV. Além disso, quando
-Você foi criado na maior comunidade tamurania- faz um teste de Atletismo para nadar você avança
-na fora do próprio Império de Jade. Seus valores seu deslocamento (em vez de apenas a metade).
-culturais misturam as complexas e distintas tra- Itens. Vara de pesca (pode usar Sobrevivên-
-dições deheoni e tamuranianas. cia para sustento), peixes raros salgados para
-Benefício. Você recebe proficiência em katana e revenda (1 espaço, T$ 50).
-arco longo. Caso receba proficiência nessas ar-
-mas novamente, recebe +2 em rolagens de
-Dano com elas. Além disso, quando falha em um
-teste de perícia originalmente baseada em Sabe- Crescer em Wynlla é estar próximo da magia.
-doria, você pode gastar 2 PM para refazer esse Esse contato o deixou mais acostumado aos
-teste (apenas uma vez por teste). aspectos místicos de Arton.
-Itens. Arco longo ou katana, camisa bufante Benefício. Você recebe +2 PM. Além disso,
-ou traje de seda. uma vez por rodada, quando falha em um
-teste de resistência contra um efeito mágico,
-você pode gastar 1 PM para rolar novamente
-esse teste.
-Você descende de uma das tradicionais famí-
-Itens. Bandoleira de poções, gorro de ervas,
-lias de nobres armeiros zakharovianos. Além
-poção arcana de 1° círculo.
-do sobrenome, ostenta com orgulho uma de
-suas obras-primas.
-Benefício. Você é treinado em Ofício (armeiro) e
-recebe uma arma superior com uma melhoria Você vivia uma vida comum e sem grandes emo-
-(exceto material especial). Se estiver de posse ções, até ter o azar de abrir a porta errada. Talvez
-dessa arma, recebe +2 PM por patamar (apenas também tenha sido por mero acaso que você
-após um dia). escapou das Catacumbas de Leverick.
-Itens. Traje da corte. Benefício. Você é treinado em Percepção e
-Reflexos e recebe resistência a armadilhas e
-efeitos de movimento +5.
-Itens. Arma marcial encontrada no corpo de al-
-Você cresceu entre os sar-allan, aprendendo
-guém que não sobreviveu às Catacumbas.
-a resistir aos rigores — e aos predadores do
-deserto.
-Benefício. Você recebe +2 em Fortitude e Sobre-
-vivência e nas rolagens de dano com alfanges, Você é um pistoleiro infame nas cercanias de
-arcos curtos e cimitarras.
-Smokestone, odiado e caçado por outros du-
-rões. Provavelmente foi tudo um engano e
+**Benefício.** Você é treinado em Acrobacia, Atletismo e Reflexos e, se estiver se equilibrando, escalando ou nadando, só cai ou afunda se falhar no teste de perícia por 10 ou mais (em vez de 5 ou mais).
 
+**Itens.** Adaga, corda, tatuagem de sua antiga tripulação (+1 em Intimidação).
 
+---
 
-## Página 58
+## Piloto da Revoada
 
+Você passou grande parte de sua juventude entre a Revoada Carnívora e seus perigosos e fantásticos engenhos voadores. Você ainda não tem seu próprio veículo, mas aprendeu duras lições entre voos e quedas.
 
-você ainda não faz jus a esse renome, mas
-sua cabeça está a prêmio!
-Benefício. Você recebe proficiência com armas
-Sua terra natal, Sckharshantallas, está sob o jugo
-de fogo. Além disso, recebe +5 em testes de
-permanente de um monstro tirano. Você fez parte
-Intimidação e –5 em testes de Diplomacia con-
-de grupos rebeldes, mas agora partiu para se
-tra qualquer um que, a critério do mestre, o aventurar. Espera se tornar forte para, um dia,
-reconheça e saiba de sua fama. depor o Dragão-Rei.
-Itens. Pistola, balas cruéis (20). Benefício. Você é treinado em Iniciativa e,
-uma vez por aventura, pode gastar um dia
-Personagens com a origem Procurado: Vivo para convencer pessoas comuns a ajudá-lo.
-ou Morto são caçados por pistoleiros e todo Faça um teste de Diplomacia (CD 10). Se
-tipo de mercenários. Uma vez por aventura, a passar, você convence uma pessoa, mais
-critério do mestre, você e seu grupo são ata- uma para cada 10 pontos acima da CD (duas
-cados por caçadores de recompensa (um pessoas com resultado 20, três com resulta-
-encontro de ND igual ou inferior ao do grupo). do 30 e assim por diante). Cada pessoa pode
-Cruéis e dispostos a qualquer coisa por uma ser usada como um parceiro iniciante de um
-recompensa, esses caçadores tendem a ata- tipo à sua escolha por uma cena. As pessoas
-car nos momentos mais inconvenientes… não contam em seu limite de parceiros e fi-
-cam com você até serem usadas ou até o fim
-da aventura.
-Itens. Arma simples ou marcial, panfleto re-
-Você conhece a verdade sobre o tempo e o
-volucionário, T$ 6d12 (impostos que você
-destino, na forma do Akzath. Quem sabe será
-deixou de pagar).
-você a encontrar o novo Ayrrak?
-Benefício. Você é treinado em Religião e po-
-de lançar magias mesmo sob o efeito de Fúria
-Divina. Você cresceu em Vectora, o fabuloso Merca-
-Itens. Arma simples ou marcial, bordão, per- do nas Nuvens. Andando entre os bazares e
-gaminho com diagrama do Akzath. becos da cidade, conheceu diversos merca-
-dores.
-Benefício. Você possui contatos em Vectora que
-lhe dão acesso a mercadorias. Se estiver em uma
-Você passou parte de sua juventude em As-
-cidade ou outro lugar em que, a critério do mes-
-lothia. Lá, por escolha ou imposição do des-
-tre, possa acessar seus contatos, você pode gas-
-tino, abraçou a dádiva das trevas.
-tar 1 dia para obter um aparato mágico: um item
-Benefício. Você redução de frio e trevas 5 e visão de 1 espaço que você (e apenas você) pode em-
-no escuro. Se já possuir visão no escuro, em vez punhar para lançar uma magia de 1º círculo (atri-
-disso recebe +2 em Percepção. buto-chave Inteligência), escolhida ao obter o
-Itens. Essência de sombra, manto camuflado aparato. Você pode ter até 2 aparatos ao mesmo
-(urbano). tempo. Os aparatos não têm valor comercial.
-Itens. Mercadorias raras e variadas (2 espa-
-ços, T$ 300).
+**Benefício.** Você é treinado em Acrobacia e Pilotagem. Quando faz um teste de uma dessas perícias, pode gastar 1 PM para rolar um dado adicional e usar o melhor resultado.
 
+**Itens.** Instrumentos de Ofício (artesão), T$ 100 (que você está juntando para fabricar seu primeiro veículo aéreo).
 
+---
 
-## Página 59
+## Protetor das Uivantes
 
+As Uivantes são inclementes, mas também precisam de seus protetores. Você treinou com eles e aprendeu como afugentar intrometidos.
 
-Você serviu entre os Magos de Batalha de Você nasceu ou foi criado nas Montanhas
-Wynlla. Agora, livre de suas obrigações cívi- Sanguinárias, um dos lugares mais brutais de
-cas, está pronto para seguir sua vida de aven- Arton, onde aprendeu a sobreviver com base
-turas. na determinação e força bruta.
-Benefício. A CD para resistir a suas magias Benefício. Você é treinado em Sobrevivência
-arcanas aumenta em +1 e elas causam +1 e, se não estiver usando armadura pesada,
-ponto de dano. recebe +1 em rolagens de dano com armas e
-Itens. Essência de mana x2, varinha arcana. redução de dano 1.
-Itens. Arma marcial, gibão de peles.
-Você começou o treinamento para combater
-a Horda Moóck montado em um majestoso Muitos dizem que a Guerra Artoniana acabou.
-grifo. Por vontade própria ou imposição, você Não onde você foi criado. Em uma terra onde
-saiu da cidade antes de completar o treina- escaramuças são frequentes, você se especia-
-mento… ou morrer! lizou em pilhar armas e outros itens abandona-
-Benefício. Você recebe +1 PV por nível e redução dos nos campos de batalha.
-de fogo 5, e é treinado em Cavalgar. Benefício. Você é treinado em Guerra e In-
-Itens. Arma marcial, brunea, grifo iniciante. vestigação. Além disso, quando rola na Tabe-
-la 8-1: Tesouro por Nível de Desafio (Tormen-
-ta20, p. 328), para cada tipo de tesouro (di-
-nheiro ou item) você pode rolar novamente o
-Você estudou as complexas equações que os
-resultado.
-sar-allan usam para calcular a formação de
-Itens. Arma simples ou marcial, bálsamo res-
-portais no deserto. Talvez ainda não consiga
-taurador, escudo leve ou pesado, essência de
-prever esses eventos tão bem quanto seus
-mana, ração de viagem x5, T$ 4d6.
-mestres, mas sabe usar o poder da matemá-
-tica para resolver diversos problemas.
-Benefício. Você é treinado em Conhecimen-
-to. Além disso, aprende e pode lançar Con- Você nasceu entre os tamalus, a casta políti-
-centração de Combate e Orientação. Estes ca de Khubar que ostenta tatuagens mágicas
-efeitos não contam como magias (exceto pa- mostrando sua história. Embora sua saga
-ra fins de acúmulo) e não são mágicos — eles esteja apenas começando, você já conquis-
-provêm de sua habilidade de calcular resul- tou sua primeira tatuagem.
-tados a partir de uma mistura de geometria, Benefício. Você é treinado em Diplomacia e
-análise de probabilidades e outros campos Nobreza e recebe uma tatuagem mística à
-da matemática. sua escolha.
-Itens. Coleção de livros, luneta. Itens. Traje da corte.
+**Benefício.** Você recebe redução de frio 5 e proficiência em arco longo e machado de batalha. Caso já possua proficiência com essas armas, você recebe +2 em rolagens de dano com elas.
 
+**Itens.** Casaco longo, cavalo glacial.
 
+---
 
-## Página 60
+## Filho da Lenda
 
+Você nasceu ouvindo histórias sobre heróis, talvez tenha sido batizado com o nome de um deles e por fim decidiu fazer a única coisa que tinha sentido: superá-los!
 
-Itens. Trapos surrados, carcaça de couro de
-Os tatuadores tamalus de Khubar podem criar algum animal caçado por você (conta como
-tatuagens especiais com Ofício (tatuador). Es- um gibão de peles).
-sas tatuagens podem ter um entre três benefí-
-cios: +1 na Defesa, resistência a magia +2 ou a
-habilidade de lançar uma magia de 1° círculo
-Svalas é díspar, honrado e livre. Após todos os
-(atributo chave Sabedoria). Tatuagens precisam
-registros escritos do reino terem sido destruídos,
-estar visíveis para funcionarem e, quando ex-
-a tradição svalana foi passada pela oralidade.
-postas, ocupam o espaço de um item vestido.
-Você é o fruto dessas histórias.
-Cada tatuagem custa T$ 1.000 x sua quantida-
-Benefício. Você pode usar Sabedoria como
-de de tatuagens místicas (a primeira custa T$
-atributo-chave de Conhecimento e Nobreza e
-1.000, a segunda custa T$ 2.000 e assim pro-
-pode fazer testes dessas perícias mesmo
-gressivamente).
-sem treinamento. Além disso, recebe +1 em
-Fortitude e Vontade.
-Itens. Arma simples ou marcial, corda, mochila
-Nascido em Moreania, você foi agraciado pe- de aventureiro, vara de madeira (3 m).
-la própria Mãe Natureza. Você consegue en-
-tender as vozes da natureza e pode invocar o
-auxílio dos filhos de Allihanna.
-Há um ditado em Ahlen: todo dia saem de
-Benefício. Você é treinado em Adestramento e
-casa um malandro e um otário. Você definiti-
-pode gastar 1 minuto e 1 PM para convocar um
-vamente aprendeu como não ser o otário.
-animal Minúsculo a sua escolha, como um falcão
-ou gato, em seu auxílio. A criatura convocada for- Benefício. Você recebe +2 em Enganação e Furti-
-nece +2 nos seus testes de uma perícia específi- vidade e pode usar Carisma como atributo-chave
-ca, adequada às suas capacidades, e permanece de Ladinagem (em vez de Destreza).
-auxiliando-o até o fim da cena, quando então Itens. Essência de sombra, gazua, estojo de
-retorna para os ermos. disfarces.
-Você pode ter um número de criaturas convoca-
-das simultâneas igual à sua Sabedoria (mínimo
-de 1). O mestre tem a palavra final sobre quais
-Você assistiu a algumas aulas na Academia
-criaturas estão disponíveis e em quais perícias
-elas podem prestar auxílio. Arcana. Não se tornou um arcanista, mas
-Itens. Bordão, ração de viagem x5. aprendeu a lidar com magias e enjambrar
-alguns truques!
-Benefício. Você recebe resistência a magia
-+2 e pode ativar pergaminhos de todas as
-A face oposta da Dama Altiva, o Indomável é
-magias arcanas de 1º círculo como se as co-
+**Benefício.** Escolha um dos poderes de sua classe, normalmente disponíveis a partir do 2º nível. Você recebe esse poder.
 
+**Itens.** Arma simples ou marcial com nome pomposo (e nenhuma melhoria), essência de mana x2.
 
+---
 
+## Caça-Monstros
 
-## Página 55
+Você foi iniciado na Guilda dos Caça-Monstros. Mesmo que ainda não seja capaz de vencer todas as criaturas, consegue ao menos identificá-las!
 
+**Benefício.** Você pode fazer testes para identificar criaturas com uma ação de movimento e, quando acerta um ataque em uma criatura não humanoide, pode gastar 1 PM para causar +1d8 pontos de dano.
 
-ceticismo e rigor científico o afastam dos deuses Itens. Arma simples ou marcial com nome
-e o aproximam da compreensão da vida. pomposo (e nenhuma melhoria), essência de
-Benefício. Você é treinado em Cura. Além dis- mana x2.
-so, seus efeitos de cura recuperam +2 PV por
-dado. Você perde esse benefício caso se torne
-um devoto de qualquer tipo.
-O povo de Khubar usa o lagarto tumarkhân
-Itens. Bálsamo restaurador x3, maleta de me-
-como montaria. Você estabeleceu um elo
-dicamentos.
-com um desses animais, que o acompanha
-em suas jornadas.
-Benefício. Você é treinado em Cavalgar e possui
-A destruição de Tyrondir atraiu exploradores um parceiro tumarkhân iniciante, com quem re-
-em busca de riquezas que possam ter sobre- cebe +2 em testes de Adestramento e Cavalgar.
-vivido à queda da Flecha de Fogo. Após um Se receber outra montaria especial (como pelos
-tempo nessa atividade, você aprendeu alguns poderes Montaria ou Montaria Sagrada), você
-pode usar seu tumarkhân como essa montaria,
-truques úteis.
-acumulando o bônus em perícias com os benefí-
-Benefício. Você recebe +2 em Ladinagem,
-cios da montaria especial.
-Percepção e Reflexos e +3m em seu deslo-
-Itens. Bálsamo restaurador, sela.
-camento.
-Itens. Mochila de aventureiro, tocha, vara de
-madeira (3m).
-Por paixão, sede de liberdade ou pura neces-
-sidade, você serviu em uma embarcação pi-
-rata.
-Você passou grande parte de sua juventude
-Benefício. Você é treinado em Acrobacia,
-entre a Revoada Carnívora e seus perigosos e
-Atletismo e Reflexos e, se estiver se equili-
-fantásticos engenhos voadores. Você ainda
-brando, escalando ou nadando, só cai ou
-não tem seu próprio veículo, mas aprendeu
-afunda se falhar no teste de perícia por 10 ou
-duras lições entre voos e quedas.
-mais (em vez de 5 ou mais).
-Benefício. Você é treinado em Acrobacia e Pilo-
-Itens. Adaga, corda, tatuagem de sua antiga
-tagem. Quando faz um teste de uma dessas perí-
-tripulação (+1 em Intimidação).
-cias, pode gastar 1 PM para rolar um dado adicio-
-nal e usar o melhor resultado.
-Itens. Instrumentos de Ofício (artesão), T$
-100 (que você está juntando para fabricar seu
-As Uivantes são inclementes, mas também
-primeiro veículo aéreo).
-precisam de seus protetores. Você treinou
-com eles e aprendeu como afugentar intro-
-metidos.
-Você nasceu ouvindo histórias sobre heróis, Benefício. Você recebe redução de frio 5 e
-talvez tenha sido batizado com o nome de um proficiência em arco longo e machado de
-deles e por fim decidiu fazer a única coisa que batalha. Caso já possua proficiência com
-tinha sentido: superá-los! essas armas, você recebe +2 em rolagens de
-Benefício. Escolha um dos poderes de sua dano com elas.
-classe, normalmente disponíveis a partir do 2º Itens. Casaco longo, cavalo glacial.
-nível. Você recebe esse poder.
+**Itens.** Arma simples ou marcial, gibão de peles.
 
+---
 
+## Legionário de Tauron
 
-## Página 56
+Você serviu nas legiões do Império de Tauron, onde aprendeu a usar o equipamento de um legionário. Agora que seu serviço terminou, você espera usar as técnicas aprendidas para dar um novo rumo a Tapista.
 
+**Benefício.** Você é treinado em Guerra e recebe proficiência com gládios (veja Ameaças de Arton) e escudos. Se estiver empunhando um gládio e um escudo pesado, recebe +1 na margem de ameaça e +1 na Defesa.
 
-onário. Agora que seu serviço terminou, você es-
-pera usar as técnicas aprendidas para dar um
-novo rumo a Tapista.
-Você foi iniciado na Guilda dos Caça-
-Benefício. Você é treinado em Guerra e recebe
-Monstros. Mesmo que ainda não seja capaz
-proficiência com gládios (veja Ameaças de Arton)
-de vencer todas as criaturas, consegue ao
-e escudos. Se estiver empunhando um gládio e
-menos identificá-las! um escudo pesado, recebe +1 na margem de
-Benefício. Você pode fazer testes para identi- ameaça e +1 na Defesa.
-ficar criaturas com uma ação de movimento Itens. Brunea com símbolo de sua legião, es-
-e, quando acerta um ataque em uma criatura cudo pesado, gládio, ração de viagem x10.
-não humanoide, pode gastar 1 PM para cau-
-sar +1d8 pontos de dano.
-Itens. Arma simples ou marcial, gibão de peles.
-Você foi criado entre as imponentes árvores da
-Floresta de Tollon, que lhe serviram tanto como
-casa quanto como fonte de sustento.
-Benefício. Você é treinado em Ofício (artesão)
-O Império de Tauron está ruindo. O Deus da
-e recebe +5 em testes de perícias (exceto tes-
-Força está morto. Para você, isso ainda não é
-tes de ataque) relacionados a madeira. Além
-suficiente. O povo só estará satisfeito quando
-disso, você recebe proficiência com machadi-
-todos os antigos generais e escravagistas forem
-nhas e machados de batalha; caso já possua
-punidos.
-proficiência com essas armas, recebe +2 em
-Benefício. Você recebe +1 em Fortitude, Reflexos
-rolagens de dano com elas.
-e Vontade. Além disso, recebe +3 pontos de vida
-no 1º nível e +1 PV por nível seguinte. Itens. Item superior de madeira Tollon.
-Itens. Amuleto com um símbolo da resistên-
-cia reconhecível por outros rebeldes, arma
-simples.
-Mesmo não tendo vivido o auge do Reino dos
-Elfos, você ouviu histórias suficientes para
-admirá-lo. Inspirado pelas tradições élficas,
-Você possui um cavalo que o acompanha você aprendeu a transformar sua magia em
-desde a infância; vocês cresceram juntos, arte.
-tornando-se verdadeiros irmãos. Benefício. Você é treinado em Atuação e re-
-Benefício. Você possui um irmão cavalo, um ca- cebe +2 nessa perícia. Além disso, pode usar
-valo de guerra parceiro iniciante que fornece +1 Carisma como atributo-chave de Misticismo
-em testes de ataque e Reflexos. Se receber outra (no lugar de Inteligência).
-montaria especial (como aquela concedida pelos
-Itens. Alaúde élfico, réplica de uma peça ar-
-poderes Montaria ou Montaria Sagrada), você
-tística élfica (1 espaço, T$ 50).
-pode usar seu irmão cavalo como essa montaria,
-acumulando o bônus em perícias com os benefí-
-cios da montaria especial.
-Itens. Bálsamo restaurador, sela. Você faz parte do Principado Mercante, uma
-das organizações mais poderosas das Repú-
-blicas Livres. Ainda está longe do topo, mas
-até mesmo os Príncipes Mercantes começa-
-Você serviu nas legiões do Império de Tauron,
-ram em algum lugar.
-onde aprendeu a usar o equipamento de um legi-
+**Itens.** Brunea com símbolo de sua legião, escudo pesado, gládio, ração de viagem x10.
 
+---
 
+## Artesão de Tollon
 
-## Página 57
+Você foi criado entre as imponentes árvores da Floresta de Tollon, que lhe serviram tanto como casa quanto como fonte de sustento.
 
+**Benefício.** Você é treinado em Ofício (artesão) e recebe +5 em testes de perícias (exceto testes de ataque) relacionados a madeira. Além disso, você recebe proficiência com machadinhas e machados de batalha; caso já possua proficiência com essas armas, recebe +2 em rolagens de dano com elas.
 
-Benefício. Você é treinado em Diplomacia e In- Itens. Arma simples ou marcial, corcel do deserto
-tuição. Quando chega em uma cidade pela pri- ou dromedário (veja Ameaças de Arton), manto
-meira vez em cada aventura, pode fazer um teste camuflado (deserto).
-de Diplomacia (CD 20). Se passar, recebe 10% de
-desconto em todos os itens que comprar neste
-lugar (cumulativo com barganha).
-Desde criança, você pesca nas águas profundas
-Itens. Carroça, mercadorias sortidas (8 espaços,
-de Khubar. Tal atividade deixou seu corpo forte e
-T$ 400).
-resistente.
-Benefício. Você recebe +2 em Atletismo, Fortitu-
-de e Sobrevivência e +3 PV. Além disso, quando
-Você foi criado na maior comunidade tamurania- faz um teste de Atletismo para nadar você avança
-na fora do próprio Império de Jade. Seus valores seu deslocamento (em vez de apenas a metade).
-culturais misturam as complexas e distintas tra- Itens. Vara de pesca (pode usar Sobrevivên-
-dições deheoni e tamuranianas. cia para sustento), peixes raros salgados para
-Benefício. Você recebe proficiência em katana e revenda (1 espaço, T$ 50).
-arco longo. Caso receba proficiência nessas ar-
-mas novamente, recebe +2 em rolagens de
-Dano com elas. Além disso, quando falha em um
-teste de perícia originalmente baseada em Sabe- Crescer em Wynlla é estar próximo da magia.
-doria, você pode gastar 2 PM para refazer esse Esse contato o deixou mais acostumado aos
-teste (apenas uma vez por teste). aspectos místicos de Arton.
-Itens. Arco longo ou katana, camisa bufante Benefício. Você recebe +2 PM. Além disso,
-ou traje de seda. uma vez por rodada, quando falha em um
-teste de resistência contra um efeito mágico,
-você pode gastar 1 PM para rolar novamente
-esse teste.
-Você descende de uma das tradicionais famí-
-Itens. Bandoleira de poções, gorro de ervas,
-lias de nobres armeiros zakharovianos. Além
-poção arcana de 1° círculo.
-do sobrenome, ostenta com orgulho uma de
-suas obras-primas.
-Benefício. Você é treinado em Ofício (armeiro) e
-recebe uma arma superior com uma melhoria Você vivia uma vida comum e sem grandes emo-
-(exceto material especial). Se estiver de posse ções, até ter o azar de abrir a porta errada. Talvez
-dessa arma, recebe +2 PM por patamar (apenas também tenha sido por mero acaso que você
-após um dia). escapou das Catacumbas de Leverick.
-Itens. Traje da corte. Benefício. Você é treinado em Percepção e
-Reflexos e recebe resistência a armadilhas e
-efeitos de movimento +5.
-Itens. Arma marcial encontrada no corpo de al-
-Você cresceu entre os sar-allan, aprendendo
-guém que não sobreviveu às Catacumbas.
-a resistir aos rigores — e aos predadores do
-deserto.
-Benefício. Você recebe +2 em Fortitude e Sobre-
-vivência e nas rolagens de dano com alfanges, Você é um pistoleiro infame nas cercanias de
-arcos curtos e cimitarras.
-Smokestone, odiado e caçado por outros du-
-rões. Provavelmente foi tudo um engano e
+**Itens.** Item superior de madeira Tollon.
 
+---
 
+## Rebelde de Tauron
 
-## Página 58
+O Império de Tauron está ruindo. O Deus da Força está morto. Para você, isso ainda não é suficiente. O povo só estará satisfeito quando todos os antigos generais e escravagistas forem punidos.
 
+**Benefício.** Você recebe +1 em Fortitude, Reflexos e Vontade. Além disso, recebe +3 pontos de vida no 1º nível e +1 PV por nível seguinte.
 
-você ainda não faz jus a esse renome, mas
-sua cabeça está a prêmio!
-Benefício. Você recebe proficiência com armas
-Sua terra natal, Sckharshantallas, está sob o jugo
-de fogo. Além disso, recebe +5 em testes de
-permanente de um monstro tirano. Você fez parte
-Intimidação e –5 em testes de Diplomacia con-
-de grupos rebeldes, mas agora partiu para se
-tra qualquer um que, a critério do mestre, o aventurar. Espera se tornar forte para, um dia,
-reconheça e saiba de sua fama. depor o Dragão-Rei.
-Itens. Pistola, balas cruéis (20). Benefício. Você é treinado em Iniciativa e,
-uma vez por aventura, pode gastar um dia
-Personagens com a origem Procurado: Vivo para convencer pessoas comuns a ajudá-lo.
-ou Morto são caçados por pistoleiros e todo Faça um teste de Diplomacia (CD 10). Se
-tipo de mercenários. Uma vez por aventura, a passar, você convence uma pessoa, mais
-critério do mestre, você e seu grupo são ata- uma para cada 10 pontos acima da CD (duas
-cados por caçadores de recompensa (um pessoas com resultado 20, três com resulta-
-encontro de ND igual ou inferior ao do grupo). do 30 e assim por diante). Cada pessoa pode
-Cruéis e dispostos a qualquer coisa por uma ser usada como um parceiro iniciante de um
-recompensa, esses caçadores tendem a ata- tipo à sua escolha por uma cena. As pessoas
-car nos momentos mais inconvenientes… não contam em seu limite de parceiros e fi-
-cam com você até serem usadas ou até o fim
-da aventura.
-Itens. Arma simples ou marcial, panfleto re-
-Você conhece a verdade sobre o tempo e o
-volucionário, T$ 6d12 (impostos que você
-destino, na forma do Akzath. Quem sabe será
-deixou de pagar).
-você a encontrar o novo Ayrrak?
-Benefício. Você é treinado em Religião e po-
-de lançar magias mesmo sob o efeito de Fúria
-Divina. Você cresceu em Vectora, o fabuloso Merca-
-Itens. Arma simples ou marcial, bordão, per- do nas Nuvens. Andando entre os bazares e
-gaminho com diagrama do Akzath. becos da cidade, conheceu diversos merca-
-dores.
-Benefício. Você possui contatos em Vectora que
-lhe dão acesso a mercadorias. Se estiver em uma
-Você passou parte de sua juventude em As-
-cidade ou outro lugar em que, a critério do mes-
-lothia. Lá, por escolha ou imposição do des-
-tre, possa acessar seus contatos, você pode gas-
-tino, abraçou a dádiva das trevas.
-tar 1 dia para obter um aparato mágico: um item
-Benefício. Você redução de frio e trevas 5 e visão de 1 espaço que você (e apenas você) pode em-
-no escuro. Se já possuir visão no escuro, em vez punhar para lançar uma magia de 1º círculo (atri-
-disso recebe +2 em Percepção. buto-chave Inteligência), escolhida ao obter o
-Itens. Essência de sombra, manto camuflado aparato. Você pode ter até 2 aparatos ao mesmo
-(urbano). tempo. Os aparatos não têm valor comercial.
-Itens. Mercadorias raras e variadas (2 espa-
-ços, T$ 300).
+**Itens.** Amuleto com um símbolo da resistência reconhecível por outros rebeldes, arma simples.
 
+---
 
+## Irmão Cavalo
 
-## Página 59
+Você possui um cavalo que o acompanha desde a infância; vocês cresceram juntos, tornando-se verdadeiros irmãos.
 
+**Benefício.** Você possui um irmão cavalo, um cavalo de guerra parceiro iniciante que fornece +1 em testes de ataque e Reflexos. Se receber outra montaria especial (como aquela concedida pelos poderes Montaria ou Montaria Sagrada), você pode usar seu irmão cavalo como essa montaria, acumulando o bônus em perícias com os benefícios da montaria especial.
 
-Você serviu entre os Magos de Batalha de Você nasceu ou foi criado nas Montanhas
-Wynlla. Agora, livre de suas obrigações cívi- Sanguinárias, um dos lugares mais brutais de
-cas, está pronto para seguir sua vida de aven- Arton, onde aprendeu a sobreviver com base
-turas. na determinação e força bruta.
-Benefício. A CD para resistir a suas magias Benefício. Você é treinado em Sobrevivência
-arcanas aumenta em +1 e elas causam +1 e, se não estiver usando armadura pesada,
-ponto de dano. recebe +1 em rolagens de dano com armas e
-Itens. Essência de mana x2, varinha arcana. redução de dano 1.
-Itens. Arma marcial, gibão de peles.
-Você começou o treinamento para combater
-a Horda Moóck montado em um majestoso Muitos dizem que a Guerra Artoniana acabou.
-grifo. Por vontade própria ou imposição, você Não onde você foi criado. Em uma terra onde
-saiu da cidade antes de completar o treina- escaramuças são frequentes, você se especia-
-mento… ou morrer! lizou em pilhar armas e outros itens abandona-
-Benefício. Você recebe +1 PV por nível e redução dos nos campos de batalha.
-de fogo 5, e é treinado em Cavalgar. Benefício. Você é treinado em Guerra e In-
-Itens. Arma marcial, brunea, grifo iniciante. vestigação. Além disso, quando rola na Tabe-
-la 8-1: Tesouro por Nível de Desafio (Tormen-
-ta20, p. 328), para cada tipo de tesouro (di-
-nheiro ou item) você pode rolar novamente o
-Você estudou as complexas equações que os
-resultado.
-sar-allan usam para calcular a formação de
-Itens. Arma simples ou marcial, bálsamo res-
-portais no deserto. Talvez ainda não consiga
-taurador, escudo leve ou pesado, essência de
-prever esses eventos tão bem quanto seus
-mana, ração de viagem x5, T$ 4d6.
-mestres, mas sabe usar o poder da matemá-
-tica para resolver diversos problemas.
-Benefício. Você é treinado em Conhecimen-
-to. Além disso, aprende e pode lançar Con- Você nasceu entre os tamalus, a casta políti-
-centração de Combate e Orientação. Estes ca de Khubar que ostenta tatuagens mágicas
-efeitos não contam como magias (exceto pa- mostrando sua história. Embora sua saga
-ra fins de acúmulo) e não são mágicos — eles esteja apenas começando, você já conquis-
-provêm de sua habilidade de calcular resul- tou sua primeira tatuagem.
-tados a partir de uma mistura de geometria, Benefício. Você é treinado em Diplomacia e
-análise de probabilidades e outros campos Nobreza e recebe uma tatuagem mística à
-da matemática. sua escolha.
-Itens. Coleção de livros, luneta. Itens. Traje da corte.
+**Itens.** Bálsamo restaurador, sela.
 
+---
 
+## Artista Élfico
 
-## Página 60
+Mesmo não tendo vivido o auge do Reino dos Elfos, você ouviu histórias suficientes para admirá-lo. Inspirado pelas tradições élficas, você aprendeu a transformar sua magia em arte.
 
+**Benefício.** Você é treinado em Atuação e recebe +2 nessa perícia. Além disso, pode usar Carisma como atributo-chave de Misticismo (no lugar de Inteligência).
 
-Itens. Trapos surrados, carcaça de couro de
-Os tatuadores tamalus de Khubar podem criar algum animal caçado por você (conta como
-tatuagens especiais com Ofício (tatuador). Es- um gibão de peles).
-sas tatuagens podem ter um entre três benefí-
-cios: +1 na Defesa, resistência a magia +2 ou a
-habilidade de lançar uma magia de 1° círculo
-Svalas é díspar, honrado e livre. Após todos os
-(atributo chave Sabedoria). Tatuagens precisam
-registros escritos do reino terem sido destruídos,
-estar visíveis para funcionarem e, quando ex-
-a tradição svalana foi passada pela oralidade.
-postas, ocupam o espaço de um item vestido.
-Você é o fruto dessas histórias.
-Cada tatuagem custa T$ 1.000 x sua quantida-
-Benefício. Você pode usar Sabedoria como
-de de tatuagens místicas (a primeira custa T$
-atributo-chave de Conhecimento e Nobreza e
-1.000, a segunda custa T$ 2.000 e assim pro-
-pode fazer testes dessas perícias mesmo
-gressivamente).
-sem treinamento. Além disso, recebe +1 em
-Fortitude e Vontade.
-Itens. Arma simples ou marcial, corda, mochila
-Nascido em Moreania, você foi agraciado pe- de aventureiro, vara de madeira (3 m).
-la própria Mãe Natureza. Você consegue en-
-tender as vozes da natureza e pode invocar o
-auxílio dos filhos de Allihanna.
-Há um ditado em Ahlen: todo dia saem de
-Benefício. Você é treinado em Adestramento e
-casa um malandro e um otário. Você definiti-
-pode gastar 1 minuto e 1 PM para convocar um
-vamente aprendeu como não ser o otário.
-animal Minúsculo a sua escolha, como um falcão
-ou gato, em seu auxílio. A criatura convocada for- Benefício. Você recebe +2 em Enganação e Furti-
-nece +2 nos seus testes de uma perícia específi- vidade e pode usar Carisma como atributo-chave
-ca, adequada às suas capacidades, e permanece de Ladinagem (em vez de Destreza).
-auxiliando-o até o fim da cena, quando então Itens. Essência de sombra, gazua, estojo de
-retorna para os ermos. disfarces.
-Você pode ter um número de criaturas convoca-
-das simultâneas igual à sua Sabedoria (mínimo
-de 1). O mestre tem a palavra final sobre quais
-Você assistiu a algumas aulas na Academia
-criaturas estão disponíveis e em quais perícias
-elas podem prestar auxílio. Arcana. Não se tornou um arcanista, mas
-Itens. Bordão, ração de viagem x5. aprendeu a lidar com magias e enjambrar
-alguns truques!
-Benefício. Você recebe resistência a magia
-+2 e pode ativar pergaminhos de todas as
-A face oposta da Dama Altiva, o Indomável é
-magias arcanas de 1º círculo como se as co-
+**Itens.** Alaúde élfico, réplica de uma peça artística élfica (1 espaço, T$ 50).
+
+---
+
+## Príncipe Mercante
+
+Você faz parte do Principado Mercante, uma das organizações mais poderosas das Repúblicas Livres. Ainda está longe do topo, mas até mesmo os Príncipes Mercantes começaram em algum lugar.
+
+**Benefício.** Você é treinado em Diplomacia e Intuição. Quando chega em uma cidade pela primeira vez em cada aventura, pode fazer um teste de Diplomacia (CD 20). Se passar, recebe 10% de desconto em todos os itens que comprar neste lugar (cumulativo com barganha).
+
+**Itens.** Carroça, mercadorias sortidas (8 espaços, T$ 400).
+
+---
+
+## Refugiado do Império de Jade
+
+Você foi criado na maior comunidade tamuraniana fora do próprio Império de Jade. Seus valores culturais misturam as complexas e distintas tradições deheoni e tamuranianas.
+
+**Benefício.** Você recebe proficiência em katana e arco longo. Caso receba proficiência nessas armas novamente, recebe +2 em rolagens de dano com elas. Além disso, quando falha em um teste de perícia originalmente baseada em Sabedoria, você pode gastar 2 PM para refazer esse teste (apenas uma vez por teste).
+
+**Itens.** Arco longo ou katana, camisa bufante ou traje de seda.
+
+---
+
+## Herdeiro de Zakharov
+
+Você descende de uma das tradicionais famílias de nobres armeiros zakharovianos. Além do sobrenome, ostenta com orgulho uma de suas obras-primas.
+
+**Benefício.** Você é treinado em Ofício (armeiro) e recebe uma arma superior com uma melhoria (exceto material especial). Se estiver de posse dessa arma, recebe +2 PM por patamar (apenas após um dia).
+
+**Itens.** Traje da corte.
+
+---
+
+## Nômade Sar-Allan
+
+Você cresceu entre os sar-allan, aprendendo a resistir aos rigores — e aos predadores do deserto.
+
+**Benefício.** Você recebe +2 em Fortitude e Sobrevivência e nas rolagens de dano com alfanges, arcos curtos e cimitarras.
+
+**Itens.** Arma simples ou marcial, corcel do deserto ou dromedário (veja Ameaças de Arton), manto camuflado (deserto).
+
+---
+
+## Pescador de Khubar
+
+Desde criança, você pesca nas águas profundas de Khubar. Tal atividade deixou seu corpo forte e resistente.
+
+**Benefício.** Você recebe +2 em Atletismo, Fortitude e Sobrevivência e +3 PV. Além disso, quando faz um teste de Atletismo para nadar você avança seu deslocamento (em vez de apenas a metade).
+
+**Itens.** Vara de pesca (pode usar Sobrevivência para sustento), peixes raros salgados para revenda (1 espaço, T$ 50).
+
+---
+
+## Filho de Wynlla
+
+Crescer em Wynlla é estar próximo da magia. Esse contato o deixou mais acostumado aos aspectos místicos de Arton.
+
+**Benefício.** Você recebe +2 PM. Além disso, uma vez por rodada, quando falha em um teste de resistência contra um efeito mágico, você pode gastar 1 PM para rolar novamente esse teste.
+
+**Itens.** Bandoleira de poções, gorro de ervas, poção arcana de 1° círculo.
+
+---
+
+## Sobrevivente das Catacumbas
+
+Você vivia uma vida comum e sem grandes emoções, até ter o azar de abrir a porta errada. Talvez também tenha sido por mero acaso que você escapou das Catacumbas de Leverick.
+
+**Benefício.** Você é treinado em Percepção e Reflexos e recebe resistência a armadilhas e efeitos de movimento +5.
+
+**Itens.** Arma marcial encontrada no corpo de alguém que não sobreviveu às Catacumbas.
+
+---
+
+## Procurado: Vivo ou Morto
+
+Você é um pistoleiro infame nas cercanias de Smokestone, odiado e caçado por outros durões. Provavelmente foi tudo um engano e você ainda não faz jus a esse renome, mas sua cabeça está a prêmio!
+
+**Benefício.** Você recebe proficiência com armas de fogo. Além disso, recebe +5 em testes de Intimidação e –5 em testes de Diplomacia contra qualquer um que, a critério do mestre, o reconheça e saiba de sua fama.
+
+**Itens.** Pistola, balas cruéis (20).
+
+### Caçadores de Recompensa
+
+Personagens com a origem Procurado: Vivo ou Morto são caçados por pistoleiros e todo tipo de mercenários. Uma vez por aventura, a critério do mestre, você e seu grupo são atacados por caçadores de recompensa (um encontro de ND igual ou inferior ao do grupo). Cruéis e dispostos a qualquer coisa por uma recompensa, esses caçadores tendem a atacar nos momentos mais inconvenientes…
+
+---
+
+## Rebelde de Sckharshantallas
+
+Sua terra natal, Sckharshantallas, está sob o jugo permanente de um monstro tirano. Você fez parte de grupos rebeldes, mas agora partiu para se aventurar. Espera se tornar forte para, um dia, depor o Dragão-Rei.
+
+**Benefício.** Você é treinado em Iniciativa e, uma vez por aventura, pode gastar um dia para convencer pessoas comuns a ajudá-lo. Faça um teste de Diplomacia (CD 10). Se passar, você convence uma pessoa, mais uma para cada 10 pontos acima da CD (duas pessoas com resultado 20, três com resultado 30 e assim por diante). Cada pessoa pode ser usada como um parceiro iniciante de um tipo à sua escolha por uma cena. As pessoas não contam em seu limite de parceiros e ficam com você até serem usadas ou até o fim da aventura.
+
+**Itens.** Arma simples ou marcial, panfleto revolucionário, T$ 6d12 (impostos que você deixou de pagar).
+
+---
+
+## Seguidor do Akzath
+
+Você conhece a verdade sobre o tempo e o destino, na forma do Akzath. Quem sabe será você a encontrar o novo Ayrrak?
+
+**Benefício.** Você é treinado em Religião e pode lançar magias mesmo sob o efeito de Fúria Divina.
+
+**Itens.** Arma simples ou marcial, bordão, pergaminho com diagrama do Akzath.
+
+---
+
+## Filho da Dama Altiva
+
+Você passou parte de sua juventude em Aslothia. Lá, por escolha ou imposição do destino, abraçou a dádiva das trevas.
+
+**Benefício.** Você recebe redução de frio e trevas 5 e visão no escuro. Se já possuir visão no escuro, em vez disso recebe +2 em Percepção.
+
+**Itens.** Essência de sombra, manto camuflado (urbano).
+
+---
+
+## Mercador de Vectora
+
+Você cresceu em Vectora, o fabuloso Mercado nas Nuvens. Andando entre os bazares e becos da cidade, conheceu diversos mercadores.
+
+**Benefício.** Você possui contatos em Vectora que lhe dão acesso a mercadorias. Se estiver em uma cidade ou outro lugar em que, a critério do mestre, possa acessar seus contatos, você pode gastar 1 dia para obter um aparato mágico: um item de 1 espaço que você (e apenas você) pode empunhar para lançar uma magia de 1º círculo (atributo-chave Inteligência), escolhida ao obter o aparato. Você pode ter até 2 aparatos ao mesmo tempo. Os aparatos não têm valor comercial.
+
+**Itens.** Mercadorias raras e variadas (2 espaços, T$ 300).
+
+---
+
+## Mago de Batalha de Wynlla
+
+Você serviu entre os Magos de Batalha de Wynlla. Agora, livre de suas obrigações cívicas, está pronto para seguir sua vida de aventuras.
+
+**Benefício.** A CD para resistir a suas magias arcanas aumenta em +1 e elas causam +1 ponto de dano.
+
+**Itens.** Essência de mana x2, varinha arcana.
+
+---
+
+## Cavaleiro de Grifo
+
+Você começou o treinamento para combater a Horda Moóck montado em um majestoso grifo. Por vontade própria ou imposição, você saiu da cidade antes de completar o treinamento… ou morrer!
+
+**Benefício.** Você recebe +1 PV por nível e redução de fogo 5, e é treinado em Cavalgar.
+
+**Itens.** Arma marcial, brunea, grifo iniciante.
+
+---
+
+## Matemático Sar-Allan
+
+Você estudou as complexas equações que os sar-allan usam para calcular a formação de portais no deserto. Talvez ainda não consiga prever esses eventos tão bem quanto seus mestres, mas sabe usar o poder da matemática para resolver diversos problemas.
+
+**Benefício.** Você é treinado em Conhecimento. Além disso, aprende e pode lançar Concentração de Combate e Orientação. Estes efeitos não contam como magias (exceto para fins de acúmulo) e não são mágicos — eles provêm de sua habilidade de calcular resultados a partir de uma mistura de geometria, análise de probabilidades e outros campos da matemática.
+
+**Itens.** Coleção de livros, luneta.
+
+---
+
+## Filho das Montanhas
+
+Você nasceu ou foi criado nas Montanhas Sanguinárias, um dos lugares mais brutais de Arton, onde aprendeu a sobreviver com base na determinação e força bruta.
+
+**Benefício.** Você é treinado em Sobrevivência e, se não estiver usando armadura pesada, recebe +1 em rolagens de dano com armas e redução de dano 1.
+
+**Itens.** Arma marcial, gibão de peles.
+
+---
+
+## Veterano da Guerra Civil
+
+Muitos dizem que a Guerra Artoniana acabou. Não onde você foi criado. Em uma terra onde escaramuças são frequentes, você se especializou em pilhar armas e outros itens abandonados nos campos de batalha.
+
+**Benefício.** Você é treinado em Guerra e Investigação. Além disso, quando rola na Tabela 8-1: Tesouro por Nível de Desafio (Tormenta20, p. 328), para cada tipo de tesouro (dinheiro ou item) você pode rolar novamente o resultado.
+
+**Itens.** Arma simples ou marcial, bálsamo restaurador, escudo leve ou pesado, essência de mana, ração de viagem x5, T$ 4d6.
+
+---
+
+## Tamalu de Khubar
+
+Você nasceu entre os tamalus, a casta política de Khubar que ostenta tatuagens mágicas mostrando sua história. Embora sua saga esteja apenas começando, você já conquistou sua primeira tatuagem.
+
+**Benefício.** Você é treinado em Diplomacia e Nobreza e recebe uma tatuagem mística à sua escolha.
+
+**Itens.** Traje da corte.
+
+### Tatuagens Místicas
+
+Os tatuadores tamalus de Khubar podem criar tatuagens especiais com Ofício (tatuador). Essas tatuagens podem ter um entre três benefícios: +1 na Defesa, resistência a magia +2 ou a habilidade de lançar uma magia de 1° círculo (atributo chave Sabedoria). Tatuagens precisam estar visíveis para funcionarem e, quando expostas, ocupam o espaço de um item vestido. Cada tatuagem custa T$ 1.000 x sua quantidade de tatuagens místicas (a primeira custa T$ 1.000, a segunda custa T$ 2.000 e assim progressivamente).
+
+---
+
+## Filho do Indomável
+
+A face oposta da Dama Altiva, o Indomável é uma divindade de ferocidade e selvageria. Agraciado com o poder dos monstros, você tem dificuldade em se adequar às normas e restrições da sociedade.
+
+**Benefício.** Você é treinado em Atletismo e Sobrevivência e pode gastar uma ação padrão e 1 PM para receber um ataque de garra (desarmado, 1d6 de dano, 19/x2). O dano desse ataque aumenta em um passo a cada quatro níveis (veja a tabela na pág. 106 de Tormenta20).
+
+**Itens.** Trapos surrados, carcaça de couro de algum animal caçado por você (conta como um gibão de peles).
+
+---
+
+## Historiador de Svalas
+
+Svalas é díspar, honrado e livre. Após todos os registros escritos do reino terem sido destruídos, a tradição svalana foi passada pela oralidade. Você é o fruto dessas histórias.
+
+**Benefício.** Você pode usar Sabedoria como atributo-chave de Conhecimento e Nobreza e pode fazer testes dessas perícias mesmo sem treinamento. Além disso, recebe +1 em Fortitude e Vontade.
+
+**Itens.** Arma simples ou marcial, corda, mochila de aventureiro, vara de madeira (3 m).
+
+---
+
+## Agraciado pela Natureza
+
+Nascido em Moreania, você foi agraciado pela própria Mãe Natureza. Você consegue entender as vozes da natureza e pode invocar o auxílio dos filhos de Allihanna.
+
+**Benefício.** Você é treinado em Adestramento e pode gastar 1 minuto e 1 PM para convocar um animal Minúsculo a sua escolha, como um falcão ou gato, em seu auxílio. A criatura convocada fornece +2 nos seus testes de uma perícia específica, adequada às suas capacidades, e permanece auxiliando-o até o fim da cena, quando então retorna para os ermos. Você pode ter um número de criaturas convocadas simultâneas igual à sua Sabedoria (mínimo de 1). O mestre tem a palavra final sobre quais criaturas estão disponíveis e em quais perícias elas podem prestar auxílio.
+
+**Itens.** Bordão, ração de viagem x5.
+
+---
+
+## Malandro de Ahlen
+
+Há um ditado em Ahlen: todo dia saem de casa um malandro e um otário. Você definitivamente aprendeu como não ser o otário.
+
+**Benefício.** Você recebe +2 em Enganação e Furtividade e pode usar Carisma como atributo-chave de Ladinagem (em vez de Destreza).
+
+**Itens.** Essência de sombra, gazua, estojo de disfarces.
+
+---
+
+## Estudante de Arcana
+
+Você assistiu a algumas aulas na Academia Arcana. Não se tornou um arcanista, mas aprendeu a lidar com magias e enjambrar alguns truques!
+
+**Benefício.** Você recebe resistência a magia +2 e pode ativar pergaminhos de todas as magias arcanas de 1º círculo como se as conhecesse.
+
+**Itens.** Três pergaminhos de magias arcanas de 1º círculo à sua escolha.
 
 ---
 

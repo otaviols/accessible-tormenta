@@ -10,7 +10,7 @@ navigation:
 
 # Raças de Ghanor - Variantes Condicionais
 
-[← Anterior: Vanir](06-vanir.md) | [Próximo: Bugbear →](08-bugbear.md)
+[← Anterior: Vanir](06-vanir.md) | [Próximo: Bugbear →](01-bugbear.md)
 
 ## Anão de Ghanor
 

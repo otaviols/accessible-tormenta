@@ -76,4 +76,6 @@ Mesmo quando a visão falha, o xerife de Azgher pode fechar os olhos e confiar n
 
 Você aprende e pode lançar a magia Visão da Verdade. Caso aprenda novamente essa magia, seu custo diminui em –1 PM. Pré-requisito: Olho de Azgher.
 
-[← Anterior: Vigilante Mascarado](18-vigilante-mascarado.md) | [Próximo: Capítulo 6 - Equipamentos →](../06-equipamentos/01-introducao.md)
+---
+
+[← Anterior: Vigilante Mascarado](18-vigilante-mascarado.md) | [Próximo: Capítulo 6 - Equipamentos →](../06-equipamentos/README.md)

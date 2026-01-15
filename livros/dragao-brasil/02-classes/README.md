@@ -24,6 +24,8 @@ Este capítulo apresenta variantes, opções e conteúdo expandido para 15 class
 
 ### Classes com Poderes Expandidos
 
+**[Poderes e Opções de Classes](01-poderes-classes.md)** - Índice completo de poderes por classe
+
 1. **[Arcanista](01-arcanista.md)** - Poderes de linhagem dracônica
 2. **[Bárbaro](02-barbaro.md)** - Poderes de fúria e instinto
 3. **[Bardo](03-bardo.md)** - Poderes de inspiração e performance

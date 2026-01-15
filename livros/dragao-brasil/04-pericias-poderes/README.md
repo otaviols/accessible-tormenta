@@ -22,6 +22,9 @@ Este capítulo apresenta conteúdo expandido de perícias e poderes, incluindo n
 
 ## 📑 Conteúdo do Capítulo
 
+**[00-deuses-remanescencia.md](00-deuses-remanescencia.md)** - Deuses e Remanescência
+- Novas devoções e sistema de Remanescência
+
 **[01-pericias.md](01-pericias.md)** - Perícias
 - Novas perícias e usos expandidos
 
