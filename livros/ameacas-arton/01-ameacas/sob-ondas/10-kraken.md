@@ -12,7 +12,7 @@ next: "11-agua-viva"
 *"O mar não tem dono! Ou, pelo menos, não deveria ter..."*  
 — Um marinheiro bucaneiro anônimo
 
-![Kraken e Pliorex](../../_imagens/ameacas-arton/kraken-pliorex.jpg)
+![Kraken e Pliorex](../../../_imagens/placeholder-criatura.png)
 
 *Descrição: Lula gigantesca de corpo imenso como navio e tentáculos massivos que alcançam tudo em volta. Olhos do tamanho de poços parecem congelados encarando vazio mas malícia é quase palpável.*
 

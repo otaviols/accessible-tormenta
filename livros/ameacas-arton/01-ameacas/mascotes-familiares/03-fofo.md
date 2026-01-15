@@ -8,7 +8,7 @@ next_title: Gambá
 
 # Fofo
 
-![Imagem de um Fofo](../../_imagens/ameacas-arton/fofo.jpg)
+![Imagem de um Fofo](../../../_imagens/placeholder-criatura.png)
 *Descrição: Uma massa amorfa que lembra pão, tanto na consistência quanto na cor. É quente e macia ao toque, sem olhos ou feições reconhecíveis, mas muda continuamente de forma, representando figuras familiares.*
 
 *"Mas onde foi que guardei a engenhoca? Ora, ora…"*  

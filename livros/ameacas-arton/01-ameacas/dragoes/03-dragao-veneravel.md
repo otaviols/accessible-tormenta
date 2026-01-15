@@ -13,7 +13,7 @@ next: "04-dragao-feral"
 > 
 > — Auronatt, dragão das escarpas
 
-![Ilustração de um Dragão Venerável](../../_imagens/ameacas-arton/dragao-veneravel.jpg)
+![Ilustração de um Dragão Venerável](../../../_imagens/placeholder-criatura.png)
 *Descrição: A fera é gigantesca, mas ainda assim move-se com elegância e altivez impressionantes. Quando os observa, vocês quase podem sentir sua insignificância perante algo tão mais antigo e sábio.*
 
 A fera é gigantesca, mas ainda assim move-se com elegância e altivez impressionantes. Quando os observa, vocês quase podem sentir sua insignificância perante algo tão mais antigo e sábio.

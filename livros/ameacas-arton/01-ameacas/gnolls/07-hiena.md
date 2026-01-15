@@ -9,7 +9,7 @@ next: "08-matrona"
 
 # Hiena
 
-![Ilustração de Hiena](../../_imagens/ameacas-arton/hiena.jpg)
+![Ilustração de Hiena](../../../_imagens/placeholder-criatura.png)
 *Descrição: O bando de canídeos robustos, de orelhas arredondadas e focinhos enegrecidos, emite latidos enervantes que lembram risadas. Embora sejam ameaçadores, entre eles emerge uma criatura muito maior, saída de pesadelos.*
 
 "Pelo menos ELAS gostam de minhas piadas. Inclusive esta. Não, NÃO foi ruim!"

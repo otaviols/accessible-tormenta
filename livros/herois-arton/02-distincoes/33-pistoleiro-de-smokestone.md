@@ -1,7 +1,7 @@
 ---
 title: "Pistoleiro de Smokestone"
 navigation:
-  previous: "32-mosqueteiro-de-rishantor"
+  previous: "32-mutagenista"
   next: "34-professor-de-magia"
   back: "../README"
 ---
@@ -96,4 +96,4 @@ Você recebe um cavalo de guerra parceiro veterano. Caso já possua uma montaria
 
 ---
 
-**[← Anterior: Mosqueteiro de Rishantor](32-mosqueteiro-de-rishantor.md)** | **[Próximo: Professor de Magia →](34-professor-de-magia.md)** | **[↑ Voltar](../README.md)**
+**[← Anterior: Mutagenista](32-mutagenista.md)** | **[Próximo: Professor de Magia →](34-professor-de-magia.md)** | **[↑ Voltar](../README.md)**

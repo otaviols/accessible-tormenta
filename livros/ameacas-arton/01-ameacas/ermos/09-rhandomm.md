@@ -9,7 +9,7 @@ next: "../gnolls/README"
 
 # Rhandomm
 
-![Ilustração de Rhandomm](../../_imagens/ameacas-arton/rhandomm.jpg)
+![Ilustração de Rhandomm](../../../_imagens/placeholder-criatura.png)
 *Descrição: Um humanoide titânico — um gigante literal, alto como a torre de um castelo. A pele rochosa em vários tons de mármore, ou algo igualmente sólido. Arbustos, folhagens e musgos abundam nos ombros e costas. As feições são grosseiras, como a obra apressada de algum escultor desleixado. Nos olhos diminutos e estúpidos, um inconfundível desvario de loucura.*
 
 "Por todos os deuses e deusas, nada consegue ferir esse gigante?"

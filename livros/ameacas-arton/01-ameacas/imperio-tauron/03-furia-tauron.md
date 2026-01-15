@@ -13,7 +13,7 @@ next: "04-gladiador-taurico"
 > 
 > — Nymme Ergech, qareen paladina de Tanna-Toh
 
-![Ilustração de Fúrias de Tauron](../../_imagens/ameacas-arton/furias-tauron.jpg)
+![Ilustração de Fúrias de Tauron](../../../_imagens/placeholder-criatura.png)
 *Descrição: A aparição flutuante tem o aspecto de um crânio bovino envolto em chamas macabras, espectrais. Impossível não notar a semelhança com o próprio Deus da Força.*
 
 A aparição flutuante tem o aspecto de um crânio bovino envolto em chamas macabras, espectrais. Impossível não notar a semelhança com o próprio Deus da Força.

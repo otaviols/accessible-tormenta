@@ -10,7 +10,7 @@ next: "10-brawar"
 
 # Tigre-de-Hyninn
 
-![Tigre-de-Hyninn](../../_imagens/ameacas-arton/tigre-hyninn.jpg)
+![Tigre-de-Hyninn](../../../_imagens/placeholder-criatura.png)
 
 *Descrição: Uma criatura felina de tamanho assustador que parece existir parcialmente em múltiplas realidades ao mesmo tempo. Seu corpo grande e musculoso é coberto por listras que borram e distorcem, como se a criatura estivesse levemente fora de foco. O número de cabeças varia confusamente — às vezes uma, às vezes duas ou três, piscando dentro e fora da existência. Tentáculos emergem aleatoriamente de seu corpo em locais que mudam constantemente. A criatura se move com graça predatória, mas deixa rastros de distorção espacial por onde passa, e o ar ao seu redor vibra com energia planar instável.*
 
@@ -75,7 +75,7 @@ O tigre pode fazer **1 ataque de mordida** por cabeça e **1 ataque de tentácul
 
 ## 📊 Estatísticas — Tigre-de-Hyninn Primordial
 
-![Tigre-de-Hyninn Primordial](../../_imagens/ameacas-arton/tigre-hyninn-primordial.jpg)
+![Tigre-de-Hyninn Primordial](../../../_imagens/placeholder-criatura.png)
 
 *Descrição: Uma versão ainda maior e mais instável do tigre-de-Hyninn comum. Este espécime atingiu tamanho colossal e sua conexão com Hyninn (o Plano do Caos) é tão profunda que a própria realidade se distorce visualmente ao seu redor. Múltiplas cabeças felinas emergem e desaparecem constantemente de seu corpo massivo, algumas rugindo, outras sibilando, outras simplesmente observando com olhos que brilham com energia planar. Tentáculos de diversos tamanhos e formas brotam aleatoriamente de seu torso, alguns com garras, outros com ventosas, outros terminando em bocas adicionais. A criatura parece existir parcialmente em outras dimensões, com partes de seu corpo literalmente desaparecendo e reaparecendo em outros lugares. O ar ao redor dela é distorcido como uma miragem, e sons impossíveis — rugidos de criaturas que não existem — ecoam quando ela se move.*
 

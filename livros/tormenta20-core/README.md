@@ -152,8 +152,6 @@ Tabelas de referência, índices e materiais de apoio.
 
 ## 📊 Status da Conversão
 
-Veja [PROGRESS.md](PROGRESS.md) para detalhes completos do progresso.
-
 **Resumo:**
 - 📄 Páginas: 407 de 407 (100%)
 - 📁 Arquivos: 133 arquivos markdown
@@ -165,8 +163,6 @@ Veja [PROGRESS.md](PROGRESS.md) para detalhes completos do progresso.
 ## 🔗 Navegação
 
 - [← Voltar ao Índice de Livros](../README.md)
-- [Ver Progresso Detalhado](PROGRESS.md)
-- [Guia de Extração](../../EXTRACTION_GUIDE.md)
 
 ---
 

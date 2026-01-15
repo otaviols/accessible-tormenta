@@ -13,7 +13,7 @@ next: "02-golem-barro"
 > 
 > — Thalina Asa-de-Cristal, sílfide clériga de Hyninn
 
-![Ilustração de Gárgula](../../_imagens/ameacas-arton/gargula.jpg)
+![Ilustração de Gárgula](../../../_imagens/placeholder-criatura.png)
 *Descrição: A criatura parece a estátua de um humanoide grotesco e alado, com chifres, cauda e garras. Pousada em uma cornija de pedra, suas asas de morcego estão fechadas e seu corpo cinza parece ser de pedra sólida. Os olhos vazios observam tudo abaixo com uma intensidade predatória.*
 
 A criatura parece a estátua de um humanoide grotesco e alado, com chifres, cauda e garras.

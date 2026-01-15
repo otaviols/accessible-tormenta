@@ -9,7 +9,7 @@ next: "06-fera-cacto"
 
 # Estirge
 
-![Ilustração de Estirge](../../_imagens/ameacas-arton/estirge.jpg)
+![Ilustração de Estirge](../../../_imagens/placeholder-criatura.png)
 *Descrição: Seres voadores demoníacos que lembram grandes mosquitos, mas de corpos vermelhos e peludos, com asas negras de morcego. Têm cabeças insetoides alongadas, com trombas compridas e finas. Quando se reúnem em enxames, formam nuvens escuras pulsantes no céu.*
 
 "Pouco me importam seus problemas passados, não vou desistir de meu familiar. Acostumem-se!"

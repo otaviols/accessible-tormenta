@@ -8,7 +8,7 @@ next_title: Kill'Bone
 
 # Homúnculo
 
-![Imagem de um Homúnculo](../../_imagens/ameacas-arton/homunculo.jpg)
+![Imagem de um Homúnculo](../../../_imagens/placeholder-criatura.png)
 *Descrição: Uma pequena criatura demoníaca, como uma estatueta grotesca feita de ônix ou outro mineral escuro. Tem a aparência de um demônio diminuto, com asas de morcego e gemas amarelas nos olhos. Na ponta da cauda longa há um ferrão gotejando veneno que exala filetes de vapor.*
 
 *"Estou dizendo, o maldito documento estava bem ali! Ninguém poderia ter entrado!"*  

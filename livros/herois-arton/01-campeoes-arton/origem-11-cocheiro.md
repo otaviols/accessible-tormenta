@@ -12,7 +12,7 @@ navigation:
 
 > "Você passou anos conduzindo carroças, carruagens e charretes, transportando passageiros e mercadorias por rotas perigosas."
 
-[← Anterior: Campeão de Oceano](origem-10-campeao-oceano.md) | [Próximo: Construtor →](origem-12-construtor.md)
+[← Anterior: Citadino Abastado](origem-10-citadino-abastado.md) | [Próximo: Construtor →](origem-12-construtor.md)
 
 ## Descrição
 

@@ -8,7 +8,7 @@ next_title: Verilêmur & Malafex
 
 # Tentacute
 
-![Imagem de um Tentacute](../../_imagens/ameacas-arton/tentacute.jpg)
+![Imagem de um Tentacute](../../../_imagens/placeholder-criatura.png)
 *Descrição: Um pequeno animal com corpo felino do tamanho de um gato, mas com olhos telescópicos como olhos de caracol, uma concha em forma de capacete sobre a cabeça, e uma cauda longa em forma de tentáculo de polvo com ventosas.*
 
 *"Não é o bichinho mais lindo neste mundo? Não, claro que não vamos comê-lo, ora essa!"*  
@@ -84,7 +84,7 @@ Tentacutes possuem diversas similaridades com micos, saguis e outros pequenos pr
 
 # Tropa de Tentacutes
 
-![Imagem de uma Tropa de Tentacutes](../../_imagens/ameacas-arton/tropa-tentacutes.jpg)
+![Imagem de uma Tropa de Tentacutes](../../../_imagens/placeholder-criatura.png)
 *Descrição: Um grupo caótico de diversos tentacutes pulando, escalando e roubando objetos brilhantes em conjunto.*
 
 Quando em grandes números, tentacutes formam tropas barulhentas e destrutivas que podem saquear rapidamente um acampamento ou mercado.

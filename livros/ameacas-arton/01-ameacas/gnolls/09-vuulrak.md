@@ -9,7 +9,7 @@ next: "../golens/README"
 
 # Gnoll Vuul'rak
 
-![Ilustração de Gnoll Vuul'rak](../../_imagens/ameacas-arton/gnoll-vuulrak.jpg)
+![Ilustração de Gnoll Vuul'rak](../../../_imagens/placeholder-criatura.png)
 *Descrição: O monstro grotesco tem alguma semelhança com os homens-hienas saqueadores dos ermos, mas claramente não se trata da mesma criatura. É bem maior que um ogro, com várias cabeças e um número ainda maior de braços, cada um empunhando um tacape ou outra arma rústica. Seus latidos-risadas, em vez de buscar a intimidação, trazem apenas uma fúria insana.*
 
 "Gnoll? Seu erro é compreensível, mas veja a quantidade de cabeças! Obviamente é uma hidra!"

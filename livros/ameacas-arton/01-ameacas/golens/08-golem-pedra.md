@@ -13,7 +13,7 @@ next: "09-instrumento-divino"
 > 
 > — Vizael, humano arcanista
 
-![Ilustração de Golem de Pedra](../../_imagens/ameacas-arton/golem-pedra.jpg)
+![Ilustração de Golem de Pedra](../../../_imagens/placeholder-criatura.png)
 *Descrição: O que parecia ser uma grande estátua de um minotauro ergue-se da alcova na parede e avança na direção de vocês com passos estrondosos. Quando se move, frestas em suas articulações emanam luz esverdeada. Tem grandes esmeraldas nos olhos, faiscando fogo verde. Sua forma maciça de pedra esculpida irradia poder ancestral.*
 
 O que parecia ser uma grande estátua de um minotauro ergue-se da alcova na parede e avança na direção de vocês com passos estrondosos. Quando se move, frestas em suas articulações emanam luz esverdeada. Tem grandes esmeraldas nos olhos, faiscando fogo verde.

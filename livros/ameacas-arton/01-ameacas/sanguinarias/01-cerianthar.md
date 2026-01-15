@@ -12,7 +12,7 @@ next: "02-tachygloss"
 **Tipo:** Aberração Média, N  
 **Ambiente:** Sanguinárias (cavernas úmidas, fendas rochosas), costas rochosas
 
-![Cerianthar](../../_imagens/ameacas-arton/cerianthar.jpg)
+![Cerianthar](../../../_imagens/placeholder-criatura.png)
 *Descrição: Criatura que parece rocha coberta de musgo, mas quando se aproxima uma presa revela-se como massa de tentáculos rosa-acinzentados saindo de corpo cilíndrico. Oito tentáculos longos se estendem, cada um coberto de pequenos cílios urticantes. Corpo central tem textura rugosa, quase indistinguível de pedra quando imóvel.*
 
 ---

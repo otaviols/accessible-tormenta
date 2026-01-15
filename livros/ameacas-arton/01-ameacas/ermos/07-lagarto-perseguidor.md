@@ -9,7 +9,7 @@ next: "08-tendriculo"
 
 # Lagarto Perseguidor
 
-![Ilustração de Lagarto Perseguidor](../../_imagens/ameacas-arton/lagarto-perseguidor.jpg)
+![Ilustração de Lagarto Perseguidor](../../../_imagens/placeholder-criatura.png)
 *Descrição: Grande como um crocodilo, o lagarto de escamas listradas se ergue sobre pernas poderosas com garras longas. Uma língua bifurcada faz movimentos ligeiros enquanto a boca goteja saliva pegajosa.*
 
 "E pensar que morrerei assim, emboscado em uma selva esquecida pelos deuses…"

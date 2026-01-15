@@ -11,7 +11,7 @@ next: "../piratas-pistoleiros/README.md"
 > "Quando as árvores andam, a floresta inteira conspira contra você."  
 > — Último registro no diário de Talven, o Explorador
 
-![Árvore-Matilha](../../_imagens/ameacas-arton/arvore-matilha.jpg)
+![Árvore-Matilha](../../../_imagens/placeholder-criatura.png)
 *Descrição: Um aglomerado de troncos retorcidos que se movem como uma criatura única, com galhos entrelaçados formando membros e raízes que se arrastam pelo chão como tentáculos.*
 
 ## Descrição

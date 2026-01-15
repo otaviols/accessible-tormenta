@@ -11,7 +11,7 @@ next: "08-lendas-gatilho.md"
 > "Elfos-do-mar saqueadores? Caro amigo, em minha terra temos coisas bem piores."  
 > — Louis Blanchard, herdeiro do urso bucaneiro
 
-![Sahuagin](../../_imagens/ameacas-arton/sahuagin.jpg)
+![Sahuagin](../../../_imagens/placeholder-criatura.png)
 *Descrição: Humanoides de pele escamosa verde-azulada com barbatanas negras, mãos e pés palmados. Dentes afiados em bocas cruéis, olhos predadores. Alguns carregam tridentes, outros assumem formas de tubarão.*
 
 ## Descrição

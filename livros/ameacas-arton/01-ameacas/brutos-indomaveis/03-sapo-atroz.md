@@ -13,7 +13,7 @@ next: "04-tabrachi"
 > 
 > — Kiara Al'Hohein, qareen nobre
 
-![Ilustração de um Sapo Atroz](../../_imagens/ameacas-arton/sapo-atroz.jpg)
+![Ilustração de um Sapo Atroz](../../../_imagens/placeholder-criatura.png)
 *Descrição: Apenas os grandes olhos são visíveis na superfície da lama. No entanto, quando o monstro emerge, revela um corpanzil rugoso que poderia rivalizar com um hipopótamo. Um sapo gigante de dimensões monstruosas.*
 
 Apenas os grandes olhos são visíveis na superfície da lama. No entanto, quando o monstro emerge, revela um corpanzil rugoso que poderia rivalizar com um hipopótamo.

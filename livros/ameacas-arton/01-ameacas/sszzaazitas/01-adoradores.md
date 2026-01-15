@@ -12,7 +12,7 @@ Os Adoradores de Sszzaas são medusas que veneram o deus da traição e da menti
 
 ## Imagem
 
-![Adoradores de Sszzaas](../../_imagens/ameacas-arton/adoradores-sszzaas.jpg)
+![Adoradores de Sszzaas](../../../_imagens/placeholder-criatura.png)
 
 *Descrição: Medusas com serpentes vivas no lugar do cabelo, usando mantos escuros com símbolos de Sszzaas. Seus olhos brilham com poder hipnótico enquanto seguram adagas curvas e frascos de veneno. Uma delas usa trajes de sacerdotisa, preparando um ritual obscuro.*
 

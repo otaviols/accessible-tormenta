@@ -13,7 +13,7 @@ next: "05-kallyanach"
 > 
 > — O Pata, sulfure dracomante
 
-![Ilustração de Dracomante](../../_imagens/ameacas-arton/dracomante.jpg)
+![Ilustração de Dracomante](../../../_imagens/placeholder-criatura.png)
 *Descrição: Um conjurador sinistro gesticula e linhas brilhantes feitas de chamas correm ao longo de seu manto escuro. Diagramas arcanos surgem no ar ao seu redor. Em um instante mágico, sua forma humanoide se transforma: asas coriáceas emergem, escamas cobrem sua pele, garras substituem suas mãos. Ele se torna um dragão, em toda a sua glória aterradora.*
 
 Quando o conjurador sinistro gesticula, linhas brilhantes feitas de chamas correm ao longo do manto escuro e diagramas surgem no ar. Em menos de um instante, o mago não é mais um mago — ele é um dragão, em toda a sua glória aterradora.

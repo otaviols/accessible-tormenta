@@ -13,7 +13,7 @@ next: "09-dadivas-aharadak"
 > 
 > — Leinuwe, meio-elfo ladino
 
-![Ilustração de um Templo de Aharadak](../../_imagens/ameacas-arton/templo-aharadak.jpg)
+![Ilustração de um Templo de Aharadak](../../../_imagens/placeholder-criatura.png)
 *Descrição: A arquitetura impossível do templo desafia a compreensão — paredes que parecem pulsar, colunas de matéria vermelha viva, altares feitos de ossos fundidos. O ar é denso, sufocante, carregado com a essência da Tormenta.*
 
 A ascensão de Aharadak ao Panteão permitiu a este Lorde da Tormenta transformar seu culto depravado, outrora restrito a pequenos círculos de cultistas velados, em uma verdadeira religião. E ainda que seus devotos não sejam aceitos em todos os lugares, lentamente templos em sua homenagem são erguidos em diversos cantos de Arton. Verdadeiras casas de adoração ao horror incompreensível que é a Tormenta, cada igreja é como uma janela para a Anticriação, uma pequena amostra da depravação e perversidade lefeu.

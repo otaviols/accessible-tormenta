@@ -89,7 +89,7 @@ Versões alternativas das 14 classes básicas, oferecendo novos caminhos:
 - [Goradista](origem-19-goradista.md)
 - [Insciente](origem-20-insciente.md)
 - [Interrogador](origem-21-interrogador.md)
-- [Ladrão de Túmulos](origem-22-ladrao-tumulos.md)
+- [Ladrão de Túmulos](origem-22-ladrao-de-tumulos.md)
 - [Menestrel](origem-23-menestrel.md)
 - [Mensageiro](origem-24-mensageiro.md)
 - [Náufrago](origem-25-naufrago.md)
@@ -97,7 +97,7 @@ Versões alternativas das 14 classes básicas, oferecendo novos caminhos:
 - [Pedinte](origem-27-pedinte.md)
 - [Pescador](origem-28-pescador.md)
 - [Servo](origem-29-servo.md)
-- [Suporte de Tropas](origem-30-suporte-tropas.md)
+- [Suporte de Tropas](origem-30-suporte-de-tropas.md)
 
 ### Novos Poderes de Classe
 
@@ -120,9 +120,7 @@ Poderes adicionais para todas as 14 classes básicas:
 
 ### Novos Poderes Gerais
 
-Poderes disponíveis para todas as classes:
-
-- [Poderes Gerais](../02-novos-poderes/poderes-gerais.md) - Inclui Poderes de Combate, Destino, Magia, Tormenta, Raça e Poderes de Grupo
+Consulte o Capítulo 2 para poderes disponíveis para todas as classes, incluindo Poderes de Combate, Destino, Magia, Tormenta, Raça e Poderes de Grupo.
 
 ### Tabelas para Personagens
 

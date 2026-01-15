@@ -13,7 +13,7 @@ next: "07-dragao-celestial"
 > 
 > — Naia, humana de Valkaria
 
-![Ilustração de Tengu](../../_imagens/ameacas-arton/tengu.jpg)
+![Ilustração de Tengu](../../../_imagens/placeholder-criatura.png)
 *Descrição: Humanoides esguios cobertos por penas negras iridescentes, com cabeças corvídeas dotadas de bicos afiados e olhos ambarinos penetrantes. Suas asas largas e musculosas emergem das costas, e suas mãos terminam em garras ágeis. Vestem roupas orientais esvoaçantes que facilitam o voo - quimonos e hakamas em tons escuros decorados com símbolos de tempestades e ventos.*
 
 Após a invasão da Tormenta, o Império de Jade se viu obrigado a trazer para seu território muitos povos que antes estavam de fora. Sob essa imigração forçada, o tengu foi um dos grupos que mais fáceis se adaptaram. Talvez por já conhecer a cultura asiática, talvez por respeitar o conceito da honra ou simplesmente porque se parecem com corvos — guardiões do Império.

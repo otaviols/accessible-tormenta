@@ -12,7 +12,7 @@ next: "07-kaiju"
 **Tipo:** Besta Mágica Grande (Jovem) / Enorme (Adulto), N  
 **Ambiente:** Sanguinárias (vales vulcânicos, crateras), Galrasia (raros, versões maiores/mais agressivas)
 
-![Uraghian](../../_imagens/ameacas-arton/uraghian.jpg)
+![Uraghian](../../../_imagens/placeholder-criatura.png)
 *Descrição: Besouro colossal do tamanho de grande carroça (Jovem 4m comprimento) ou casa pequena (Adulto 6m). Corpo quitinoso negro-azulado com padrões luminosos em manchas irregulares — cores doentias (verde-limão, roxo-magenta, amarelo-sulfúrico) formando imagens perturbadoras de rostos contorcidos em agonia eterna. Cada indivíduo tem padrão único macabro. Cabeça possui mandíbulas serradas grandes e olhos compostos vermelhos. Seis patas robustas terminam em garras pontiagudas. Exala calor intenso visível (ondulações no ar). Ao se mover, corpo emite rangidos metálicos.*
 
 ---

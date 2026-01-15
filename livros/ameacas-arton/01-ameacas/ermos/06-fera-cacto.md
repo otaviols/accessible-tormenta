@@ -9,7 +9,7 @@ next: "07-lagarto-perseguidor"
 
 # Fera-Cacto
 
-![Ilustração de Fera-Cacto](../../_imagens/ameacas-arton/fera-cacto.jpg)
+![Ilustração de Fera-Cacto](../../../_imagens/placeholder-criatura.png)
 *Descrição: Seres vagamente humanoides, sem feições visíveis, avançam em silêncio. São cobertos de calosidades e espinhos afiados, e vários atingem dois metros de altura. Onde deveria haver mãos, trazem ferrões longos como adagas, que parecem ter o único propósito de matar.*
 
 "Acudam-me, estou ferido! Uma seta de besta? Não, parece um espinho gigante!"

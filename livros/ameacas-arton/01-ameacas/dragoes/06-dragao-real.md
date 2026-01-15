@@ -13,7 +13,7 @@ next: "07-sckhar"
 > 
 > — Hydora, Dragão-Rei das Nuvens
 
-![Ilustração de um Dragão-Real](../../_imagens/ameacas-arton/dragao-real.jpg)
+![Ilustração de um Dragão-Real](../../../_imagens/placeholder-criatura.png)
 *Descrição: Mesmo como um regente élfico arrogante, Sckhar emana grandiosidade. Contudo, quando escolhe retornar à monstruosa forma natural, sua presença inunda tudo em volta com fogo e medo. Serviçais morrem em pânico apenas por vislumbrar a criatura. Não, não uma criatura. Impossível ser qualquer outra coisa, exceto um deus!*
 
 Mesmo como um regente élfico arrogante, Sckhar emana grandiosidade. Contudo, quando escolhe retornar à monstruosa forma natural, sua presença inunda tudo em volta com fogo e medo. Serviçais morrem em pânico apenas por vislumbrar a criatura. Não, não uma criatura. Impossível ser qualquer outra coisa, exceto um deus!

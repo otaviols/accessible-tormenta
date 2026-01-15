@@ -113,4 +113,4 @@ Inspirada em RPGs clássicos, esta será uma campanha com baixo nível de poder 
 
 ---
 
-**[Anterior: 11. Culinária Avançada](11-culinaria-avancada.md)** | **[Próximo: Índice das Regras Opcionais](README.md)**
+**[Anterior: 11. Culinária Avançada](09-culinaria-avancada.md)** | **[Próximo: Índice das Regras Opcionais](README.md)**

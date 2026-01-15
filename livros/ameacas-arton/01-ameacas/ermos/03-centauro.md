@@ -9,7 +9,7 @@ next: "04-ente"
 
 # Centauro
 
-![Ilustração de Centauro](../../_imagens/ameacas-arton/centauro.jpg)
+![Ilustração de Centauro](../../../_imagens/placeholder-criatura.png)
 *Descrição: Criatura com torso, braços e cabeça humanoides conectados a um corpo equino completo. Possuem pele bronzeada ou morena no torso humanoide e pelagem marrom, preta ou castanha na parte equina. Muitos têm cabelos longos e usam adornos tribais. Empunham armas como lanças e arcos, e alguns têm crinas fartas como jubas de leão.*
 
 "É perto daqui, um dia de viagem. Não, espera! Para vocês, bípedes… dois dias."

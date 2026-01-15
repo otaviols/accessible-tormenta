@@ -66,5 +66,5 @@ Quando sofre um efeito que permite um teste de Reflexos para reduzir o dano à m
 
 **Navegação:**
 - [← Caçador de Cabeças](07-cacador-de-cabecas.md)
-- [Carteador →](09-carteador.md)
+- [Campeão de Dojo →](09-campeao-de-dojo.md)
 - [Voltar ao Índice](README.md)

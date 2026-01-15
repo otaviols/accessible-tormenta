@@ -8,7 +8,7 @@ next_title: Kobold Bruto
 
 # Kobold
 
-![Imagem de Kobolds](../../_imagens/ameacas-arton/kobold.jpg)
+![Imagem de Kobolds](../../../_imagens/placeholder-criatura.png)
 *Descrição: Pequenos humanoides reptilianos com faces caninas, escamas avermelhadas ou marrons, e olhos brilhantes. Empunham lanças e fundas, vestindo armaduras improvisadas.*
 
 *"Individualmente? São patéticos. Mas nunca vêm sozinhos."*  
@@ -145,7 +145,7 @@ Kobolds vivem em grandes comunidades subterrâneas, sempre próximas a covis de 
 
 # Kobolds Heróis
 
-![Imagem de Kobolds Heróis](../../_imagens/ameacas-arton/kobolds-herois.jpg)
+![Imagem de Kobolds Heróis](../../../_imagens/placeholder-criatura.png)
 *Descrição: Um grupo de kobolds vestindo armaduras improvisadas e empunhando armas variadas, organizados em formação de combate. Alguns estão empilhados uns sobre os outros para alcançar altura suficiente.*
 
 Ao jogar com kobolds, você certamente encontrará alguns desafios descritivos. Como seus kobolds vestem uma armadura? Talvez eles se empilhem em uma forma vagamente humanoide, vestindo a armadura como um construto gigante, ou então um dos membros pode ser escolhido para trajar a armadura e ficar à frente dos demais. Da mesma forma, um ataque com uma espada pode representar diversas lâminas menores, ou uma única arma empunhada por uma profusão de bracinhos escamosos. Aqui o que vale é a criatividade.

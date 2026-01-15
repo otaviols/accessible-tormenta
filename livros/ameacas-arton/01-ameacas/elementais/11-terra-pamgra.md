@@ -9,7 +9,7 @@ next: "12-terra-tanaloom"
 
 # Pamgra
 
-![Ilustração de Pamgra](../../_imagens/ameacas-arton/pamgra.jpg)
+![Ilustração de Pamgra](../../../_imagens/placeholder-criatura.png)
 *Descrição: A criatura tem o tamanho e as proporções de um grande gorila, mas feito de pedras, amalgamadas com lama ou rocha liquefeita. Em vez de cabeça, traz um pedaço de cristal incrustado, sem feições. Formações cristalinas parecidas também afloram de seus punhos, tornando-os imensos tacapes cheios de pontas afiadas.*
 
 A criatura tem o tamanho e as proporções de um grande gorila, mas feito de pedras, amalgamadas com lama ou rocha liquefeita. Em vez de cabeça, traz um pedaço de cristal incrustado, sem feições. Formações cristalinas parecidas também afloram de seus punhos, tornando-os imensos tacapes cheios de pontas afiadas.

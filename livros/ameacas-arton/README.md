@@ -84,12 +84,6 @@ Tabelas de encontros aleatórios por terreno e região de Arton.
 
 ---
 
-## 🎯 Status de Conversão
-
-Veja [PROGRESS.md](PROGRESS.md) para acompanhar o progresso detalhado da conversão.
-
----
-
 ## 🔗 Links Relacionados
 
 - [Tormenta 20 - Core](../tormenta20-core/README.md)
@@ -98,9 +92,16 @@ Veja [PROGRESS.md](PROGRESS.md) para acompanhar o progresso detalhado da convers
 
 ---
 
+## 📚 Documentação para Contribuidores
+
+- [Guia de Início](GUIA_INICIO.md) - Como converter e formatar conteúdo
+- [Catalogação de Imagens](CATALOGAÇÃO_IMAGENS.md) - Lista de imagens para extração futura
+
+---
+
 ## 📝 Sobre a Conversão
 
-Este livro está sendo convertido seguindo as diretrizes do [PROJECT_CONTEXT.md](../../PROJECT_CONTEXT.md) e [EXTRACTION_GUIDE.md](../../EXTRACTION_GUIDE.md).
+Este livro foi convertido para formato acessível em Markdown, preservando todo o conteúdo original.
 
 **Créditos originais:**
 - Desenvolvimento: Bárbara "Momo" Soares, Camila Gamino, Daniel Duran, Gabriel "Pitre" Santana, Guilherme Dei Svaldi, J.M. Trevisan, Leonel Caldela, Lucas "Redzard" Felipetto, Marcelo Cassaro, Rafael Dei Svaldi, Thiago Rosa e Thiago "Trot" Almeida

@@ -11,7 +11,7 @@ next: "03-demonio-polvora.md"
 > "Você aí, com essa arma de pólvora. Uns anões andaram perguntando por você."  
 > — Alguém na Taverna Beeholdaar
 
-![Armeiros de Tenebra](../../_imagens/ameacas-arton/armeiro-tenebra.jpg)
+![Armeiros de Tenebra](../../../_imagens/placeholder-criatura.png)
 *Descrição: Anões vestidos com mantos escuros, símbolos sagrados de Tenebra pendendo sobre couraças. Nas mãos, mosquetes de alta qualidade com acabamento impecável brilham à luz fraca.*
 
 ## Descrição

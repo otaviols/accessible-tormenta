@@ -13,7 +13,7 @@ next: "05-golem-espelhos"
 > 
 > — Isendra Tharania, clériga de Azgher
 
-![Ilustração de Golem de Carne](../../_imagens/ameacas-arton/golem-carne.jpg)
+![Ilustração de Golem de Carne](../../../_imagens/placeholder-criatura.png)
 *Descrição: O vulto robusto, quase humano à primeira vista, logo revela o horror de sua real natureza. A criatura grotesca e inchada parece feita com partes de diferentes cadáveres, costuradas e aparafusadas para formar um novo ser. Veste apenas trapos rústicos, não empunha armas. Ainda assim, parece forte o bastante para erguer uma carruagem. Cicatrizes e suturas cruéis marcam todo o corpo.*
 
 O vulto robusto, quase humano à primeira vista, logo revela o horror de sua real natureza. Um cheiro de terra úmida e carne morta os atinge. A criatura grotesca e inchada parece feita com partes de diferentes cadáveres, costuradas e aparafusadas para formar um novo ser. Veste apenas trapos rústicos, não empunha armas. Ainda assim, parece forte o bastante para erguer uma carruagem.

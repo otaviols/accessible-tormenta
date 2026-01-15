@@ -13,7 +13,7 @@ next: "08-golem-pedra"
 > 
 > — Gedmund Storme, paladino de Khalmyr
 
-![Ilustração de Golem de Matéria Vermelha](../../_imagens/ameacas-arton/golem-materia-vermelha.jpg)
+![Ilustração de Golem de Matéria Vermelha](../../../_imagens/placeholder-criatura.png)
 *Descrição: O grande construto humanoide sem feições parece ter sido feito com algo que vocês não conseguem identificar — ou melhor, algo que não conseguem aceitar. Leva algum tempo até que uma terrível compreensão venha a atingir suas mentes: aquele material sangrento não poderia ter qualquer outra origem, exceto a Tormenta. Sua superfície vermelho-púrpura pulsa com energia antinatural, e ácido goteja de suas mãos.*
 
 O grande construto humanoide sem feições parece ter sido feito com algo que vocês não conseguem identificar — ou melhor, algo que não conseguem aceitar. Leva algum tempo até que uma terrível compreensão venha a atingir suas mentes: aquele material sangrento não poderia ter qualquer outra origem, exceto a Tormenta.

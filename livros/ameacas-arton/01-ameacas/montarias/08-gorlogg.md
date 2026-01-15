@@ -13,7 +13,7 @@ navigation:
 
 # Gorlogg
 
-![Gorlogg](/_imagens/ameacas-arton/gorlogg.jpg)
+![Gorlogg](../../../_imagens/placeholder-criatura.png)
 
 > "Feras do mundo perdido, rondando estradas do Reinado. Espere até minha mulher saber!"
 > 

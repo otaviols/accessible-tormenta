@@ -12,7 +12,7 @@ next: "03-oxxdon"
 **Tipo:** Besta Mágica Grande, N  
 **Ambiente:** Sanguinárias (picos rochosos, penhascos verticais), montanhas inóspitas
 
-![Grande Tachygloss](../../_imagens/ameacas-arton/grande-tachygloss.jpg)
+![Grande Tachygloss](../../../_imagens/placeholder-criatura.png)
 *Descrição: Ouriço colossal do tamanho de um pequeno dragão, corpo coberto por milhares de espinhos metálicos prateados que brilham à luz do sol. Patas robustas terminam em garras curvas. Focinho alongado com pequenos olhos vermelhos. Espinhos variam de 30cm a 1m de comprimento, todos apontados para trás em ângulos mortais. Quando se enrola, forma esfera perfeita de 3m de diâmetro — parede impenetrável de espinhos.*
 
 ---

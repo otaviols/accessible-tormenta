@@ -82,5 +82,5 @@ Quando você ingere um preparado alquímico, se ele fornece um bônus em períci
 
 **Navegação:**
 - [Anterior: Cobaia dos Médicos Monstros](15-cobaia-dos-medicos-monstros.md)
-- [Próximo: Espadachim de Moreania](17-espadachim-de-moreania.md)
+- [Próximo: Drogadora](17-drogadora.md)
 - [Voltar ao Índice de Heróis de Arton](../README.md)

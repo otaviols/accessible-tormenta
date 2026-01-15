@@ -24,6 +24,8 @@ Este capítulo apresenta novas magias para expandir o repertório de conjuradore
 
 Magias arcanas, divinas e universais de diferentes círculos de poder.
 
+- [🎯 Magias Adicionais](01-magias-novas.md) - Nova coleção de magias para Tormenta20
+
 ---
 
 ## 🔗 Navegação
@@ -34,4 +36,4 @@ Magias arcanas, divinas e universais de diferentes círculos de poder.
 
 ---
 
-**Status:** EM PREPARAÇÃO - Aguardando conversão do conteúdo extraído
+**Status:** ✅ COMPLETO - Magias adicionais disponíveis

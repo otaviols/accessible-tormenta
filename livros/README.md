@@ -21,8 +21,6 @@ O livro básico contém todas as regras fundamentais do sistema Tormenta20:
 - Ambientação de Arton
 - Apêndices
 
-[📊 Ver Progresso Detalhado](tormenta20-core/PROGRESS.md)
-
 ---
 
 ### [Ameaças de Arton](ameacas-arton/README.md)
@@ -34,8 +32,6 @@ Bestiário completo com criaturas, monstros e NPCs:
 - Bazar monstruoso
 - Raças parceiras
 - Apêndices organizados por ND e alfabético
-
-[📊 Ver Progresso](ameacas-arton/PROGRESS.md)
 
 ---
 
@@ -52,8 +48,6 @@ Conteúdo exclusivo da revista Dragão Brasil:
 - Magias extras
 - Regras opcionais
 
-[📊 Ver Progresso](dragao-brasil/PROGRESS.md)
-
 ---
 
 ### [Heróis de Arton](herois-arton/README.md)
@@ -66,8 +60,6 @@ Suplemento para personagens épicos:
 - Arsenal expandido
 - Regras opcionais avançadas
 
-[📊 Ver Progresso](herois-arton/PROGRESS.md)
-
 ---
 
 ## 🎯 Estatísticas Gerais
@@ -79,13 +71,7 @@ Suplemento para personagens épicos:
 | Dragão Brasil | - | 🚧 Em andamento | ~40% |
 | Heróis de Arton | - | 🚧 Em andamento | ~30% |
 
-## 📝 Recursos Adicionais
-
-- [Guia de Extração](../EXTRACTION_GUIDE.md) - Como extrair conteúdo dos PDFs
-- [Contexto do Projeto](../PROJECT_CONTEXT.md) - Visão geral do projeto
-- [Checklist de Qualidade](../CHECKLIST.md) - Padrões de qualidade
-
-## 🔍 Pesquisa Rápida
+##  Pesquisa Rápida
 
 ### Por Tipo de Conteúdo:
 - **Magias**: [Tormenta20 Cap. 9](tormenta20-core/09-magia/README.md) | [Dragão Brasil](dragao-brasil/07-magias/README.md)

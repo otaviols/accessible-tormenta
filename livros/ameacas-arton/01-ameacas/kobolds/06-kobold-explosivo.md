@@ -8,7 +8,7 @@ next_title: Kobold Xamã
 
 # Kobold Explosivo
 
-![Imagem de um Kobold Explosivo](../../_imagens/ameacas-arton/kobold-explosivo.jpg)
+![Imagem de um Kobold Explosivo](../../../_imagens/placeholder-criatura.png)
 *Descrição: Um kobold com escamas brilhantes e rachaduras luminosas percorrendo seu corpo, emanando uma luz alaranjada. Seus olhos brilham com energia instável.*
 
 *"Sem problemas. Tenho a técnica e a magia certas para lidar com essas pestes."*  

@@ -12,7 +12,7 @@ As nagahs arcanistas são magas ciumentas que consideram a magia arcana uma dád
 
 ## Imagem
 
-![Nagah Arcanista](../../_imagens/ameacas-arton/nagah-arcanista.jpg)
+![Nagah Arcanista](../../../_imagens/placeholder-criatura.png)
 
 *Descrição: Nagahs fêmeas com metade superior humanoide feminina elegante e metade inferior de serpente coberta de escamas brilhantes. Vestem mantos arcanos adornados com símbolos de Sszzaas. Uma mística segura cajado com cristal pulsante enquanto páginas de grimório flutuam ao redor. Uma encantadora tem aura feérica cintilante, olhar sedutoramente mortal, rodeada por ilusões hipnóticas.*
 

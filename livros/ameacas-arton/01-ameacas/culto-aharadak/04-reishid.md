@@ -13,7 +13,7 @@ next: "05-senhor-gigante-rubro"
 > 
 > — Ahnöc aus Herford, paladino de Azgher
 
-![Ilustração de um Reishid](../../_imagens/ameacas-arton/reishid.jpg)
+![Ilustração de um Reishid](../../../_imagens/placeholder-criatura.png)
 *Descrição: O líder do culto parece prestes a cravar um punhal enegrecido no coração da vítima acorrentada ao altar. Quando vocês se aproximam, podem ver que o rosto cruento sob o capuz não pertence a este mundo. Percebem também que ele não segura um punhal comum, mas uma arma orgânica, com lâmina viscosa e cabo como uma carapaça.*
 
 O líder do culto parece prestes a cravar um punhal enegrecido no coração da vítima acorrentada ao altar. Quando vocês se aproximam, podem ver que o rosto cruento sob o capuz não pertence a este mundo. Percebem também que ele não segura um punhal comum, mas uma arma orgânica, com lâmina viscosa e cabo como uma carapaça.

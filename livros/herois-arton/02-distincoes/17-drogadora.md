@@ -13,6 +13,6 @@ navigation:
 ---
 
 **Navegação:**
-- [← Anterior](./16-distincoes-anteriores.md)
+- [← Anterior: Dracomante Real](16-dracomante-real.md)
 - [↑ Voltar para Distinções](../README.md)
 - [→ Próximo: Engenhoqueiro Goblin](./18-engenhoqueiro-goblin.md)

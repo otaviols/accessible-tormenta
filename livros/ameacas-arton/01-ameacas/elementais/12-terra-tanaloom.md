@@ -9,7 +9,7 @@ next: "13-corrompido"
 
 # Tanaloom
 
-![Ilustração de Tanaloom](../../_imagens/ameacas-arton/tanaloom.jpg)
+![Ilustração de Tanaloom](../../../_imagens/placeholder-criatura.png)
 *Descrição: Uma grande coluna rochosa, como um monólito ou obelisco. Marcas antigas parecem formar uma textura rústica em sua superfície, ou então são apenas as irregularidades naturais da rocha. É difícil distinguir.*
 
 Uma grande coluna rochosa, como um monólito ou obelisco. Marcas antigas parecem formar uma textura rústica em sua superfície, ou então são apenas as irregularidades naturais da rocha. É difícil distinguir.

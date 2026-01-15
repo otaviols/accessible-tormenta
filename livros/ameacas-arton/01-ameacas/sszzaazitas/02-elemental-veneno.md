@@ -12,7 +12,7 @@ Elementais do Veneno são espíritos do plano de Venomia, o Reino dos Venenos. S
 
 ## Imagem
 
-![Elemental do Veneno](../../_imagens/ameacas-arton/elemental-veneno.jpg)
+![Elemental do Veneno](../../../_imagens/placeholder-criatura.png)
 
 *Descrição: Formas humanoides feitas de névoa venenosa esverdeada e líquido corrosivo roxo-escuro. O elemental pequeno é uma nuvem densa flutuante. O médio tem forma mais definida com tentáculos gotejantes. O grande é parcialmente incorpóreo, uma massa colossal de vapores letais com olhos ardentes e pústulas explosivas pulsando em seu corpo gasoso.*
 

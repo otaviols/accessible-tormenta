@@ -9,7 +9,7 @@ next: "03-seres-planta.md"
 > "Besta-fera infernal! Agora conseguiu me enfurecer de verdade!"  
 > — Berzerk Pigna, humano bárbaro
 
-![Deinonicos e Raagoran](../../_imagens/ameacas-arton/deinonico.jpg)
+![Deinonicos e Raagoran](../../../_imagens/placeholder-criatura.png)
 *Descrição: Lagartos bípedes emplumados do tamanho de cavalos, com longas patas traseiras trazendo garras em forma de foice. Inteligência aguçada nos olhos grandes.*
 
 ## Visão Geral

@@ -9,7 +9,7 @@ next: "09-vuulrak"
 
 # Matrona Gnoll
 
-![Ilustração de Matrona Gnoll](../../_imagens/ameacas-arton/matrona-gnoll.jpg)
+![Ilustração de Matrona Gnoll](../../../_imagens/placeholder-criatura.png)
 *Descrição: Súbito, a numerosa alcateia abre passagem. Um gnoll muito mais corpulento, muito mais impressionante, emerge entre eles. Usa adereços vistosos e empunha um machado imenso, sugerindo ser o líder. Contudo, um exame mais cuidadoso revela sinais de que pode ser uma fêmea.*
 
 "Agora vão me dizer que aquela abominação também é uma fêmea? Chega, desisto!"

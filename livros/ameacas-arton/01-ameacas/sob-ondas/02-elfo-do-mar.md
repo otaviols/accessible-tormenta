@@ -12,7 +12,7 @@ next: "03-enguia-rainha"
 *"Temos histórias de guerra entre nosso povo e eles. Nunca ouviu nenhuma? Pois então."*  
 — Marcielle, sereia barda
 
-![Elfos-do-Mar e Selako](../../_imagens/ameacas-arton/elfos-mar-selako.jpg)
+![Elfos-do-Mar e Selako](../../../_imagens/placeholder-criatura.png)
 
 *Descrição: Ser lembra elfo terrestre, embora mais baixo e corpulento, de ombros largos. Tem pele lustrosa perolada azul-acinzentada. Grandes orelhas têm raios como barbatanas de peixe. Tem cabelo branco longo e olhos azuis amendoados. Veste apenas tanga leve que parece feita de algas, enquanto empunha tridente farpado de aspecto muito perigoso.*
 

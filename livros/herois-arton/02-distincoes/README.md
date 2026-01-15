@@ -65,36 +65,36 @@ Apenas aventureiros de **patamar veterano** (5º nível ou acima) podem obter po
 35. [Senador](35-senador.md) - Líderes políticos e diplomatas
 36. [Vigarista](36-vigarista.md) - Mestres do engano e da manipulação
 
-- [Dracomante Real](17-dracomante-real.md)
-- [Drogadora](18-drogadora.md)
-- [Engenhoqueiro Goblin](19-engenhoqueiro-goblin.md)
-- [Escapista Magnífico](20-escapista-magnifico.md)
+- [Dracomante Real](16-dracomante-real.md)
+- [Drogadora](17-drogadora.md)
+- [Engenhoqueiro Goblin](18-engenhoqueiro-goblin.md)
+- [Escapista Magnífico](19-escapista-magnifico.md)
 
 ### G
 
-- [Gigante Furioso](21-gigante-furioso.md)
-- [Ginete de Namalkah](22-ginete-namalkah.md)
-- [Guerreiro Mágico](23-guerreiro-magico.md)
+- [Gigante Furioso](20-gigante-furioso.md)
+- [Ginete de Namalkah](21-ginete-de-namalkah.md)
+- [Guerreiro Mágico](22-guerreiro-magico.md)
 
 ### I-M
 
-- [Infiltrador de Wynlla](24-infiltrador-wynlla.md)
-- [Mago da Ordem do Vazio](25-mago-ordem-vazio.md)
-- [Mago de Batalha de Wynlla](26-mago-batalha-wynlla.md)
-- [Médico de Salistick](27-medico-salistick.md)
-- [Mestre Bêbado](28-mestre-bebado.md)
-- [Mestre Cozinheiro](29-mestre-cozinheiro.md)
-- [Mestre dos Desejos](30-mestre-desejos.md)
-- [Mestre Mahou-Jutsu](31-mestre-mahou-jutsu.md)
-- [Mosqueteiro de Rishantor](32-mosqueteiro-rishantor.md)
-- [Mutagenista](33-mutagenista.md)
+- [Infiltrador de Wynlla](23-infiltrador-de-wynlla.md)
+- [Mago da Ordem do Vazio](24-mago-da-ordem-do-vazio.md)
+- [Mago de Batalha de Wynlla](25-mago-de-batalha-de-wynlla.md)
+- [Médico de Salistick](26-medico-de-salistick.md)
+- [Mestre Bêbado](27-mestre-bebado.md)
+- [Mestre Cozinheiro](28-mestre-cozinheiro.md)
+- [Mestre dos Desejos](29-mestre-dos-desejos.md)
+- [Mestre Mahou-Jutsu](30-mestre-mahou-jutsu.md)
+- [Mosqueteiro de Rishantor](31-mosqueteiro-de-rishantor.md)
+- [Mutagenista](32-mutagenista.md)
 
 ### P-V
 
-- [Pistoleiro de Smokestone](34-pistoleiro-smokestone.md)
-- [Professor de Magia](35-professor-magia.md)
-- [Senador](36-senador.md)
-- [Vigarista](37-vigarista.md)
+- [Pistoleiro de Smokestone](33-pistoleiro-de-smokestone.md)
+- [Professor de Magia](34-professor-de-magia.md)
+- [Senador](35-senador.md)
+- [Vigarista](36-vigarista.md)
 
 ---
 

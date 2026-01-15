@@ -12,7 +12,7 @@ next: "06-peixe-recife"
 *"Aventureiros, ajudem-me, eu suplico! Sou caçada por um ser diabólico, ele agora me persegue!"*  
 — Yulianna, (talvez) elfa-do-mar
 
-![Nereida](../../_imagens/ameacas-arton/nereida.jpg)
+![Nereida](../../../_imagens/placeholder-criatura.png)
 
 *Descrição: O que parecia ser bela elfa-do-mar súbito muda para forma completamente diferente. Criatura agora lembra humanoide coberta de carapaça cinza-escura escamada. Em vez de rosto, máscara óssea com olhos volumosos e opacos. Filamentos longos se projetam de várias partes do corpo trazendo pequenas luzes nas pontas.*
 

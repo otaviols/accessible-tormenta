@@ -9,7 +9,7 @@ next: "08-modificando-dragoes"
 
 # Sckhar, Dragão-Rei do Fogo
 
-![Ilustração de Sckhar](../../_imagens/ameacas-arton/sckhar.jpg)
+![Ilustração de Sckhar](../../../_imagens/placeholder-criatura.png)
 *Descrição: Uma criatura colossal de escamas carmesim, tão vasta que sua sombra cobre castelos inteiros. Seu corpo ondula com chamas vivas, e cada movimento desprende faíscas e brasas. Quando abre suas mandíbulas titanicas, o ar ao redor distorce com o calor abrasador.*
 
 Sckhar é um dos **Dragões-Reais**, as crias diretas de Kallyadranoch. Como Dragão-Rei do Fogo, ele comanda o poder das chamas com maestria incomparável. Mesmo na forma de um regente élfico arrogante, Sckhar emana grandiosidade. Contudo, quando escolhe retornar à monstruosa forma natural, sua presença inunda tudo em volta com fogo e medo. Serviçais morrem em pânico apenas por vislumbrar a criatura. Não, não uma criatura. Impossível ser qualquer outra coisa, exceto um deus!

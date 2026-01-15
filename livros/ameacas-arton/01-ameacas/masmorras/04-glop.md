@@ -10,7 +10,7 @@ next: "05-mantor"
 
 # Glop
 
-![Glop](../../_imagens/ameacas-arton/glop.jpg)
+![Glop](../../../_imagens/placeholder-criatura.png)
 
 *Descrição: Uma massa gelatinosa semitransparente de cor verde-acinzentada com consistência de geleia grossa. A criatura não possui forma definida, mudando constantemente de formato enquanto se move lentamente pelo chão de uma masmorra. Dentro de sua massa translúcida, podem ser vistos fragmentos de ossos, moedas e equipamentos parcialmente dissolvidos de vítimas anteriores. A gosma emite um brilho fraco esverdeado e deixa um rastro de limo viscoso por onde passa.*
 
@@ -64,7 +64,7 @@ next: "05-mantor"
 
 ## 📊 Estatísticas — Glooop
 
-![Glooop](../../_imagens/ameacas-arton/glooop.jpg)
+![Glooop](../../../_imagens/placeholder-criatura.png)
 
 *Descrição: Uma versão muito maior do glop, com o tamanho aproximado de um cavalo. Sua massa gelatinosa verde-acinzentada é mais densa e viscosa, com uma consistência semelhante a um pântano líquido. A criatura pulsa e ondula enquanto se move, e dentro de sua massa translúcida podem ser vistos objetos maiores — armas inteiras, escudos, até mesmo partes de armaduras e ossos de criaturas de tamanho humano. O glooop emite um brilho esverdeado mais intenso e deixa poças de ácido corrosivo por onde passa.*
 
@@ -114,7 +114,7 @@ Se o glooop sofrer **15 ou mais de dano** em um único ataque, deve fazer um tes
 
 ## 📊 Estatísticas — Mamãe Glop
 
-![Mamãe Glop](../../_imagens/ameacas-arton/mamae-glop.jpg)
+![Mamãe Glop](../../../_imagens/placeholder-criatura.png)
 
 *Descrição: Uma enorme massa de gosma que pulsa e se contorce de forma perturbadora, lembrando vagamente uma criatura grávida ou um ninho pulsante. Sua cor é um verde-escuro quase negro, com veios mais claros que brilham enquanto a criatura se move. Dentro de sua massa gelatinosa, além dos restos de vítimas anteriores, podem ser vistos dezenas de pequenos glops em formação — filhotes que se movem independentemente dentro da massa materna. A criatura emite sons viscosos de sucção e gorgolejo enquanto se desloca lentamente, deixando um rastro de glops recém-nascidos em seu caminho.*
 

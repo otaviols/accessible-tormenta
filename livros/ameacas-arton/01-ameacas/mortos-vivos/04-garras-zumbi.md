@@ -9,7 +9,7 @@ next: "05-livido-mortalha.md"
 > "Garras-zumbi! Eu ACHO que estudei isso. (Matava muita aula de necromancia…)"  
 > — Paladina de Khalmyr
 
-![Garras-Zumbi](../../_imagens/ameacas-arton/garras-zumbi.jpg)
+![Garras-Zumbi](../../../_imagens/placeholder-criatura.png)
 *Descrição: Mãos decepadas de vários tamanhos, desde pequenas até gigantescas, correndo como aranhas ou voando. Algumas pertencem a humanos, outras a ogros ou gigantes.*
 
 ## Descrição

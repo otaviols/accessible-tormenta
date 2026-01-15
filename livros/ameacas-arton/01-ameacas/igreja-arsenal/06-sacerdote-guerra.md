@@ -13,7 +13,7 @@ next: "../igreja-kallyadranoch/README"
 > 
 > — Vitor Anduril, capelão de Arsenal
 
-![Ilustração de Sacerdote de Guerra](../../_imagens/ameacas-arton/sacerdote-guerra.jpg)
+![Ilustração de Sacerdote de Guerra](../../../_imagens/placeholder-criatura.png)
 *Descrição: Um humano de meia-idade com armadura pesada de placas escuras ornamentada com símbolos de Arsenal. Carrega um grande martelo de guerra em uma mão e um escudo entalhado com o símbolo do deus na outra. Seu olhar é determinado e frio, transmitindo uma devoção inabalável à guerra e ao conflito como propósito supremo.*
 
 Devotos de Arsenal são guerreiros natos, mas nem todos são meros brutos. Alguns são clérigos que combinam fé com eficiência em combate.

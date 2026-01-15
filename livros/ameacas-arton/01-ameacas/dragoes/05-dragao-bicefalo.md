@@ -13,7 +13,7 @@ next: "06-dragao-real"
 > 
 > — Barossa Arareber, estudiosa de hidras
 
-![Ilustração de um Dragão Bicéfalo](../../_imagens/ameacas-arton/dragao-bicefalo.jpg)
+![Ilustração de um Dragão Bicéfalo](../../../_imagens/placeholder-criatura.png)
 *Descrição: A saraivada de relâmpagos e a chuva de veneno chegam sem qualquer aviso. Quando se recuperam e conseguem olhar de novo, vocês primeiramente acreditam estar diante de dois dragões. Mas logo entendem o engano, quando percebem os pescoços alongados encontrando-se no mesmo corpo imenso.*
 
 A saraivada de relâmpagos e a chuva de veneno chegam sem qualquer aviso. Quando se recuperam e conseguem olhar de novo, vocês primeiramente acreditam estar diante de dois dragões. Mas logo entendem o engano, quando percebem os pescoços alongados encontrando-se no mesmo corpo imenso.

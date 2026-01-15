@@ -9,7 +9,7 @@ next: "03-fantasma.md"
 > "Pois que tragam mais progresso ao mundo na morte do que fizeram em vida."  
 > — Dokubek, arcanista humano
 
-![Esqueletos: Rei-Tirano, Gigante e Urso Pardo](../../_imagens/ameacas-arton/esqueletos.jpg)
+![Esqueletos: Rei-Tirano, Gigante e Urso Pardo](../../../_imagens/placeholder-criatura.png)
 *Descrição: Três esqueletos imponentes - um dragão esquelético colossal, um gigante de ossos e um urso pardo esquelético com garras afiadas.*
 
 ## Descrição

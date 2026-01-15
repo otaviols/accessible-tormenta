@@ -13,7 +13,7 @@ next: "06-avatar-kallyadranoch"
 > 
 > — Ben-Hakk, meio-dragão bardo
 
-![Ilustração de Kallyanach](../../_imagens/ameacas-arton/kallyanach.jpg)
+![Ilustração de Kallyanach](../../../_imagens/placeholder-criatura.png)
 *Descrição: O ser humanoide é coberto de escamas robustas de dragão, tem cabeça adornada de chifres curvos e presas afiadas, mãos terminadas em garras mortais e grandes asas coriáceas. Se foi humano um dia, ou elfo, ou mesmo minotauro, é impossível dizer — os traços dracônicos predominam por completo, transformando-o em algo entre mortal e dragão.*
 
 O ser humanoide é coberto de escamas robustas, tem cabeça adornada de chifres e presas, mãos com garras e grandes asas. Se foi humano um dia, ou elfo, ou mesmo minotauro, é impossível dizer — os traços dracônicos predominam por completo.

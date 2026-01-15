@@ -13,7 +13,7 @@ next: "03-sapo-atroz"
 > 
 > — Brivaria, meia-elfa lutadora
 
-![Ilustração de Orcs](../../_imagens/ameacas-arton/orc.jpg)
+![Ilustração de Orcs](../../../_imagens/placeholder-criatura.png)
 *Descrição: O bando é formado por humanoides musculosos, com pele verde-acinzentada, focinho suíno e presas inferiores que se projetam fora da boca. Os olhos trazem um sinistro brilho avermelhado.*
 
 O bando é formado por humanoides musculosos, com pele verde-acinzentada, focinho suíno e presas inferiores que se projetam fora da boca. Os olhos trazem um sinistro brilho avermelhado.

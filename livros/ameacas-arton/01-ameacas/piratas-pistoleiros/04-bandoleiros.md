@@ -9,7 +9,7 @@ next: "05-piratas-vivos.md"
 > "Estou dizendo, quase despedaçaram aquele bárbaro enorme apenas com facas!"  
 > — Mairom Jonaramm, anão guerreiro
 
-![Goblins de Sombreiro e Pistoleiros](../../_imagens/ameacas-arton/goblin-sombreiro.jpg)
+![Goblins de Sombreiro e Pistoleiros](../../../_imagens/placeholder-criatura.png)
 *Descrição: À esquerda, goblins pequenos com chapéus largos e ponchos coloridos. À direita, humanos durões com roupas de couro, bandanas e pistolas na cintura.*
 
 ## Visão Geral

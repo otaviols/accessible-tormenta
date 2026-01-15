@@ -45,21 +45,9 @@ Bestiário completo com abissais, aspectos divinos, celestiais, fadas, gênios, 
 
 ---
 
-## 📊 Status da Conversão
-
-Veja [PROGRESS.md](PROGRESS.md) para detalhes completos do progresso.
-
-**Resumo:**
-- 📄 Páginas: 324 de 324 (100%)
-- 📁 Arquivos: 130 de 130 (100%)
-- ✅ Status: EM PREPARAÇÃO
-
----
-
-## 🔗 Navegação
+## � Navegação
 
 - [← Voltar ao Índice Principal](../README.md)
-- [Ver Progresso Detalhado](PROGRESS.md)
 
 ---
 

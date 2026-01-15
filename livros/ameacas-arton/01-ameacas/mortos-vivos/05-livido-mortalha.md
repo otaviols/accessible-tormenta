@@ -11,7 +11,7 @@ next: "06-mumia.md"
 > "Emboscada? Não vem com essa merda, são zumbis sem mente! Não fazem planos!"  
 > — Karrk, trog caçador
 
-![Carniçal e Lívido](../../_imagens/ameacas-arton/carnical.jpg)
+![Carniçal e Lívido](../../../_imagens/placeholder-criatura.png)
 *Descrição: Criatura cadavérica similar a carniçal, com pele esticada sobre ossos protuberantes e bocarra com dentes longos. No entanto, há astúcia em seu olhar.*
 
 ### Descrição
@@ -73,7 +73,7 @@ Alguns imaginam que o lívido comanda carniçais, mas isso não é totalmente ve
 > "Vamos, chegue mais perto! Tenho certeza de que posso curar sua maldição."  
 > — Merthy, anã clériga de Tenebra
 
-![Mortalha](../../_imagens/ameacas-arton/mortalha.jpg)
+![Mortalha](../../../_imagens/placeholder-criatura.png)
 *Descrição: Figura sinistra envolta em aura espectral, coberta da cabeça aos pés com manto de escuridão esvoaçante. Único traço visível são os olhos, faiscando nas trevas com brilho escarlate.*
 
 ### Descrição

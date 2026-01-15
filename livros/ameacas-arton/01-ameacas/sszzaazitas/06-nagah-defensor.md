@@ -12,7 +12,7 @@ Os nagahs defensores são os guerreiros e soldados da sociedade nagah. Na cultur
 
 ## Imagem
 
-![Nagah Defensor](../../_imagens/ameacas-arton/nagah-defensor.jpg)
+![Nagah Defensor](../../../_imagens/placeholder-criatura.png)
 
 *Descrição: Nagah macho musculoso com metade superior humanoide masculina coberta de escamas e metade inferior de serpente possante. Empunha dois alfanges curvos com perícia mortal, usando o corpo serpenteante para proteção. Veste armadura de escamas reforçada. Está posicionado defensivamente na frente de uma nagah sacerdotisa, recebendo golpe destinado a ela — lâminas cruzadas bloqueiam ataque enquanto cauda se enrola protetora.*
 

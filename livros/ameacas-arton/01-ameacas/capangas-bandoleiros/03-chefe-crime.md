@@ -13,7 +13,7 @@ next: "04-clerigo-hyninn"
 > 
 > — Keiramm-Seis-Orelhas, lefou ladino
 
-![Ilustração de Chefe do Crime](../../_imagens/ameacas-arton/chefe-crime.jpg)
+![Ilustração de Chefe do Crime](../../../_imagens/placeholder-criatura.png)
 *Descrição: Diante dos marginais, uma figura altiva parece se sobressair. Os demais o observam, ansiosos, como se aguardando suas ações. De peito estufado, ele ergue a espada curta e lança um olhar desafiador.*
 
 Diante dos marginais, uma figura altiva parece se sobressair. Os demais o observam, ansiosos, como se aguardando suas ações. De peito estufado, ele ergue a espada curta e lança um olhar desafiador.

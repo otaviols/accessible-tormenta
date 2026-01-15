@@ -20,7 +20,7 @@ Arton é um mundo rico em povos e culturas, cada um capaz de forjar ferramentas 
 ✅ **4 Armaduras/Escudos**  
 ✅ **68 Itens Gerais**  
 ✅ **7 Materiais Especiais**  
-✅ **Sistema Recursos Naturais**  
+✅ **Sistema Recursos Naturais** - [Ver Recursos Naturais](recursos-naturais.md)  
 ✅ **6 Itens Mágicos + 3 Artefatos**  
 ✅ **7 Novas Magias**
 

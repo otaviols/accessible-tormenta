@@ -9,7 +9,7 @@ next: "03-centauro"
 
 # Carrasco de Lena
 
-![Ilustração de Carrasco de Lena](../../_imagens/ameacas-arton/carrasco-lena.jpg)
+![Ilustração de Carrasco de Lena](../../../_imagens/placeholder-criatura.png)
 *Descrição: A criatura tem a forma de uma salamandra imensa, com couro rugoso, pernas atarracadas e cauda muito grossa. Um tentáculo longo nasce no alto da cabeça, trazendo na ponta um ameaçador órgão espinhoso, semelhante a uma maça com cravos.*
 
 "Estou confusa. Vocês querem mesmo que eu cure ele, e não vocês?"

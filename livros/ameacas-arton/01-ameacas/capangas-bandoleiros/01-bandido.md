@@ -13,7 +13,7 @@ next: "02-capanga"
 > 
 > — Cooper Al'Aziz, humano ladino
 
-![Ilustração de Bandidos](../../_imagens/ameacas-arton/bandido.jpg)
+![Ilustração de Bandidos](../../../_imagens/placeholder-criatura.png)
 *Descrição: Há três assaltantes cheios de valentia em torno da jovem filha do taverneiro. Quando percebem sua chegada, eles devolvem olhares ferozes, mas as clavas em suas mãos perdem firmeza.*
 
 Há três assaltantes cheios de valentia em torno da jovem filha do taverneiro. Quando percebem sua chegada, eles devolvem olhares ferozes, mas as clavas em suas mãos perdem firmeza.

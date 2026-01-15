@@ -10,7 +10,7 @@ navigation:
 
 # Xerife de Azgher
 
-[← Anterior: Vigilante Mascarado](18-vigilante-mascarado.md) | [Próximo: Capítulo 6 - Equipamentos →](../06-equipamentos/01-introducao.md)
+[← Anterior: Vigilante Mascarado](18-vigilante-mascarado.md) | [↑ Voltar ao Índice](README.md)
 
 Dentro das fronteiras do Reinado, a justiça é vigilante e afiada como a espada de Khalmyr. Mas quanto mais distante das regiões centrais, que se dirá além do próprio Reinado, a lei e a justiça se tornam mais nubladas. Nessas fronteiras sem lei, criminosos e malfeitores se sentem cada vez mais seguros. Distantes da justiça de Khalmyr ou da lei do Reinado, se tornam mais ousados em seus trambiques e mais frequentes em seus achaques. O povo inocente dessas regiões isoladas sofre em silêncio, mas a verdade é que ninguém consegue se esconder do olhar implacável do Deus Sol. Onde os bandidos gargalham dos cavaleiros do Reinado, Azgher atua através de seus xerifes.
 

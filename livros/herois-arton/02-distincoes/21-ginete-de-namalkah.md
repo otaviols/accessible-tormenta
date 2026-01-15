@@ -43,6 +43,6 @@ A partir do 2º nível, você pode escolher os seguintes poderes:
 ---
 
 **Navegação:**
-- [← Devoto de Valkaria](20-devoto-de-valkaria.md)
+- [← Gigante Furioso](20-gigante-furioso.md)
 - [Guerreiro Mágico →](22-guerreiro-magico.md)
 - [↑ Voltar para Distinções](../README.md)

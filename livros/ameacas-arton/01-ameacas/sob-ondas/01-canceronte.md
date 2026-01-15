@@ -11,7 +11,7 @@ next: "02-elfo-do-mar"
 *"Vocês não fazem ideia do banquete incrível que consigo preparar com aquele ali!"*  
 — Willian Garfo d'Ouro, dahllan inventor e cozinheiro
 
-![Canceronte](../../_imagens/ameacas-arton/canceronte.jpg)
+![Canceronte](../../../_imagens/placeholder-criatura.png)
 
 *Descrição: Animal tem aparência de caranguejo descomunal, grande como navio invertido. Armadura azulada brilha com runas faiscantes. Quatro grandes garras poderiam partir humanos ao meio sem dificuldade, enquanto seis patas poderosas fazem criatura avançar como máquina de guerra viva.*
 

@@ -13,7 +13,7 @@ next: "03-chefe-crime"
 > 
 > — Lillian Amaryllis, alcaide da Guarda de Valkaria
 
-![Ilustração de Capangas](../../_imagens/ameacas-arton/capanga.jpg)
+![Ilustração de Capangas](../../../_imagens/placeholder-criatura.png)
 *Descrição: A entrada do esconderijo é vigiada por um homem enorme com um tacape, e um minotauro ainda maior com um machado. Nenhum deles parece estar aqui para fazer amigos.*
 
 A entrada do esconderijo é vigiada por um homem enorme com um tacape, e um minotauro ainda maior com um machado. Nenhum deles parece estar aqui para fazer amigos.

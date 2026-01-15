@@ -10,7 +10,7 @@ navigation:
 
 # Domínios
 
-[⬅️ Anterior: Exploração de Masmorras](10-exploracao-masmorras.md) | [➡️ Próximo: ???](12-???.md)
+[⬅️ Anterior: Exploração de Masmorras](10-exploracao-masmorras.md) | [➡️ Próximo: Lista de Regras Opcionais](18-lista-regras-opcionais.md)
 
 ---
 
@@ -284,4 +284,4 @@ De forma similar, o mestre pode permitir que outros aventureiros se beneficiem d
 
 ---
 
-[⬅️ Anterior: Exploração de Masmorras](10-exploracao-masmorras.md) | [➡️ Próximo: ???](12-???.md)
+[⬅️ Anterior: Exploração de Masmorras](10-exploracao-masmorras.md) | [➡️ Próximo: Lista de Regras Opcionais](18-lista-regras-opcionais.md)

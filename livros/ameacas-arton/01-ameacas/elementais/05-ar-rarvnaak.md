@@ -9,7 +9,7 @@ next: "06-ar-hallustir"
 
 # Rarvnaak
 
-![Ilustração de Rarvnaak](../../_imagens/ameacas-arton/rarvnaak.jpg)
+![Ilustração de Rarvnaak](../../../_imagens/placeholder-criatura.png)
 *Descrição: Não existe nada para ser visto até conjurar uma magia divinatória. Nesse instante o ser é revelado como um tipo de vulto feito de vapor. Mesmo incapaz de enxergar com precisão, consegue-se discernir algo mais ou menos humanoide.*
 
 Não existe nada para ser visto, até que você conjura sua magia divinatória. Nesse instante o ser é revelado como um tipo de vulto feito de vapor. Mesmo incapaz de enxergar com precisão, você ainda consegue discernir algo mais ou menos humanoide.

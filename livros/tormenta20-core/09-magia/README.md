@@ -33,12 +33,12 @@ Magia é a força mais poderosa de Arton, capaz de criar, destruir, curar e tran
 
 ### [2. Conceitos e Regras de Magia](02-conceitos-regras.md)
 
-### 3. Descrição das Magias por Círculo (175 magias únicas)
-- [Magias de 1º Círculo (79 magias)](03-descricao-magias-1-circulo.md)
-- [Magias de 2º Círculo (31 magias)](04-descricao-magias-2-circulo.md)
-- [Magias de 3º Círculo (26 magias)](06-descricao-magias-3-circulo.md)
-- [Magias de 4º Círculo (22 magias)](08-descricao-magias-4-circulo.md)
-- [Magias de 5º Círculo (17 magias)](10-descricao-magias-5-circulo.md)
+### 3. Descrição das Magias por Círculo 
+- [Magias de 1º Círculo ](03-descricao-magias-1-circulo.md)
+- [Magias de 2º Círculo ](04-descricao-magias-2-circulo.md)
+- [Magias de 3º Círculo ](06-descricao-magias-3-circulo.md)
+- [Magias de 4º Círculo ](08-descricao-magias-4-circulo.md)
+- [Magias de 5º Círculo ](10-descricao-magias-5-circulo.md)
 
 ## 🎯 Referência Rápida
 
@@ -46,7 +46,7 @@ Magia é a força mais poderosa de Arton, capaz de criar, destruir, curar e tran
 | Círculo | PM Base | Truque |
 |---------|---------|--------|
 | 1º | 1 PM | 0 PM |
-| 2º | 2 PM | — |
+| 2º | 3 PM | — |
 | 3º | 5 PM | — |
 | 4º | 10 PM | — |
 | 5º | 15 PM | — |
@@ -63,12 +63,12 @@ Magia é a força mais poderosa de Arton, capaz de criar, destruir, curar e tran
 **Transmutação**: Alteração de forma, movimento, propriedades físicas
 
 ### Atributo-Chave por Classe
-- **Magos e Clérigos**: Inteligência
+- **Arcanistas e Bruxos**: Inteligência
 - **Feiticeiros e Bardos**: Carisma
-- **Druidas e Paladinos**: Sabedoria
+- **Druidas e Clérigos**: Sabedoria
 
 ### CD das Magias
-**CD = 10 + círculo da magia + modificador do atributo-chave**
+**CD = 10 + metade do nível do usuário  + modificador do atributo-chave**
 
 ### Aprimoramentos Comuns
 - **+1 PM**: Aumentar número de alvos

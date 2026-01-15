@@ -9,7 +9,7 @@ next: "06-hobgoblin-atirador"
 
 # Goblin de Ferro
 
-![Ilustração de Goblin de Ferro](../../_imagens/ameacas-arton/goblin-ferro.jpg)
+![Ilustração de Goblin de Ferro](../../../_imagens/placeholder-criatura.png)
 *Descrição: Um goblin envolto em uma armadura mecanizada complexa feita de sucata e peças improvisadas. A veste parece quase viva, com engrenagens girando, tubos expelindo vapor e armas embutidas apontando em várias direções.*
 
 "Estou admirado! Não pensei que algo tão rudimentar funcionaria!"

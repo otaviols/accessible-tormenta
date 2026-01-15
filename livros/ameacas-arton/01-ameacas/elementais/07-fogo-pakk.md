@@ -9,7 +9,7 @@ next: "08-fogo-berbaram"
 
 # Pakk
 
-![Ilustração de Pakk](../../_imagens/ameacas-arton/pakk.jpg)
+![Ilustração de Pakk](../../../_imagens/placeholder-criatura.png)
 *Descrição: O que poderia ser tomado como uma mariposa em chamas na verdade se revela como um minúsculo e gracioso ser elemental. Embora pequeno e aparentemente não agressivo, em seu voo brincalhão ele vem perfurando as cortinas e deixando brasas nem um pouco inofensivas.*
 
 "Nada que uma Bola de Fogo bem conjurada não resolva, né?"

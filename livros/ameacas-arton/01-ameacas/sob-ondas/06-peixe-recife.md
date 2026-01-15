@@ -12,7 +12,7 @@ next: "07-platan"
 *"Sorte nossa que você tem grandes amigos. Hunc!"*  
 — Tork, trog anão
 
-![Peixe-Recife](../../_imagens/ameacas-arton/peixe-recife.jpg)
+![Peixe-Recife](../../../_imagens/placeholder-criatura.png)
 
 *Descrição: Pequena ilha que conseguiram alcançar após naufrágio contém apenas alguns corais crescendo em superfície. Subitamente percebem pequeno tremor — não é uma ilha.*
 

@@ -13,7 +13,7 @@ next: "../README"
 > 
 > — Gale Harvey, guardião da realidade
 
-![Ilustração de Gatzvalith](../../_imagens/ameacas-arton/gatzvalith.jpg)
+![Ilustração de Gatzvalith](../../../_imagens/placeholder-criatura.png)
 *Descrição: Neste reino de sangue e bizarria, infestado de monstros deformados, aquele que deve ser o regente parece assustadoramente humano. Um vulto robusto, em armadura muito pesada — não, não uma armadura, mas uma carapaça aberrante, viva. A cabeça ostenta um elmo fechado, ornamentado com chifres caprinos. Nas mãos, um enorme machado de osso-metal. Sob a máscara, uma face que demonstra astúcia e crueldade além de tudo que mortais — e deuses — conhecem.*
 
 Neste reino de sangue e bizarria, infestado de monstros deformados, aquele que deve ser o regente parece assustadoramente humano. Um vulto robusto, em armadura muito pesada — não, não uma armadura, mas uma carapaça aberrante, viva. A cabeça ostenta um elmo fechado, ornamentado com chifres caprinos. Nas mãos, um enorme machado de osso-metal. Sob a máscara, uma face que demonstra astúcia e crueldade além de tudo que mortais — e deuses — conhecem.
