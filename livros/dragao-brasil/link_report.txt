@@ -1,0 +1,39 @@
+RELATÓRIO DE LINKS MARKDOWN
+========================================================================
+
+RESUMO:
+- Arquivos .md analisados: 135
+- Links quebrados: 5
+- Arquivos órfãos: 4
+
+LINKS QUEBRADOS:
+------------------------------------------------------------------------
+
+Arquivo: CATALOGAÇÃO_IMAGENS.md (linha 154)
+  Texto: [Samurai tamurano empunhando katana ancestral. Guerreiro vestindo armadura laqueada vermelha e preta, em postura de guarda. A lâmina brilha com energia mágica azulada.]
+  Href:  (../../_imagens/dragao-brasil/02-classes/classe-samurai-katana-ancestral.jpg)
+
+Arquivo: CATALOGAÇÃO_IMAGENS.md (linha 159)
+  Texto: [Wakizashi - espada curta tamurana com lâmina ligeiramente curva, guarda circular ornamentada e cabo enrolado em seda preta.]
+  Href:  (../../_imagens/dragao-brasil/07-equipamentos/equip-arma-wakizashi.jpg)
+
+Arquivo: CATALOGAÇÃO_IMAGENS.md (linha 164)
+  Texto: [Imagem decorativa: divisor de seção com padrão geométrico]
+  Href:  (../../_imagens/dragao-brasil/decorativos/decorativo-divisor-01.jpg)
+
+Arquivo: 01-racas\07-racas-ghanor.md (linha 13)
+  Texto: [Próximo: Bugbear →]
+  Href:  (08-bugbear.md)
+
+Arquivo: 05-distincoes\19-xerife-azgher.md (linha 79)
+  Texto: [Próximo: Capítulo 6 - Equipamentos →]
+  Href:  (../06-equipamentos/01-introducao.md)
+
+
+ARQUIVOS .MD ÓRFÃOS (não referenciados por nenhum outro .md):
+------------------------------------------------------------------------
+
+- 02-classes\01-poderes-classes.md
+- 04-pericias-poderes\00-deuses-remanescencia.md
+- 06-equipamentos\02-novas-armaduras.md
+- CATALOGAÇÃO_IMAGENS.md

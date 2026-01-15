@@ -36,17 +36,17 @@ Bestiário completo com criaturas, monstros e NPCs:
 ---
 
 ### [Dragão Brasil Especial: Tormenta](dragao-brasil/README.md)
-**Status: 🚧 Em andamento**
+**Status: ✅ 95% Completo (9/9 capítulos)**
 
 Conteúdo exclusivo da revista Dragão Brasil:
-- Novas raças
-- Novas classes
-- Origens regionais
-- Perícias e poderes adicionais
-- Distinções
-- Equipamentos
-- Magias extras
-- Regras opcionais
+- Novas raças (48 arquivos, ~95% completo)
+- Novas classes (15 arquivos, ✅ 100% completo)
+- Origens regionais (✅ 100% completo)
+- Perícias e poderes adicionais (8 arquivos, ✅ 100% completo)
+- Distinções (20 arquivos, ~95% completo)
+- Equipamentos (9 arquivos, ✅ 100% completo)
+- Magias extras (~90% completo)
+- Regras opcionais (15 arquivos, ✅ 100% completo)
 
 ---
 
@@ -67,9 +67,10 @@ Suplemento para personagens épicos:
 | Livro | Capítulos | Status | Progresso |
 |-------|-----------|--------|-----------|
 | Tormenta20 - Livro Básico | 11/11 | ✅ Completo | 100% |
+| Dragão Brasil | 9/9 | ✅ Quase Completo | 95% |
 | Ameaças de Arton | - | 🚧 Em andamento | ~60% |
-| Dragão Brasil | - | 🚧 Em andamento | ~40% |
 | Heróis de Arton | - | 🚧 Em andamento | ~30% |
+| Deuses de Arton | - | 🚧 Em andamento | ~20% |
 
 ##  Pesquisa Rápida
 
