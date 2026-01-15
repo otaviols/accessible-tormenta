@@ -14,7 +14,7 @@ Origens regionais são relacionadas a um reino ou região de Arton. Você pode e
 
 Diferente das origens do livro básico, que representam conceitos amplos, origens regionais fornecem um benefício único, característico do local ao qual pertencem. Se o benefício incluir treinamento em uma perícia na qual você já seja treinado, você pode ser treinado em outra perícia de classe. Para os demais efeitos, use as mesmas regras de origens. Efeitos de origens contam como efeitos de habilidades para fins de acúmulo.
 
-Um personagem pode ter uma origem tradicional do livro básico e uma origem regional.
+Um personagem pode ter uma origem tradicional do livro básico e uma origem regional, se o mestre permitir.
 
 ---
 
