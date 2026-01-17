@@ -1,80 +1,110 @@
 ---
 title: "Cavaleiro Feérico"
 navigation:
-  previous: "12-cozinheiro-de-aventureiros"
-  next: "14-chapeu-preto"
+  previous: "12-cavaleiro-do-corvo.md"
+  next: "14-chapeu-preto.md"
   return: "../README.md"
 ---
 
 # Cavaleiro Feérico
 
-O estudo de artes marciais e de magia arcana parecem completamente distintos, mas na verdade têm muito em comum. Ambos fazem uso de gestos elaborados dominados através de anos de estudo, treino e disciplina. Ambos dependem mais de precisão e técnica do que de força bruta. Ambos costumam ser ensinados por mestres que dominam segredos assombrosos.
+Cavaleiros feéricos não são uma ordem de cavalaria como o termo é definido no Reinado. Essa é uma tradição humana, com seus próprios ritos. São, isso sim, exemplos de como a nobreza élfica combatia no passado, trupes de luta e orquestras de guerra que dominavam os campos de batalha como artistas. Respeitados pelos animais, abraçados pela floresta, defendiam seu povo e sua deusa como um misto de guerreiros, magos, artistas e aristocratas. As semelhanças superficiais com a cavalaria humana poderiam resultar em intensos debates... se a Ordem Perene dos Cavaleiros Feéricos ainda existisse.
 
-Dizem as lendas contadas nos jardins de Tamura que os gênios foram os primeiros a perceber essas semelhanças. Aproveitando sua longevidade natural, essas poderosas criaturas mágicas dominaram várias formas de combate desarmado e mesclaram-nas com sua aptidão mágica inata para desenvolver o estilo de luta conhecido atualmente como mahou-jutsu.
+No auge de Lenórienn, havia um castelo arbóreo esplendoroso — a Morada do Eterno Valor. Lá, jovens aprendiam a devotar sua vida a uma combinação única de arte, magia e espada. Integravam-se à natureza, trajados em verde vívido. Os floreios de suas espadas eram como pinceladas na tela de um artista. Seus passos, elegantes como os de dançarinos. Sua ordem era perene e sua morada era eterna, pois suas sementes residiam nos corações de seus membros.
 
-Através dessa arte secreta, seus praticantes conseguem combinar os movimentos das técnicas de combate desarmado com os gestos arcanos necessários para conjurar magias arcanas, disparando bolas de fogo e relâmpagos quase simultaneamente a seus socos e chutes. Porém, mesmo esse efeito impressionante reflete apenas o primeiro de seus mistérios. Conforme trilha o caminho da magia e aprofunda seu conhecimento sobre as energias arcanas, o mestre mahou-jutsu aprende a canalizar essa força sobrenatural através de posturas especializadas. Sempre em busca da eficiência de movimentos, essas práticas geram magias mais poderosas, ataques mais certeiros, barreiras místicas pessoais e a capacidade de gerar praticamente qualquer efeito mágico através de um punho fechado.
+Infelizmente, quase todos esses corações foram triturados pelas máquinas de guerra dos hobgoblins.
 
-Assim como várias artes marciais, o mahou-jutsu tem um significado mais profundo para seus praticantes. Não é apenas combate, mas união de duas partes aparentemente distintas do indivíduo: o instinto (representado pela luta) e o intelecto (representado pela magia). Mestres mahou-jutsu buscam elevar seu espírito não apenas através de meditação e comunhão com Lin-Wu, mas de práticas intelectuais rigorosas. Seu corpo se torna uma extensão de sua mente, seu raciocínio acelera assim como seus movimentos. Existem histórias sobre mestres mahou-jutsu que, confrontados com algum mistério insolúvel, enigma ou conceito incompreensível, treinavam seu corpo durante meses. Em certo momento, a resposta se revelava, sem que eles precisassem estudar de modo tradicional! Segundo esses relatos, a mente de um mestre mahou-jutsu pode simplesmente tocar verdades fundamentais da Criação, tornando-se mais poderosa do que a de qualquer estudioso tradicional.
+Como se por um pequeno capricho, alguns cavaleiros feéricos sobreviveram ao fim de Lenórienn — não mais como uma ordem, mas como indivíduos. Eles entendem a gravidade da derrota, mas se recusam a permanecer derrotados. Cabe a eles restabelecer sua instituição, uma morada eterna, para que no futuro brilhante do povo élfico esse período sombrio sob as botas enlameadas dos seguidores de Thwor seja uma mera nota de rodapé.
 
-Como a prática de combate desarmado era especialmente difundida em Tamu-ra, o mahou-jutsu se tornou relativamente famoso no Império de Jade. Durante muito tempo, os maiores mestres dessa arte podiam ser encontrados na ilha, dividindo as cortes com samurais honrados e o clero de Lin-Wu. Muitos se tornavam conselheiros e educadores, compartilhando sua sabedoria com os senhores das terras enquanto educavam seus filhos nas bases de sua arte. Era um arranjo comum justamente por conta da disciplina necessária para dominar o mahou-jutsu, ajudando a produzir uma geração de nobres diligentes e honrados.
+É uma tarefa árdua, pois os cavaleiros feéricos são poucos. Costumam viajar pelo mundo em uma eterna busca por heroísmo e vingança, competindo amigavelmente com os arqueiros de Lenórienn por discípulos adequados. Não se apegam à origem dos candidatos, procurando apenas as qualidades celebradas por sua ordem extinta.
 
-Infelizmente, a maior parte deles morreu décadas atrás. Quando a Tormenta se abateu sobre o reino, aqueles com habilidades de combate foram os primeiros a cair, investindo contra os invasores para proteger os mais fracos. Mesmo hoje, depois da reconstrução de Tamu-ra, mestres mahou-jutsu são raros. O Imperador Tekametsu deseja mudar essa realidade e retomar a tradição de ensinar disciplina através do mahou-jutsu. Para tanto, tem contratado grupos de aventureiros e enviando-os em missões para os cantos mais improváveis de Arton, em busca de notícias sobre mestres isolados. Os mais bem-sucedidos descobrem a verdadeira ambição do Imperador: através dos relatos desses mestres, viajar para o Reino de Wynna e trazer os gênios responsáveis pela criação da arte a sua corte, onde ensinariam suas técnicas para uma nova geração.
+A Pondsmânia é lar de uma facção de cavaleiros feéricos. Depois da guerra, esses guerreiros élficos procuraram abrigo e consolo entre as fadas. Foram abraçados pela casa Aghmawor e integraram as cortes dos nobres. Embora imbuídos com as tradições mais antigas da Ordem Perene e envolvidos nos mistérios das cortes das fadas, abandonaram a noção élfica de superioridade e perfeição, abraçando o que sua ordem foi no início. São, talvez mais do que todos, feéricos.
 
-Sendo membros de uma tradição tão restrita, mestres mahou-jutsu se consideram parte de uma mesma irmandade. Quase todos se conhecem e a chegada de um novo iniciado é celebrada. Um mestre mahou-jutsu que recém tenha dominado as técnicas pode se ver avassalado pelos veteranos, que desejam oferecer conselhos e incentivá-lo a não se desviar do caminho da magia e do combate desarmado.
+Contudo, muitos cavaleiros feéricos agem como se ainda estivessem em Lenórienn, em uma espécie de delírio funcional. São amargurados, vivem em locais isolados, exibindo as cicatrizes de seu corpo e escondendo as de sua alma. Podem enxergar nos inimigos — e até nos amigos — os hobgoblins que um dia enfrentaram e deflagrar banhos de sangue por meros mal-entendidos.
+
+Independente de sua mentalidade, cavaleiros feéricos elevam o combate a níveis artísticos. São tão letais quanto delicados, tão cheios de protocolos quanto eficientes. Encontrar um deles no campo de batalha é ter um vislumbre de uma época que há muito já acabou, e que provavelmente nunca mais voltará... Mas que ainda está presente em algumas tradições, alguns povos, alguns campeões.
+
+No passado, a influência élfica sobre as fadas criou os cavaleiros feéricos. No futuro, a influência dos cavaleiros feéricos sobre fadas e mortais pode mudar o mundo.
+
+E os cavaleiros estão dispostos a matar e morrer para provar isso.
 
 ## Admissão
 
-Para desvendar os segredos do mahou-jutsu, um candidato precisa encontrar um mestre. São raríssimos os praticantes em Arton, sendo apenas dois conhecidos: Mestre Chibi, sílfide residente na Academia Arcana, e Mestre Masaru Yudai, atualmente residente em Vectora. Há ainda rumores de um gênio das trevas desafiando dojos no Reino de Lin-Wu e demonstrando uma variante extremamente agressiva do mahou-jutsu.
+No auge do povo élfico, a honra e o dever de se tornar um cavaleiro feérico eram entregues pessoalmente por Glórienn em um sonho. Após receber essa convocação onírica, o candidato precisava visitar a Morada do Eterno Valor e treinar entre seus pares por oito invernos. Durante esse período, era iniciado nos caminhos da espada e entrava em harmonia com a floresta, trabalhando diligentemente até que a semente de sua perfeição germinasse.
 
-Depois de encontrar seu mestre, seja um desses ou algum outro ainda desconhecido, o candidato deve convencê-lo de que merece o treinamento. Até hoje, ninguém consegue dizer com certeza quais são os critérios de Chibi para aceitar um novo pupilo. Ele envia alguns em jornadas a lugares inóspitos, para outros dá tarefas banais. Masaru, por outro lado, é devotado ao combate contra a Tormenta. Realizar uma missão contra a Tempestade Rubra ou derrotar um lefeu poderoso podem convencê-lo do valor de um discípulo. Cada mestre tem seus parâmetros, mas uma coisa é certa: um candidato precisa provar sua aptidão com combate desarmado e com o caminho arcano. Tradicionalmente, isso é feito com dois desafios preparados pelo próprio mestre — um que deve ser superado apenas com os punhos e outro apenas com magia.
+Não existindo mais uma ordem formal, um candidato a cavaleiro feérico precisa encontrar um mestre. As circunstâncias encurtam o período de treinamento, mas ainda é necessário um inverno inteiro. Durante essa estação, o candidato é educado nas artes da guerra, na história dos elfos e nos caminhos das fadas. O treinamento ocorre sempre em um local isolado, onde mestre e discípulo convivem apenas um com o outro e com a floresta. Na Pondsmânia, isso pode significar que o candidato tem contato com animais falantes, árvores inteligentes e outras maravilhas. Em terras mais mundanas, a solidão é ainda maior. De qualquer forma, ao fim do treinamento o candidato deve dominar as técnicas e conhecimentos que estudou, além de demonstrar harmonia com a natureza.
 
-A prova mais tradicional para os candidatos se chama círculo de luz. O aluno é colocado no centro de dois círculos concêntricos formados por velas apagadas, em uma sala escura, com dois mashin de fogo — um imune a magia, outro imune a ataques físicos. Os autômatos disparam jatos de chamas no aluno; enquanto tenta evitar ser carbonizado, ele precisa derrotar ambos. Se todas as velas ficarem acesas e os mashin ainda estiverem de pé, o candidato falha e precisa realizar outra tarefa antes de poder tentar mais uma vez.
+Contudo, ainda está longe de ser admitido.
 
-Um candidato que tenha vencido o desafio é considerado digno de ser treinado. O treinamento em si pode demorar semanas, meses ou anos... Tudo depende do mestre e do discípulo. Candidatos que demonstrem muita aptidão recebem mais cobranças, mas completam o treinamento de forma mais rápida. Candidatos menos competentes podem receber mais auxílio do mestre — ou podem ser expulsos!
+O candidato deve retornar a seu mentor no próximo inverno, trazendo uma oferenda digna — a cabeça de um inimigo poderoso, no caso de mentores vingativos; uma armadura élfica, no caso de mentores saudosistas; uma flor única, no caso de mentores que valorizam a beleza... Cabe ao candidato escolher a oferenda. O mentor pode ou não aceitá-la. Caso ela seja recusada, o candidato deve voltar no inverno seguinte e tentar de novo.
 
-Ao fim do treinamento, o candidato deve mais uma vez vencer um desafio duplo de combate desarmado e magia. Contudo, agora deve usar apenas os punhos no desafio arcano e apenas magia no desafio físico. Cabe a ele mesmo descobrir como fazer isso.
+Com a oferenda aceita, uma cerimônia de iniciação é conduzida em uma clareira na floresta. O candidato coloca sua oferenda no centro de um círculo de flores. Enquanto isso, seu mentor prepara e bebe um chá tradicional feito com ervas de Lamnor, oferecendo ao candidato uma xícara. A cada gole do aprendiz, o mestre faz uma pergunta.
 
-Caso vença o desafio, o candidato recebe de seu mestre o mais raro dos prêmios: um cumprimento. Ele é agora um mestre mahou-jutsu, e haverá muitos outros incentivando-o a manter a chama da arte marcial viva.
+"Sua espada é tão elegante quanto o trote de um gamo?"
+
+"Sua magia é tão refinada quanto o canto de um pássaro?"
+
+"Sua arte é tão poderosa quanto o clamor do trovão?"
+
+O candidato deve beber o chá em três goles e responder a todas as perguntas com "Ainda não, mas sigo em busca da perfeição". Caso o faça, o cavaleiro o chama pelo nome e o abraça como um igual, declarando-o um cavaleiro feérico, "Em nome de Glórienn e Lenórienn, por este inverno e por todos os outros que estão por vir".
 
 ## Marca da Distinção
 
-### Palma Mística
+### Conexão Feérica
 
-A primeira técnica do mahou-jutsu ensina a aplicar a precisão marcial na execução de magias.
+O cavaleiro feérico vive em harmonia com o mundo natural.
 
-Enquanto tiver pelo menos uma mão livre, você recebe +2 em testes de ataque realizados como parte de magias (como o aprimoramento de Toque Chocante) e na CD de suas magias arcanas contra alvos em seu alcance corpo a corpo.
+Você recebe a habilidade Empatia Selvagem (*Tormenta20*, p. 21) e +1 PM para cada poder da distinção que possuir.
 
 ## Poderes da Distinção
 
-### Mahou-jutsu
+### Arma da Floresta
 
-O princípio fundamental do mahou-jutsu é a integração fluida de ataques desarmados e magias arcanas.
+Os espíritos da natureza tornam a elegante lâmina do cavaleiro feérico ainda mais letal.
 
-Uma vez por rodada, quando usa uma ação agredir para fazer dois ou mais ataques desarmados, você pode gastar 2 PM para lançar uma magia arcana com execução de ação de movimento ou padrão como ação livre. O círculo máximo de magias que você pode lançar com este poder é limitado pela quantidade de poderes da distinção que possui. **Pré-requisitos:** lançar magias arcanas, treinado em Misticismo, Briga ou Estilo Desarmado.
+Você pode gastar 1 PM para invocar elementos naturais, como madeira, folhas ou pólen, para cobrir uma espada longa ou florete. O dano da arma é considerado mágico e aumenta em um passo até o fim da cena. Caso você use este poder em uma floresta, o efeito dura 1 dia — ou até você sair dela.
 
-### Defesa da Magia
+**Pré-requisito:** Arte Élfica.
 
-O poder arcano fortalece as defesas do mestre mahou-jutsu.
+### Armadura da Floresta
 
-Quando lança uma magia arcana, você recebe PV temporários iguais a 5x o círculo da magia lançada. Esses PV duram até o início do seu próximo turno. **Pré-requisito:** Mahou-Jutsu.
+O tributo do candidato retorna ao cavaleiro na forma da mais magnífica das armaduras.
 
-### Determinação da Dor
+Você recebe uma armadura completa feita de madeira levíssima, folhas e flores. Essa armadura não reduz seu deslocamento, e com ela você pode somar sua Destreza na Defesa e lançar magias arcanas sem necessidade de testes de Misticismo. A cada dois outros poderes da distinção que você possui, a armadura recebe uma melhoria a sua escolha, cujos pré-requisitos ela cumpra (exceto material especial). Se outra criatura tentar vestir essa armadura, ela murcha e morre em instantes. Se a armadura for destruída, renasce ao seu redor em 1 dia.
 
-A disciplina do treino permite ao mestre mahou-jutsu tirar forças do próprio sofrimento.
+**Pré-requisito:** Arte Élfica.
 
-Você soma sua Constituição nos testes de Vontade para concentração em magias (Tormenta20, p. 170). Além disso, quando sofre dano, você soma sua Constituição no seu limite de PM para magias arcanas até o fim do seu próximo turno. **Pré-requisitos:** Con 1, Mahou-Jutsu.
+### Arte Élfica
 
-### Esplendor Vitorioso Inigualável
+Cada tinir da espada é um acorde. Cada rugido de batalha é um verso. O esplendor de cada vitória é uma canção.
 
-Para obter a vitória, o mestre mahou-jutsu pode sacrificar o próprio corpo.
+Uma vez por rodada, quando acerta um ataque com espada longa ou florete, você pode gastar 2 PM para ativar uma Música de bardo ou lançar uma magia arcana com execução de ação de movimento ou padrão como uma ação livre. O círculo máximo de magias que você pode lançar com este poder é limitado pela quantidade de poderes da distinção que possui.
 
-Quando lança uma magia de dano, você pode gastar 10 PV para infundi-la com sua própria força vital. Se fizer isso, você soma sua Constituição à CD da magia e o dano básico de seu ataque desarmado ao dano dela. **Pré-requisitos:** lançar magias arcanas de 2º círculo, Punho Arcano.
+**Pré-requisitos:** habilidade de classe Magias, treinado em Atuação e Luta, Foco em Arma (espada longa ou florete).
 
-### Punho Arcano
+### Flagelo dos Duyshidakk
 
-Quando o punho de um mestre mahou-jutsu golpeia, carrega consigo os maiores segredos arcanos.
+Dez deles por um dos nossos.
 
-Uma vez por rodada, quando lança uma magia arcana com alcance de toque e execução de ação de movimento ou padrão, você pode gastar 2 PM para fazer um ataque desarmado contra o alvo da magia como ação livre. Se acertar esse ataque, a CD da magia aumenta em +1. Para cada dois outros poderes da distinção que você possui, a CD aumenta em +1. **Pré-requisito:** Mahou-Jutsu.
+Você soma seu total de poderes da distinção em rolagens de dano contra bandos, enxames e duyshidakk. Além disso, uma vez por rodada, quando reduz um oponente a 0 PV ou menos com um ataque corpo a corpo, você pode gastar 2 PM para percorrer até o seu deslocamento e fazer um ataque corpo a corpo contra outro inimigo.
+
+**Pré-requisito:** Arte Élfica.
+
+### Lâminas Feéricas
+
+As tradicionais armas élficas são a base do treinamento de um cavaleiro feérico.
+
+Para você, espadas longas são armas ágeis. Além disso, quando usa uma espada longa ou um florete, você soma o círculo máximo de magias que pode lançar ao dano e aumenta sua margem de ameaça em +1 para cada dois poderes da distinção.
+
+**Pré-requisito:** Arte Élfica.
+
+### Montaria Feérica
+
+O respeito do cavaleiro feérico pela natureza é recompensado na forma de um aliado leal.
+
+Você recebe um parceiro montaria veterano, escolhido entre cavalo de guerra, trobo ou outra criatura que, a critério do mestre, tenha uma natureza feérica. Caso já possua uma montaria fornecida por outra habilidade, em vez disso essa montaria se torna também um parceiro combatente iniciante. Você recebe +5 em testes de Cavalgar para correr e saltar com sua montaria. Caso perca sua montaria, você pode treinar outra com uma semana de trabalho.
+
+**Pré-requisitos:** treinado em Cavalgar, Arte Élfica.
 
 ---
 
