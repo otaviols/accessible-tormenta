@@ -65,37 +65,6 @@ Apenas aventureiros de **patamar veterano** (5º nível ou acima) podem obter po
 35. [Senador](35-senador.md) - Líderes políticos e diplomatas
 36. [Vigarista](36-vigarista.md) - Mestres do engano e da manipulação
 
-- [Dracomante Real](16-dracomante-real.md)
-- [Drogadora](17-drogadora.md)
-- [Engenhoqueiro Goblin](18-engenhoqueiro-goblin.md)
-- [Escapista Magnífico](19-escapista-magnifico.md)
-
-### G
-
-- [Gigante Furioso](20-gigante-furioso.md)
-- [Ginete de Namalkah](21-ginete-de-namalkah.md)
-- [Guerreiro Mágico](22-guerreiro-magico.md)
-
-### I-M
-
-- [Infiltrador de Wynlla](23-infiltrador-de-wynlla.md)
-- [Mago da Ordem do Vazio](24-mago-da-ordem-do-vazio.md)
-- [Mago de Batalha de Wynlla](25-mago-de-batalha-de-wynlla.md)
-- [Médico de Salistick](26-medico-de-salistick.md)
-- [Mestre Bêbado](27-mestre-bebado.md)
-- [Mestre Cozinheiro](28-mestre-cozinheiro.md)
-- [Mestre dos Desejos](29-mestre-dos-desejos.md)
-- [Mestre Mahou-Jutsu](30-mestre-mahou-jutsu.md)
-- [Mosqueteiro de Rishantor](31-mosqueteiro-de-rishantor.md)
-- [Mutagenista](32-mutagenista.md)
-
-### P-V
-
-- [Pistoleiro de Smokestone](33-pistoleiro-de-smokestone.md)
-- [Professor de Magia](34-professor-de-magia.md)
-- [Senador](35-senador.md)
-- [Vigarista](36-vigarista.md)
-
 ---
 
 ## Como Usar Distinções
